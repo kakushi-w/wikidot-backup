@@ -1,5 +1,5 @@
 {
-	"base_directory": "/wikidot",
+	"base_directory": "../wikidot_backups",
 	"wikis": [
 		{
 			"name": "ubmh",
