@@ -2,8 +2,8 @@
 	"base_directory": "../wikidot_backups",
 	"wikis": [
 		{
-			"name": "rule-wiki",
-			"url": "http://rule-wiki.wikidot.com"
+			"name": "if-backrooms",
+			"url": "http://if-backrooms.wikidot.com"
 		}
 	],
 	"ratelimit": {
