@@ -29,9 +29,6 @@ jobs:
           cd wikicomma
           npm install
           npm run build
-          
-      - name: Test wiki URL
-        run: curl -I https://if-backrooms.wikidot.com
         
       - name: Run WikiComma backup
         run: |
