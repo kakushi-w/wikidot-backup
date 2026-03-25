@@ -1,0 +1,39 @@
+{
+    "name": "a5",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541700790,
+            "author": 9331062,
+            "stamp": 1769880607,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532932586,
+            "author": 9331062,
+            "stamp": 1760122556,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532932487,
+            "author": 9331062,
+            "stamp": 1760121917,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460662781,
+    "tags": [
+        "组件"
+    ],
+    "title": "a5",
+    "sitemap_update": 1769880607000,
+    "votings": [],
+    "is_locked": false
+}

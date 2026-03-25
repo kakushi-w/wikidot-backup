@@ -1,0 +1,44 @@
+{
+    "name": "forum:category",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1527162182,
+            "author": 4951855,
+            "stamp": 1736334031,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527162110,
+            "author": 4951855,
+            "stamp": 1736333146,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527162106,
+            "author": 4951855,
+            "stamp": 1736333130,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1526825108,
+            "author": 7344601,
+            "stamp": 1734843557,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458042984,
+    "title": "论坛版块",
+    "sitemap_update": 1736334031000,
+    "votings": [],
+    "is_locked": false
+}

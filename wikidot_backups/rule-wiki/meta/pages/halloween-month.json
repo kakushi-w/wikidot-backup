@@ -1,0 +1,84 @@
+{
+    "name": "halloween-month",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1539146677,
+            "author": 7344601,
+            "stamp": 1762603199,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539116277,
+            "author": 7344601,
+            "stamp": 1762473352,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539116038,
+            "author": 7344601,
+            "stamp": 1762471861,
+            "flags": "A",
+            "commentary": "已新增标签：2025万圣月, 中心, 竞赛。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539116032,
+            "author": 7344601,
+            "stamp": 1762471836,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466487598,
+    "forum_thread": 17438758,
+    "tags": [
+        "2025万圣月",
+        "中心",
+        "原创",
+        "竞赛"
+    ],
+    "title": "2025万圣月 中心页",
+    "sitemap_update": 1762603199000,
+    "votings": [
+        [
+            8305255,
+            true
+        ],
+        [
+            4951855,
+            true
+        ],
+        [
+            8708015,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9312583,
+            true
+        ],
+        [
+            9768732,
+            true
+        ],
+        [
+            9526934,
+            true
+        ]
+    ],
+    "is_locked": false
+}

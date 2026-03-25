@@ -1,0 +1,38 @@
+{
+    "name": "zga-hub",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1533191113,
+            "author": 9331062,
+            "stamp": 1761302867,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533191067,
+            "author": 9331062,
+            "stamp": 1761302820,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460740185,
+    "forum_thread": 17503591,
+    "tags": [
+        "中心",
+        "搬运"
+    ],
+    "title": "zgA集中页",
+    "sitemap_update": 1761302867000,
+    "votings": [
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": false
+}

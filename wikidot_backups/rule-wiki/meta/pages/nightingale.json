@@ -1,0 +1,82 @@
+{
+    "name": "nightingale",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1538432587,
+            "author": 6348600,
+            "stamp": 1762294689,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1538230365,
+            "author": 9331062,
+            "stamp": 1762249864,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1538230180,
+            "author": 9331062,
+            "stamp": 1762249830,
+            "flags": "A",
+            "commentary": "已新增标签：原创。 移除标签：搬运。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533049549,
+            "author": 6348600,
+            "stamp": 1760601074,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533046728,
+            "author": 6348600,
+            "stamp": 1760582822,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533046721,
+            "author": 6348600,
+            "stamp": 1760582778,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460700414,
+    "forum_thread": 17352967,
+    "tags": [
+        "原创",
+        "规则"
+    ],
+    "title": "《夜莺饲养指南》",
+    "sitemap_update": 1762294689000,
+    "votings": [
+        [
+            9510715,
+            true
+        ],
+        [
+            9331062,
+            true
+        ],
+        [
+            8426551,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

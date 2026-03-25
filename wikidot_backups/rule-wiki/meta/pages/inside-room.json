@@ -1,0 +1,67 @@
+{
+    "name": "inside-room",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1542126690,
+            "author": 9331062,
+            "stamp": 1771349997,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542126509,
+            "author": 9331062,
+            "stamp": 1771349171,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542126450,
+            "author": 9331062,
+            "stamp": 1771348738,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542126449,
+            "author": 9331062,
+            "stamp": 1771348723,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542126434,
+            "author": 9331062,
+            "stamp": 1771348627,
+            "flags": "N",
+            "commentary": "A岛 oVTmArg No.45269365 X岛 mx75e1x No.50587568"
+        }
+    ],
+    "files": [],
+    "page_id": 1468142332,
+    "rating": 2,
+    "forum_thread": 17590838,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "里█堂宿舍学生守则",
+    "sitemap_update": 1771349997000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            9560700,
+            true
+        ]
+    ],
+    "is_locked": false
+}

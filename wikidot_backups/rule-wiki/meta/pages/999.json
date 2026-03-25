@@ -1,0 +1,91 @@
+{
+    "name": "999",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1531219957,
+            "author": 9331062,
+            "stamp": 1753632936,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531065853,
+            "author": 9331062,
+            "stamp": 1752848376,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531065746,
+            "author": 9331062,
+            "stamp": 1752848247,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528921734,
+            "author": 9331062,
+            "stamp": 1743229809,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528921667,
+            "author": 9331062,
+            "stamp": 1743229409,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528921645,
+            "author": 9331062,
+            "stamp": 1743229224,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459031442,
+    "rating": 6,
+    "forum_thread": 17084898,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "封闭大楼生存指南",
+    "sitemap_update": 1753632936000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            8325293,
+            true
+        ],
+        [
+            9769506,
+            true
+        ],
+        [
+            9583919,
+            true
+        ],
+        [
+            9564038,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

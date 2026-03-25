@@ -1,0 +1,40 @@
+{
+    "title": "关于支持自定义插件的建议",
+    "id": 17034702,
+    "description": "支持插件",
+    "last": 1739506802,
+    "lastUser": 9512686,
+    "started": 1739260974,
+    "startedUser": 9512686,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6810685,
+            "title": "关于支持自定义插件的建议",
+            "poster": 9512686,
+            "stamp": 1739260974,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6810742,
+            "title": "Re: 关于支持自定义插件的建议",
+            "poster": 7344601,
+            "stamp": 1739265433,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6812799,
+                    "title": "Re: 关于支持自定义插件的建议",
+                    "poster": 9512686,
+                    "stamp": 1739506802,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

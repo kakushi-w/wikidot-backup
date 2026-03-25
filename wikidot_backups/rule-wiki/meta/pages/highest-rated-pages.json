@@ -1,0 +1,87 @@
+{
+    "name": "highest-rated-pages",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1541827229,
+            "author": 9331062,
+            "stamp": 1770461285,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1541827195,
+            "author": 9331062,
+            "stamp": 1770461114,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531548169,
+            "author": 9331062,
+            "stamp": 1755100425,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531548133,
+            "author": 9331062,
+            "stamp": 1755100353,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531066969,
+            "author": 9331062,
+            "stamp": 1752852914,
+            "flags": "A",
+            "commentary": "已新增标签：中心。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531066788,
+            "author": 9331062,
+            "stamp": 1752852273,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531066746,
+            "author": 9331062,
+            "stamp": 1752852091,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531066671,
+            "author": 9331062,
+            "stamp": 1752851926,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531066637,
+            "author": 9331062,
+            "stamp": 1752851770,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459934158,
+    "tags": [
+        "中心"
+    ],
+    "title": "最高评分的页面",
+    "sitemap_update": 1770461285000,
+    "votings": [],
+    "is_locked": true
+}

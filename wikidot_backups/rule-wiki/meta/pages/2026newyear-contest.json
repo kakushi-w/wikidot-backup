@@ -1,0 +1,31 @@
+{
+    "name": "2026newyear-contest",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1542074097,
+            "author": 7504264,
+            "stamp": 1771081268,
+            "flags": "A",
+            "commentary": "已新增标签：2026新年联竞。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542074064,
+            "author": 7504264,
+            "stamp": 1771081168,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468130265,
+    "tags": [
+        "2026新年联竞"
+    ],
+    "title": "2026三站新年联赛",
+    "sitemap_update": 1771081268000,
+    "votings": [],
+    "is_locked": true
+}

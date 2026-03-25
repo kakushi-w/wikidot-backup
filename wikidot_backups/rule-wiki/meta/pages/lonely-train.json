@@ -1,0 +1,67 @@
+{
+    "name": "lonely-train",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542127017,
+            "author": 9331062,
+            "stamp": 1771351738,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"alone-train\" 至 \"lonely-train\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542127012,
+            "author": 9331062,
+            "stamp": 1771351678,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542127010,
+            "author": 9331062,
+            "stamp": 1771351655,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542127006,
+            "author": 9331062,
+            "stamp": 1771351627,
+            "flags": "N",
+            "commentary": "X岛 8D6kOVd No.50458231"
+        }
+    ],
+    "files": [],
+    "page_id": 1468142418,
+    "rating": 4,
+    "forum_thread": 17590853,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "怪谈列车",
+    "sitemap_update": 1771351738000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            8824993,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": true
+}

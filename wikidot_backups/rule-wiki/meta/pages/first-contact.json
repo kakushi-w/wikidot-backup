@@ -1,0 +1,58 @@
+{
+    "name": "first-contact",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1542799111,
+            "author": 9331062,
+            "stamp": 1774009027,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542310005,
+            "author": 10230721,
+            "stamp": 1772080632,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542309654,
+            "author": 10230721,
+            "stamp": 1772078025,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542309465,
+            "author": 10230721,
+            "stamp": 1772075313,
+            "flags": "A",
+            "commentary": "已新增标签：2026新年联竞, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542309454,
+            "author": 10230721,
+            "stamp": 1772075210,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468177199,
+    "forum_thread": 17594583,
+    "tags": [
+        "2026新年联竞",
+        "原创",
+        "故事"
+    ],
+    "title": "第一次接触",
+    "sitemap_update": 1774009027000,
+    "votings": [],
+    "is_locked": true
+}

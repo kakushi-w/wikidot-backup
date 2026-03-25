@@ -1,0 +1,51 @@
+{
+    "name": "ge-hu-se-as-co",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1532165041,
+            "author": 8708015,
+            "stamp": 1757205494,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532165039,
+            "author": 8708015,
+            "stamp": 1757205481,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460354974,
+    "rating": 4,
+    "forum_thread": 17251771,
+    "tags": [
+        "原创",
+        "规则"
+    ],
+    "title": "泛用型人类安全保障守则 使用指南",
+    "sitemap_update": 1757205494000,
+    "votings": [
+        [
+            9809746,
+            true
+        ],
+        [
+            8426551,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

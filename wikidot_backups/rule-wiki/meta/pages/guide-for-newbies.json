@@ -1,0 +1,109 @@
+{
+    "name": "guide-for-newbies",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1528903037,
+            "author": 7344601,
+            "stamp": 1743126908,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"guide-hub\"."
+        },
+        {
+            "revision": 9,
+            "global_revision": 1528903002,
+            "author": 7344601,
+            "stamp": 1743126853,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1528902996,
+            "author": 7344601,
+            "stamp": 1743126826,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1528895983,
+            "author": 7344601,
+            "stamp": 1743084897,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1528895911,
+            "author": 7344601,
+            "stamp": 1743084462,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528895865,
+            "author": 7344601,
+            "stamp": 1743084188,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528889531,
+            "author": 7344601,
+            "stamp": 1743043429,
+            "flags": "A",
+            "commentary": "已新增标签：指导。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528888318,
+            "author": 7344601,
+            "stamp": 1743033601,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528888292,
+            "author": 7344601,
+            "stamp": 1743033392,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528888286,
+            "author": 7344601,
+            "stamp": 1743033320,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528888280,
+            "author": 7344601,
+            "stamp": 1743033245,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459020161,
+    "parent": "guide-hub",
+    "tags": [
+        "指导"
+    ],
+    "title": "新手指南",
+    "sitemap_update": 1743126908000,
+    "votings": [
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

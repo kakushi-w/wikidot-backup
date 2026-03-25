@@ -1,0 +1,99 @@
+{
+    "title": "天明大酒店",
+    "id": 17456740,
+    "description": "",
+    "last": 1764331279,
+    "lastUser": 9331062,
+    "started": 1763893946,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7436101,
+            "title": "",
+            "poster": 9331062,
+            "stamp": 1763894043,
+            "lastEdit": 1763894306,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8959264,
+                    "stamp": 1763894306
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8959261,
+                    "stamp": 1763894154
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8959259,
+                    "stamp": 1763894043
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7437505,
+            "title": "职员帖",
+            "poster": 4921516,
+            "stamp": 1764064989,
+            "lastEdit": 1764065025,
+            "lastEditBy": 4921516,
+            "revisions": [
+                {
+                    "title": "职员帖",
+                    "author": 4921516,
+                    "id": 8961048,
+                    "stamp": 1764065025
+                },
+                {
+                    "title": "职员帖",
+                    "author": 4921516,
+                    "id": 8961047,
+                    "stamp": 1764064989
+                }
+            ],
+            "children": [
+                {
+                    "id": 7439406,
+                    "title": "Re: 职员帖",
+                    "poster": 9742376,
+                    "stamp": 1764306729,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7439603,
+            "title": "职员贴：删除图像",
+            "poster": 9331062,
+            "stamp": 1764331279,
+            "lastEdit": 1764331390,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "职员贴：删除图像",
+                    "author": 9331062,
+                    "id": 8963700,
+                    "stamp": 1764331390
+                },
+                {
+                    "title": "职员贴：删除图像",
+                    "author": 9331062,
+                    "id": 8963699,
+                    "stamp": 1764331279
+                }
+            ],
+            "children": []
+        }
+    ]
+}

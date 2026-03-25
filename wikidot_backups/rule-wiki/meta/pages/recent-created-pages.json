@@ -1,0 +1,121 @@
+{
+    "name": "recent-created-pages",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1532932597,
+            "author": 9331062,
+            "stamp": 1760122605,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1530956385,
+            "author": 9331062,
+            "stamp": 1752324063,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1530955902,
+            "author": 9331062,
+            "stamp": 1752321983,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530955635,
+            "author": 9331062,
+            "stamp": 1752321054,
+            "flags": "A",
+            "commentary": "已新增标签：中心。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530919700,
+            "author": 9331062,
+            "stamp": 1752136131,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530919676,
+            "author": 9331062,
+            "stamp": 1752135997,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530919574,
+            "author": 9331062,
+            "stamp": 1752135609,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530919421,
+            "author": 9331062,
+            "stamp": 1752134825,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527171442,
+            "author": 7344601,
+            "stamp": 1736396652,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527171430,
+            "author": 7344601,
+            "stamp": 1736396606,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527171427,
+            "author": 7344601,
+            "stamp": 1736396585,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527171425,
+            "author": 7344601,
+            "stamp": 1736396571,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527171420,
+            "author": 7344601,
+            "stamp": 1736396540,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458217400,
+    "forum_thread": 17019263,
+    "tags": [
+        "中心",
+        "管理"
+    ],
+    "title": "最近新增的页面",
+    "sitemap_update": 1760122605000,
+    "votings": [],
+    "is_locked": true
+}

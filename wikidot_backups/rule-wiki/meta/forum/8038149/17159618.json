@@ -1,0 +1,38 @@
+{
+    "title": "188路公交",
+    "id": 17159618,
+    "description": "",
+    "last": 1751088958,
+    "lastUser": 7344601,
+    "started": 1751088911,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7051796,
+            "title": "搬运帖",
+            "poster": 7344601,
+            "stamp": 1751088958,
+            "lastEdit": 1760439419,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "搬运帖",
+                    "author": 9331062,
+                    "id": 8820696,
+                    "stamp": 1760439419
+                },
+                {
+                    "title": "搬运帖",
+                    "author": 7344601,
+                    "id": 8528203,
+                    "stamp": 1751088958
+                }
+            ],
+            "children": []
+        }
+    ]
+}

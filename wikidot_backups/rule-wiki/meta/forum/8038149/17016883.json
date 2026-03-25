@@ -1,0 +1,46 @@
+{
+    "title": "符号论",
+    "id": 17016883,
+    "description": "",
+    "last": 1756453486,
+    "lastUser": 8374306,
+    "started": 1736349896,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7179435,
+            "title": "",
+            "poster": 8374306,
+            "stamp": 1756453486,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6769545,
+            "title": "可能需要一篇更简明易懂的wiki语法指南",
+            "poster": 4951855,
+            "stamp": 1736350484,
+            "lastEdit": 1736350656,
+            "lastEditBy": 4951855,
+            "revisions": [
+                {
+                    "title": "可能需要一篇更简明易懂的wiki语法指南",
+                    "author": 4951855,
+                    "id": 8208594,
+                    "stamp": 1736350656
+                },
+                {
+                    "title": "可能需要一篇更简明易懂的wiki语法指南",
+                    "author": 4951855,
+                    "id": 8208589,
+                    "stamp": 1736350484
+                }
+            ],
+            "children": []
+        }
+    ]
+}

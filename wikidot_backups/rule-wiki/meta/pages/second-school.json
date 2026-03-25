@@ -1,0 +1,127 @@
+{
+    "name": "second-school",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1528127402,
+            "author": 9331062,
+            "stamp": 1740738746,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528127358,
+            "author": 9331062,
+            "stamp": 1740738686,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527657543,
+            "author": 9331062,
+            "stamp": 1739029871,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527657535,
+            "author": 9331062,
+            "stamp": 1739029843,
+            "flags": "A",
+            "commentary": "已新增标签：规则。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527640615,
+            "author": 9331062,
+            "stamp": 1738944815,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527640228,
+            "author": 9331062,
+            "stamp": 1738943764,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527640064,
+            "author": 9331062,
+            "stamp": 1738942929,
+            "flags": "N",
+            "commentary": "原作a岛串号No.44918122\n作者:A岛DXt7b4b"
+        }
+    ],
+    "files": [],
+    "page_id": 1458380104,
+    "rating": 13,
+    "forum_thread": 17033454,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "二级学院规则怪谈",
+    "sitemap_update": 1740738746000,
+    "votings": [
+        [
+            8305255,
+            true
+        ],
+        [
+            9782224,
+            true
+        ],
+        [
+            9711154,
+            true
+        ],
+        [
+            9510715,
+            true
+        ],
+        [
+            9512686,
+            true
+        ],
+        [
+            10249538,
+            true
+        ],
+        [
+            8708015,
+            true
+        ],
+        [
+            9769506,
+            true
+        ],
+        [
+            9583919,
+            true
+        ],
+        [
+            4367001,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            10192043,
+            true
+        ],
+        [
+            8415074,
+            true
+        ]
+    ],
+    "is_locked": false
+}

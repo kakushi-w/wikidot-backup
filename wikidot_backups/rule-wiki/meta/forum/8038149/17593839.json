@@ -1,0 +1,38 @@
+{
+    "title": "静观勿言",
+    "id": 17593839,
+    "description": "",
+    "last": 1771941851,
+    "lastUser": 9331062,
+    "started": 1771941630,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7566749,
+            "title": "职员贴：标签变动",
+            "poster": 9331062,
+            "stamp": 1771941851,
+            "lastEdit": 1774008931,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "职员贴：标签变动",
+                    "author": 9331062,
+                    "id": 9210614,
+                    "stamp": 1774008931
+                },
+                {
+                    "title": "职员贴：标签变动",
+                    "author": 9331062,
+                    "id": 9117081,
+                    "stamp": 1771941851
+                }
+            ],
+            "children": []
+        }
+    ]
+}

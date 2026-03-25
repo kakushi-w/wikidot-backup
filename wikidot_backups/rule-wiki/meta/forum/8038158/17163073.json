@@ -1,0 +1,59 @@
+{
+    "title": "申请加入新的标签",
+    "id": 17163073,
+    "description": "",
+    "last": 1751892727,
+    "lastUser": 7344601,
+    "started": 1751878552,
+    "startedUser": 9331062,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7060255,
+            "title": "申请加入新的标签",
+            "poster": 9331062,
+            "stamp": 1751878552,
+            "lastEdit": 1751885662,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "申请加入新的标签",
+                    "author": 9331062,
+                    "id": 8539190,
+                    "stamp": 1751885662
+                },
+                {
+                    "title": "申请加入新的标签",
+                    "author": 9331062,
+                    "id": 8539050,
+                    "stamp": 1751879868
+                },
+                {
+                    "title": "申请加入新的标签",
+                    "author": 9331062,
+                    "id": 8539042,
+                    "stamp": 1751879634
+                },
+                {
+                    "title": "申请加入新的标签",
+                    "author": 9331062,
+                    "id": 8539020,
+                    "stamp": 1751878552
+                }
+            ],
+            "children": [
+                {
+                    "id": 7060499,
+                    "title": "Re: 申请加入新的标签",
+                    "poster": 7344601,
+                    "stamp": 1751892727,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

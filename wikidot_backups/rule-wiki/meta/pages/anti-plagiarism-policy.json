@@ -1,0 +1,49 @@
+{
+    "name": "anti-plagiarism-policy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1536930332,
+            "author": 4951855,
+            "stamp": 1761919648,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1536920828,
+            "author": 7344601,
+            "stamp": 1761918389,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"guide-hub\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1536920764,
+            "author": 7344601,
+            "stamp": 1761918351,
+            "flags": "A",
+            "commentary": "已新增标签：指导, 管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1536920618,
+            "author": 7344601,
+            "stamp": 1761918333,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1464382882,
+    "parent": "guide-hub",
+    "tags": [
+        "指导",
+        "管理"
+    ],
+    "title": "规则怪谈档案馆维基反抄袭政策",
+    "sitemap_update": 1761919648000,
+    "votings": [],
+    "is_locked": false
+}

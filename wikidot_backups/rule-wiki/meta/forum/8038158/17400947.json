@@ -1,0 +1,55 @@
+{
+    "title": "标签申请",
+    "id": 17400947,
+    "description": "当一个同世界观的作品拥有三篇及以上的作品时既可申请标签，包括搬运和原创",
+    "last": 1761700812,
+    "lastUser": 4921516,
+    "started": 1761648355,
+    "startedUser": 9331062,
+    "postsNum": 3,
+    "sticky": true,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7370421,
+            "title": "Re: 标签申请",
+            "poster": 7344601,
+            "stamp": 1761658469,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7372488,
+                    "title": "Re: 标签申请",
+                    "poster": 4921516,
+                    "stamp": 1761700812,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7369893,
+            "title": "标签申请",
+            "poster": 9331062,
+            "stamp": 1761648355,
+            "lastEdit": 1761648777,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "标签申请",
+                    "author": 9331062,
+                    "id": 8886117,
+                    "stamp": 1761648777
+                },
+                {
+                    "title": "标签申请",
+                    "author": 9331062,
+                    "id": 8886084,
+                    "stamp": 1761648355
+                }
+            ],
+            "children": []
+        }
+    ]
+}

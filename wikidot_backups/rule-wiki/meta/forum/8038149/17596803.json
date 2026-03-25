@@ -1,0 +1,31 @@
+{
+    "title": "维利科格勒戒严记",
+    "id": 17596803,
+    "description": "",
+    "last": 1772437137,
+    "lastUser": 8736966,
+    "started": 1772182700,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7578196,
+            "title": "",
+            "poster": 9560700,
+            "stamp": 1772431804,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7578244,
+            "title": "作者帖",
+            "poster": 8736966,
+            "stamp": 1772437137,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

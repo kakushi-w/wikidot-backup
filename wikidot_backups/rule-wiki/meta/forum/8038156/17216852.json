@@ -1,0 +1,109 @@
+{
+    "title": "中华人民共和国规则怪谈攻略部",
+    "id": 17216852,
+    "description": "直属于官方的相关组织",
+    "last": 1755787128,
+    "lastUser": 9808047,
+    "started": 1755783473,
+    "startedUser": 9808047,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7147950,
+            "title": "中华人民共和国规则怪谈攻略部",
+            "poster": 9808047,
+            "stamp": 1755783473,
+            "lastEdit": 1755788225,
+            "lastEditBy": 9808047,
+            "revisions": [
+                {
+                    "title": "中华人民共和国规则怪谈攻略部",
+                    "author": 9808047,
+                    "id": 8643540,
+                    "stamp": 1755784891
+                },
+                {
+                    "title": "中华人民共和国规则怪谈攻略部",
+                    "author": 9808047,
+                    "id": 8643806,
+                    "stamp": 1755788225
+                },
+                {
+                    "title": "中华人民共和国规则怪谈攻略部",
+                    "author": 9808047,
+                    "id": 8643427,
+                    "stamp": 1755783473
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7148065,
+            "title": "Re: 中华人民共和国规则怪谈攻略部",
+            "poster": 7344601,
+            "stamp": 1755785040,
+            "lastEdit": 1755786518,
+            "lastEditBy": 7344601,
+            "revisions": [
+                {
+                    "title": "Re: 中华人民共和国规则怪谈攻略部",
+                    "author": 7344601,
+                    "id": 8643697,
+                    "stamp": 1755786518
+                },
+                {
+                    "title": "Re: 中华人民共和国规则怪谈攻略部",
+                    "author": 7344601,
+                    "id": 8643558,
+                    "stamp": 1755785040
+                }
+            ],
+            "children": [
+                {
+                    "id": 7148138,
+                    "title": "Re: 中华人民共和国规则怪谈攻略部",
+                    "poster": 9808047,
+                    "stamp": 1755785973,
+                    "lastEdit": 1755786355,
+                    "lastEditBy": 9808047,
+                    "revisions": [
+                        {
+                            "title": "Re: 中华人民共和国规则怪谈攻略部",
+                            "author": 9808047,
+                            "id": 8643684,
+                            "stamp": 1755786355
+                        },
+                        {
+                            "title": "Re: 中华人民共和国规则怪谈攻略部",
+                            "author": 9808047,
+                            "id": 8643635,
+                            "stamp": 1755785973
+                        }
+                    ],
+                    "children": [
+                        {
+                            "id": 7148188,
+                            "title": "Re: 中华人民共和国规则怪谈攻略部",
+                            "poster": 7344601,
+                            "stamp": 1755786390,
+                            "revisions": [],
+                            "children": [
+                                {
+                                    "id": 7148232,
+                                    "title": "Re: 中华人民共和国规则怪谈攻略部",
+                                    "poster": 9808047,
+                                    "stamp": 1755787128,
+                                    "revisions": [],
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

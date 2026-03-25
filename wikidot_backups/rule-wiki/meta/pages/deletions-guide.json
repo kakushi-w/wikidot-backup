@@ -1,0 +1,105 @@
+{
+    "name": "deletions-guide",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1533145396,
+            "author": 7344601,
+            "stamp": 1761060533,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1527747102,
+            "author": 7344601,
+            "stamp": 1739324140,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1526825876,
+            "author": 7344601,
+            "stamp": 1734847315,
+            "flags": "A",
+            "commentary": "已新增标签：指导。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1526825867,
+            "author": 7344601,
+            "stamp": 1734847261,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"guide-hub\"."
+        },
+        {
+            "revision": 6,
+            "global_revision": 1526825738,
+            "author": 7344601,
+            "stamp": 1734846262,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1526825704,
+            "author": 7344601,
+            "stamp": 1734846066,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1526825681,
+            "author": 7344601,
+            "stamp": 1734845901,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1526825677,
+            "author": 7344601,
+            "stamp": 1734845878,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1526825658,
+            "author": 7344601,
+            "stamp": 1734845752,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1526825649,
+            "author": 7344601,
+            "stamp": 1734845721,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1526825640,
+            "author": 7344601,
+            "stamp": 1734845687,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458043237,
+    "parent": "guide-hub",
+    "forum_thread": 17010457,
+    "tags": [
+        "指导"
+    ],
+    "title": "删帖指导",
+    "sitemap_update": 1761060533000,
+    "votings": [],
+    "is_locked": true
+}

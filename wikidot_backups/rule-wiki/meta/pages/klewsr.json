@@ -1,0 +1,60 @@
+{
+    "name": "klewsr",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1539782395,
+            "author": 6247475,
+            "stamp": 1763728478,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539782387,
+            "author": 6247475,
+            "stamp": 1763728456,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539782356,
+            "author": 6247475,
+            "stamp": 1763728282,
+            "flags": "A",
+            "commentary": "已新增标签：2025万圣月, 原创, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539782347,
+            "author": 6247475,
+            "stamp": 1763728259,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467012230,
+    "rating": 2,
+    "forum_thread": 17454960,
+    "tags": [
+        "2025万圣月",
+        "原创",
+        "规则"
+    ],
+    "title": "莫克利山十一号设施万圣日休假条例",
+    "sitemap_update": 1763728478000,
+    "votings": [
+        [
+            10133162,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

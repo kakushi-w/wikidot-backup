@@ -1,0 +1,52 @@
+{
+    "title": "《夜莺饲养指南》",
+    "id": 17352967,
+    "description": "",
+    "last": 1762249980,
+    "lastUser": 9331062,
+    "started": 1760588200,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7405568,
+            "title": "职员贴：标签变动",
+            "poster": 9331062,
+            "stamp": 1762249980,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7315867,
+            "title": "",
+            "poster": 6348600,
+            "stamp": 1760588317,
+            "lastEdit": 1760610234,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8828930,
+                    "stamp": 1760610234
+                },
+                {
+                    "title": "",
+                    "author": 6348600,
+                    "id": 8827894,
+                    "stamp": 1760588317
+                },
+                {
+                    "title": "",
+                    "author": 6348600,
+                    "id": 8827896,
+                    "stamp": 1760588332
+                }
+            ],
+            "children": []
+        }
+    ]
+}

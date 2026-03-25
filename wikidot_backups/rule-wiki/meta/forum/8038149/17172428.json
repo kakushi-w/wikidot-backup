@@ -1,0 +1,60 @@
+{
+    "title": "十中怪谈",
+    "id": 17172428,
+    "description": "",
+    "last": 1755784948,
+    "lastUser": 9381463,
+    "started": 1753634756,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7106128,
+            "title": "",
+            "poster": 8017617,
+            "stamp": 1754900241,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7148056,
+            "title": "",
+            "poster": 9381463,
+            "stamp": 1755784948,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7086702,
+            "title": "",
+            "poster": 9331062,
+            "stamp": 1753634862,
+            "lastEdit": 1753717355,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8574825,
+                    "stamp": 1753717355
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8574822,
+                    "stamp": 1753717314
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8573025,
+                    "stamp": 1753634862
+                }
+            ],
+            "children": []
+        }
+    ]
+}

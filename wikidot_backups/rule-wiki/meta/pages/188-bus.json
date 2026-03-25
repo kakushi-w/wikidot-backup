@@ -1,0 +1,209 @@
+{
+    "name": "188-bus",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1542382597,
+            "author": 9331062,
+            "stamp": 1772450334,
+            "flags": "A",
+            "commentary": "已新增标签：_cc。 移除标签：_image。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1542382507,
+            "author": 9331062,
+            "stamp": 1772450038,
+            "flags": "A",
+            "commentary": "已新增标签：_image。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1530844674,
+            "author": 9331062,
+            "stamp": 1751781047,
+            "flags": "S",
+            "commentary": "加入评分模块和水平分割线"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1530706107,
+            "author": 7344601,
+            "stamp": 1751088900,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1530706100,
+            "author": 7344601,
+            "stamp": 1751088887,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530706096,
+            "author": 7344601,
+            "stamp": 1751088855,
+            "flags": "F",
+            "commentary": "已上传文件 “af0de35bd5a9f99b5968b2e530158366.jpg”。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530706086,
+            "author": 7344601,
+            "stamp": 1751088821,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530706043,
+            "author": 7344601,
+            "stamp": 1751088759,
+            "flags": "F",
+            "commentary": "已上传文件 “dc031a1fe1d81ea39eb8362fce308422.jpg”。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530706033,
+            "author": 7344601,
+            "stamp": 1751088722,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530706026,
+            "author": 7344601,
+            "stamp": 1751088680,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530706024,
+            "author": 7344601,
+            "stamp": 1751088645,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530706020,
+            "author": 7344601,
+            "stamp": 1751088622,
+            "flags": "F",
+            "commentary": "已上传文件 “bus-2.jpg”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530706009,
+            "author": 7344601,
+            "stamp": 1751088575,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530706000,
+            "author": 7344601,
+            "stamp": 1751088529,
+            "flags": "F",
+            "commentary": "已上传文件 “bus-1.jpg”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530705996,
+            "author": 7344601,
+            "stamp": 1751088503,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11410103,
+            "name": "af0de35bd5a9f99b5968b2e530158366.jpg",
+            "url": "http://rule-wiki.wikidot.com/local--files/188-bus/af0de35bd5a9f99b5968b2e530158366.jpg",
+            "size": "75.77 kB (77592 Bytes)",
+            "size_bytes": 77592,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 640x426, components 3",
+            "author": 7344601,
+            "stamp": 1751088855,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11410096,
+            "name": "bus-1.jpg",
+            "url": "http://rule-wiki.wikidot.com/local--files/188-bus/bus-1.jpg",
+            "size": "30.97 kB (31715 Bytes)",
+            "size_bytes": 31715,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 270x360, components 3",
+            "author": 7344601,
+            "stamp": 1751088529,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11410097,
+            "name": "bus-2.jpg",
+            "url": "http://rule-wiki.wikidot.com/local--files/188-bus/bus-2.jpg",
+            "size": "31.34 kB (32092 Bytes)",
+            "size_bytes": 32092,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 517x351, components 3",
+            "author": 7344601,
+            "stamp": 1751088622,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11410100,
+            "name": "dc031a1fe1d81ea39eb8362fce308422.jpg",
+            "url": "http://rule-wiki.wikidot.com/local--files/188-bus/dc031a1fe1d81ea39eb8362fce308422.jpg",
+            "size": "272.77 kB (279315 Bytes)",
+            "size_bytes": 279315,
+            "mime": "image/png",
+            "content": "PNG image data, 576 x 432, 8-bit/color RGBA, non-interlaced",
+            "author": 7344601,
+            "stamp": 1751088759,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459851735,
+    "rating": -1,
+    "forum_thread": 17159618,
+    "tags": [
+        "_cc",
+        "搬运",
+        "规则"
+    ],
+    "title": "188路公交",
+    "sitemap_update": 1772450334000,
+    "votings": [
+        [
+            9782224,
+            true
+        ],
+        [
+            9287769,
+            false
+        ],
+        [
+            9331062,
+            false
+        ],
+        [
+            8017463,
+            false
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

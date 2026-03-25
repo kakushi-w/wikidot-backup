@@ -1,0 +1,47 @@
+{
+    "name": "component:image-block",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531587540,
+            "author": 9331062,
+            "stamp": 1755304182,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530237368,
+            "author": 9331062,
+            "stamp": 1748125448,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527604414,
+            "author": 9331062,
+            "stamp": 1738765302,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527604370,
+            "author": 9331062,
+            "stamp": 1738765002,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458369725,
+    "tags": [
+        "组件"
+    ],
+    "title": "标准插图方块",
+    "sitemap_update": 1755304182000,
+    "votings": [],
+    "is_locked": false
+}

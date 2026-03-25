@@ -1,0 +1,71 @@
+{
+    "name": "lixia-library",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1539783651,
+            "author": 9331062,
+            "stamp": 1763732407,
+            "flags": "S",
+            "commentary": "紧急补充"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539783419,
+            "author": 9331062,
+            "stamp": 1763731732,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539472551,
+            "author": 9331062,
+            "stamp": 1763141000,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539472542,
+            "author": 9331062,
+            "stamp": 1763140978,
+            "flags": "N",
+            "commentary": "A岛 D9zugWq No.45022637"
+        }
+    ],
+    "files": [],
+    "page_id": 1466746773,
+    "rating": 5,
+    "forum_thread": 17447034,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "丽峡市市立图书馆公告",
+    "sitemap_update": 1763732407000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            10249538,
+            true
+        ],
+        [
+            9583919,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

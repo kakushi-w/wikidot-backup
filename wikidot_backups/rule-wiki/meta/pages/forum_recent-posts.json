@@ -1,0 +1,28 @@
+{
+    "name": "forum:recent-posts",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1527162132,
+            "author": 4951855,
+            "stamp": 1736333350,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1526825109,
+            "author": 7344601,
+            "stamp": 1734843557,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458042985,
+    "title": "最近的论坛发帖",
+    "sitemap_update": 1736333350000,
+    "votings": [],
+    "is_locked": false
+}

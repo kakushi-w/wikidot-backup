@@ -1,0 +1,51 @@
+{
+    "name": "salt-hospital",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542122575,
+            "author": 9331062,
+            "stamp": 1771333418,
+            "flags": "A",
+            "commentary": "已新增标签：规则。 移除标签：guize。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542122569,
+            "author": 9331062,
+            "stamp": 1771333395,
+            "flags": "A",
+            "commentary": "已新增标签：guize, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542122536,
+            "author": 9331062,
+            "stamp": 1771333258,
+            "flags": "N",
+            "commentary": "X岛 3Fnituv No.50349047"
+        }
+    ],
+    "files": [],
+    "page_id": 1468141492,
+    "rating": 2,
+    "forum_thread": 17590732,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "某平平无奇但很耗盐的医院",
+    "sitemap_update": 1771333418000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

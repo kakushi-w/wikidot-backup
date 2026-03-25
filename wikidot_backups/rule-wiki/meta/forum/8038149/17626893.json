@@ -1,0 +1,73 @@
+{
+    "title": "怪谈协会创作者公约",
+    "id": 17626893,
+    "description": "",
+    "last": 1773915695,
+    "lastUser": 9331062,
+    "started": 1773720551,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7634211,
+            "title": "",
+            "poster": 10291655,
+            "stamp": 1773720572,
+            "lastEdit": 1773827385,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 9194353,
+                    "stamp": 1773827385
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 9194349,
+                    "stamp": 1773827353
+                },
+                {
+                    "title": "",
+                    "author": 10291655,
+                    "id": 9191506,
+                    "stamp": 1773720572
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7646726,
+            "title": "",
+            "poster": 9331062,
+            "stamp": 1773915695,
+            "lastEdit": 1774010407,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 9210677,
+                    "stamp": 1774010249
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 9204605,
+                    "stamp": 1773915695
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 9210685,
+                    "stamp": 1774010407
+                }
+            ],
+            "children": []
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "name": "huizhu-hub",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1539464219,
+            "author": 9331062,
+            "stamp": 1763126971,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 灰烛。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539464209,
+            "author": 9331062,
+            "stamp": 1763126946,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466741385,
+    "tags": [
+        "中心",
+        "灰烛"
+    ],
+    "title": "灰烛 中心页",
+    "sitemap_update": 1763126971000,
+    "votings": [
+        [
+            10195449,
+            true
+        ],
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": false
+}

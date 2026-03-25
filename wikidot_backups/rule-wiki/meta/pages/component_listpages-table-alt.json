@@ -1,0 +1,31 @@
+{
+    "name": "component:listpages-table-alt",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1531220617,
+            "author": 9331062,
+            "stamp": 1753636314,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531220610,
+            "author": 9331062,
+            "stamp": 1753636298,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459971291,
+    "tags": [
+        "组件"
+    ],
+    "title": "四列 Listpages 表格",
+    "sitemap_update": 1753636314000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,39 @@
+{
+    "name": "component:image-block-base",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1530237372,
+            "author": 9331062,
+            "stamp": 1748125475,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527604420,
+            "author": 9331062,
+            "stamp": 1738765323,
+            "flags": "A",
+            "commentary": "已新增标签：组件后端。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527604364,
+            "author": 9331062,
+            "stamp": 1738764959,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458369724,
+    "tags": [
+        "组件后端"
+    ],
+    "title": "标准插图方块  后端",
+    "sitemap_update": 1748125475000,
+    "votings": [],
+    "is_locked": false
+}

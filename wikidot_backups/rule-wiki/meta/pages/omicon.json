@@ -1,0 +1,96 @@
+{
+    "name": "omicon",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1541259194,
+            "author": 9331062,
+            "stamp": 1767527947,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541259169,
+            "author": 9331062,
+            "stamp": 1767527796,
+            "flags": "S",
+            "commentary": "尝试优化"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541078268,
+            "author": 9331062,
+            "stamp": 1766780568,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541077396,
+            "author": 9331062,
+            "stamp": 1766778976,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541076869,
+            "author": 9331062,
+            "stamp": 1766777937,
+            "flags": "A",
+            "commentary": "已新增标签：meta, 故事。 移除标签：规则。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541076564,
+            "author": 9331062,
+            "stamp": 1766777373,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541076500,
+            "author": 9331062,
+            "stamp": 1766777255,
+            "flags": "S",
+            "commentary": "A岛 iscS2v8 NO.45385943\nX岛 oTmTJ4n No.50388320"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541074106,
+            "author": 9331062,
+            "stamp": 1766772790,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467879520,
+    "rating": 3,
+    "forum_thread": 17500938,
+    "tags": [
+        "meta",
+        "搬运",
+        "故事"
+    ],
+    "title": "◆-欧米科恩市-◆",
+    "sitemap_update": 1767527947000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9526934,
+            true
+        ]
+    ],
+    "is_locked": false
+}

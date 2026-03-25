@@ -1,0 +1,216 @@
+{
+    "name": "guide-hub",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 24,
+            "global_revision": 1539515999,
+            "author": 9331062,
+            "stamp": 1763227423,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1539465087,
+            "author": 9331062,
+            "stamp": 1763128528,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1539465070,
+            "author": 9331062,
+            "stamp": 1763128508,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1539464684,
+            "author": 9331062,
+            "stamp": 1763127756,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“how-to-write-a-rule” 改为 “symbolic-theory” 的自动更新。"
+        },
+        {
+            "revision": 20,
+            "global_revision": 1539360274,
+            "author": 7344601,
+            "stamp": 1763010139,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1536921363,
+            "author": 7344601,
+            "stamp": 1761918448,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1531396438,
+            "author": 9331062,
+            "stamp": 1754408003,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1531115302,
+            "author": 9331062,
+            "stamp": 1753110765,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1531029127,
+            "author": 7344601,
+            "stamp": 1752671313,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1530940298,
+            "author": 9331062,
+            "stamp": 1752240876,
+            "flags": "A",
+            "commentary": "已新增标签：中心。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1530919924,
+            "author": 9331062,
+            "stamp": 1752137177,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1530919913,
+            "author": 9331062,
+            "stamp": 1752137099,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1528903078,
+            "author": 7344601,
+            "stamp": 1743127190,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1527469311,
+            "author": 4951855,
+            "stamp": 1738035015,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1527437039,
+            "author": 7344601,
+            "stamp": 1737864865,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1527286363,
+            "author": 7344601,
+            "stamp": 1737115057,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1527232637,
+            "author": 4951855,
+            "stamp": 1736766473,
+            "flags": "S",
+            "commentary": "重复"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1527227551,
+            "author": 7344601,
+            "stamp": 1736741471,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1527223015,
+            "author": 4951855,
+            "stamp": 1736702796,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1527222374,
+            "author": 4951855,
+            "stamp": 1736697792,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527164730,
+            "author": 7344601,
+            "stamp": 1736347834,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527164723,
+            "author": 7344601,
+            "stamp": 1736347808,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1526831225,
+            "author": 7344601,
+            "stamp": 1734880123,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1526825885,
+            "author": 7344601,
+            "stamp": 1734847445,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1526825860,
+            "author": 7344601,
+            "stamp": 1734847216,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458043261,
+    "forum_thread": 17399730,
+    "tags": [
+        "中心"
+    ],
+    "title": "指导中心",
+    "sitemap_update": 1763227423000,
+    "votings": [],
+    "is_locked": false
+}

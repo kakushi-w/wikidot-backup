@@ -1,0 +1,127 @@
+{
+    "name": "kleine-baere-und-kekse",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1533191504,
+            "author": 9331062,
+            "stamp": 1761304746,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1533191488,
+            "author": 9331062,
+            "stamp": 1761304672,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1533190640,
+            "author": 9331062,
+            "stamp": 1761300957,
+            "flags": "S",
+            "commentary": "加入互动内容"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1533150565,
+            "author": 9529492,
+            "stamp": 1761085560,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1533150550,
+            "author": 9529492,
+            "stamp": 1761085468,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1533150528,
+            "author": 9529492,
+            "stamp": 1761085349,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1533150503,
+            "author": 9529492,
+            "stamp": 1761085253,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533150461,
+            "author": 9529492,
+            "stamp": 1761085009,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533150423,
+            "author": 9529492,
+            "stamp": 1761084658,
+            "flags": "A",
+            "commentary": "已新增标签：规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533150420,
+            "author": 9529492,
+            "stamp": 1761084647,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533150415,
+            "author": 9529492,
+            "stamp": 1761084632,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460727225,
+    "rating": 5,
+    "forum_thread": 17374877,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "小熊饼干杀",
+    "sitemap_update": 1761304746000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            8708015,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9774905,
+            true
+        ]
+    ],
+    "is_locked": false
+}

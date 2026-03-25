@@ -1,0 +1,44 @@
+{
+    "name": "animal-friends",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541402589,
+            "author": 9583919,
+            "stamp": 1768441833,
+            "flags": "A",
+            "commentary": "已新增标签：2026规则怪谈拜年祭征文竞赛, 原创, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541402586,
+            "author": 9583919,
+            "stamp": 1768441782,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468000976,
+    "rating": 2,
+    "forum_thread": 17564853,
+    "tags": [
+        "2026规则怪谈拜年祭征文竞赛",
+        "原创",
+        "规则"
+    ],
+    "title": "学校的动物朋友们",
+    "sitemap_update": 1768441833000,
+    "votings": [
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

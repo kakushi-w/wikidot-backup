@@ -1,0 +1,42 @@
+{
+    "title": "新人报道",
+    "id": 17593470,
+    "description": "",
+    "started": 1771869149,
+    "startedUser": 10013560,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7565233,
+            "title": "新人报到",
+            "poster": 10013560,
+            "stamp": 1771869149,
+            "lastEdit": 1771870265,
+            "lastEditBy": 10013560,
+            "revisions": [
+                {
+                    "title": "新人报到",
+                    "author": 10013560,
+                    "id": 9115199,
+                    "stamp": 1771869181
+                },
+                {
+                    "title": "新人报道",
+                    "author": 10013560,
+                    "id": 9115197,
+                    "stamp": 1771869149
+                },
+                {
+                    "title": "新人报到",
+                    "author": 10013560,
+                    "id": 9115214,
+                    "stamp": 1771870265
+                }
+            ],
+            "children": []
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "name": "nebel-mond",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1540145422,
+            "author": 9529492,
+            "stamp": 1764688068,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540145344,
+            "author": 9529492,
+            "stamp": 1764687920,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540145026,
+            "author": 9529492,
+            "stamp": 1764687287,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539956069,
+            "author": 9529492,
+            "stamp": 1764241480,
+            "flags": "A",
+            "commentary": "已新增标签：规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539956063,
+            "author": 9529492,
+            "stamp": 1764241465,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539956057,
+            "author": 9529492,
+            "stamp": 1764241442,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467120522,
+    "rating": 4,
+    "forum_thread": 17462171,
+    "tags": [
+        "原创",
+        "规则"
+    ],
+    "title": "雾月志异",
+    "sitemap_update": 1764688068000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            8824993,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": true
+}

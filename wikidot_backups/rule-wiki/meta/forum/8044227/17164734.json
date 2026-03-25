@@ -1,0 +1,36 @@
+{
+    "title": "ccvf：警告一次",
+    "id": 17164734,
+    "description": "在q群与站外人员骂战",
+    "started": 1752251220,
+    "startedUser": 7344601,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7065427,
+            "title": "ccvf：警告一次",
+            "poster": 7344601,
+            "stamp": 1752251220,
+            "lastEdit": 1752251804,
+            "lastEditBy": 7344601,
+            "revisions": [
+                {
+                    "title": "ccvf：警告一次",
+                    "author": 7344601,
+                    "id": 8545754,
+                    "stamp": 1752251220
+                },
+                {
+                    "title": "ccvf：警告一次",
+                    "author": 7344601,
+                    "id": 8545771,
+                    "stamp": 1752251804
+                }
+            ],
+            "children": []
+        }
+    ]
+}

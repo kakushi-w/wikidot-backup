@@ -1,0 +1,99 @@
+{
+    "title": "最低评分页面",
+    "id": 17172445,
+    "description": "",
+    "last": 1755819720,
+    "lastUser": 9808047,
+    "started": 1753638943,
+    "startedUser": null,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7149775,
+            "title": "不封禁网站成员e_MMMMMO",
+            "poster": 9808047,
+            "stamp": 1755819720,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7098153,
+            "title": "职员贴：如锁",
+            "poster": 9331062,
+            "stamp": 1754405187,
+            "lastEdit": 1754405250,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "职员贴：如锁",
+                    "author": 9331062,
+                    "id": 8587723,
+                    "stamp": 1754405250
+                },
+                {
+                    "title": "职员贴：锁贴",
+                    "author": 9331062,
+                    "id": 8587722,
+                    "stamp": 1754405187
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7086754,
+            "title": "职员贴：删帖宣告",
+            "poster": 9331062,
+            "stamp": 1753639088,
+            "lastEdit": 1754202257,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "职员贴：删帖宣告",
+                    "author": 9331062,
+                    "id": 8573102,
+                    "stamp": 1753639354
+                },
+                {
+                    "title": "职员贴：删帖宣告",
+                    "author": 9331062,
+                    "id": 8573100,
+                    "stamp": 1753639120
+                },
+                {
+                    "title": "职员贴：删帖宣告",
+                    "author": 9331062,
+                    "id": 8573099,
+                    "stamp": 1753639088
+                },
+                {
+                    "title": "职员贴：删帖宣告",
+                    "author": 9331062,
+                    "id": 8584161,
+                    "stamp": 1754202257
+                }
+            ],
+            "children": [
+                {
+                    "id": 7094544,
+                    "title": "Re: 职员贴：删帖宣告",
+                    "poster": 7344601,
+                    "stamp": 1754134516,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7096002,
+                            "title": "职员帖：不警告",
+                            "poster": 7344601,
+                            "stamp": 1754232457,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

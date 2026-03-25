@@ -1,0 +1,207 @@
+{
+    "name": "snowmountaincottage",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 17,
+            "global_revision": 1532250111,
+            "author": 9331062,
+            "stamp": 1757683582,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1531327710,
+            "author": 9331062,
+            "stamp": 1754069990,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1531327620,
+            "author": 9331062,
+            "stamp": 1754069152,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1531326892,
+            "author": 9331062,
+            "stamp": 1754065256,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531326857,
+            "author": 9331062,
+            "stamp": 1754065158,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531312076,
+            "author": 9331062,
+            "stamp": 1753991634,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1530863541,
+            "author": 9331062,
+            "stamp": 1751885102,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1530863405,
+            "author": 9331062,
+            "stamp": 1751884158,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530863400,
+            "author": 9331062,
+            "stamp": 1751884110,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530863354,
+            "author": 9331062,
+            "stamp": 1751883854,
+            "flags": "S",
+            "commentary": "根据https://aweidao1.com/t/48577655?po=true&page=1进行了修改"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530605207,
+            "author": 9331062,
+            "stamp": 1750514804,
+            "flags": "S",
+            "commentary": "加入评分模块"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530467654,
+            "author": 9583919,
+            "stamp": 1749656153,
+            "flags": "T",
+            "commentary": "把标题从“雪中小屋”改为“雪山小屋”。之前的标题可能为误作。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530259861,
+            "author": 9583919,
+            "stamp": 1748272620,
+            "flags": "S",
+            "commentary": "将“沙发后头”修正为“沙发后的斧头”"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530235203,
+            "author": 9583919,
+            "stamp": 1748106039,
+            "flags": "A",
+            "commentary": "已新增标签：规则。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530235188,
+            "author": 9583919,
+            "stamp": 1748105972,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530235091,
+            "author": 9583919,
+            "stamp": 1748105504,
+            "flags": "S",
+            "commentary": "修正格式"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530234353,
+            "author": 9583919,
+            "stamp": 1748101084,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530234325,
+            "author": 9583919,
+            "stamp": 1748100854,
+            "flags": "N",
+            "commentary": "A岛原作者：YcTn001 串号：48577655"
+        }
+    ],
+    "files": [],
+    "page_id": 1459729193,
+    "rating": 11,
+    "forum_thread": 17138496,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "雪山小屋",
+    "sitemap_update": 1757683582000,
+    "votings": [
+        [
+            9710504,
+            true
+        ],
+        [
+            9849606,
+            true
+        ],
+        [
+            9769506,
+            true
+        ],
+        [
+            9789899,
+            true
+        ],
+        [
+            9583919,
+            true
+        ],
+        [
+            9313151,
+            true
+        ],
+        [
+            4367001,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            10192043,
+            true
+        ],
+        [
+            9879630,
+            true
+        ],
+        [
+            9319415,
+            true
+        ]
+    ],
+    "is_locked": false
+}

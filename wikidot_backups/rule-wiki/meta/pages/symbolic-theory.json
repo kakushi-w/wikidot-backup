@@ -1,0 +1,166 @@
+{
+    "name": "symbolic-theory",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1539464683,
+            "author": 9331062,
+            "stamp": 1763127756,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"how-to-write-a-rule\" 至 \"symbolic-theory\"."
+        },
+        {
+            "revision": 13,
+            "global_revision": 1539464658,
+            "author": 9331062,
+            "stamp": 1763127708,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531277500,
+            "author": 7344601,
+            "stamp": 1753868901,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1527222730,
+            "author": 4951855,
+            "stamp": 1736700433,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。 移除标签：必读。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1527222370,
+            "author": 4951855,
+            "stamp": 1736697724,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"how-to-write-an-rule\" 至 \"how-to-write-a-rule\"."
+        },
+        {
+            "revision": 9,
+            "global_revision": 1527215824,
+            "author": 9526934,
+            "stamp": 1736660865,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1527165716,
+            "author": 4951855,
+            "stamp": 1736352931,
+            "flags": "A",
+            "commentary": "已新增标签：文章。 移除标签：指导。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1527165171,
+            "author": 4951855,
+            "stamp": 1736349630,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1527164589,
+            "author": 7344601,
+            "stamp": 1736347043,
+            "flags": "A",
+            "commentary": "已新增标签：必读, 指导。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1527164584,
+            "author": 7344601,
+            "stamp": 1736347029,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527164576,
+            "author": 7344601,
+            "stamp": 1736346992,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527164573,
+            "author": 7344601,
+            "stamp": 1736346967,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527164551,
+            "author": 7344601,
+            "stamp": 1736346770,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527164545,
+            "author": 7344601,
+            "stamp": 1736346684,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527164535,
+            "author": 7344601,
+            "stamp": 1736346596,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458215522,
+    "forum_thread": 17016883,
+    "tags": [
+        "搬运",
+        "文章"
+    ],
+    "title": "符号论",
+    "sitemap_update": 1763127756000,
+    "votings": [
+        [
+            9782224,
+            true
+        ],
+        [
+            9510715,
+            true
+        ],
+        [
+            8374306,
+            false
+        ],
+        [
+            8708015,
+            true
+        ],
+        [
+            9312583,
+            true
+        ],
+        [
+            9529492,
+            true
+        ],
+        [
+            8386863,
+            false
+        ]
+    ],
+    "is_locked": false
+}

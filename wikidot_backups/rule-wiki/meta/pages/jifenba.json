@@ -1,0 +1,28 @@
+{
+    "name": "jifenba",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541076851,
+            "author": 9331062,
+            "stamp": 1766777893,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540816759,
+            "author": 7344601,
+            "stamp": 1766289202,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467693988,
+    "title": "计分板",
+    "sitemap_update": 1766777893000,
+    "votings": [],
+    "is_locked": false
+}

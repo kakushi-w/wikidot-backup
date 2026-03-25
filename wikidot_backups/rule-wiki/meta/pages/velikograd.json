@@ -1,0 +1,87 @@
+{
+    "name": "velikograd",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1542333220,
+            "author": 8736966,
+            "stamp": 1772198414,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542317447,
+            "author": 8736966,
+            "stamp": 1772115113,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542309658,
+            "author": 8736966,
+            "stamp": 1772078081,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542307173,
+            "author": 8736966,
+            "stamp": 1772062385,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542302532,
+            "author": 8736966,
+            "stamp": 1772034396,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 规则。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542302507,
+            "author": 8736966,
+            "stamp": 1772034318,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542302492,
+            "author": 8736966,
+            "stamp": 1772034247,
+            "flags": "A",
+            "commentary": "已新增标签：2026新年联竞。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542302486,
+            "author": 8736966,
+            "stamp": 1772034226,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468175776,
+    "forum_thread": 17596803,
+    "tags": [
+        "2026新年联竞",
+        "原创",
+        "规则"
+    ],
+    "title": "维利科格勒戒严记",
+    "sitemap_update": 1772198414000,
+    "votings": [
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

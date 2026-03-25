@@ -1,0 +1,31 @@
+{
+    "name": "random:random-tale",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1531113584,
+            "author": 9331062,
+            "stamp": 1753103297,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527690209,
+            "author": 7344601,
+            "stamp": 1739112561,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458406697,
+    "tags": [
+        "管理"
+    ],
+    "title": "随机故事",
+    "sitemap_update": 1753103297000,
+    "votings": [],
+    "is_locked": true
+}

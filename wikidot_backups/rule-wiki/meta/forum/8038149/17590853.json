@@ -1,0 +1,31 @@
+{
+    "title": "怪谈列车",
+    "id": 17590853,
+    "description": "",
+    "last": 1771813637,
+    "lastUser": 8824993,
+    "started": 1771351691,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7563864,
+            "title": "",
+            "poster": 8824993,
+            "stamp": 1771813637,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7557033,
+            "title": "",
+            "poster": 9331062,
+            "stamp": 1771351715,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

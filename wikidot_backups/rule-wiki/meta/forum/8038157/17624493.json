@@ -1,0 +1,47 @@
+{
+    "title": "公告：外交关系重大变动",
+    "id": 17624493,
+    "description": "",
+    "last": 1774107802,
+    "lastUser": 9526934,
+    "started": 1773541854,
+    "startedUser": 7344601,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7629712,
+            "title": "Re: 公告：外交关系重大变动",
+            "poster": 7344601,
+            "stamp": 1773545584,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7654085,
+            "title": "Re: 公告：外交关系重大变动",
+            "poster": 9526934,
+            "stamp": 1774107802,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7629982,
+            "title": "Re: 公告：外交关系重大变动",
+            "poster": 7344601,
+            "stamp": 1773552991,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7629555,
+            "title": "公告：外交关系重大变动",
+            "poster": 7344601,
+            "stamp": 1773541854,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

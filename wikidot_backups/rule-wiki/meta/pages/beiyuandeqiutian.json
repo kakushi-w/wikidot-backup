@@ -1,0 +1,72 @@
+{
+    "name": "beiyuandeqiutian",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531267805,
+            "author": 9583919,
+            "stamp": 1753808376,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530878144,
+            "author": 9583919,
+            "stamp": 1751963445,
+            "flags": "A",
+            "commentary": "已新增标签：规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530878140,
+            "author": 9583919,
+            "stamp": 1751963430,
+            "flags": "A",
+            "commentary": "已新增标签：2025十站联竞。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530878138,
+            "author": 9583919,
+            "stamp": 1751963417,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459890771,
+    "rating": 5,
+    "forum_thread": 17163559,
+    "tags": [
+        "2025十站联竞",
+        "原创",
+        "规则"
+    ],
+    "title": "北苑的秋天",
+    "sitemap_update": 1753808376000,
+    "votings": [
+        [
+            9510715,
+            true
+        ],
+        [
+            9179772,
+            true
+        ],
+        [
+            7931329,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9524814,
+            true
+        ]
+    ],
+    "is_locked": false
+}

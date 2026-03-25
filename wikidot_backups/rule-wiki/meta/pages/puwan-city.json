@@ -1,0 +1,269 @@
+{
+    "name": "puwan-city",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1539306820,
+            "author": 7344601,
+            "stamp": 1762873160,
+            "flags": "A",
+            "commentary": "已新增标签：精品。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531830681,
+            "author": 8374306,
+            "stamp": 1756433776,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530987499,
+            "author": 7504264,
+            "stamp": 1752482801,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530987485,
+            "author": 7504264,
+            "stamp": 1752482741,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530987425,
+            "author": 7504264,
+            "stamp": 1752482542,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530987404,
+            "author": 7504264,
+            "stamp": 1752482431,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530986974,
+            "author": 7504264,
+            "stamp": 1752481471,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530986761,
+            "author": 7504264,
+            "stamp": 1752480492,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530986437,
+            "author": 4726378,
+            "stamp": 1752478788,
+            "flags": "A",
+            "commentary": "已新增标签：2025十站联竞, 原创, 规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530986425,
+            "author": 4726378,
+            "stamp": 1752478706,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530986404,
+            "author": 4726378,
+            "stamp": 1752478612,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459915363,
+    "rating": 40,
+    "forum_thread": 17165903,
+    "tags": [
+        "2025十站联竞",
+        "原创",
+        "精品",
+        "规则"
+    ],
+    "title": "埔湾市疾病防控中心 晚间新闻",
+    "sitemap_update": 1762873160000,
+    "votings": [
+        [
+            9731145,
+            true
+        ],
+        [
+            9792172,
+            true
+        ],
+        [
+            8305255,
+            true
+        ],
+        [
+            4921516,
+            true
+        ],
+        [
+            9510715,
+            true
+        ],
+        [
+            9810819,
+            true
+        ],
+        [
+            9273752,
+            true
+        ],
+        [
+            9814005,
+            true
+        ],
+        [
+            9593283,
+            true
+        ],
+        [
+            8980311,
+            true
+        ],
+        [
+            9710504,
+            true
+        ],
+        [
+            9287769,
+            true
+        ],
+        [
+            9314093,
+            true
+        ],
+        [
+            9319469,
+            true
+        ],
+        [
+            4951855,
+            true
+        ],
+        [
+            7047022,
+            true
+        ],
+        [
+            9331062,
+            true
+        ],
+        [
+            8374306,
+            true
+        ],
+        [
+            9784792,
+            true
+        ],
+        [
+            8017463,
+            true
+        ],
+        [
+            8824993,
+            true
+        ],
+        [
+            9501896,
+            true
+        ],
+        [
+            8708015,
+            true
+        ],
+        [
+            8777224,
+            true
+        ],
+        [
+            9769506,
+            true
+        ],
+        [
+            10226795,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9527530,
+            true
+        ],
+        [
+            8706167,
+            true
+        ],
+        [
+            9583919,
+            true
+        ],
+        [
+            9564038,
+            true
+        ],
+        [
+            10236070,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            8516280,
+            true
+        ],
+        [
+            9524814,
+            true
+        ],
+        [
+            9873701,
+            true
+        ],
+        [
+            8386863,
+            true
+        ],
+        [
+            9526934,
+            true
+        ],
+        [
+            9808047,
+            true
+        ]
+    ],
+    "is_locked": false
+}

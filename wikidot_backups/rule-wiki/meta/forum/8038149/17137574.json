@@ -1,0 +1,31 @@
+{
+    "title": "凉山中学入学须知",
+    "id": 17137574,
+    "description": "",
+    "last": 1747996269,
+    "lastUser": 9331062,
+    "started": 1747971251,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7013497,
+            "title": "其它链接",
+            "poster": 9331062,
+            "stamp": 1747996269,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7013012,
+            "title": "职员贴：搬运",
+            "poster": 7344601,
+            "stamp": 1747971317,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

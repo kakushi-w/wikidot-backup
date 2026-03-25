@@ -1,0 +1,72 @@
+{
+    "name": "huizhuchangqing",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1534980698,
+            "author": 9331062,
+            "stamp": 1761733739,
+            "flags": "S",
+            "commentary": "加入评分模块"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1534884238,
+            "author": 7344601,
+            "stamp": 1761726139,
+            "flags": "A",
+            "commentary": "已新增标签：灰烛。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1534010507,
+            "author": 8027470,
+            "stamp": 1761627533,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1534010489,
+            "author": 8027470,
+            "stamp": 1761627513,
+            "flags": "A",
+            "commentary": "已新增标签：规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1534010423,
+            "author": 8027470,
+            "stamp": 1761627430,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1461508110,
+    "rating": 3,
+    "forum_thread": 17444249,
+    "tags": [
+        "原创",
+        "灰烛",
+        "规则"
+    ],
+    "title": "“灰烛”关于常青市的一切",
+    "sitemap_update": 1761733739000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

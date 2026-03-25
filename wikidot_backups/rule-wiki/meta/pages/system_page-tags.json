@@ -1,0 +1,39 @@
+{
+    "name": "system:page-tags",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1527222804,
+            "author": 4951855,
+            "stamp": 1736701056,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1526952814,
+            "author": 7344601,
+            "stamp": 1735223916,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1526952811,
+            "author": 7344601,
+            "stamp": 1735223868,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458133606,
+    "tags": [
+        "管理"
+    ],
+    "title": "标签云",
+    "sitemap_update": 1736701056000,
+    "votings": [],
+    "is_locked": true
+}

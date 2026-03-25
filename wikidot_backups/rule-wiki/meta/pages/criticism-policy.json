@@ -1,0 +1,57 @@
+{
+    "name": "criticism-policy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1527286371,
+            "author": 7344601,
+            "stamp": 1737115103,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527286278,
+            "author": 7344601,
+            "stamp": 1737114996,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"guide-hub\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527286261,
+            "author": 7344601,
+            "stamp": 1737114970,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527286250,
+            "author": 7344601,
+            "stamp": 1737114904,
+            "flags": "A",
+            "commentary": "已新增标签：指导。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527286245,
+            "author": 7344601,
+            "stamp": 1737114865,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458252547,
+    "parent": "guide-hub",
+    "forum_thread": 17216683,
+    "tags": [
+        "指导"
+    ],
+    "title": "批评守则",
+    "sitemap_update": 1737115103000,
+    "votings": [],
+    "is_locked": false
+}

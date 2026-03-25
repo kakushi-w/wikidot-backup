@@ -1,0 +1,46 @@
+{
+    "title": "雪山小屋",
+    "id": 17138496,
+    "description": "",
+    "last": 1773401602,
+    "lastUser": 9583919,
+    "started": 1748136866,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7621052,
+            "title": "好文",
+            "poster": 9583919,
+            "stamp": 1773401602,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7014997,
+            "title": "",
+            "poster": 9331062,
+            "stamp": 1748136893,
+            "lastEdit": 1750515082,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8522649,
+                    "stamp": 1750515082
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8484366,
+                    "stamp": 1748136893
+                }
+            ],
+            "children": []
+        }
+    ]
+}

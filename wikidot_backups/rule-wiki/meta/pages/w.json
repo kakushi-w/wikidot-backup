@@ -1,0 +1,59 @@
+{
+    "name": "w",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531720861,
+            "author": 9331062,
+            "stamp": 1755944998,
+            "flags": "S",
+            "commentary": "加入评分模块"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531719163,
+            "author": 7344601,
+            "stamp": 1755937541,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531718140,
+            "author": 9808047,
+            "stamp": 1755933982,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460096668,
+    "rating": 0,
+    "forum_thread": 17223834,
+    "tags": [
+        "原创",
+        "规则"
+    ],
+    "title": "伪人捕猎守则",
+    "sitemap_update": 1755944998000,
+    "votings": [
+        [
+            9331062,
+            false
+        ],
+        [
+            9847771,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9774905,
+            false
+        ]
+    ],
+    "is_locked": false
+}

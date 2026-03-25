@@ -1,0 +1,51 @@
+{
+    "name": "lp-cruise-ship",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1536951055,
+            "author": 9331062,
+            "stamp": 1761922512,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1536950004,
+            "author": 9331062,
+            "stamp": 1761922370,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1536949602,
+            "author": 9331062,
+            "stamp": 1761922312,
+            "flags": "N",
+            "commentary": "X岛 XE4x9gS No.55404955"
+        }
+    ],
+    "files": [],
+    "page_id": 1464411006,
+    "rating": 2,
+    "forum_thread": 17413838,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "“黑胶机号”游轮",
+    "sitemap_update": 1761922512000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

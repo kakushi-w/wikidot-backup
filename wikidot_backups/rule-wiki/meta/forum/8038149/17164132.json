@@ -1,0 +1,44 @@
+{
+    "title": "S市居民卫生安全委员会（暂停更新）",
+    "id": 17164132,
+    "description": "",
+    "last": 1752114918,
+    "lastUser": 7344601,
+    "started": 1752114865,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7063494,
+            "title": "搬运贴",
+            "poster": 7344601,
+            "stamp": 1752114918,
+            "lastEdit": 1755238441,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "搬运贴",
+                    "author": 9331062,
+                    "id": 8611989,
+                    "stamp": 1755238441
+                },
+                {
+                    "title": "搬运贴",
+                    "author": 7344601,
+                    "id": 8543153,
+                    "stamp": 1752114939
+                },
+                {
+                    "title": "搬运贴",
+                    "author": 7344601,
+                    "id": 8543151,
+                    "stamp": 1752114918
+                }
+            ],
+            "children": []
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "新人报道",
+    "id": 17035309,
+    "description": "嘎。",
+    "last": 1739407005,
+    "lastUser": 7344601,
+    "started": 1739344334,
+    "startedUser": 8305255,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6812053,
+            "title": "Re: 新人报道",
+            "poster": 7344601,
+            "stamp": 1739407005,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6811502,
+            "title": "新人报道",
+            "poster": 8305255,
+            "stamp": 1739344334,
+            "lastEdit": 1739344401,
+            "lastEditBy": 8305255,
+            "revisions": [
+                {
+                    "title": "新人报道",
+                    "author": 8305255,
+                    "id": 8258331,
+                    "stamp": 1739344401
+                },
+                {
+                    "title": "新人报道",
+                    "author": 8305255,
+                    "id": 8258330,
+                    "stamp": 1739344334
+                }
+            ],
+            "children": []
+        }
+    ]
+}

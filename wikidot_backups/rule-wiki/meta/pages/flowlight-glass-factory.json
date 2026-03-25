@@ -1,0 +1,107 @@
+{
+    "name": "flowlight-glass-factory",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532435807,
+            "author": 4951855,
+            "stamp": 1758604963,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528172226,
+            "author": 9331062,
+            "stamp": 1740945219,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528172191,
+            "author": 9331062,
+            "stamp": 1740944834,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528172142,
+            "author": 9331062,
+            "stamp": 1740944675,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528172133,
+            "author": 9331062,
+            "stamp": 1740944618,
+            "flags": "N",
+            "commentary": "原作者：b站 三庭抗礼\n搬运者：e_MMMMMO"
+        }
+    ],
+    "files": [],
+    "page_id": 1458627288,
+    "rating": 12,
+    "forum_thread": 17055392,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "流光玻璃厂规则怪谈",
+    "sitemap_update": 1758604963000,
+    "votings": [
+        [
+            8017617,
+            true
+        ],
+        [
+            9510715,
+            true
+        ],
+        [
+            9710504,
+            true
+        ],
+        [
+            9287769,
+            true
+        ],
+        [
+            9288733,
+            true
+        ],
+        [
+            9331062,
+            true
+        ],
+        [
+            8708015,
+            true
+        ],
+        [
+            9769506,
+            true
+        ],
+        [
+            9564038,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9774905,
+            true
+        ],
+        [
+            9879630,
+            true
+        ]
+    ],
+    "is_locked": false
+}

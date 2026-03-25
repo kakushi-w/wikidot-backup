@@ -1,0 +1,80 @@
+{
+    "name": "a-island",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541848606,
+            "author": 9331062,
+            "stamp": 1770563444,
+            "flags": "S",
+            "commentary": "插图"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541848596,
+            "author": 9331062,
+            "stamp": 1770563376,
+            "flags": "F",
+            "commentary": "已上传文件 “A-logo.jpg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541848589,
+            "author": 9331062,
+            "stamp": 1770563312,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541848579,
+            "author": 9331062,
+            "stamp": 1770563260,
+            "flags": "N",
+            "commentary": "A岛 UuuwOFw No.26867814"
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11736182,
+            "name": "A-logo.jpg",
+            "url": "http://rule-wiki.wikidot.com/local--files/a-island/A-logo.jpg",
+            "size": "98.08 kB (100430 Bytes)",
+            "size_bytes": 100430,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 2500x2495, components 3",
+            "author": 9331062,
+            "stamp": 1770563376,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468107853,
+    "rating": 4,
+    "forum_thread": 17584188,
+    "tags": [
+        "搬运",
+        "故事"
+    ],
+    "title": "Æ-ɪ1n'电台",
+    "sitemap_update": 1770563444000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9560700,
+            true
+        ]
+    ],
+    "is_locked": false
+}

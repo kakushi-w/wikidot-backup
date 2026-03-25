@@ -1,0 +1,43 @@
+{
+    "name": "voyagers",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1542628495,
+            "author": 9583919,
+            "stamp": 1773401256,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542628466,
+            "author": 9583919,
+            "stamp": 1773401073,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468245970,
+    "rating": 2,
+    "forum_thread": 17623268,
+    "tags": [
+        "原创",
+        "规则"
+    ],
+    "title": "旅人",
+    "sitemap_update": 1773401256000,
+    "votings": [
+        [
+            10291655,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,111 @@
+{
+    "name": "hello",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532121077,
+            "author": 9331062,
+            "stamp": 1757070283,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527222807,
+            "author": 4951855,
+            "stamp": 1736701083,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 文章。 移除标签：指导, 理论, 科普。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527203848,
+            "author": 9526934,
+            "stamp": 1736593983,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527184035,
+            "author": 4951855,
+            "stamp": 1736471849,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527177513,
+            "author": 9526934,
+            "stamp": 1736430736,
+            "flags": "A",
+            "commentary": "已新增标签：指导, 理论, 科普。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527177508,
+            "author": 9526934,
+            "stamp": 1736430697,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458219443,
+    "rating": 11,
+    "forum_thread": 17019260,
+    "tags": [
+        "搬运",
+        "文章"
+    ],
+    "title": "规则怪谈原教旨主义简论",
+    "sitemap_update": 1757070283000,
+    "votings": [
+        [
+            9731145,
+            true
+        ],
+        [
+            9510715,
+            true
+        ],
+        [
+            9287769,
+            true
+        ],
+        [
+            9769506,
+            true
+        ],
+        [
+            9025837,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9560700,
+            true
+        ],
+        [
+            10192043,
+            true
+        ],
+        [
+            8152715,
+            true
+        ],
+        [
+            9879630,
+            true
+        ],
+        [
+            9526934,
+            true
+        ]
+    ],
+    "is_locked": true
+}

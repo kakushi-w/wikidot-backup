@@ -1,0 +1,50 @@
+{
+    "title": "丽峡市市立图书馆公告",
+    "id": 17447034,
+    "description": "",
+    "last": 1763141190,
+    "lastUser": 9331062,
+    "started": 1763141034,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7423982,
+            "title": "",
+            "poster": 9331062,
+            "stamp": 1763141190,
+            "lastEdit": 1763737533,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8957352,
+                    "stamp": 1763737533
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8957351,
+                    "stamp": 1763737482
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8954467,
+                    "stamp": 1763549062
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8945150,
+                    "stamp": 1763141190
+                }
+            ],
+            "children": []
+        }
+    ]
+}

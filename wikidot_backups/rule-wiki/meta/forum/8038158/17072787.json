@@ -1,0 +1,52 @@
+{
+    "title": "关于引导新人的建议",
+    "id": 17072787,
+    "description": "",
+    "last": 1742313982,
+    "lastUser": 7344601,
+    "started": 1742297026,
+    "startedUser": 9331062,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6886260,
+            "title": "关于引导新人的建议",
+            "poster": 9331062,
+            "stamp": 1742297026,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6886450,
+            "title": "Re: 关于引导新人的建议",
+            "poster": 7344601,
+            "stamp": 1742313982,
+            "lastEdit": 1742314157,
+            "lastEditBy": 7344601,
+            "revisions": [
+                {
+                    "title": "Re: 关于引导新人的建议",
+                    "author": 7344601,
+                    "id": 8340753,
+                    "stamp": 1742314157
+                },
+                {
+                    "title": "Re: 关于引导新人的建议",
+                    "author": 7344601,
+                    "id": 8340752,
+                    "stamp": 1742314129
+                },
+                {
+                    "title": "Re: 关于引导新人的建议",
+                    "author": 7344601,
+                    "id": 8340745,
+                    "stamp": 1742313982
+                }
+            ],
+            "children": []
+        }
+    ]
+}

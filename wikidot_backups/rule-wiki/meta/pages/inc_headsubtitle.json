@@ -1,0 +1,39 @@
+{
+    "name": "inc:headsubtitle",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531519175,
+            "author": 9331062,
+            "stamp": 1755034198,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531519123,
+            "author": 9331062,
+            "stamp": 1755034112,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531519116,
+            "author": 9331062,
+            "stamp": 1755034090,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460038924,
+    "tags": [
+        "组件"
+    ],
+    "title": "更换副标题",
+    "sitemap_update": 1755034198000,
+    "votings": [],
+    "is_locked": false
+}

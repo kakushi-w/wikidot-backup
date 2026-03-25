@@ -1,0 +1,46 @@
+{
+    "title": "有关成人内容警告组件的问题",
+    "id": 17257165,
+    "description": "",
+    "last": 1759605152,
+    "lastUser": 4951855,
+    "started": 1759055006,
+    "startedUser": 9331062,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7215114,
+            "title": "有关成人内容内容警告组件的问题",
+            "poster": 9331062,
+            "stamp": 1759055006,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7258515,
+            "title": "职员贴：移动讨论串",
+            "poster": 4951855,
+            "stamp": 1759605152,
+            "lastEdit": 1759680275,
+            "lastEditBy": 4951855,
+            "revisions": [
+                {
+                    "title": "职员贴：移动讨论串",
+                    "author": 4951855,
+                    "id": 8773780,
+                    "stamp": 1759680275
+                },
+                {
+                    "title": "职员贴：移动讨论串",
+                    "author": 4951855,
+                    "id": 8766946,
+                    "stamp": 1759605152
+                }
+            ],
+            "children": []
+        }
+    ]
+}

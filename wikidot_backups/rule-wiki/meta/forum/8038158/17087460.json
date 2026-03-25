@@ -1,0 +1,42 @@
+{
+    "title": "关于删除页面",
+    "id": 17087460,
+    "description": "",
+    "started": 1743681843,
+    "startedUser": 9331062,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6908800,
+            "title": "关于删除页面",
+            "poster": 9331062,
+            "stamp": 1743681843,
+            "lastEdit": 1760197910,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "关于删除页面",
+                    "author": 9331062,
+                    "id": 8808291,
+                    "stamp": 1760197910
+                },
+                {
+                    "title": "关于删除页面",
+                    "author": 9331062,
+                    "id": 8366691,
+                    "stamp": 1743682104
+                },
+                {
+                    "title": "关于删除页面",
+                    "author": 9331062,
+                    "id": 8366686,
+                    "stamp": 1743681843
+                }
+            ],
+            "children": []
+        }
+    ]
+}

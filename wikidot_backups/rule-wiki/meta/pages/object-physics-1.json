@@ -1,0 +1,71 @@
+{
+    "name": "object-physics-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1531519588,
+            "author": 9331062,
+            "stamp": 1755035249,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"object-physics\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531480642,
+            "author": 9331062,
+            "stamp": 1754841779,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531464131,
+            "author": 9331062,
+            "stamp": 1754752532,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531464114,
+            "author": 9331062,
+            "stamp": 1754752477,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531464065,
+            "author": 9331062,
+            "stamp": 1754752152,
+            "flags": "A",
+            "commentary": "已新增标签：补充材料。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531464060,
+            "author": 9331062,
+            "stamp": 1754752126,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460024629,
+    "parent": "object-physics",
+    "rating": 1,
+    "tags": [
+        "搬运",
+        "补充材料"
+    ],
+    "title": "No.45809750 - 无标题 - 跑团",
+    "sitemap_update": 1755035249000,
+    "votings": [
+        [
+            9331062,
+            true
+        ]
+    ],
+    "is_locked": true
+}

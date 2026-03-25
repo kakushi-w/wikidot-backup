@@ -1,0 +1,211 @@
+{
+    "name": "theme:tieba",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 19,
+            "global_revision": 1531821161,
+            "author": 9331062,
+            "stamp": 1756389384,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1531821139,
+            "author": 9331062,
+            "stamp": 1756389257,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1529395233,
+            "author": 4951855,
+            "stamp": 1744980395,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1529395220,
+            "author": 4951855,
+            "stamp": 1744980276,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1529395206,
+            "author": 4951855,
+            "stamp": 1744980194,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1529395201,
+            "author": 4951855,
+            "stamp": 1744980170,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1529395187,
+            "author": 4951855,
+            "stamp": 1744980114,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1529395093,
+            "author": 4951855,
+            "stamp": 1744979906,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1529395089,
+            "author": 4951855,
+            "stamp": 1744979877,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1529395081,
+            "author": 4951855,
+            "stamp": 1744979830,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1529395078,
+            "author": 4951855,
+            "stamp": 1744979817,
+            "flags": "F",
+            "commentary": "已上传文件 “rule-tieba-logo.jpg”。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1529395051,
+            "author": 4951855,
+            "stamp": 1744979632,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1529395035,
+            "author": 4951855,
+            "stamp": 1744979541,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1529395007,
+            "author": 4951855,
+            "stamp": 1744979407,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1529394976,
+            "author": 4951855,
+            "stamp": 1744979252,
+            "flags": "A",
+            "commentary": "已新增标签：版式。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1529394974,
+            "author": 4951855,
+            "stamp": 1744979241,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1529388778,
+            "author": 7344601,
+            "stamp": 1744940103,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529375016,
+            "author": 7344601,
+            "stamp": 1744857137,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529375014,
+            "author": 7344601,
+            "stamp": 1744857118,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529375005,
+            "author": 7344601,
+            "stamp": 1744857024,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11369780,
+            "name": "rule-tieba-logo.jpg",
+            "url": "http://rule-wiki.wikidot.com/local--files/theme:tieba/rule-tieba-logo.jpg",
+            "size": "4.39 kB (4497 Bytes)",
+            "size_bytes": 4497,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 120x120, components 3",
+            "author": 4951855,
+            "stamp": 1744979817,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459274482,
+    "rating": 5,
+    "forum_thread": 17093764,
+    "tags": [
+        "版式"
+    ],
+    "title": "贴吧版式（搬运自br-cn维基）",
+    "sitemap_update": 1756389384000,
+    "votings": [
+        [
+            7047022,
+            true
+        ],
+        [
+            9331062,
+            true
+        ],
+        [
+            8708015,
+            true
+        ],
+        [
+            8371822,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

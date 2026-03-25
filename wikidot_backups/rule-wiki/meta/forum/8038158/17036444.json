@@ -1,0 +1,31 @@
+{
+    "title": "要不要搞个怪谈排行榜",
+    "id": 17036444,
+    "description": "实时按评分排名的那种",
+    "last": 1740828688,
+    "lastUser": 4951855,
+    "started": 1739507768,
+    "startedUser": 9512686,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6812813,
+            "title": "要不要搞个怪谈排行榜",
+            "poster": 9512686,
+            "stamp": 1739507768,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6839875,
+            "title": "Re: 要不要搞个怪谈排行榜",
+            "poster": 4951855,
+            "stamp": 1740828688,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

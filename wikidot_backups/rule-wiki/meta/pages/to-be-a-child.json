@@ -1,0 +1,172 @@
+{
+    "name": "to-be-a-child",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1533100948,
+            "author": 9331062,
+            "stamp": 1760848263,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1533085956,
+            "author": 9331062,
+            "stamp": 1760789610,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1533085919,
+            "author": 9331062,
+            "stamp": 1760789486,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1532960924,
+            "author": 9331062,
+            "stamp": 1760197736,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1532958909,
+            "author": 9331062,
+            "stamp": 1760193557,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1532672882,
+            "author": 4951855,
+            "stamp": 1759604322,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"to-be-chirden\" 至 \"to-be-a-child\"."
+        },
+        {
+            "revision": 10,
+            "global_revision": 1532584431,
+            "author": 9331062,
+            "stamp": 1759331541,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532505496,
+            "author": 9331062,
+            "stamp": 1758964529,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532504927,
+            "author": 9331062,
+            "stamp": 1758962120,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532504884,
+            "author": 9331062,
+            "stamp": 1758961891,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532500952,
+            "author": 9331062,
+            "stamp": 1758947963,
+            "flags": "A",
+            "commentary": "已新增标签：成人内容, 搬运。 移除标签：成人内容搬运。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532500948,
+            "author": 9331062,
+            "stamp": 1758947933,
+            "flags": "A",
+            "commentary": "已新增标签：成人内容搬运。 移除标签：搬运。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532500945,
+            "author": 9331062,
+            "stamp": 1758947914,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532500937,
+            "author": 9331062,
+            "stamp": 1758947833,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532500912,
+            "author": 9331062,
+            "stamp": 1758947655,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532500904,
+            "author": 9331062,
+            "stamp": 1758947618,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532500837,
+            "author": 9331062,
+            "stamp": 1758947364,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460453594,
+    "rating": 4,
+    "forum_thread": 17255330,
+    "tags": [
+        "成人内容",
+        "搬运",
+        "规则"
+    ],
+    "title": "如何当一名“子女”",
+    "sitemap_update": 1760848263000,
+    "votings": [
+        [
+            9814005,
+            true
+        ],
+        [
+            9331062,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": true
+}

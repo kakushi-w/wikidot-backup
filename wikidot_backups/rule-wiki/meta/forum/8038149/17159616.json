@@ -1,0 +1,38 @@
+{
+    "title": "乐心书院",
+    "id": 17159616,
+    "description": "",
+    "last": 1751088238,
+    "lastUser": 7344601,
+    "started": 1751088205,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7051791,
+            "title": "搬运帖",
+            "poster": 7344601,
+            "stamp": 1751088238,
+            "lastEdit": 1760439356,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "搬运帖",
+                    "author": 9331062,
+                    "id": 8820689,
+                    "stamp": 1760439356
+                },
+                {
+                    "title": "搬运帖",
+                    "author": 7344601,
+                    "id": 8528196,
+                    "stamp": 1751088238
+                }
+            ],
+            "children": []
+        }
+    ]
+}

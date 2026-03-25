@@ -1,0 +1,41 @@
+{
+    "title": "这其实是一个应该在几年前建立的组织（）",
+    "id": 17035172,
+    "description": "",
+    "last": 1739353063,
+    "lastUser": 8446676,
+    "started": 1739328109,
+    "startedUser": 8446676,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6811394,
+            "title": "这其实是一个应该在几年前建立的组织（）",
+            "poster": 8446676,
+            "stamp": 1739328109,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6811417,
+                    "title": "Re: 这其实是一个应该在几年前建立的组织（）",
+                    "poster": 9512686,
+                    "stamp": 1739331026,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 6811611,
+                            "title": "Re: 这其实是一个应该在几年前建立的组织（）",
+                            "poster": 8446676,
+                            "stamp": 1739353063,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

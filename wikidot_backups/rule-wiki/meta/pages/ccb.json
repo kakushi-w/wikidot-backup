@@ -1,0 +1,145 @@
+{
+    "name": "ccb",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1531267792,
+            "author": 9583919,
+            "stamp": 1753808298,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531243783,
+            "author": 9583919,
+            "stamp": 1753732689,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531243716,
+            "author": 9583919,
+            "stamp": 1753732204,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531243623,
+            "author": 9583919,
+            "stamp": 1753731432,
+            "flags": "A",
+            "commentary": "已新增标签：规则。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531243622,
+            "author": 9583919,
+            "stamp": 1753731411,
+            "flags": "A",
+            "commentary": "已新增标签：2025十站联竞。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531243581,
+            "author": 9583919,
+            "stamp": 1753731156,
+            "flags": "S",
+            "commentary": "导入图片并更换url名，添加评分控件"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531243562,
+            "author": 9583919,
+            "stamp": 1753731018,
+            "flags": "F",
+            "commentary": "已上传文件 “豌豆背景图”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531243548,
+            "author": 9583919,
+            "stamp": 1753730968,
+            "flags": "N",
+            "commentary": "包括CSS格式在内的全文发布"
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11428447,
+            "name": "豌豆背景图",
+            "url": "http://rule-wiki.wikidot.com/local--files/ccb/%E8%B1%8C%E8%B1%86%E8%83%8C%E6%99%AF%E5%9B%BE",
+            "size": "253.44 kB (259520 Bytes)",
+            "size_bytes": 259520,
+            "mime": "image/png",
+            "content": "PNG image data, 720 x 356, 8-bit/color RGBA, non-interlaced",
+            "author": 9583919,
+            "stamp": 1753731018,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459975844,
+    "rating": 12,
+    "forum_thread": 17173315,
+    "tags": [
+        "2025十站联竞",
+        "原创",
+        "规则"
+    ],
+    "title": "规则怪谈笑传之踩踩背",
+    "sitemap_update": 1753808298000,
+    "votings": [
+        [
+            10133162,
+            true
+        ],
+        [
+            9809746,
+            true
+        ],
+        [
+            9772057,
+            true
+        ],
+        [
+            9832524,
+            true
+        ],
+        [
+            8708015,
+            true
+        ],
+        [
+            9564038,
+            true
+        ],
+        [
+            10228030,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            8415074,
+            true
+        ],
+        [
+            9524814,
+            true
+        ],
+        [
+            9808047,
+            true
+        ]
+    ],
+    "is_locked": false
+}

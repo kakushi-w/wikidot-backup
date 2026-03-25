@@ -1,0 +1,61 @@
+{
+    "title": "关于制定艺术作品政策",
+    "id": 17482729,
+    "description": "",
+    "last": 1765113859,
+    "lastUser": 7344601,
+    "started": 1765113706,
+    "startedUser": 7344601,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7459512,
+            "title": "关于制定艺术作品政策",
+            "poster": 7344601,
+            "stamp": 1765113706,
+            "lastEdit": 1765120512,
+            "lastEditBy": 4951855,
+            "revisions": [
+                {
+                    "title": "关于制定艺术作品政策",
+                    "author": 4951855,
+                    "id": 8986992,
+                    "stamp": 1765120512
+                },
+                {
+                    "title": "关于制定艺术作品政策",
+                    "author": 7344601,
+                    "id": 8986756,
+                    "stamp": 1765113706
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7459519,
+            "title": "Re: 关于制定艺术作品政策",
+            "poster": 7344601,
+            "stamp": 1765113859,
+            "lastEdit": 1765120332,
+            "lastEditBy": 7344601,
+            "revisions": [
+                {
+                    "title": "Re: 关于制定艺术作品政策",
+                    "author": 7344601,
+                    "id": 8986987,
+                    "stamp": 1765120332
+                },
+                {
+                    "title": "Re: 关于制定艺术作品政策",
+                    "author": 7344601,
+                    "id": 8986763,
+                    "stamp": 1765113859
+                }
+            ],
+            "children": []
+        }
+    ]
+}

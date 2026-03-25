@@ -1,0 +1,63 @@
+{
+    "name": "lexin-academy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531507758,
+            "author": 8017463,
+            "stamp": 1754987106,
+            "flags": "S",
+            "commentary": "漏换行了"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530844658,
+            "author": 9331062,
+            "stamp": 1751780917,
+            "flags": "S",
+            "commentary": "加入评分模块和标题"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530844537,
+            "author": 9331062,
+            "stamp": 1751780330,
+            "flags": "S",
+            "commentary": "改用水平分割线"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530705959,
+            "author": 7344601,
+            "stamp": 1751088271,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530705950,
+            "author": 7344601,
+            "stamp": 1751088197,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459851731,
+    "rating": 1,
+    "forum_thread": 17159616,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "乐心书院",
+    "sitemap_update": 1754987106000,
+    "votings": [
+        [
+            9808047,
+            true
+        ]
+    ],
+    "is_locked": false
+}

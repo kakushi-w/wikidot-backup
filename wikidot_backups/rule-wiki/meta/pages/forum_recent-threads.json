@@ -1,0 +1,52 @@
+{
+    "name": "forum:recent-threads",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1527223020,
+            "author": 4951855,
+            "stamp": 1736702842,
+            "flags": "S",
+            "commentary": "加入新人报到区"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527219000,
+            "author": 4951855,
+            "stamp": 1736681418,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527218972,
+            "author": 4951855,
+            "stamp": 1736681160,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527162130,
+            "author": 4951855,
+            "stamp": 1736333331,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1526825110,
+            "author": 7344601,
+            "stamp": 1734843557,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458042986,
+    "title": "最近的讨论串",
+    "sitemap_update": 1736702842000,
+    "votings": [],
+    "is_locked": true
+}

@@ -1,0 +1,63 @@
+{
+    "title": "新人报道。",
+    "id": 17458698,
+    "description": "",
+    "last": 1765021457,
+    "lastUser": 7344601,
+    "started": 1764063891,
+    "startedUser": 9749262,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": true,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7457063,
+            "title": "职员帖：锁帖",
+            "poster": 7344601,
+            "stamp": 1765021457,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7437491,
+            "title": "新人报道。",
+            "poster": 9749262,
+            "stamp": 1764063891,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7438286,
+                    "title": "Re: 新人报道。",
+                    "poster": 9331062,
+                    "stamp": 1764153572,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 7456257,
+                    "title": "Re: 新人报道。",
+                    "poster": 9749262,
+                    "stamp": 1764983328,
+                    "lastEdit": 1764983427,
+                    "lastEditBy": 9749262,
+                    "revisions": [
+                        {
+                            "title": "Re: 新人报道。",
+                            "author": 9749262,
+                            "id": 8983008,
+                            "stamp": 1764983427
+                        },
+                        {
+                            "title": "Re: 新人报道。",
+                            "author": 9749262,
+                            "id": 8983004,
+                            "stamp": 1764983328
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

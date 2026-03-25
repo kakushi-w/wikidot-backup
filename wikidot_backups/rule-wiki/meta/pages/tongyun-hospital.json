@@ -1,0 +1,92 @@
+{
+    "name": "tongyun-hospital",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531489655,
+            "author": 8017617,
+            "stamp": 1754896137,
+            "flags": "S",
+            "commentary": "将第五大条太平间人员守则中“直至太平间护士联系您继续值班，您“在”上岗值班。”在改为再"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530605200,
+            "author": 9331062,
+            "stamp": 1750514778,
+            "flags": "S",
+            "commentary": "加入评分模块"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530214414,
+            "author": 7344601,
+            "stamp": 1747973867,
+            "flags": "A",
+            "commentary": "已新增标签：2026规则怪谈拜年祭征文竞赛, 原创, 规则。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530214407,
+            "author": 7344601,
+            "stamp": 1747973837,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530214390,
+            "author": 7344601,
+            "stamp": 1747973752,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530214356,
+            "author": 7344601,
+            "stamp": 1747973473,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530214336,
+            "author": 7344601,
+            "stamp": 1747973312,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459725894,
+    "rating": 2,
+    "forum_thread": 17137583,
+    "tags": [
+        "2026规则怪谈拜年祭征文竞赛",
+        "原创",
+        "规则"
+    ],
+    "title": "铳云医院守则",
+    "sitemap_update": 1754896137000,
+    "votings": [
+        [
+            8898249,
+            true
+        ],
+        [
+            9774905,
+            false
+        ],
+        [
+            9879630,
+            true
+        ],
+        [
+            9808047,
+            true
+        ]
+    ],
+    "is_locked": false
+}

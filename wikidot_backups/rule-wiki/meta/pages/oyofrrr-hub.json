@@ -1,0 +1,130 @@
+{
+    "name": "oyofrrr-hub",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1539787247,
+            "author": 9331062,
+            "stamp": 1763745180,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"oyofrrr\" 至 \"oyofrrr-hub\"."
+        },
+        {
+            "revision": 11,
+            "global_revision": 1533191114,
+            "author": 9331062,
+            "stamp": 1761302872,
+            "flags": "A",
+            "commentary": "移除标签：规则。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1533191110,
+            "author": 9331062,
+            "stamp": 1761302852,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1533072821,
+            "author": 9331062,
+            "stamp": 1760722566,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530864354,
+            "author": 9331062,
+            "stamp": 1751888943,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530862959,
+            "author": 9331062,
+            "stamp": 1751881921,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530844755,
+            "author": 9331062,
+            "stamp": 1751781367,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530844690,
+            "author": 9331062,
+            "stamp": 1751781126,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528945679,
+            "author": 7344601,
+            "stamp": 1743337758,
+            "flags": "A",
+            "commentary": "已新增标签：中心。 移除标签：中心页。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528922744,
+            "author": 9331062,
+            "stamp": 1743234638,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528922486,
+            "author": 9331062,
+            "stamp": 1743233620,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528911909,
+            "author": 9331062,
+            "stamp": 1743174776,
+            "flags": "A",
+            "commentary": "已新增标签：中心页, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528911903,
+            "author": 9331062,
+            "stamp": 1743174751,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459028575,
+    "forum_thread": 17085505,
+    "tags": [
+        "中心",
+        "搬运"
+    ],
+    "title": "██中心页",
+    "sitemap_update": 1763745180000,
+    "votings": [
+        [
+            8708015,
+            true
+        ],
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": false
+}

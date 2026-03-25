@@ -1,0 +1,48 @@
+{
+    "name": "a5-backend",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532932515,
+            "author": 9331062,
+            "stamp": 1760122078,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"a5\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532932476,
+            "author": 9331062,
+            "stamp": 1760121846,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532932472,
+            "author": 9331062,
+            "stamp": 1760121830,
+            "flags": "A",
+            "commentary": "已新增标签：组件后端。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532932466,
+            "author": 9331062,
+            "stamp": 1760121796,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460662780,
+    "parent": "a5",
+    "tags": [
+        "组件后端"
+    ],
+    "title": "a5 组件后端",
+    "sitemap_update": 1760122078000,
+    "votings": [],
+    "is_locked": true
+}

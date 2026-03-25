@@ -1,0 +1,23 @@
+{
+    "title": "快乐麦当鸡用餐守则",
+    "id": 17455110,
+    "description": "",
+    "last": 1763740709,
+    "lastUser": 9331062,
+    "started": 1763740452,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7434640,
+            "title": "不会完成的作品",
+            "poster": 9331062,
+            "stamp": 1763740709,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "search:tags",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531553992,
+            "author": 7344601,
+            "stamp": 1755136719,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531553983,
+            "author": 7344601,
+            "stamp": 1755136679,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531553977,
+            "author": 7344601,
+            "stamp": 1755136649,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460058864,
+    "tags": [
+        "管理"
+    ],
+    "title": "标签搜索",
+    "sitemap_update": 1755136719000,
+    "votings": [],
+    "is_locked": true
+}

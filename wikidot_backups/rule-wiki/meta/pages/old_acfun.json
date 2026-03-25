@@ -1,0 +1,213 @@
+{
+    "name": "old:acfun",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 17,
+            "global_revision": 1539463574,
+            "author": 9331062,
+            "stamp": 1763126054,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1539463551,
+            "author": 9331062,
+            "stamp": 1763126013,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1539462711,
+            "author": 9331062,
+            "stamp": 1763124596,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1539462692,
+            "author": 9331062,
+            "stamp": 1763124564,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1539462564,
+            "author": 9331062,
+            "stamp": 1763124333,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539462200,
+            "author": 9331062,
+            "stamp": 1763123727,
+            "flags": "F",
+            "commentary": "已删除文件 “042633-whs1nl0kvg.jpeg”。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539462194,
+            "author": 9331062,
+            "stamp": 1763123721,
+            "flags": "F",
+            "commentary": "已删除文件 “042634-rns0i4geyb.jpeg”。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539458065,
+            "author": 9331062,
+            "stamp": 1763116288,
+            "flags": "F",
+            "commentary": "已上传文件 “042636-k3lrsvcgo7.jpeg”。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1539456443,
+            "author": 9331062,
+            "stamp": 1763113345,
+            "flags": "F",
+            "commentary": "已上传文件 “042634-rns0i4geyb.jpeg”。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1539456440,
+            "author": 9331062,
+            "stamp": 1763113325,
+            "flags": "F",
+            "commentary": "已上传文件 “042634-jcr38dbk90.jpeg”。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1539456329,
+            "author": 9331062,
+            "stamp": 1763113128,
+            "flags": "F",
+            "commentary": "已上传文件 “042633-whs1nl0kvg.jpeg”。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1538229019,
+            "author": 9331062,
+            "stamp": 1762249615,
+            "flags": "A",
+            "commentary": "已新增标签：旧页面。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1533291332,
+            "author": 9331062,
+            "stamp": 1761393603,
+            "flags": "F",
+            "commentary": "已上传文件 “042742-8bapcswdfk.jpeg”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1533193858,
+            "author": 9331062,
+            "stamp": 1761315297,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533193198,
+            "author": 9331062,
+            "stamp": 1761312696,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533193155,
+            "author": 9331062,
+            "stamp": 1761312513,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533193148,
+            "author": 9331062,
+            "stamp": 1761312489,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533193011,
+            "author": 9331062,
+            "stamp": 1761311819,
+            "flags": "N",
+            "commentary": "可能找不到的失传媒体"
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11679497,
+            "name": "042634-jcr38dbk90.jpeg",
+            "url": "http://rule-wiki.wikidot.com/local--files/old:acfun/042634-jcr38dbk90.jpeg",
+            "size": "749.39 kB (767378 Bytes)",
+            "size_bytes": 767378,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1080x2365, components 3",
+            "author": 9331062,
+            "stamp": 1763113325,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11679575,
+            "name": "042636-k3lrsvcgo7.jpeg",
+            "url": "http://rule-wiki.wikidot.com/local--files/old:acfun/042636-k3lrsvcgo7.jpeg",
+            "size": "487.18 kB (498873 Bytes)",
+            "size_bytes": 498873,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1080x2868, components 3",
+            "author": 9331062,
+            "stamp": 1763116288,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11501631,
+            "name": "042742-8bapcswdfk.jpeg",
+            "url": "http://rule-wiki.wikidot.com/local--files/old:acfun/042742-8bapcswdfk.jpeg",
+            "size": "1.4 MB (1469194 Bytes)",
+            "size_bytes": 1469194,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1080x3414, components 3",
+            "author": 9331062,
+            "stamp": 1761393603,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460740733,
+    "rating": 3,
+    "forum_thread": 17385339,
+    "tags": [
+        "搬运",
+        "旧页面",
+        "规则"
+    ],
+    "title": "A岛使用须知",
+    "sitemap_update": 1763126054000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": true
+}

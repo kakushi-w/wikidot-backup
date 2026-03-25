@@ -1,0 +1,55 @@
+{
+    "name": "cry",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1527688802,
+            "author": 7344601,
+            "stamp": 1739108384,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527688792,
+            "author": 7344601,
+            "stamp": 1739108355,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527688745,
+            "author": 7344601,
+            "stamp": 1739108225,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458406242,
+    "rating": 1,
+    "forum_thread": 17165123,
+    "tags": [
+        "搬运",
+        "故事"
+    ],
+    "title": "哭",
+    "sitemap_update": 1739108384000,
+    "votings": [
+        [
+            9510715,
+            true
+        ],
+        [
+            9331062,
+            false
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,92 @@
+{
+    "name": "purifihotel",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1542382385,
+            "author": 9331062,
+            "stamp": 1772449377,
+            "flags": "A",
+            "commentary": "已新增标签：_cc。 移除标签：_image。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539996545,
+            "author": 9331062,
+            "stamp": 1764330715,
+            "flags": "S",
+            "commentary": "去除不符合CC的图像"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1539986315,
+            "author": 9742376,
+            "stamp": 1764306662,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539986116,
+            "author": 9742376,
+            "stamp": 1764306140,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539899462,
+            "author": 4921516,
+            "stamp": 1764064723,
+            "flags": "A",
+            "commentary": "已新增标签：_image。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539841901,
+            "author": 9742376,
+            "stamp": 1763886218,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539841753,
+            "author": 9742376,
+            "stamp": 1763885989,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539841584,
+            "author": 9742376,
+            "stamp": 1763885607,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467049338,
+    "rating": 2,
+    "forum_thread": 17456740,
+    "tags": [
+        "_cc",
+        "原创",
+        "规则"
+    ],
+    "title": "天明大酒店",
+    "sitemap_update": 1772449377000,
+    "votings": [
+        [
+            8824993,
+            true
+        ],
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": false
+}

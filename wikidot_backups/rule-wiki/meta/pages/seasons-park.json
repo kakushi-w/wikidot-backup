@@ -1,0 +1,64 @@
+{
+    "name": "seasons-park",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1539782402,
+            "author": 9583919,
+            "stamp": 1763728506,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539782291,
+            "author": 9583919,
+            "stamp": 1763728046,
+            "flags": "A",
+            "commentary": "已新增标签：2025万圣月, 原创, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539782234,
+            "author": 9583919,
+            "stamp": 1763727956,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467012167,
+    "rating": 5,
+    "forum_thread": 17461955,
+    "tags": [
+        "2025万圣月",
+        "原创",
+        "规则"
+    ],
+    "title": "四季公园",
+    "sitemap_update": 1763728506000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            8824993,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            10192043,
+            true
+        ]
+    ],
+    "is_locked": false
+}

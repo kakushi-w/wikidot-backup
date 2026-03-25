@@ -1,0 +1,352 @@
+{
+    "name": "object-physics",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 36,
+            "global_revision": 1531480708,
+            "author": 9331062,
+            "stamp": 1754842028,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1531480674,
+            "author": 9331062,
+            "stamp": 1754841901,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1531463992,
+            "author": 9331062,
+            "stamp": 1754751799,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 33,
+            "global_revision": 1531463967,
+            "author": 9331062,
+            "stamp": 1754751710,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1530904503,
+            "author": 9331062,
+            "stamp": 1752056519,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1530862324,
+            "author": 9331062,
+            "stamp": 1751879153,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1530850738,
+            "author": 9331062,
+            "stamp": 1751812352,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1530850705,
+            "author": 9331062,
+            "stamp": 1751812128,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1530849988,
+            "author": 9331062,
+            "stamp": 1751808811,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1530849976,
+            "author": 9331062,
+            "stamp": 1751808779,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1530847816,
+            "author": 9331062,
+            "stamp": 1751796466,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1530846534,
+            "author": 9331062,
+            "stamp": 1751790658,
+            "flags": "A",
+            "commentary": "已新增标签：meta。"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1530134667,
+            "author": 9331062,
+            "stamp": 1747394879,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1529041779,
+            "author": 9331062,
+            "stamp": 1743724524,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1529041665,
+            "author": 9331062,
+            "stamp": 1743723918,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1529041654,
+            "author": 9331062,
+            "stamp": 1743723859,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1529037770,
+            "author": 9331062,
+            "stamp": 1743701354,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1529037638,
+            "author": 9331062,
+            "stamp": 1743701032,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1529037589,
+            "author": 9331062,
+            "stamp": 1743700682,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1529036774,
+            "author": 9331062,
+            "stamp": 1743697315,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1529035972,
+            "author": 9331062,
+            "stamp": 1743694294,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1529032267,
+            "author": 9331062,
+            "stamp": 1743679079,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1529032183,
+            "author": 9331062,
+            "stamp": 1743678779,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1529031771,
+            "author": 9331062,
+            "stamp": 1743676569,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1529031669,
+            "author": 9331062,
+            "stamp": 1743676228,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1529031613,
+            "author": 9331062,
+            "stamp": 1743675842,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1529031583,
+            "author": 9331062,
+            "stamp": 1743675670,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1529031492,
+            "author": 9331062,
+            "stamp": 1743675482,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1529031469,
+            "author": 9331062,
+            "stamp": 1743675307,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1529031392,
+            "author": 9331062,
+            "stamp": 1743674983,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1529031314,
+            "author": 9331062,
+            "stamp": 1743674703,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1529031270,
+            "author": 9331062,
+            "stamp": 1743674583,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1529031222,
+            "author": 9331062,
+            "stamp": 1743674486,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528573640,
+            "author": 9331062,
+            "stamp": 1742643603,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528555479,
+            "author": 9331062,
+            "stamp": 1742565114,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528555351,
+            "author": 9331062,
+            "stamp": 1742564497,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528555328,
+            "author": 9331062,
+            "stamp": 1742564414,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458748466,
+    "rating": 9,
+    "forum_thread": 17074255,
+    "tags": [
+        "meta",
+        "搬运",
+        "故事"
+    ],
+    "title": "物品学",
+    "sitemap_update": 1754842028000,
+    "votings": [
+        [
+            7954328,
+            true
+        ],
+        [
+            9331062,
+            true
+        ],
+        [
+            9501896,
+            true
+        ],
+        [
+            8708015,
+            true
+        ],
+        [
+            9769506,
+            true
+        ],
+        [
+            9583919,
+            true
+        ],
+        [
+            7968506,
+            true
+        ],
+        [
+            9529492,
+            true
+        ],
+        [
+            9774905,
+            true
+        ]
+    ],
+    "is_locked": false
+}

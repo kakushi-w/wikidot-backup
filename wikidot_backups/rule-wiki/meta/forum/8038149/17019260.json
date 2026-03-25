@@ -1,0 +1,40 @@
+{
+    "title": "规则怪谈原教旨主义简论",
+    "id": 17019260,
+    "description": "",
+    "last": 1737123011,
+    "lastUser": 8708015,
+    "started": 1736710059,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6776754,
+            "title": "",
+            "poster": 8708015,
+            "stamp": 1737123011,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6773496,
+            "title": "",
+            "poster": 9529492,
+            "stamp": 1736710298,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6773546,
+                    "title": "",
+                    "poster": 4951855,
+                    "stamp": 1736715578,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "name": "papersintoilet",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1530605213,
+            "author": 9331062,
+            "stamp": 1750514838,
+            "flags": "S",
+            "commentary": "加入评分模块"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530468033,
+            "author": 9583919,
+            "stamp": 1749658278,
+            "flags": "A",
+            "commentary": "已新增标签：2026规则怪谈拜年祭征文竞赛, 原创, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530468027,
+            "author": 9583919,
+            "stamp": 1749658239,
+            "flags": "N",
+            "commentary": "拜年祭投稿"
+        }
+    ],
+    "files": [],
+    "page_id": 1459786261,
+    "rating": 4,
+    "forum_thread": 17161030,
+    "tags": [
+        "2026规则怪谈拜年祭征文竞赛",
+        "原创",
+        "规则"
+    ],
+    "title": "公厕里的纸条",
+    "sitemap_update": 1750514838000,
+    "votings": [
+        [
+            9710504,
+            true
+        ],
+        [
+            10249538,
+            true
+        ],
+        [
+            9564038,
+            true
+        ],
+        [
+            9879630,
+            true
+        ]
+    ],
+    "is_locked": false
+}

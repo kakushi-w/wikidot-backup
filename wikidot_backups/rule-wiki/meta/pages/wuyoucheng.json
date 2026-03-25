@@ -1,0 +1,79 @@
+{
+    "name": "wuyoucheng",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1542799559,
+            "author": 9331062,
+            "stamp": 1774010775,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542799493,
+            "author": 9331062,
+            "stamp": 1774010538,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542799477,
+            "author": 9331062,
+            "stamp": 1774010485,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542768465,
+            "author": 10291655,
+            "stamp": 1773832920,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542718008,
+            "author": 10291655,
+            "stamp": 1773720433,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542718003,
+            "author": 10291655,
+            "stamp": 1773720408,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468283516,
+    "rating": 1,
+    "forum_thread": 17626893,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "怪谈协会创作者公约",
+    "sitemap_update": 1774010775000,
+    "votings": [
+        [
+            9331062,
+            false
+        ],
+        [
+            10291655,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

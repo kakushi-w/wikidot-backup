@@ -1,0 +1,64 @@
+{
+    "name": "component:license-box-backend",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1531822768,
+            "author": 9331062,
+            "stamp": 1756394344,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531822601,
+            "author": 9331062,
+            "stamp": 1756393663,
+            "flags": "A",
+            "commentary": "已新增标签：组件后端。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1526883951,
+            "author": 7344601,
+            "stamp": 1734962489,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1526883943,
+            "author": 7344601,
+            "stamp": 1734962463,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1526883843,
+            "author": 7344601,
+            "stamp": 1734962003,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"component:license-box\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1526883802,
+            "author": 7344601,
+            "stamp": 1734961860,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458088971,
+    "parent": "component:license-box",
+    "tags": [
+        "组件后端"
+    ],
+    "title": "板权模块 后端",
+    "sitemap_update": 1756394344000,
+    "votings": [],
+    "is_locked": false
+}

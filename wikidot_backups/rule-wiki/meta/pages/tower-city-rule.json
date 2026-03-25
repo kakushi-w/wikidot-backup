@@ -1,0 +1,67 @@
+{
+    "name": "tower-city-rule",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531913792,
+            "author": 9331062,
+            "stamp": 1756638506,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531865866,
+            "author": 8426551,
+            "stamp": 1756551576,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531865681,
+            "author": 8426551,
+            "stamp": 1756551221,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460138986,
+    "rating": 6,
+    "forum_thread": 17235980,
+    "tags": [
+        "原创",
+        "规则"
+    ],
+    "title": "塔楼市特殊时期应急安全预案及其他资料选编",
+    "sitemap_update": 1756638506000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            8017463,
+            true
+        ],
+        [
+            8708015,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            10236070,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

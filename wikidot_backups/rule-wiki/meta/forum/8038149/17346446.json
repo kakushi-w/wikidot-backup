@@ -1,0 +1,50 @@
+{
+    "title": "陵北中学怪谈",
+    "id": 17346446,
+    "description": "",
+    "last": 1760438993,
+    "lastUser": 9331062,
+    "started": 1760438693,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7309047,
+            "title": "",
+            "poster": 9331062,
+            "stamp": 1760438993,
+            "lastEdit": 1766057903,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 9002179,
+                    "stamp": 1766057903
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8820675,
+                    "stamp": 1760439092
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8820674,
+                    "stamp": 1760439072
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8820668,
+                    "stamp": 1760438993
+                }
+            ],
+            "children": []
+        }
+    ]
+}

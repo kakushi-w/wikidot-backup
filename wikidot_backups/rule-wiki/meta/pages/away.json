@@ -1,0 +1,51 @@
+{
+    "name": "away",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542125813,
+            "author": 9331062,
+            "stamp": 1771345297,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542125773,
+            "author": 9331062,
+            "stamp": 1771345195,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542125721,
+            "author": 9331062,
+            "stamp": 1771345067,
+            "flags": "N",
+            "commentary": "X岛 JAXPUur No.50612759"
+        }
+    ],
+    "files": [],
+    "page_id": 1468142110,
+    "rating": 2,
+    "forum_thread": 17590823,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "逃离指南",
+    "sitemap_update": 1771345297000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": false
+}

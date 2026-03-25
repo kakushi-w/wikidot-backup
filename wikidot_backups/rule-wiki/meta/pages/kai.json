@@ -1,0 +1,55 @@
+{
+    "name": "kai",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531720852,
+            "author": 9331062,
+            "stamp": 1755944960,
+            "flags": "S",
+            "commentary": "加入评分模块"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531714342,
+            "author": 9808047,
+            "stamp": 1755918077,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531713996,
+            "author": 9808047,
+            "stamp": 1755916678,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460095878,
+    "rating": 1,
+    "forum_thread": 17235001,
+    "tags": [
+        "原创",
+        "规则"
+    ],
+    "title": "新学期认知安全试行守则",
+    "sitemap_update": 1755944960000,
+    "votings": [
+        [
+            9331062,
+            false
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

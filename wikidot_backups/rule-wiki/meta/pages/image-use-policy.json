@@ -1,0 +1,41 @@
+{
+    "name": "image-use-policy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1539360226,
+            "author": 7344601,
+            "stamp": 1763010109,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"guide-hub\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539360215,
+            "author": 7344601,
+            "stamp": 1763010063,
+            "flags": "A",
+            "commentary": "已新增标签：指导, 管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539360211,
+            "author": 7344601,
+            "stamp": 1763010052,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466652158,
+    "parent": "guide-hub",
+    "tags": [
+        "指导",
+        "管理"
+    ],
+    "title": "图像使用守则",
+    "sitemap_update": 1763010109000,
+    "votings": [],
+    "is_locked": false
+}

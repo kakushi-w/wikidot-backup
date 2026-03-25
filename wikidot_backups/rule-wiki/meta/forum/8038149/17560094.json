@@ -1,0 +1,23 @@
+{
+    "title": "教室",
+    "id": 17560094,
+    "description": "",
+    "last": 1767985961,
+    "lastUser": 9331062,
+    "started": 1767985411,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7497701,
+            "title": "",
+            "poster": 9331062,
+            "stamp": 1767985961,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "name": "the-macior-rebel",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1537365572,
+            "author": 9833554,
+            "stamp": 1762005183,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1537364642,
+            "author": 9833554,
+            "stamp": 1762005059,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1537363144,
+            "author": 9833554,
+            "stamp": 1762004843,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1535143655,
+            "author": 9833554,
+            "stamp": 1761747378,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1535089582,
+            "author": 9833554,
+            "stamp": 1761742662,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1535089064,
+            "author": 9833554,
+            "stamp": 1761742613,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1535047924,
+            "author": 9833554,
+            "stamp": 1761739265,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1534977709,
+            "author": 9331062,
+            "stamp": 1761733497,
+            "flags": "S",
+            "commentary": "加入评分模块"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1534772002,
+            "author": 9833554,
+            "stamp": 1761717233,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1534067975,
+            "author": 9833554,
+            "stamp": 1761655456,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1534067819,
+            "author": 9833554,
+            "stamp": 1761655431,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1461562317,
+    "rating": 4,
+    "forum_thread": 17401289,
+    "tags": [
+        "原创",
+        "规则"
+    ],
+    "title": "\"The Mercior Rebel\"  “慈悲的叛乱”号 船内广播",
+    "sitemap_update": 1762005183000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            8323999,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

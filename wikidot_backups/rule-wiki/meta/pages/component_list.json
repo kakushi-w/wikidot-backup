@@ -1,0 +1,32 @@
+{
+    "name": "component:list",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541526685,
+            "author": 7344601,
+            "stamp": 1769054297,
+            "flags": "A",
+            "commentary": "已新增标签：管理, 组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541526676,
+            "author": 7344601,
+            "stamp": 1769054274,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468035399,
+    "tags": [
+        "管理",
+        "组件"
+    ],
+    "title": "文章列表",
+    "sitemap_update": 1769054297000,
+    "votings": [],
+    "is_locked": false
+}

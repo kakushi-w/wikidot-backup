@@ -1,0 +1,59 @@
+{
+    "name": "classroom",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541332616,
+            "author": 9331062,
+            "stamp": 1767986053,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541332550,
+            "author": 9331062,
+            "stamp": 1767985380,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541332545,
+            "author": 9331062,
+            "stamp": 1767985329,
+            "flags": "N",
+            "commentary": "A岛 KwPnxbD No.44837207"
+        }
+    ],
+    "files": [],
+    "page_id": 1467983806,
+    "rating": 4,
+    "forum_thread": 17560094,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "教室",
+    "sitemap_update": 1767986053000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            10236070,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9429365,
+            true
+        ]
+    ],
+    "is_locked": false
+}

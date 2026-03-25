@@ -1,0 +1,48 @@
+{
+    "name": "halloween-party",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1540063043,
+            "author": 8708015,
+            "stamp": 1764474469,
+            "flags": "A",
+            "commentary": "已新增标签：2025万圣月, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540063023,
+            "author": 8708015,
+            "stamp": 1764474423,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467193661,
+    "rating": 3,
+    "forum_thread": 17484316,
+    "tags": [
+        "2025万圣月",
+        "原创",
+        "故事"
+    ],
+    "title": "万圣夜派对-田间一梦",
+    "sitemap_update": 1764474469000,
+    "votings": [
+        [
+            8305255,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": true
+}

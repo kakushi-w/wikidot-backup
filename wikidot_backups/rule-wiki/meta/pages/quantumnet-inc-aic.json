@@ -1,0 +1,121 @@
+{
+    "name": "quantumnet-inc-aic",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1532120678,
+            "author": 9331062,
+            "stamp": 1757069869,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"qn-inc-hub\"."
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532119904,
+            "author": 9331062,
+            "stamp": 1757069093,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531852441,
+            "author": 8374306,
+            "stamp": 1756523977,
+            "flags": "A",
+            "commentary": "已新增标签：量子网络有限公司。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531835398,
+            "author": 8374306,
+            "stamp": 1756451542,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531835385,
+            "author": 8374306,
+            "stamp": 1756451472,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531835329,
+            "author": 8374306,
+            "stamp": 1756451245,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531835317,
+            "author": 8374306,
+            "stamp": 1756451189,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531834799,
+            "author": 8374306,
+            "stamp": 1756449303,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531834772,
+            "author": 8374306,
+            "stamp": 1756449188,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531834766,
+            "author": 8374306,
+            "stamp": 1756449170,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460125422,
+    "parent": "qn-inc-hub",
+    "rating": 5,
+    "forum_thread": 17235404,
+    "tags": [
+        "原创",
+        "规则",
+        "量子网络有限公司"
+    ],
+    "title": "安保VII型人工智能工作员运行规范第2.3.1版（第七次修订）",
+    "sitemap_update": 1757069869000,
+    "votings": [
+        [
+            9879889,
+            true
+        ],
+        [
+            9895153,
+            true
+        ],
+        [
+            8708015,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9524814,
+            true
+        ]
+    ],
+    "is_locked": false
+}

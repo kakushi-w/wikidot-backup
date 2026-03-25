@@ -1,0 +1,95 @@
+{
+    "name": "to-those-after-december-32-2024",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1530941228,
+            "author": 9331062,
+            "stamp": 1752244727,
+            "flags": "A",
+            "commentary": "已新增标签：故事。 移除标签：规则。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527260805,
+            "author": 7344601,
+            "stamp": 1736949406,
+            "flags": "A",
+            "commentary": "已新增标签：规则。 移除标签：规则怪谈。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527260752,
+            "author": 7344601,
+            "stamp": 1736949209,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则怪谈。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527260746,
+            "author": 7344601,
+            "stamp": 1736949184,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527260741,
+            "author": 7344601,
+            "stamp": 1736949164,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458245268,
+    "rating": 7,
+    "forum_thread": 17020948,
+    "tags": [
+        "搬运",
+        "故事"
+    ],
+    "title": "致2024年12月32日后",
+    "sitemap_update": 1752244727000,
+    "votings": [
+        [
+            9510715,
+            true
+        ],
+        [
+            9814005,
+            true
+        ],
+        [
+            9769506,
+            true
+        ],
+        [
+            9583919,
+            true
+        ],
+        [
+            9025837,
+            true
+        ],
+        [
+            8371822,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9808047,
+            false
+        ]
+    ],
+    "is_locked": false
+}

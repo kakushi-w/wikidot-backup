@@ -1,0 +1,47 @@
+{
+    "name": "xi-feng-gu-dao",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1533128529,
+            "author": 7344601,
+            "stamp": 1760969571,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533128528,
+            "author": 7344601,
+            "stamp": 1760969556,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460722034,
+    "rating": 3,
+    "forum_thread": 17374891,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "西村古道风景区怪谈",
+    "sitemap_update": 1760969571000,
+    "votings": [
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9529492,
+            true
+        ]
+    ],
+    "is_locked": false
+}

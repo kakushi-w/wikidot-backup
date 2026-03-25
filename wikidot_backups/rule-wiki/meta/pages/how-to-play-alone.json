@@ -1,0 +1,111 @@
+{
+    "name": "how-to-play-alone",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1532505538,
+            "author": 9331062,
+            "stamp": 1758964698,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531220431,
+            "author": 9331062,
+            "stamp": 1753635445,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530941280,
+            "author": 9331062,
+            "stamp": 1752244785,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530605508,
+            "author": 9331062,
+            "stamp": 1750515718,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528433652,
+            "author": 9331062,
+            "stamp": 1741965826,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528433544,
+            "author": 9331062,
+            "stamp": 1741965612,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528433505,
+            "author": 9331062,
+            "stamp": 1741965446,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528433442,
+            "author": 9331062,
+            "stamp": 1741965194,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528433425,
+            "author": 9331062,
+            "stamp": 1741965125,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458714921,
+    "rating": 5,
+    "forum_thread": 17068480,
+    "tags": [
+        "搬运",
+        "故事"
+    ],
+    "title": "怎样独自玩耍",
+    "sitemap_update": 1758964698000,
+    "votings": [
+        [
+            9510715,
+            true
+        ],
+        [
+            9331062,
+            true
+        ],
+        [
+            9769506,
+            true
+        ],
+        [
+            9524814,
+            true
+        ],
+        [
+            9879630,
+            true
+        ]
+    ],
+    "is_locked": false
+}

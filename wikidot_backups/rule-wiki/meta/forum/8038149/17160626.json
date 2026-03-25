@@ -1,0 +1,32 @@
+{
+    "title": "槐昱大学",
+    "id": 17160626,
+    "description": "",
+    "last": 1751780534,
+    "lastUser": 9331062,
+    "started": 1751352995,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7054309,
+            "title": "职员帖：搬运",
+            "poster": 9526934,
+            "stamp": 1751353231,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7058540,
+                    "title": "Re: 职员帖：搬运",
+                    "poster": 9331062,
+                    "stamp": 1751780534,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

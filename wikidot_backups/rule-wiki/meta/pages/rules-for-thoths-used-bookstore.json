@@ -1,0 +1,75 @@
+{
+    "name": "rules-for-thoths-used-bookstore",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531566797,
+            "author": 8017617,
+            "stamp": 1755190778,
+            "flags": "S",
+            "commentary": "更改了文中错误的序号"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531459507,
+            "author": 9331062,
+            "stamp": 1754732310,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531453733,
+            "author": 7344601,
+            "stamp": 1754706258,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531453725,
+            "author": 7344601,
+            "stamp": 1754706186,
+            "flags": "A",
+            "commentary": "已新增标签：en, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531453722,
+            "author": 7344601,
+            "stamp": 1754706169,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460022342,
+    "rating": 2,
+    "forum_thread": 17189058,
+    "tags": [
+        "en",
+        "规则"
+    ],
+    "title": "Thoth二手书店规则",
+    "sitemap_update": 1755190778000,
+    "votings": [
+        [
+            8305255,
+            true
+        ],
+        [
+            10249538,
+            false
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

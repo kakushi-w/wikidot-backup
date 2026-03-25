@@ -1,0 +1,72 @@
+{
+    "name": "baili",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1533191155,
+            "author": 9331062,
+            "stamp": 1761303011,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"zga-hub\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533190862,
+            "author": 9331062,
+            "stamp": 1761302238,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533190838,
+            "author": 9331062,
+            "stamp": 1761302117,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533190813,
+            "author": 9331062,
+            "stamp": 1761301940,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533190807,
+            "author": 9331062,
+            "stamp": 1761301919,
+            "flags": "N",
+            "commentary": "A岛 zgAHfGN No.45646572"
+        }
+    ],
+    "files": [],
+    "page_id": 1460740075,
+    "parent": "zga-hub",
+    "rating": 3,
+    "forum_thread": 17384840,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "百里屯避难所",
+    "sitemap_update": 1761303011000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": true
+}

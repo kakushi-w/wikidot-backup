@@ -1,0 +1,47 @@
+{
+    "name": "nanny",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531515257,
+            "author": 9331062,
+            "stamp": 1755015912,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531515000,
+            "author": 9331062,
+            "stamp": 1755014815,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531514986,
+            "author": 9331062,
+            "stamp": 1755014730,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460037351,
+    "rating": 1,
+    "forum_thread": 17184642,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "给新保姆的一些规定",
+    "sitemap_update": 1755015912000,
+    "votings": [
+        [
+            9808047,
+            true
+        ]
+    ],
+    "is_locked": false
+}

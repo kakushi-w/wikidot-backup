@@ -1,0 +1,116 @@
+{
+    "name": "system:user",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1542392768,
+            "author": 9331062,
+            "stamp": 1772504827,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1542392744,
+            "author": 9331062,
+            "stamp": 1772504710,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1542392450,
+            "author": 9331062,
+            "stamp": 1772502816,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542392435,
+            "author": 9331062,
+            "stamp": 1772502725,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542392169,
+            "author": 9331062,
+            "stamp": 1772500868,
+            "flags": "F",
+            "commentary": "已上传文件 “用户链接生成器.html”。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542392151,
+            "author": 9331062,
+            "stamp": 1772500659,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542392144,
+            "author": 9331062,
+            "stamp": 1772500585,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542392059,
+            "author": 9331062,
+            "stamp": 1772499754,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542392038,
+            "author": 9331062,
+            "stamp": 1772499477,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542391961,
+            "author": 9331062,
+            "stamp": 1772499131,
+            "flags": "F",
+            "commentary": "已上传文件 “用户链接生成器.html”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542391951,
+            "author": 9331062,
+            "stamp": 1772499086,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11752080,
+            "name": "用户链接生成器.html",
+            "url": "http://rule-wiki.wikidot.com/local--files/system:user/%E7%94%A8%E6%88%B7%E9%93%BE%E6%8E%A5%E7%94%9F%E6%88%90%E5%99%A8.html",
+            "size": "18.42 kB (18865 Bytes)",
+            "size_bytes": 18865,
+            "mime": "text/html; charset=utf-8",
+            "content": "HTML document, Unicode text, UTF-8 (with BOM) text, with very long lines (1406), with CRLF line terminators",
+            "author": 9331062,
+            "stamp": 1772500869,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468194716,
+    "tags": [
+        "管理"
+    ],
+    "title": "用户快捷封禁",
+    "sitemap_update": 1772504827000,
+    "votings": [],
+    "is_locked": true
+}

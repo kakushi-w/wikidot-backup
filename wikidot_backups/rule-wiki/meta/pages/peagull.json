@@ -1,0 +1,43 @@
+{
+    "name": "peagull",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1539516782,
+            "author": 9331062,
+            "stamp": 1763228984,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539516605,
+            "author": 9331062,
+            "stamp": 1763228680,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466776919,
+    "rating": 2,
+    "forum_thread": 17448283,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "Peagull.com",
+    "sitemap_update": 1763228984000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            10236070,
+            true
+        ]
+    ],
+    "is_locked": false
+}

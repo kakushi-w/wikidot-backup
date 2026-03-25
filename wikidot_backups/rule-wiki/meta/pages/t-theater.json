@@ -1,0 +1,47 @@
+{
+    "name": "t-theater",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542121891,
+            "author": 9331062,
+            "stamp": 1771330719,
+            "flags": "S",
+            "commentary": "黑条"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542121698,
+            "author": 9331062,
+            "stamp": 1771330031,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542121691,
+            "author": 9331062,
+            "stamp": 1771330005,
+            "flags": "N",
+            "commentary": "X岛 ZUQ3sBT NO.50161845"
+        }
+    ],
+    "files": [],
+    "page_id": 1468141306,
+    "rating": 1,
+    "forum_thread": 17590689,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "T市大剧院",
+    "sitemap_update": 1771330719000,
+    "votings": [
+        [
+            9331062,
+            true
+        ]
+    ],
+    "is_locked": true
+}

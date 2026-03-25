@@ -1,0 +1,32 @@
+{
+    "name": "featured-archive",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1542141140,
+            "author": 9331062,
+            "stamp": 1771424957,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 精品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542141038,
+            "author": 9331062,
+            "stamp": 1771424395,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468145638,
+    "tags": [
+        "中心",
+        "精品"
+    ],
+    "title": "精品原创页面归档",
+    "sitemap_update": 1771424957000,
+    "votings": [],
+    "is_locked": true
+}

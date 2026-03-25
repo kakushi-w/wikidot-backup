@@ -1,0 +1,20 @@
+{
+    "name": "system:list-all-categories",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 1527160275,
+            "author": 4951855,
+            "stamp": 1736319734,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458213934,
+    "title": "按照分类查找页面",
+    "sitemap_update": 1736319734000,
+    "votings": [],
+    "is_locked": true
+}

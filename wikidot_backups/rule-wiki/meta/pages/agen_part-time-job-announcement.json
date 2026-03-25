@@ -1,0 +1,283 @@
+{
+    "name": "agen:part-time-job-announcement",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 31,
+            "global_revision": 1531833988,
+            "author": 9331062,
+            "stamp": 1756446402,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"part-time-job-announcement\" 至 \"agen:part-time-job-announcement\"."
+        },
+        {
+            "revision": 30,
+            "global_revision": 1531822837,
+            "author": 9331062,
+            "stamp": 1756394539,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1531172825,
+            "author": 7344601,
+            "stamp": 1753415520,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 28,
+            "global_revision": 1531172818,
+            "author": 7344601,
+            "stamp": 1753415500,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1531172801,
+            "author": 7344601,
+            "stamp": 1753415449,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1531172780,
+            "author": 7344601,
+            "stamp": 1753415366,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1531172731,
+            "author": 7344601,
+            "stamp": 1753415243,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1531171628,
+            "author": 7344601,
+            "stamp": 1753409249,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1531171621,
+            "author": 7344601,
+            "stamp": 1753409193,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1531171608,
+            "author": 7344601,
+            "stamp": 1753409098,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1531171599,
+            "author": 7344601,
+            "stamp": 1753409034,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1531171590,
+            "author": 7344601,
+            "stamp": 1753408991,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1531171578,
+            "author": 7344601,
+            "stamp": 1753408925,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1531171574,
+            "author": 7344601,
+            "stamp": 1753408899,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1531171550,
+            "author": 7344601,
+            "stamp": 1753408769,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1531171534,
+            "author": 7344601,
+            "stamp": 1753408694,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1531171531,
+            "author": 7344601,
+            "stamp": 1753408669,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1531171523,
+            "author": 7344601,
+            "stamp": 1753408640,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531171511,
+            "author": 7344601,
+            "stamp": 1753408490,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531171503,
+            "author": 7344601,
+            "stamp": 1753408449,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531171492,
+            "author": 7344601,
+            "stamp": 1753408354,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531171486,
+            "author": 7344601,
+            "stamp": 1753408272,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531171483,
+            "author": 7344601,
+            "stamp": 1753408232,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531171463,
+            "author": 7344601,
+            "stamp": 1753408121,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531171455,
+            "author": 7344601,
+            "stamp": 1753408013,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531171451,
+            "author": 7344601,
+            "stamp": 1753407983,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531171442,
+            "author": 7344601,
+            "stamp": 1753407910,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531171433,
+            "author": 7344601,
+            "stamp": 1753407874,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531171428,
+            "author": 7344601,
+            "stamp": 1753407852,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531171423,
+            "author": 7344601,
+            "stamp": 1753407826,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531171405,
+            "author": 7344601,
+            "stamp": 1753407701,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531171401,
+            "author": 7344601,
+            "stamp": 1753407682,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459960194,
+    "rating": 2,
+    "forum_thread": 17171305,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "朋友收集的奇怪兼职公告（施工中）",
+    "sitemap_update": 1756446402000,
+    "votings": [
+        [
+            8017463,
+            true
+        ],
+        [
+            9879630,
+            true
+        ]
+    ],
+    "is_locked": false
+}

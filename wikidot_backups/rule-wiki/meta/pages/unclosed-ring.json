@@ -1,0 +1,63 @@
+{
+    "name": "unclosed-ring",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1530973063,
+            "author": 7344601,
+            "stamp": 1752406749,
+            "flags": "A",
+            "commentary": "已新增标签：规则。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530973023,
+            "author": 9710885,
+            "stamp": 1752406548,
+            "flags": "A",
+            "commentary": "已新增标签：2025十站联竞。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530973000,
+            "author": 9710885,
+            "stamp": 1752406456,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530972972,
+            "author": 9710885,
+            "stamp": 1752406324,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459912266,
+    "rating": 3,
+    "forum_thread": 17165548,
+    "tags": [
+        "2025十站联竞",
+        "规则"
+    ],
+    "title": "非闭合的环",
+    "sitemap_update": 1752406749000,
+    "votings": [
+        [
+            9583919,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

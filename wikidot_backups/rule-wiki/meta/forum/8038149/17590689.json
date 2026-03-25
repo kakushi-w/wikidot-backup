@@ -1,0 +1,23 @@
+{
+    "title": "T市大剧院",
+    "id": 17590689,
+    "description": "",
+    "last": 1771330100,
+    "lastUser": 9331062,
+    "started": 1771330061,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7556565,
+            "title": "",
+            "poster": 9331062,
+            "stamp": 1771330100,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

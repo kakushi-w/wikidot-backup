@@ -1,0 +1,54 @@
+{
+    "name": "tale-list",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1530956399,
+            "author": 9331062,
+            "stamp": 1752324104,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"recent-created-pages\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530955909,
+            "author": 9331062,
+            "stamp": 1752322011,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530955181,
+            "author": 9331062,
+            "stamp": 1752318662,
+            "flags": "A",
+            "commentary": "已新增标签：中心。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530501128,
+            "author": 7344601,
+            "stamp": 1749891871,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459796762,
+    "parent": "recent-created-pages",
+    "forum_thread": 17164066,
+    "tags": [
+        "中心"
+    ],
+    "title": "最近新增的故事",
+    "sitemap_update": 1752324104000,
+    "votings": [
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,138 @@
+{
+    "title": "小熊饼干杀",
+    "id": 17374877,
+    "description": "",
+    "last": 1761306147,
+    "lastUser": 9808112,
+    "started": 1761085612,
+    "startedUser": null,
+    "postsNum": 6,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7342024,
+            "title": "原作相关信息",
+            "poster": 9529492,
+            "stamp": 1761085711,
+            "lastEdit": 1761299261,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "原作相关信息",
+                    "author": 9331062,
+                    "id": 8867017,
+                    "stamp": 1761299261
+                },
+                {
+                    "title": "原作相关信息",
+                    "author": 9529492,
+                    "id": 8856111,
+                    "stamp": 1761085711
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7352481,
+            "title": "是的，还是神秘uv入",
+            "poster": 9808112,
+            "stamp": 1761306147,
+            "lastEdit": 1761306204,
+            "lastEditBy": 9808112,
+            "revisions": [
+                {
+                    "title": "是的，还是神秘uv入",
+                    "author": 9808112,
+                    "id": 8867363,
+                    "stamp": 1761306204
+                },
+                {
+                    "title": "是的，还是神秘uv入",
+                    "author": 9808112,
+                    "id": 8867359,
+                    "stamp": 1761306147
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7343870,
+            "title": "",
+            "poster": 9331062,
+            "stamp": 1761127735,
+            "lastEdit": 1761130526,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8858247,
+                    "stamp": 1761130526
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8858096,
+                    "stamp": 1761127852
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8858090,
+                    "stamp": 1761127735
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 8858173,
+                    "stamp": 1761129091
+                }
+            ],
+            "children": [
+                {
+                    "id": 7343925,
+                    "title": "",
+                    "poster": 9529492,
+                    "stamp": 1761128812,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7344001,
+                            "title": "",
+                            "poster": 9331062,
+                            "stamp": 1761130500,
+                            "lastEdit": 1761130607,
+                            "lastEditBy": 9331062,
+                            "revisions": [
+                                {
+                                    "title": "",
+                                    "author": 9331062,
+                                    "id": 8858244,
+                                    "stamp": 1761130500
+                                },
+                                {
+                                    "title": "",
+                                    "author": 9331062,
+                                    "id": 8858254,
+                                    "stamp": 1761130607
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "id": 7344213,
+                                    "title": "",
+                                    "poster": 9529492,
+                                    "stamp": 1761134247,
+                                    "revisions": [],
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

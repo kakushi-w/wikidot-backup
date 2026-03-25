@@ -1,0 +1,38 @@
+{
+    "title": "日月湖游客手册",
+    "id": 17416858,
+    "description": "",
+    "last": 1761974598,
+    "lastUser": 6247475,
+    "started": 1761974561,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7387448,
+            "title": "职员帖：代发",
+            "poster": 6247475,
+            "stamp": 1761974598,
+            "lastEdit": 1761974669,
+            "lastEditBy": 7344601,
+            "revisions": [
+                {
+                    "title": "职员帖：代发",
+                    "author": 7344601,
+                    "id": 8904738,
+                    "stamp": 1761974669
+                },
+                {
+                    "title": "职员帖：代发",
+                    "author": 6247475,
+                    "id": 8904732,
+                    "stamp": 1761974598
+                }
+            ],
+            "children": []
+        }
+    ]
+}

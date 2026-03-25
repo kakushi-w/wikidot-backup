@@ -1,0 +1,64 @@
+{
+    "name": "component:_template",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1541675104,
+            "author": 4951855,
+            "stamp": 1769775307,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541675092,
+            "author": 4951855,
+            "stamp": 1769775265,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531822916,
+            "author": 9331062,
+            "stamp": 1756394868,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1526953452,
+            "author": 7344601,
+            "stamp": 1735227854,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1526953320,
+            "author": 7344601,
+            "stamp": 1735226512,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1526952867,
+            "author": 7344601,
+            "stamp": 1735224050,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458133648,
+    "tags": [
+        "管理",
+        "组件"
+    ],
+    "title": "组件默认提示页",
+    "sitemap_update": 1769775307000,
+    "votings": [],
+    "is_locked": true
+}

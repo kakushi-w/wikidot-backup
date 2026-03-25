@@ -1,0 +1,115 @@
+{
+    "name": "rulehorrorsteaching",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1540893516,
+            "author": 9583919,
+            "stamp": 1766400707,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1540893486,
+            "author": 7344601,
+            "stamp": 1766400418,
+            "flags": "A",
+            "commentary": "已新增标签：规则。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1540843422,
+            "author": 9583919,
+            "stamp": 1766333580,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540843342,
+            "author": 9583919,
+            "stamp": 1766333405,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540843149,
+            "author": 9583919,
+            "stamp": 1766333083,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540843098,
+            "author": 9583919,
+            "stamp": 1766333015,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540843008,
+            "author": 9583919,
+            "stamp": 1766332843,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540842983,
+            "author": 9583919,
+            "stamp": 1766332798,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467713214,
+    "rating": 8,
+    "forum_thread": 17496115,
+    "tags": [
+        "原创",
+        "规则"
+    ],
+    "title": "如何写作规则怪谈",
+    "sitemap_update": 1766400707000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            9672430,
+            true
+        ],
+        [
+            8708015,
+            true
+        ],
+        [
+            8426551,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9402289,
+            true
+        ],
+        [
+            9529492,
+            true
+        ],
+        [
+            9526934,
+            true
+        ]
+    ],
+    "is_locked": false
+}

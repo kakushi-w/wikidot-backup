@@ -1,0 +1,31 @@
+{
+    "name": "inc:changeguruguru",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1531518996,
+            "author": 9331062,
+            "stamp": 1755033737,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531518987,
+            "author": 9331062,
+            "stamp": 1755033715,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460038824,
+    "tags": [
+        "组件"
+    ],
+    "title": "旋转用标志变更",
+    "sitemap_update": 1755033737000,
+    "votings": [],
+    "is_locked": false
+}

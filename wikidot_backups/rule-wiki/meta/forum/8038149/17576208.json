@@ -1,0 +1,50 @@
+{
+    "title": "四十八点5中",
+    "id": 17576208,
+    "description": "",
+    "last": 1769871681,
+    "lastUser": 9331062,
+    "started": 1769871328,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7528609,
+            "title": "职员帖",
+            "poster": 9331062,
+            "stamp": 1769871681,
+            "lastEdit": 1769905175,
+            "lastEditBy": 7344601,
+            "revisions": [
+                {
+                    "title": "职员帖",
+                    "author": 7344601,
+                    "id": 9070307,
+                    "stamp": 1769905175
+                },
+                {
+                    "title": "职员贴",
+                    "author": 9331062,
+                    "id": 9069811,
+                    "stamp": 1769871928
+                },
+                {
+                    "title": "职员贴",
+                    "author": 7344601,
+                    "id": 9070306,
+                    "stamp": 1769905161
+                },
+                {
+                    "title": "职员贴",
+                    "author": 9331062,
+                    "id": 9069810,
+                    "stamp": 1769871681
+                }
+            ],
+            "children": []
+        }
+    ]
+}

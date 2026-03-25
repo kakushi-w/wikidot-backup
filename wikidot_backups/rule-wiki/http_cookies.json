@@ -1,0 +1,18 @@
+[
+    {
+        "value": "78e102a7d65ab7557a6778f5c4a45a2ebb9236662d8a9454fd32f77",
+        "name": "WIKIDOT_SESSION_ID",
+        "path": "/",
+        "domain": ".wikidot.com",
+        "expires": "2026-03-25T04:35:26.432Z",
+        "secure": false
+    },
+    {
+        "value": "6b64d6dc2ba9db90d5389bd423bb4b59",
+        "name": "wikidot_token7",
+        "path": "/",
+        "domain": "rule-wiki.wikidot.com",
+        "expires": "2026-03-25T03:08:54.624Z",
+        "secure": false
+    }
+]

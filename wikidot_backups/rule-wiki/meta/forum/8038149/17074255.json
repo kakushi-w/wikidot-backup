@@ -1,0 +1,23 @@
+{
+    "title": "物品学",
+    "id": 17074255,
+    "description": "",
+    "last": 1742566195,
+    "lastUser": 9331062,
+    "started": 1742566150,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6888344,
+            "title": "",
+            "poster": 9331062,
+            "stamp": 1742566195,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

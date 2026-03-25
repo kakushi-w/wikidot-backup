@@ -1,0 +1,50 @@
+{
+    "title": "雾月志异",
+    "id": 17462171,
+    "description": "",
+    "last": 1764686825,
+    "lastUser": 9529492,
+    "started": 1764325529,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7439547,
+            "title": "",
+            "poster": 9331062,
+            "stamp": 1764325570,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7439620,
+                    "title": "",
+                    "poster": 9529492,
+                    "stamp": 1764333205,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7449977,
+                            "title": "",
+                            "poster": 8824993,
+                            "stamp": 1764684748,
+                            "revisions": [],
+                            "children": [
+                                {
+                                    "id": 7450097,
+                                    "title": "",
+                                    "poster": 9529492,
+                                    "stamp": 1764686825,
+                                    "revisions": [],
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

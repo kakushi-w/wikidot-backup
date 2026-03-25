@@ -1,0 +1,50 @@
+{
+    "name": "s",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542278160,
+            "author": 9331062,
+            "stamp": 1771941437,
+            "flags": "A",
+            "commentary": "已新增标签：规则。 移除标签：规则怪谈。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542269840,
+            "author": 10225153,
+            "stamp": 1771918776,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 规则怪谈。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542269829,
+            "author": 10225153,
+            "stamp": 1771918742,
+            "flags": "A",
+            "commentary": "已新增标签：2026新年联竞。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542269827,
+            "author": 10225153,
+            "stamp": 1771918736,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468168985,
+    "forum_thread": 17593839,
+    "tags": [
+        "2026新年联竞",
+        "原创",
+        "规则"
+    ],
+    "title": "静观勿言",
+    "sitemap_update": 1771941437000,
+    "votings": [],
+    "is_locked": true
+}

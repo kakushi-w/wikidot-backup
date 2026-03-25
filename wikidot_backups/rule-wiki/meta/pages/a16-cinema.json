@@ -1,0 +1,59 @@
+{
+    "name": "a16-cinema",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531241948,
+            "author": 9331062,
+            "stamp": 1753721750,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531241938,
+            "author": 9331062,
+            "stamp": 1753721704,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531241891,
+            "author": 9331062,
+            "stamp": 1753721427,
+            "flags": "N",
+            "commentary": "A岛 0yIhX4v No.44995056"
+        }
+    ],
+    "files": [],
+    "page_id": 1459975502,
+    "rating": 4,
+    "forum_thread": 17172816,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "观影人士行动指引及注意事项",
+    "sitemap_update": 1753721750000,
+    "votings": [
+        [
+            9814005,
+            true
+        ],
+        [
+            9331062,
+            true
+        ],
+        [
+            8708015,
+            true
+        ],
+        [
+            9583919,
+            true
+        ]
+    ],
+    "is_locked": false
+}

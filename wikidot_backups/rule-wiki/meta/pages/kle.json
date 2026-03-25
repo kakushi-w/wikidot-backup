@@ -1,0 +1,104 @@
+{
+    "name": "kle",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531395944,
+            "author": 9331062,
+            "stamp": 1754406027,
+            "flags": "S",
+            "commentary": "加入评分模块"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531356881,
+            "author": 8736966,
+            "stamp": 1754219640,
+            "flags": "A",
+            "commentary": "已新增标签：crossover。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531343238,
+            "author": 8736966,
+            "stamp": 1754147949,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531343237,
+            "author": 8736966,
+            "stamp": 1754147929,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531325227,
+            "author": 8736966,
+            "stamp": 1754059287,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531325212,
+            "author": 8736966,
+            "stamp": 1754059256,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531325196,
+            "author": 8736966,
+            "stamp": 1754059202,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459991090,
+    "rating": 7,
+    "forum_thread": 17175559,
+    "tags": [
+        "crossover",
+        "原创",
+        "规则"
+    ],
+    "title": "克伦尔未来规划委员会近期通告记录七则",
+    "sitemap_update": 1754406027000,
+    "votings": [
+        [
+            8075475,
+            true
+        ],
+        [
+            9814005,
+            true
+        ],
+        [
+            9331062,
+            true
+        ],
+        [
+            9564038,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            8898249,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

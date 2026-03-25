@@ -1,0 +1,103 @@
+{
+    "name": "weiss-baer-eisfeld",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531721870,
+            "author": 9529492,
+            "stamp": 1755949760,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531721719,
+            "author": 9529492,
+            "stamp": 1755949205,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531721216,
+            "author": 9529492,
+            "stamp": 1755946581,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531720275,
+            "author": 9529492,
+            "stamp": 1755942521,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531714875,
+            "author": 9529492,
+            "stamp": 1755920811,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531714631,
+            "author": 9529492,
+            "stamp": 1755919704,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531714602,
+            "author": 9529492,
+            "stamp": 1755919506,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460095990,
+    "rating": 5,
+    "forum_thread": 17223075,
+    "tags": [
+        "原创",
+        "规则"
+    ],
+    "title": "白熊原游览守则",
+    "sitemap_update": 1755949760000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            8017463,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9631761,
+            false
+        ],
+        [
+            9774905,
+            true
+        ],
+        [
+            9808047,
+            true
+        ]
+    ],
+    "is_locked": false
+}

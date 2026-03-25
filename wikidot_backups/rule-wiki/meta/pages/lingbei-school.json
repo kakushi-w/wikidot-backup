@@ -1,0 +1,87 @@
+{
+    "name": "lingbei-school",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1540709653,
+            "author": 9331062,
+            "stamp": 1766057810,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1533021197,
+            "author": 9331062,
+            "stamp": 1760436496,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1533021039,
+            "author": 9331062,
+            "stamp": 1760436256,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533020924,
+            "author": 9331062,
+            "stamp": 1760435248,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533005757,
+            "author": 7344601,
+            "stamp": 1760351286,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533005754,
+            "author": 7344601,
+            "stamp": 1760351265,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533005749,
+            "author": 7344601,
+            "stamp": 1760351221,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460687576,
+    "rating": 3,
+    "forum_thread": 17346446,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "陵北中学怪谈",
+    "sitemap_update": 1766057810000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,178 @@
+{
+    "name": "tag-and-category-guide",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 19,
+            "global_revision": 1540076028,
+            "author": 9331062,
+            "stamp": 1764497254,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1540076007,
+            "author": 9331062,
+            "stamp": 1764497217,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1532367180,
+            "author": 9331062,
+            "stamp": 1758289452,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1531459692,
+            "author": 9331062,
+            "stamp": 1754733414,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1531051529,
+            "author": 9331062,
+            "stamp": 1752767038,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1527392255,
+            "author": 4951855,
+            "stamp": 1737637534,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1527240913,
+            "author": 7344601,
+            "stamp": 1736822908,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"guide-hub\"."
+        },
+        {
+            "revision": 12,
+            "global_revision": 1527223171,
+            "author": 4951855,
+            "stamp": 1736704620,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1527222962,
+            "author": 4951855,
+            "stamp": 1736702041,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1527222897,
+            "author": 4951855,
+            "stamp": 1736701912,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1527222834,
+            "author": 4951855,
+            "stamp": 1736701376,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1527222788,
+            "author": 4951855,
+            "stamp": 1736700949,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1527222297,
+            "author": 4951855,
+            "stamp": 1736697209,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1527222249,
+            "author": 4951855,
+            "stamp": 1736696824,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1527222194,
+            "author": 4951855,
+            "stamp": 1736696639,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"label-and-partition-guide\" 至 \"tag-and-category-guide\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527222190,
+            "author": 4951855,
+            "stamp": 1736696604,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527221286,
+            "author": 7344601,
+            "stamp": 1736692682,
+            "flags": "A",
+            "commentary": "已新增标签：指导, 管理。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527221283,
+            "author": 7344601,
+            "stamp": 1736692632,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527221225,
+            "author": 7344601,
+            "stamp": 1736692355,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527221182,
+            "author": 7344601,
+            "stamp": 1736692150,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458231520,
+    "parent": "guide-hub",
+    "forum_thread": 17188784,
+    "tags": [
+        "指导",
+        "管理"
+    ],
+    "title": "标签与分区指导",
+    "sitemap_update": 1764497254000,
+    "votings": [],
+    "is_locked": true
+}

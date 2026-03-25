@@ -1,0 +1,59 @@
+{
+    "name": "breezeanddreams",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542315338,
+            "author": 9527530,
+            "stamp": 1772107627,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542314981,
+            "author": 9527530,
+            "stamp": 1772105987,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542314974,
+            "author": 9527530,
+            "stamp": 1772105953,
+            "flags": "A",
+            "commentary": "已新增标签：2026新年联竞。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542314970,
+            "author": 9527530,
+            "stamp": 1772105945,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468178349,
+    "forum_thread": 17594786,
+    "tags": [
+        "2026新年联竞",
+        "原创",
+        "规则"
+    ],
+    "title": "青枫镇-风牵双梦",
+    "sitemap_update": 1772107627000,
+    "votings": [
+        [
+            9189492,
+            true
+        ],
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,28 @@
+{
+    "name": "fragment:front-page-features",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1531614072,
+            "author": 7344601,
+            "stamp": 1755437467,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1526823364,
+            "author": 7344601,
+            "stamp": 1734833526,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458042291,
+    "title": "主站精品",
+    "sitemap_update": 1755437467000,
+    "votings": [],
+    "is_locked": false
+}

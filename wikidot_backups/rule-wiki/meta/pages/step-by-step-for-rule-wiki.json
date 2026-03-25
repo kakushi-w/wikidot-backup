@@ -1,0 +1,344 @@
+{
+    "name": "step-by-step-for-rule-wiki",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 37,
+            "global_revision": 1541700331,
+            "author": 9331062,
+            "stamp": 1769878184,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1541700265,
+            "author": 9331062,
+            "stamp": 1769877926,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1541699577,
+            "author": 9331062,
+            "stamp": 1769875203,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1531799461,
+            "author": 7344601,
+            "stamp": 1756298189,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 32"
+        },
+        {
+            "revision": 33,
+            "global_revision": 1531796478,
+            "author": 8152715,
+            "stamp": 1756286930,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1531408422,
+            "author": 9331062,
+            "stamp": 1754473640,
+            "flags": "S",
+            "commentary": "更正了部分无效标签"
+        },
+        {
+            "revision": 31,
+            "global_revision": 1531408290,
+            "author": 9331062,
+            "stamp": 1754473024,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1527469291,
+            "author": 4951855,
+            "stamp": 1738034865,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"guide-hub\"."
+        },
+        {
+            "revision": 29,
+            "global_revision": 1527451317,
+            "author": 7344601,
+            "stamp": 1737955159,
+            "flags": "A",
+            "commentary": "已新增标签：指导, 管理。"
+        },
+        {
+            "revision": 28,
+            "global_revision": 1527451314,
+            "author": 7344601,
+            "stamp": 1737955115,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1527451299,
+            "author": 7344601,
+            "stamp": 1737955042,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1527451286,
+            "author": 7344601,
+            "stamp": 1737954912,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1527451264,
+            "author": 7344601,
+            "stamp": 1737954723,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1527451204,
+            "author": 7344601,
+            "stamp": 1737954475,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1527451169,
+            "author": 7344601,
+            "stamp": 1737954015,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1527451149,
+            "author": 7344601,
+            "stamp": 1737953684,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1527451126,
+            "author": 7344601,
+            "stamp": 1737953419,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1527451119,
+            "author": 7344601,
+            "stamp": 1737953334,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1527451097,
+            "author": 7344601,
+            "stamp": 1737953130,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1527451088,
+            "author": 7344601,
+            "stamp": 1737952942,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1527451079,
+            "author": 7344601,
+            "stamp": 1737952822,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1527451070,
+            "author": 7344601,
+            "stamp": 1737952729,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1527451066,
+            "author": 7344601,
+            "stamp": 1737952667,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1527451062,
+            "author": 7344601,
+            "stamp": 1737952586,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1527451040,
+            "author": 7344601,
+            "stamp": 1737952366,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1527451029,
+            "author": 7344601,
+            "stamp": 1737952265,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1527451011,
+            "author": 7344601,
+            "stamp": 1737952151,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1527450989,
+            "author": 7344601,
+            "stamp": 1737951891,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1527450982,
+            "author": 7344601,
+            "stamp": 1737951825,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1527450971,
+            "author": 7344601,
+            "stamp": 1737951732,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1527450947,
+            "author": 7344601,
+            "stamp": 1737951525,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1527450933,
+            "author": 7344601,
+            "stamp": 1737951430,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1527450880,
+            "author": 7344601,
+            "stamp": 1737951227,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527450871,
+            "author": 7344601,
+            "stamp": 1737951130,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527450867,
+            "author": 7344601,
+            "stamp": 1737951098,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527450856,
+            "author": 7344601,
+            "stamp": 1737951011,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527450846,
+            "author": 7344601,
+            "stamp": 1737950929,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527450837,
+            "author": 7344601,
+            "stamp": 1737950852,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458317995,
+    "parent": "guide-hub",
+    "rating": 5,
+    "forum_thread": 17171008,
+    "tags": [
+        "指导",
+        "管理"
+    ],
+    "title": "逐步教程（但是规则怪谈）",
+    "sitemap_update": 1769878184000,
+    "votings": [
+        [
+            9287769,
+            true
+        ],
+        [
+            9859678,
+            true
+        ],
+        [
+            8708015,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9560700,
+            true
+        ]
+    ],
+    "is_locked": false
+}

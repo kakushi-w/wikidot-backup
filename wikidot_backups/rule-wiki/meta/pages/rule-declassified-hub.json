@@ -1,0 +1,63 @@
+{
+    "name": "rule-declassified-hub",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532152676,
+            "author": 4951855,
+            "stamp": 1757141439,
+            "flags": "A",
+            "commentary": "已新增标签：中心。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531587032,
+            "author": 9331062,
+            "stamp": 1755301343,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531322073,
+            "author": 9331062,
+            "stamp": 1754046829,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531322069,
+            "author": 9331062,
+            "stamp": 1754046810,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531248355,
+            "author": 9331062,
+            "stamp": 1753757366,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530956917,
+            "author": 9331062,
+            "stamp": 1752326178,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459908587,
+    "tags": [
+        "中心"
+    ],
+    "title": "解密怪谈中心页",
+    "sitemap_update": 1757141439000,
+    "votings": [],
+    "is_locked": false
+}

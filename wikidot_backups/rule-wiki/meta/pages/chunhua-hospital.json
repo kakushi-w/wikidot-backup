@@ -1,0 +1,51 @@
+{
+    "name": "chunhua-hospital",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542122030,
+            "author": 9331062,
+            "stamp": 1771331340,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542122027,
+            "author": 9331062,
+            "stamp": 1771331318,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542122016,
+            "author": 9331062,
+            "stamp": 1771331276,
+            "flags": "N",
+            "commentary": "X岛 yystHMJ NO.50221739"
+        }
+    ],
+    "files": [],
+    "page_id": 1468141405,
+    "rating": 2,
+    "forum_thread": 17590708,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "春华市立动物医院院规",
+    "sitemap_update": 1771331340000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": true
+}

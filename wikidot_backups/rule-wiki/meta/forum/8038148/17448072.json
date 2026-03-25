@@ -1,0 +1,73 @@
+{
+    "title": "标题",
+    "id": 17448072,
+    "description": "",
+    "last": 1763251141,
+    "lastUser": 9331062,
+    "started": 1763212091,
+    "startedUser": 9158361,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7425060,
+            "title": "",
+            "poster": 9158361,
+            "stamp": 1763212091,
+            "lastEdit": 1763391424,
+            "lastEditBy": 9158361,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9158361,
+                    "id": 8952986,
+                    "stamp": 1763391424
+                },
+                {
+                    "title": "",
+                    "author": 9158361,
+                    "id": 8946739,
+                    "stamp": 1763219238
+                },
+                {
+                    "title": "这版式崩成啥了",
+                    "author": 9158361,
+                    "id": 8946447,
+                    "stamp": 1763212091
+                },
+                {
+                    "title": "这版式崩成啥了",
+                    "author": 9158361,
+                    "id": 8946736,
+                    "stamp": 1763219177
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7426401,
+            "title": "Re: 标题",
+            "poster": 9331062,
+            "stamp": 1763251141,
+            "lastEdit": 1763251184,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "Re: 标题",
+                    "author": 9331062,
+                    "id": 8947956,
+                    "stamp": 1763251184
+                },
+                {
+                    "title": "Re: 标题",
+                    "author": 9331062,
+                    "id": 8947954,
+                    "stamp": 1763251141
+                }
+            ],
+            "children": []
+        }
+    ]
+}

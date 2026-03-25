@@ -1,0 +1,71 @@
+{
+    "name": "inc:guruguru",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1538439745,
+            "author": 9331062,
+            "stamp": 1762339276,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531587777,
+            "author": 9331062,
+            "stamp": 1755305759,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531587734,
+            "author": 7344601,
+            "stamp": 1755305711,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"guruguru\" 至 \"inc:guruguru\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531587729,
+            "author": 7344601,
+            "stamp": 1755305650,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"inc:guruguru\" 至 \"guruguru\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531587511,
+            "author": 9331062,
+            "stamp": 1755303974,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531587494,
+            "author": 9331062,
+            "stamp": 1755303852,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531587487,
+            "author": 9331062,
+            "stamp": 1755303794,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460066084,
+    "tags": [
+        "组件"
+    ],
+    "title": "转啊转",
+    "sitemap_update": 1762339276000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,86 @@
+{
+    "name": "system:join",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531586793,
+            "author": 9331062,
+            "stamp": 1755300554,
+            "flags": "S",
+            "commentary": "加入了一句话“如果在阅读后仍然无法消除原点请删除邮件。\n”"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530101866,
+            "author": 4951855,
+            "stamp": 1747143198,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527222994,
+            "author": 4951855,
+            "stamp": 1736702569,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527162178,
+            "author": 4951855,
+            "stamp": 1736333982,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527159404,
+            "author": 4951855,
+            "stamp": 1736314677,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1526827826,
+            "author": 7344601,
+            "stamp": 1734860658,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1526823373,
+            "author": 7344601,
+            "stamp": 1734833529,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458042300,
+    "forum_thread": 17188083,
+    "title": "加入网站",
+    "sitemap_update": 1755300554000,
+    "votings": [
+        [
+            9879889,
+            true
+        ],
+        [
+            9100566,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            8899312,
+            true
+        ]
+    ],
+    "is_locked": true
+}

@@ -1,0 +1,163 @@
+{
+    "name": "hydx",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 15,
+            "global_revision": 1531242829,
+            "author": 9331062,
+            "stamp": 1753727489,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。 移除标签：原创。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1530844666,
+            "author": 9331062,
+            "stamp": 1751780970,
+            "flags": "S",
+            "commentary": "加入评分模块"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1530844546,
+            "author": 9331062,
+            "stamp": 1751780382,
+            "flags": "A",
+            "commentary": "移除标签：代发。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1530844505,
+            "author": 9331062,
+            "stamp": 1751780116,
+            "flags": "S",
+            "commentary": "星号会被当做粗体，加了原始文字"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1530819815,
+            "author": 9526934,
+            "stamp": 1751636972,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1530819717,
+            "author": 9526934,
+            "stamp": 1751636618,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530819498,
+            "author": 9526934,
+            "stamp": 1751635574,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530773480,
+            "author": 7344601,
+            "stamp": 1751378174,
+            "flags": "A",
+            "commentary": "已新增标签：规则。 移除标签：规则怪谈。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530766452,
+            "author": 9526934,
+            "stamp": 1751353285,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530766341,
+            "author": 9526934,
+            "stamp": 1751352959,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530766120,
+            "author": 9526934,
+            "stamp": 1751351608,
+            "flags": "A",
+            "commentary": "已新增标签：代发, 规则怪谈。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530766114,
+            "author": 9526934,
+            "stamp": 1751351569,
+            "flags": "A",
+            "commentary": "已新增标签：原创。 移除标签：代发。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530766106,
+            "author": 9526934,
+            "stamp": 1751351527,
+            "flags": "A",
+            "commentary": "已新增标签：代发。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530766040,
+            "author": 9526934,
+            "stamp": 1751351274,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530766025,
+            "author": 9526934,
+            "stamp": 1751351160,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530766012,
+            "author": 9526934,
+            "stamp": 1751351072,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459862575,
+    "rating": 2,
+    "forum_thread": 17160626,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "槐昱大学",
+    "sitemap_update": 1753727489000,
+    "votings": [
+        [
+            9531957,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9774905,
+            false
+        ],
+        [
+            9319415,
+            true
+        ]
+    ],
+    "is_locked": true
+}

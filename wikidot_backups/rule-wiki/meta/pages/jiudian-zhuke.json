@@ -1,0 +1,87 @@
+{
+    "name": "jiudian-zhuke",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531112749,
+            "author": 9331062,
+            "stamp": 1753100325,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"deleted:jiudian-zhuke\" 至 \"jiudian-zhuke\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531112745,
+            "author": 9331062,
+            "stamp": 1753100306,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"jiudian-zhuke\" 至 \"deleted:jiudian-zhuke\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1529032808,
+            "author": 9331062,
+            "stamp": 1743680884,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 规则。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1529032803,
+            "author": 9331062,
+            "stamp": 1743680844,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528432597,
+            "author": 8352082,
+            "stamp": 1741962115,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528432591,
+            "author": 8352082,
+            "stamp": 1741962070,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528432576,
+            "author": 8352082,
+            "stamp": 1741962019,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458714712,
+    "rating": 3,
+    "forum_thread": 17229198,
+    "tags": [
+        "原创",
+        "规则"
+    ],
+    "title": "安乐酒店住客守则",
+    "sitemap_update": 1753100325000,
+    "votings": [
+        [
+            9879889,
+            true
+        ],
+        [
+            9710504,
+            true
+        ],
+        [
+            9808112,
+            true
+        ]
+    ],
+    "is_locked": false
+}

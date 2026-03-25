@@ -1,0 +1,83 @@
+{
+    "name": "2025joint-contest",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1533129128,
+            "author": 7344601,
+            "stamp": 1760971399,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"save:2025joint-contest\" 至 \"2025joint-contest\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532374056,
+            "author": 7344601,
+            "stamp": 1758321567,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"2025joint-contest\" 至 \"save:2025joint-contest\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530713521,
+            "author": 7344601,
+            "stamp": 1751127195,
+            "flags": "A",
+            "commentary": "已新增标签：2025十站联竞, 中心。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530713490,
+            "author": 7344601,
+            "stamp": 1751127071,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459853245,
+    "rating": 8,
+    "forum_thread": 17160409,
+    "tags": [
+        "2025十站联竞",
+        "中心"
+    ],
+    "title": "2025十站联竞中心页",
+    "sitemap_update": 1760971399000,
+    "votings": [
+        [
+            8305255,
+            true
+        ],
+        [
+            8942586,
+            true
+        ],
+        [
+            9671280,
+            true
+        ],
+        [
+            9583919,
+            true
+        ],
+        [
+            9745881,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            9032299,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": true
+}

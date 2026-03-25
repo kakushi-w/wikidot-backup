@@ -1,0 +1,92 @@
+{
+    "name": "givemealie",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531150428,
+            "author": 9331062,
+            "stamp": 1753288339,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531140005,
+            "author": 9583919,
+            "stamp": 1753246995,
+            "flags": "S",
+            "commentary": "修改标题格式、统一文本格式"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531134287,
+            "author": 9583919,
+            "stamp": 1753209052,
+            "flags": "S",
+            "commentary": "修改格式"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531134273,
+            "author": 9583919,
+            "stamp": 1753208955,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531134036,
+            "author": 9583919,
+            "stamp": 1753206569,
+            "flags": "A",
+            "commentary": "已新增标签：规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531134033,
+            "author": 9583919,
+            "stamp": 1753206551,
+            "flags": "A",
+            "commentary": "已新增标签：2025十站联竞。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531134026,
+            "author": 9583919,
+            "stamp": 1753206525,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459950453,
+    "rating": 4,
+    "forum_thread": 17169862,
+    "tags": [
+        "2025十站联竞",
+        "原创",
+        "规则"
+    ],
+    "title": "给我一个谎言",
+    "sitemap_update": 1753288339000,
+    "votings": [
+        [
+            8017463,
+            true
+        ],
+        [
+            9789899,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9774905,
+            true
+        ]
+    ],
+    "is_locked": false
+}

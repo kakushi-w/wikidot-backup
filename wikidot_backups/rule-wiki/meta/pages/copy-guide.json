@@ -1,0 +1,73 @@
+{
+    "name": "copy-guide",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1542126677,
+            "author": 9331062,
+            "stamp": 1771349916,
+            "flags": "S",
+            "commentary": "一些修订"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541700584,
+            "author": 9331062,
+            "stamp": 1769879216,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531115418,
+            "author": 7344601,
+            "stamp": 1753111248,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531115399,
+            "author": 9331062,
+            "stamp": 1753111166,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"guide-hub\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531115382,
+            "author": 9331062,
+            "stamp": 1753111007,
+            "flags": "A",
+            "commentary": "已新增标签：文章。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531115287,
+            "author": 9331062,
+            "stamp": 1753110704,
+            "flags": "A",
+            "commentary": "已新增标签：指导。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531115242,
+            "author": 9331062,
+            "stamp": 1753110493,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459945481,
+    "parent": "guide-hub",
+    "tags": [
+        "指导",
+        "文章"
+    ],
+    "title": "搬运指导",
+    "sitemap_update": 1771349916000,
+    "votings": [],
+    "is_locked": false
+}

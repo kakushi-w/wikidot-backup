@@ -1,0 +1,23 @@
+{
+    "title": "某平平无奇但很耗盐的医院",
+    "id": 17590732,
+    "description": "",
+    "last": 1771333474,
+    "lastUser": 9331062,
+    "started": 1771333441,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7556652,
+            "title": "",
+            "poster": 9331062,
+            "stamp": 1771333474,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "component:license-box",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531822763,
+            "author": 9331062,
+            "stamp": 1756394325,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531822524,
+            "author": 9331062,
+            "stamp": 1756393511,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1526883981,
+            "author": 7344601,
+            "stamp": 1734962622,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1526883830,
+            "author": 7344601,
+            "stamp": 1734961961,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458088974,
+    "tags": [
+        "组件"
+    ],
+    "title": "板权模块",
+    "sitemap_update": 1756394325000,
+    "votings": [],
+    "is_locked": false
+}

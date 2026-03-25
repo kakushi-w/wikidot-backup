@@ -1,0 +1,60 @@
+{
+    "name": "huizhuliuguang",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1534981787,
+            "author": 9331062,
+            "stamp": 1761733826,
+            "flags": "S",
+            "commentary": "加入评分模块"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1534883582,
+            "author": 7344601,
+            "stamp": 1761726090,
+            "flags": "A",
+            "commentary": "已新增标签：灰烛。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1534010912,
+            "author": 8027470,
+            "stamp": 1761628034,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1534010899,
+            "author": 8027470,
+            "stamp": 1761628018,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1461508529,
+    "rating": 2,
+    "forum_thread": 17439420,
+    "tags": [
+        "原创",
+        "灰烛",
+        "规则"
+    ],
+    "title": "“灰烛”关于流光镇的一切",
+    "sitemap_update": 1761733826000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

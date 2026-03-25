@@ -1,0 +1,125 @@
+{
+    "title": "**鬼夕中学**草稿",
+    "id": 17034604,
+    "description": "顾名思义",
+    "last": 1740839348,
+    "lastUser": 7344601,
+    "started": 1739246731,
+    "startedUser": 9512686,
+    "postsNum": 8,
+    "sticky": false,
+    "isLocked": true,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6810560,
+            "title": "校规",
+            "poster": 9512686,
+            "stamp": 1739248091,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6810791,
+            "title": "区域规则",
+            "poster": 9512686,
+            "stamp": 1739269097,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6810649,
+            "title": "职工规则",
+            "poster": 9512686,
+            "stamp": 1739258451,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6810548,
+            "title": "**鬼夕中学**草稿",
+            "poster": 9512686,
+            "stamp": 1739246731,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6811346,
+            "title": "Re: **鬼夕中学**草稿",
+            "poster": 7344601,
+            "stamp": 1739323219,
+            "lastEdit": 1739323363,
+            "lastEditBy": 7344601,
+            "revisions": [
+                {
+                    "title": "Re: **鬼夕中学**草稿",
+                    "author": 7344601,
+                    "id": 8258121,
+                    "stamp": 1739323363
+                },
+                {
+                    "title": "Re: **鬼夕中学**草稿",
+                    "author": 7344601,
+                    "id": 8258118,
+                    "stamp": 1739323219
+                }
+            ],
+            "children": [
+                {
+                    "id": 6812801,
+                    "title": "Re: **鬼夕中学**草稿",
+                    "poster": 9512686,
+                    "stamp": 1739506907,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 6839902,
+            "title": "职员贴：删除讨论串",
+            "poster": 4951855,
+            "stamp": 1740829645,
+            "lastEdit": 1740839416,
+            "lastEditBy": 7344601,
+            "revisions": [
+                {
+                    "title": "职员贴：删除讨论串",
+                    "author": 7344601,
+                    "id": 8290733,
+                    "stamp": 1740839416
+                },
+                {
+                    "title": "Re: **鬼夕中学**草稿",
+                    "author": 4951855,
+                    "id": 8290440,
+                    "stamp": 1740829645
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 6840141,
+            "title": "职员贴：锁帖",
+            "poster": 7344601,
+            "stamp": 1740839348,
+            "lastEdit": 1740840832,
+            "lastEditBy": 7344601,
+            "revisions": [
+                {
+                    "title": "职员贴：锁帖",
+                    "author": 7344601,
+                    "id": 8290779,
+                    "stamp": 1740840832
+                },
+                {
+                    "title": "职员贴：锁帖",
+                    "author": 7344601,
+                    "id": 8290725,
+                    "stamp": 1740839348
+                }
+            ],
+            "children": []
+        }
+    ]
+}

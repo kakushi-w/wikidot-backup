@@ -1,0 +1,113 @@
+{
+    "name": "new-age-clinic",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542141153,
+            "author": 9331062,
+            "stamp": 1771425013,
+            "flags": "A",
+            "commentary": "已新增标签：精品。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539766874,
+            "author": 4726378,
+            "stamp": 1763656475,
+            "flags": "A",
+            "commentary": "已新增标签：2025万圣月, 原创, 规则。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539766868,
+            "author": 4726378,
+            "stamp": 1763656454,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539766810,
+            "author": 4726378,
+            "stamp": 1763656332,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467003916,
+    "rating": 15,
+    "forum_thread": 17453976,
+    "tags": [
+        "2025万圣月",
+        "原创",
+        "精品",
+        "规则"
+    ],
+    "title": "新纪元医馆顶礼无上密意依教遵循法则",
+    "sitemap_update": 1771425013000,
+    "votings": [
+        [
+            9296355,
+            true
+        ],
+        [
+            8305255,
+            true
+        ],
+        [
+            9455755,
+            true
+        ],
+        [
+            8942586,
+            true
+        ],
+        [
+            9814005,
+            true
+        ],
+        [
+            9319469,
+            true
+        ],
+        [
+            10133162,
+            true
+        ],
+        [
+            9189492,
+            true
+        ],
+        [
+            8325293,
+            true
+        ],
+        [
+            9583919,
+            true
+        ],
+        [
+            10228030,
+            true
+        ],
+        [
+            9808112,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            8386863,
+            true
+        ],
+        [
+            9526934,
+            true
+        ]
+    ],
+    "is_locked": false
+}

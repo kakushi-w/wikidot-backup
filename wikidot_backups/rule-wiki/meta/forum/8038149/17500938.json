@@ -1,0 +1,38 @@
+{
+    "title": "◆-欧米科恩市-◆",
+    "id": 17500938,
+    "description": "",
+    "last": 1766777360,
+    "lastUser": 9331062,
+    "started": 1766777277,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7480827,
+            "title": "",
+            "poster": 9331062,
+            "stamp": 1766777360,
+            "lastEdit": 1766778578,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 9012388,
+                    "stamp": 1766778578
+                },
+                {
+                    "title": "",
+                    "author": 9331062,
+                    "id": 9012374,
+                    "stamp": 1766777360
+                }
+            ],
+            "children": []
+        }
+    ]
+}

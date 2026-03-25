@@ -1,0 +1,44 @@
+{
+    "title": "朋友收集的奇怪兼职公告（施工中）",
+    "id": 17171305,
+    "description": "",
+    "last": 1753415613,
+    "lastUser": 7344601,
+    "started": 1753415530,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7083407,
+            "title": "搬运贴",
+            "poster": 7344601,
+            "stamp": 1753415613,
+            "lastEdit": 1755238463,
+            "lastEditBy": 9331062,
+            "revisions": [
+                {
+                    "title": "搬运贴",
+                    "author": 9331062,
+                    "id": 8611993,
+                    "stamp": 1755238463
+                },
+                {
+                    "title": "搬运贴",
+                    "author": 7344601,
+                    "id": 8568746,
+                    "stamp": 1753415626
+                },
+                {
+                    "title": "搬运贴",
+                    "author": 7344601,
+                    "id": 8568745,
+                    "stamp": 1753415613
+                }
+            ],
+            "children": []
+        }
+    ]
+}

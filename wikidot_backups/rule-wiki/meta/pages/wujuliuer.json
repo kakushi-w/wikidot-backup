@@ -1,0 +1,39 @@
+{
+    "name": "wujuliuer",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1542267875,
+            "author": 4726378,
+            "stamp": 1771913177,
+            "flags": "A",
+            "commentary": "已新增标签：2026新年联竞, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542267850,
+            "author": 4726378,
+            "stamp": 1771913130,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468168165,
+    "forum_thread": 17593630,
+    "tags": [
+        "2026新年联竞",
+        "原创",
+        "故事"
+    ],
+    "title": "《二心堕入阿僧祇 三十戒闻归真假》",
+    "sitemap_update": 1771913177000,
+    "votings": [
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": true
+}

@@ -1,0 +1,59 @@
+{
+    "name": "hajimi",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1539531168,
+            "author": 7344601,
+            "stamp": 1763259664,
+            "flags": "A",
+            "commentary": "移除标签：有识血肉。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539530917,
+            "author": 4367001,
+            "stamp": 1763259169,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 有识血肉, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539530903,
+            "author": 4367001,
+            "stamp": 1763259139,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466787807,
+    "rating": 2,
+    "forum_thread": 17448823,
+    "tags": [
+        "原创",
+        "规则"
+    ],
+    "title": "某岗哨安保卫兵执勤手册",
+    "sitemap_update": 1763259664000,
+    "votings": [
+        [
+            9455755,
+            true
+        ],
+        [
+            9331062,
+            false
+        ],
+        [
+            4726378,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

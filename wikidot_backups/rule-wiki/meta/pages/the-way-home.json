@@ -1,0 +1,80 @@
+{
+    "name": "the-way-home",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1542382695,
+            "author": 9331062,
+            "stamp": 1772450718,
+            "flags": "A",
+            "commentary": "已新增标签：_cc。 移除标签：_image。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542382581,
+            "author": 9331062,
+            "stamp": 1772450248,
+            "flags": "A",
+            "commentary": "已新增标签：_image。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527267530,
+            "author": 4951855,
+            "stamp": 1736996374,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527260959,
+            "author": 7344601,
+            "stamp": 1736949928,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527260956,
+            "author": 7344601,
+            "stamp": 1736949904,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527260949,
+            "author": 7344601,
+            "stamp": 1736949856,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527260931,
+            "author": 7344601,
+            "stamp": 1736949758,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458245349,
+    "rating": 1,
+    "forum_thread": 17020956,
+    "tags": [
+        "_cc",
+        "搬运",
+        "规则"
+    ],
+    "title": "回家之路",
+    "sitemap_update": 1772450718000,
+    "votings": [
+        [
+            9510715,
+            true
+        ]
+    ],
+    "is_locked": false
+}

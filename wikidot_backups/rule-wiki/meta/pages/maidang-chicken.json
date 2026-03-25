@@ -1,0 +1,71 @@
+{
+    "name": "maidang-chicken",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1539786214,
+            "author": 9331062,
+            "stamp": 1763741431,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539786124,
+            "author": 9331062,
+            "stamp": 1763741209,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539786056,
+            "author": 9331062,
+            "stamp": 1763740972,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539785946,
+            "author": 9331062,
+            "stamp": 1763740424,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539785940,
+            "author": 9331062,
+            "stamp": 1763740392,
+            "flags": "N",
+            "commentary": "A岛 vW9PiWf No.44936373"
+        }
+    ],
+    "files": [],
+    "page_id": 1467013737,
+    "rating": 3,
+    "forum_thread": 17455110,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "快乐麦当鸡用餐守则",
+    "sitemap_update": 1763741431000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            9583919,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

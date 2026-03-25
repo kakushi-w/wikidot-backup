@@ -1,0 +1,63 @@
+{
+    "name": "disney",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542798569,
+            "author": 9331062,
+            "stamp": 1774006958,
+            "flags": "S",
+            "commentary": "根据原文的排版进行了部分更改"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542798364,
+            "author": 9331062,
+            "stamp": 1774005985,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531496032,
+            "author": 9331062,
+            "stamp": 1754923071,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 规则。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531496005,
+            "author": 9331062,
+            "stamp": 1754922960,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460031539,
+    "rating": 3,
+    "forum_thread": 17181848,
+    "tags": [
+        "搬运",
+        "规则"
+    ],
+    "title": "一份提供给迪士尼雇员的备忘录",
+    "sitemap_update": 1774006958000,
+    "votings": [
+        [
+            9331062,
+            true
+        ],
+        [
+            9809746,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}
