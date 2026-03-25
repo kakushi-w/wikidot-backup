@@ -1,0 +1,121 @@
+{
+    "name": "author:luckyrot1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1541843108,
+            "author": 9422717,
+            "stamp": 1770541297,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531830131,
+            "author": 9422717,
+            "stamp": 1756431403,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531830104,
+            "author": 9422717,
+            "stamp": 1756431214,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531457559,
+            "author": 9422717,
+            "stamp": 1754724431,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531349227,
+            "author": 9422717,
+            "stamp": 1754183951,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531274175,
+            "author": 9422717,
+            "stamp": 1753852961,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531265956,
+            "author": 9422717,
+            "stamp": 1753799749,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531261178,
+            "author": 9422717,
+            "stamp": 1753781918,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531232163,
+            "author": 9422717,
+            "stamp": 1753696227,
+            "flags": "A",
+            "commentary": "已新增标签：作者, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531232152,
+            "author": 9422717,
+            "stamp": 1753696178,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531232139,
+            "author": 9422717,
+            "stamp": 1753696150,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459973978,
+    "tags": [
+        "作者",
+        "原创"
+    ],
+    "title": "进来看史",
+    "sitemap_update": 1770541297000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,199 @@
+{
+    "name": "level-if-214",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 15,
+            "global_revision": 1531700800,
+            "author": 9609194,
+            "stamp": 1755857147,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1531657699,
+            "author": 9126349,
+            "stamp": 1755656289,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531651207,
+            "author": 9126349,
+            "stamp": 1755616437,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531631148,
+            "author": 9126349,
+            "stamp": 1755523126,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531625529,
+            "author": 9126349,
+            "stamp": 1755500204,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531625522,
+            "author": 9126349,
+            "stamp": 1755500169,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531611446,
+            "author": 9126349,
+            "stamp": 1755427096,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531611441,
+            "author": 9126349,
+            "stamp": 1755427068,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531611393,
+            "author": 9126349,
+            "stamp": 1755426841,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531611378,
+            "author": 9126349,
+            "stamp": 1755426771,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531591262,
+            "author": 9454668,
+            "stamp": 1755321682,
+            "flags": "A",
+            "commentary": "已新增标签：_image。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531591252,
+            "author": 9454668,
+            "stamp": 1755321631,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 建筑, 生存难度3, 述记影响。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531591232,
+            "author": 9454668,
+            "stamp": 1755321510,
+            "flags": "S T",
+            "commentary": "标题与术语"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531591188,
+            "author": 9126349,
+            "stamp": 1755321283,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531591166,
+            "author": 9126349,
+            "stamp": 1755321124,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531591157,
+            "author": 9126349,
+            "stamp": 1755321081,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460066933,
+    "rating": 10,
+    "forum_thread": 17196053,
+    "tags": [
+        "_image",
+        "原创",
+        "层级",
+        "建筑",
+        "生存难度3",
+        "述记影响"
+    ],
+    "title": "Level IF-214",
+    "sitemap_update": 1755857147000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9777570,
+            false
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9126349,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

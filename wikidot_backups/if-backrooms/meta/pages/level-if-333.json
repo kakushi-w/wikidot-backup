@@ -1,0 +1,97 @@
+{
+    "name": "level-if-333",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542880206,
+            "author": 10146283,
+            "stamp": 1774327253,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542783013,
+            "author": 10146283,
+            "stamp": 1773920785,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542756866,
+            "author": 10146283,
+            "stamp": 1773769188,
+            "flags": "A",
+            "commentary": "已新增标签：低温, 原创, 层级, 开阔性, 感官影响, 环境危害, 生存难度3, 精神影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542756784,
+            "author": 10146283,
+            "stamp": 1773769133,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468315931,
+    "rating": 8,
+    "forum_thread": 17627483,
+    "tags": [
+        "低温",
+        "原创",
+        "层级",
+        "开阔性",
+        "感官影响",
+        "环境危害",
+        "生存难度3",
+        "精神影响"
+    ],
+    "title": "Level IF-333",
+    "sitemap_update": 1774327253000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            10193630,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            10157685,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            10206888,
+            true
+        ],
+        [
+            10209740,
+            false
+        ],
+        [
+            10146283,
+            true
+        ]
+    ],
+    "is_locked": true
+}

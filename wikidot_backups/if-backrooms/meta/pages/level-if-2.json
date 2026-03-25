@@ -1,0 +1,222 @@
+{
+    "name": "level-if-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1541149306,
+            "author": 9551174,
+            "stamp": 1766901716,
+            "flags": "S",
+            "commentary": "修复生存难度无法正常显示的问题"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532399272,
+            "author": 9422717,
+            "stamp": 1758421687,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528943754,
+            "author": 9009838,
+            "stamp": 1743328090,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528943746,
+            "author": 9009838,
+            "stamp": 1743328044,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-l-2\" 至 \"level-if-2\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528496304,
+            "author": 8206574,
+            "stamp": 1742203915,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-i-2\" 至 \"level-if-l-2\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528493193,
+            "author": 9454668,
+            "stamp": 1742188808,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528493181,
+            "author": 9454668,
+            "stamp": 1742188762,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 层级, 林地, 生存难度？。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528493176,
+            "author": 9454668,
+            "stamp": 1742188737,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727756,
+    "rating": 20,
+    "forum_thread": 17117507,
+    "tags": [
+        "切行困难",
+        "原创",
+        "层级",
+        "林地",
+        "生存难度？"
+    ],
+    "title": "Level IF-2",
+    "sitemap_update": 1766901716000,
+    "votings": [
+        [
+            8828300,
+            true
+        ],
+        [
+            9696467,
+            true
+        ],
+        [
+            9551174,
+            false
+        ],
+        [
+            9477209,
+            true
+        ],
+        [
+            8248071,
+            false
+        ],
+        [
+            9701536,
+            true
+        ],
+        [
+            9690576,
+            true
+        ],
+        [
+            9832778,
+            false
+        ],
+        [
+            8217781,
+            true
+        ],
+        [
+            9601426,
+            true
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            9535635,
+            true
+        ],
+        [
+            9473519,
+            true
+        ],
+        [
+            9764585,
+            false
+        ],
+        [
+            9675563,
+            true
+        ],
+        [
+            9555402,
+            true
+        ],
+        [
+            8759709,
+            false
+        ],
+        [
+            9375128,
+            true
+        ],
+        [
+            9633089,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            false
+        ],
+        [
+            9357934,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9309055,
+            true
+        ],
+        [
+            8962664,
+            true
+        ],
+        [
+            9681879,
+            true
+        ],
+        [
+            9895946,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9620145,
+            true
+        ],
+        [
+            9485306,
+            false
+        ],
+        [
+            9419995,
+            true
+        ],
+        [
+            9304232,
+            true
+        ],
+        [
+            9620173,
+            true
+        ]
+    ],
+    "is_locked": true
+}

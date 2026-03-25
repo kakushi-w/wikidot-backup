@@ -1,0 +1,186 @@
+{
+    "name": "level-if-78",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1539903391,
+            "author": 9657913,
+            "stamp": 1764083146,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539903279,
+            "author": 9657913,
+            "stamp": 1764082742,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539343385,
+            "author": 9657913,
+            "stamp": 1762961721,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1532342245,
+            "author": 9657913,
+            "stamp": 1758146778,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531802955,
+            "author": 9832778,
+            "stamp": 1756308683,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531342148,
+            "author": 9609194,
+            "stamp": 1754145071,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531342137,
+            "author": 9609194,
+            "stamp": 1754145040,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_5543.jpeg”。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530769617,
+            "author": 9657913,
+            "stamp": 1751360789,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530615178,
+            "author": 9657913,
+            "stamp": 1750591169,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530612830,
+            "author": 9657913,
+            "stamp": 1750579054,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1529497348,
+            "author": 9657913,
+            "stamp": 1745426209,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529496196,
+            "author": 9657913,
+            "stamp": 1745421386,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 悲剧, 生存难度3。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529496162,
+            "author": 9657913,
+            "stamp": 1745421244,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529496158,
+            "author": 9657913,
+            "stamp": 1745421215,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11431550,
+            "name": "IMG_5543.jpeg",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-78/IMG_5543.jpeg",
+            "size": "726.45 kB (743887 Bytes)",
+            "size_bytes": 743887,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, Exif Standard: , baseline, precision 8, 1920x1294, components 3",
+            "author": 9609194,
+            "stamp": 1754145040,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459324491,
+    "rating": 10,
+    "forum_thread": 17128755,
+    "tags": [
+        "原创",
+        "层级",
+        "悲剧",
+        "生存难度3"
+    ],
+    "title": "Level IF-78",
+    "sitemap_update": 1764083146000,
+    "votings": [
+        [
+            9690576,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9437079,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,106 @@
+{
+    "name": "level-if-48",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1530830041,
+            "author": 9099707,
+            "stamp": 1751698745,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度待定。 移除标签：生存难度？。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530615276,
+            "author": 9496473,
+            "stamp": 1750591692,
+            "flags": "S",
+            "commentary": "对作者折叠块中的文字内容进行修改"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530614969,
+            "author": 9496473,
+            "stamp": 1750589953,
+            "flags": "A",
+            "commentary": "已新增标签：开阔性。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530613866,
+            "author": 9496473,
+            "stamp": 1750584268,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530611432,
+            "author": 9496473,
+            "stamp": 1750569380,
+            "flags": "A",
+            "commentary": "已新增标签：海洋, 生存难度？。 移除标签：生存难度？海洋。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530611383,
+            "author": 9496473,
+            "stamp": 1750568761,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 层级, 生存难度？海洋。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530611376,
+            "author": 9496473,
+            "stamp": 1750568712,
+            "flags": "N",
+            "commentary": "Level IF-48,第一版本，复制自沙盒"
+        }
+    ],
+    "files": [],
+    "page_id": 1459829201,
+    "forum_thread": 17157902,
+    "tags": [
+        "切行困难",
+        "原创",
+        "层级",
+        "开阔性",
+        "海洋",
+        "生存难度待定"
+    ],
+    "title": "Level IF-48",
+    "sitemap_update": 1751698745000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            8774679,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9424597,
+            true
+        ],
+        [
+            9485306,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,48 @@
+{
+    "name": "fragment:entity-88-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532277904,
+            "author": 9454668,
+            "stamp": 1757808604,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531975524,
+            "author": 9454668,
+            "stamp": 1756736752,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531975490,
+            "author": 9454668,
+            "stamp": 1756736733,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"entity-88\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531975097,
+            "author": 9454668,
+            "stamp": 1756736308,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460222099,
+    "parent": "entity-88",
+    "forum_thread": 17236589,
+    "tags": [
+        "段落"
+    ],
+    "sitemap_update": 1757808604000,
+    "votings": [],
+    "is_locked": false
+}

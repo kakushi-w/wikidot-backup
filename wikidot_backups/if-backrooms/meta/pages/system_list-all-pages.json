@@ -1,0 +1,32 @@
+{
+    "name": "system:list-all-pages",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1542731805,
+            "author": 9375128,
+            "stamp": 1773753375,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528492671,
+            "author": 9375128,
+            "stamp": 1742185938,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727551,
+    "tags": [
+        "功能",
+        "管理"
+    ],
+    "title": "所有页面",
+    "sitemap_update": 1773753375000,
+    "votings": [],
+    "is_locked": false
+}

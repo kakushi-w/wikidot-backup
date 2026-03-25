@@ -1,0 +1,84 @@
+{
+    "name": "level-if-287",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1539490856,
+            "author": 8620589,
+            "stamp": 1763182068,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539490788,
+            "author": 8620589,
+            "stamp": 1763182004,
+            "flags": "A",
+            "commentary": "已新增标签：前厅映像, 原创, 层级, 恐怖, 惊悚, 感官影响, 时间异常, 现实扭曲, 生存难度其他, 虚妄归档设定, 非线性。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539490706,
+            "author": 8620589,
+            "stamp": 1763181774,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539490665,
+            "author": 8620589,
+            "stamp": 1763181689,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466760204,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 6,
+    "tags": [
+        "前厅映像",
+        "原创",
+        "层级",
+        "恐怖",
+        "惊悚",
+        "感官影响",
+        "时间异常",
+        "现实扭曲",
+        "生存难度其他",
+        "虚妄归档设定",
+        "非线性"
+    ],
+    "title": "Level IF-287",
+    "sitemap_update": 1763182068000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

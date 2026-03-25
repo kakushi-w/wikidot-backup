@@ -1,0 +1,63 @@
+{
+    "name": "yituogoushi",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541445868,
+            "author": 8317495,
+            "stamp": 1768658802,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 搞笑, 故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541445859,
+            "author": 8317495,
+            "stamp": 1768658759,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541445854,
+            "author": 8317495,
+            "stamp": 1768658739,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468012480,
+    "forum_thread": 17570524,
+    "tags": [
+        "原创",
+        "搞笑",
+        "故事"
+    ],
+    "title": "《后室杀手（上半部分）》（导演剪辑吧版）",
+    "sitemap_update": 1768658802000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            7344601,
+            false
+        ]
+    ],
+    "is_locked": false
+}

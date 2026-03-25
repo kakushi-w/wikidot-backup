@@ -1,0 +1,108 @@
+{
+    "name": "level-if-130",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1540068274,
+            "author": 9657913,
+            "stamp": 1764483167,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530955570,
+            "author": 9657913,
+            "stamp": 1752320529,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度1, 降水。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530955549,
+            "author": 9657913,
+            "stamp": 1752320414,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530955543,
+            "author": 9657913,
+            "stamp": 1752320389,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530955523,
+            "author": 9657913,
+            "stamp": 1752320293,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459908290,
+    "rating": 12,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度1",
+        "降水"
+    ],
+    "title": "Level IF-130",
+    "sitemap_update": 1764483167000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9385645,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

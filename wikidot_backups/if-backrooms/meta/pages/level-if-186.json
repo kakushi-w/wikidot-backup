@@ -1,0 +1,97 @@
+{
+    "name": "level-if-186",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531776180,
+            "author": 9782629,
+            "stamp": 1756201219,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531776149,
+            "author": 9782629,
+            "stamp": 1756201068,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531776077,
+            "author": 9782629,
+            "stamp": 1756200647,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 拟态设定, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531776043,
+            "author": 9782629,
+            "stamp": 1756200467,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460109453,
+    "rating": 9,
+    "forum_thread": 17440040,
+    "tags": [
+        "原创",
+        "层级",
+        "拟态设定",
+        "生存难度0"
+    ],
+    "title": "场景-18.6-IF",
+    "sitemap_update": 1756201219000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9552098,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

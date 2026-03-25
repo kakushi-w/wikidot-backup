@@ -1,0 +1,135 @@
+{
+    "name": "level-if-45",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1539887324,
+            "author": 7344601,
+            "stamp": 1763991590,
+            "flags": "A",
+            "commentary": "移除标签：重写中。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539265314,
+            "author": 9609194,
+            "stamp": 1762779149,
+            "flags": "A",
+            "commentary": "已新增标签：重写中。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532335295,
+            "author": 9454668,
+            "stamp": 1758112541,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532157247,
+            "author": 9609194,
+            "stamp": 1757162052,
+            "flags": "A",
+            "commentary": "已新增标签：虚妄归档设定。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531836865,
+            "author": 9609194,
+            "stamp": 1756455893,
+            "flags": "A",
+            "commentary": "已新增标签：海洋, 积极。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531836855,
+            "author": 9609194,
+            "stamp": 1756455851,
+            "flags": "A",
+            "commentary": "已新增标签：降雪。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531836845,
+            "author": 9609194,
+            "stamp": 1756455803,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 层级, 开阔性, 生存难度2。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531836840,
+            "author": 9609194,
+            "stamp": 1756455775,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460126178,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 7,
+    "forum_thread": 17235787,
+    "tags": [
+        "切行困难",
+        "原创",
+        "层级",
+        "开阔性",
+        "海洋",
+        "生存难度2",
+        "积极",
+        "虚妄归档设定",
+        "降雪"
+    ],
+    "title": "Level IF-45",
+    "sitemap_update": 1763991590000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            false
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

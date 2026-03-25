@@ -1,0 +1,31 @@
+{
+    "title": "虚妄归档设定",
+    "id": 17240023,
+    "description": "",
+    "last": 1763989516,
+    "lastUser": 9609194,
+    "started": 1757213200,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7436860,
+            "title": "",
+            "poster": 9609194,
+            "stamp": 1763989516,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7187458,
+            "title": "",
+            "poster": 9630520,
+            "stamp": 1757213227,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

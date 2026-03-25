@@ -1,0 +1,73 @@
+{
+    "name": "common-level-if-299",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531812274,
+            "author": 9782629,
+            "stamp": 1756357793,
+            "flags": "A",
+            "commentary": "已新增标签：补充材料。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531753914,
+            "author": 8150801,
+            "stamp": 1756098348,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531753181,
+            "author": 9419995,
+            "stamp": 1756095453,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531753168,
+            "author": 9419995,
+            "stamp": 1756095383,
+            "flags": "A",
+            "commentary": "已新增标签：层级, 生存难度5。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531753160,
+            "author": 9419995,
+            "stamp": 1756095348,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460103518,
+    "rating": 1,
+    "forum_thread": 17233066,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度5",
+        "补充材料"
+    ],
+    "title": "Level IF-299（纯文档版）",
+    "sitemap_update": 1756357793000,
+    "votings": [
+        [
+            9832778,
+            true
+        ],
+        [
+            9552098,
+            false
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

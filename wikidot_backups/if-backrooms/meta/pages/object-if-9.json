@@ -1,0 +1,95 @@
+{
+    "name": "object-if-9",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1541576072,
+            "author": 7344601,
+            "stamp": 1769298788,
+            "flags": "A",
+            "commentary": "已新增标签：_作者自评。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541188808,
+            "author": 9782125,
+            "stamp": 1767132514,
+            "flags": "A",
+            "commentary": "已新增标签：if层群2025经典速写。 移除标签：if层群经典速写。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541188803,
+            "author": 9782125,
+            "stamp": 1767132497,
+            "flags": "A",
+            "commentary": "已新增标签：if层群经典速写。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541188766,
+            "author": 9782125,
+            "stamp": 1767132257,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"jam2025\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541188753,
+            "author": 9782125,
+            "stamp": 1767132158,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 消耗品, 物品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541188747,
+            "author": 9782125,
+            "stamp": 1767132125,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467946050,
+    "parent": "jam2025",
+    "rating": 4,
+    "forum_thread": 17503749,
+    "tags": [
+        "_作者自评",
+        "if层群2025经典速写",
+        "原创",
+        "消耗品",
+        "物品"
+    ],
+    "title": "Object IF-9 - “后室剪刀”",
+    "sitemap_update": 1769298788000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            7344601,
+            false
+        ]
+    ],
+    "is_locked": false
+}

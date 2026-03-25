@@ -1,0 +1,103 @@
+{
+    "name": "level-if-218",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1532287325,
+            "author": 9420530,
+            "stamp": 1757847802,
+            "flags": "A",
+            "commentary": "已新增标签：格式错乱, 生存难度？。 移除标签：生存难度？格式错乱。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532184338,
+            "author": 9420530,
+            "stamp": 1757304715,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531721820,
+            "author": 9420530,
+            "stamp": 1755949642,
+            "flags": "A",
+            "commentary": "已新增标签：无人后室。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531702386,
+            "author": 9419995,
+            "stamp": 1755860975,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度？格式错乱。 移除标签：生存难度？。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531691371,
+            "author": 9420530,
+            "stamp": 1755814700,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531691272,
+            "author": 9420530,
+            "stamp": 1755814069,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度？。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531691268,
+            "author": 9420530,
+            "stamp": 1755814033,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460091133,
+    "rating": 6,
+    "forum_thread": 17218206,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "无人后室",
+        "格式错乱",
+        "生存难度？"
+    ],
+    "title": "Level IF-218",
+    "sitemap_update": 1757847802000,
+    "votings": [
+        [
+            9832778,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

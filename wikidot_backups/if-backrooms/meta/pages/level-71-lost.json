@@ -1,0 +1,116 @@
+{
+    "name": "level-71-lost",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532440490,
+            "author": 9454668,
+            "stamp": 1758629591,
+            "flags": "A",
+            "commentary": "已新增标签：精品。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532176843,
+            "author": 9454668,
+            "stamp": 1757253818,
+            "flags": "T",
+            "commentary": "标题"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532175108,
+            "author": 9540010,
+            "stamp": 1757245319,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 合著, 层级, 散乱报告集, 生存难度死区, 精神影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532175101,
+            "author": 9540010,
+            "stamp": 1757245275,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460357042,
+    "rating": 15,
+    "forum_thread": 17240491,
+    "tags": [
+        "原创",
+        "合著",
+        "层级",
+        "散乱报告集",
+        "生存难度死区",
+        "精品",
+        "精神影响"
+    ],
+    "title": "Level 71 ·迷失域",
+    "sitemap_update": 1758629591000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9437079,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9575701,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,79 @@
+{
+    "name": "level-if-159",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531641743,
+            "author": 8620589,
+            "stamp": 1755579723,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531474088,
+            "author": 8620589,
+            "stamp": 1754812306,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531474033,
+            "author": 8620589,
+            "stamp": 1754812047,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531474013,
+            "author": 8620589,
+            "stamp": 1754811914,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460026364,
+    "rating": 5,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度0"
+    ],
+    "title": "Level IF-159",
+    "sitemap_update": 1755579723000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9895946,
+            true
+        ]
+    ],
+    "is_locked": true
+}

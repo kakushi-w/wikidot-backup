@@ -1,0 +1,99 @@
+{
+    "title": "Level IF-293 - “寄托于风筝的思念”",
+    "id": 17576851,
+    "description": "",
+    "last": 1770444957,
+    "lastUser": 9551174,
+    "started": 1769944535,
+    "startedUser": null,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7530088,
+            "title": "",
+            "poster": 9485306,
+            "stamp": 1769957055,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7530688,
+                    "title": "",
+                    "poster": 9796152,
+                    "stamp": 1770000325,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7539153,
+            "title": "",
+            "poster": 9551174,
+            "stamp": 1770444957,
+            "lastEdit": 1770445510,
+            "lastEditBy": 9551174,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9551174,
+                    "id": 9082533,
+                    "stamp": 1770445510
+                },
+                {
+                    "title": "",
+                    "author": 9551174,
+                    "id": 9082530,
+                    "stamp": 1770445437
+                },
+                {
+                    "title": "",
+                    "author": 9551174,
+                    "id": 9082526,
+                    "stamp": 1770445381
+                },
+                {
+                    "title": "",
+                    "author": 9551174,
+                    "id": 9082508,
+                    "stamp": 1770444957
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7529814,
+            "title": "",
+            "poster": 9375128,
+            "stamp": 1769944562,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7529825,
+                    "title": "",
+                    "poster": 9796152,
+                    "stamp": 1769945127,
+                    "lastEdit": 1769946506,
+                    "lastEditBy": 9796152,
+                    "revisions": [
+                        {
+                            "title": "",
+                            "author": 9796152,
+                            "id": 9071293,
+                            "stamp": 1769946506
+                        },
+                        {
+                            "title": "",
+                            "author": 9796152,
+                            "id": 9071246,
+                            "stamp": 1769945127
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

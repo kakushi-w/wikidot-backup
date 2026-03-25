@@ -1,0 +1,124 @@
+{
+    "name": "level-if-84",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1530914159,
+            "author": 9437079,
+            "stamp": 1752106305,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530848044,
+            "author": 9496473,
+            "stamp": 1751798182,
+            "flags": "S",
+            "commentary": "修改部分错别字"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530842176,
+            "author": 9099707,
+            "stamp": 1751770121,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度待定。 移除标签：生存难度？。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530833810,
+            "author": 9496473,
+            "stamp": 1751716477,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530833806,
+            "author": 9496473,
+            "stamp": 1751716460,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530833691,
+            "author": 9496473,
+            "stamp": 1751715694,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530833639,
+            "author": 9496473,
+            "stamp": 1751715589,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530833625,
+            "author": 9496473,
+            "stamp": 1751715504,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 层级, 生存难度？。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530833591,
+            "author": 9496473,
+            "stamp": 1751715460,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459880381,
+    "forum_thread": 17162484,
+    "tags": [
+        "切行困难",
+        "原创",
+        "层级",
+        "生存难度待定"
+    ],
+    "title": "Level IF-84",
+    "sitemap_update": 1752106305000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9375128,
+            false
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9782629,
+            true
+        ]
+    ],
+    "is_locked": false
+}

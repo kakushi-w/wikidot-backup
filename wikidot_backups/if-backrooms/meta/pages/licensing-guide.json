@@ -1,0 +1,131 @@
+{
+    "name": "licensing-guide",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1539136503,
+            "author": 9375128,
+            "stamp": 1762568934,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539136162,
+            "author": 9626134,
+            "stamp": 1762567753,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539136137,
+            "author": 9626134,
+            "stamp": 1762567664,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539135720,
+            "author": 9626134,
+            "stamp": 1762565713,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1539135682,
+            "author": 9626134,
+            "stamp": 1762565584,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1539135313,
+            "author": 9626134,
+            "stamp": 1762563655,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1539135296,
+            "author": 9626134,
+            "stamp": 1762563588,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539134972,
+            "author": 9626134,
+            "stamp": 1762563027,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1539134930,
+            "author": 9626134,
+            "stamp": 1762562782,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539126180,
+            "author": 9626134,
+            "stamp": 1762521839,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539126152,
+            "author": 9626134,
+            "stamp": 1762521737,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530976854,
+            "author": 9375128,
+            "stamp": 1752421435,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529171821,
+            "author": 9375128,
+            "stamp": 1744282659,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 必读, 指导。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529171775,
+            "author": 9375128,
+            "stamp": 1744282406,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459143811,
+    "forum_thread": 17437683,
+    "tags": [
+        "原创",
+        "必读",
+        "指导",
+        "管理"
+    ],
+    "title": "授权指导",
+    "sitemap_update": 1762568934000,
+    "votings": [],
+    "is_locked": false
+}

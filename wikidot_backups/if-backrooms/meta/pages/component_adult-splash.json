@@ -1,0 +1,33 @@
+{
+    "name": "component:adult-splash",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1529184890,
+            "author": 9375128,
+            "stamp": 1744348459,
+            "flags": "A",
+            "commentary": "已新增标签：管理, 组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529184706,
+            "author": 9375128,
+            "stamp": 1744347554,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459146843,
+    "forum_thread": 17090298,
+    "tags": [
+        "管理",
+        "组件"
+    ],
+    "title": "成人内容掩盖页",
+    "sitemap_update": 1744348459000,
+    "votings": [],
+    "is_locked": false
+}

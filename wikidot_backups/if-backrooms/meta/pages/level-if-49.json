@@ -1,0 +1,126 @@
+{
+    "name": "level-if-49",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1531104347,
+            "author": 8620589,
+            "stamp": 1753065959,
+            "flags": "A",
+            "commentary": "已新增标签：crossover。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530612236,
+            "author": 8620589,
+            "stamp": 1750574790,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530612226,
+            "author": 8620589,
+            "stamp": 1750574739,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530598787,
+            "author": 8620589,
+            "stamp": 1750484835,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530597802,
+            "author": 8620589,
+            "stamp": 1750479153,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530597793,
+            "author": 8620589,
+            "stamp": 1750479108,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530597790,
+            "author": 8620589,
+            "stamp": 1750479081,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度其他, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530597766,
+            "author": 8620589,
+            "stamp": 1750478907,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459825372,
+    "rating": 4,
+    "forum_thread": 17157664,
+    "tags": [
+        "crossover",
+        "原创",
+        "层级",
+        "生存难度其他",
+        "神秘"
+    ],
+    "title": "Level IF-49",
+    "sitemap_update": 1753065959000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9375128,
+            false
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9304231,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9565995,
+            true
+        ],
+        [
+            9631596,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

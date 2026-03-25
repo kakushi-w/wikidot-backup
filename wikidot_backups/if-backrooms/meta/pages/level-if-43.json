@@ -1,0 +1,124 @@
+{
+    "name": "level-if-43",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1541110286,
+            "author": 8620589,
+            "stamp": 1766835105,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541109355,
+            "author": 8620589,
+            "stamp": 1766833570,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541101613,
+            "author": 8620589,
+            "stamp": 1766821263,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541100897,
+            "author": 8620589,
+            "stamp": 1766820141,
+            "flags": "A",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541100896,
+            "author": 8620589,
+            "stamp": 1766820140,
+            "flags": "A",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541100895,
+            "author": 8620589,
+            "stamp": 1766820140,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 建筑, 生存难度其他, 神秘, 补给可能。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541100763,
+            "author": 8620589,
+            "stamp": 1766819995,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467900136,
+    "rating": 11,
+    "forum_thread": 17566047,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "建筑",
+        "生存难度其他",
+        "神秘",
+        "补给可能"
+    ],
+    "title": "Level IF-43",
+    "sitemap_update": 1766835105000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            10184925,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            10146283,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": true
+}

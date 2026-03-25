@@ -1,0 +1,39 @@
+{
+    "title": "Object PL-10 - “冷树脂”",
+    "id": 17171452,
+    "description": "",
+    "last": 1753444368,
+    "lastUser": 8217963,
+    "started": 1753442593,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7083913,
+            "title": "译者帖B",
+            "poster": 8217963,
+            "stamp": 1753444368,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7083890,
+            "title": "",
+            "poster": 9485306,
+            "stamp": 1753442605,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7083899,
+            "title": "译者帖A",
+            "poster": 9454668,
+            "stamp": 1753443427,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

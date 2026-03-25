@@ -1,0 +1,76 @@
+{
+    "name": "level-if-284",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1539484191,
+            "author": 9782125,
+            "stamp": 1763167286,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539467368,
+            "author": 8620589,
+            "stamp": 1763132320,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 奇异, 层级, 开阔性, 怀旧, 生存难度3, 虚妄归档设定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539467343,
+            "author": 8620589,
+            "stamp": 1763132275,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466743455,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 7,
+    "tags": [
+        "原创",
+        "奇异",
+        "层级",
+        "开阔性",
+        "怀旧",
+        "生存难度3",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-284",
+    "sitemap_update": 1763167286000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": true
+}

@@ -1,0 +1,118 @@
+{
+    "name": "level-if-294",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1541860000,
+            "author": 9419995,
+            "stamp": 1770627333,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532335256,
+            "author": 9454668,
+            "stamp": 1758112347,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532158136,
+            "author": 9609194,
+            "stamp": 1757165980,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532157323,
+            "author": 9419995,
+            "stamp": 1757162326,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532157267,
+            "author": 9419995,
+            "stamp": 1757162148,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532157262,
+            "author": 9419995,
+            "stamp": 1757162129,
+            "flags": "A",
+            "commentary": "已新增标签：封闭性, 层级, 生存难度？, 虚妄归档设定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532157254,
+            "author": 9419995,
+            "stamp": 1757162097,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460353418,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 10,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度？",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-294 - “远处的灯光”",
+    "sitemap_update": 1770627333000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9552098,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

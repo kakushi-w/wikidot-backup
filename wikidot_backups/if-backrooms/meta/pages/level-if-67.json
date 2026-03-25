@@ -1,0 +1,102 @@
+{
+    "name": "level-if-67",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1530650481,
+            "author": 9192541,
+            "stamp": 1750820767,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530626560,
+            "author": 9609194,
+            "stamp": 1750678925,
+            "flags": "A",
+            "commentary": "已新增标签：劣化, 原创, 城镇, 奇异, 层级, 开阔性, 惊悚, 感官影响, 生存难度待定, 神秘。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530626350,
+            "author": 9192541,
+            "stamp": 1750677954,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530626345,
+            "author": 9192541,
+            "stamp": 1750677937,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530626336,
+            "author": 9192541,
+            "stamp": 1750677862,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459832527,
+    "rating": 9,
+    "tags": [
+        "劣化",
+        "原创",
+        "城镇",
+        "奇异",
+        "层级",
+        "开阔性",
+        "惊悚",
+        "感官影响",
+        "生存难度待定",
+        "神秘"
+    ],
+    "title": "Level IF-67",
+    "sitemap_update": 1750820767000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            8774679,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

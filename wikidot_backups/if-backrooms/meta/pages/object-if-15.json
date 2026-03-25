@@ -1,0 +1,100 @@
+{
+    "name": "object-if-15",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1540377280,
+            "author": 9782125,
+            "stamp": 1765198681,
+            "flags": "S",
+            "commentary": "物品评级系统的物品编号错了"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540083597,
+            "author": 9099707,
+            "stamp": 1764513489,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540083574,
+            "author": 9099707,
+            "stamp": 1764513447,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"object-if-1\" 至 \"object-if-15\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540066721,
+            "author": 9099707,
+            "stamp": 1764480751,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 悲剧, 物品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540066708,
+            "author": 9099707,
+            "stamp": 1764480728,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467195979,
+    "rating": 10,
+    "forum_thread": 17480699,
+    "tags": [
+        "原创",
+        "悲剧",
+        "物品"
+    ],
+    "title": "Object IF-15-“实态痛苦”",
+    "sitemap_update": 1765198681000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            10206888,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            8414006,
+            true
+        ]
+    ],
+    "is_locked": false
+}

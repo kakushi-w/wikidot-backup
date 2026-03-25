@@ -1,0 +1,95 @@
+{
+    "title": "Phenomenon IF-7",
+    "id": 17147431,
+    "description": "",
+    "last": 1749893085,
+    "lastUser": 9099707,
+    "started": 1749525743,
+    "startedUser": null,
+    "postsNum": 6,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7027908,
+            "title": "作者贴",
+            "poster": 9168168,
+            "stamp": 1749684491,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7028770,
+            "title": "",
+            "poster": 9099707,
+            "stamp": 1749768629,
+            "lastEdit": 1749768862,
+            "lastEditBy": 9099707,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9099707,
+                    "id": 8502232,
+                    "stamp": 1749768629
+                },
+                {
+                    "title": "",
+                    "author": 9099707,
+                    "id": 8502233,
+                    "stamp": 1749768862
+                }
+            ],
+            "children": [
+                {
+                    "id": 7028971,
+                    "title": "",
+                    "poster": 9168168,
+                    "stamp": 1749785545,
+                    "lastEdit": 1749884519,
+                    "lastEditBy": 9168168,
+                    "revisions": [
+                        {
+                            "title": "",
+                            "author": 9168168,
+                            "id": 8503802,
+                            "stamp": 1749884519
+                        },
+                        {
+                            "title": "",
+                            "author": 9168168,
+                            "id": 8502451,
+                            "stamp": 1749785545
+                        }
+                    ],
+                    "children": [
+                        {
+                            "id": 7029075,
+                            "title": "",
+                            "poster": 9099707,
+                            "stamp": 1749800777,
+                            "revisions": [],
+                            "children": []
+                        },
+                        {
+                            "id": 7029128,
+                            "title": "",
+                            "poster": 9375128,
+                            "stamp": 1749811344,
+                            "revisions": [],
+                            "children": []
+                        },
+                        {
+                            "id": 7030411,
+                            "title": "",
+                            "poster": 9099707,
+                            "stamp": 1749893085,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

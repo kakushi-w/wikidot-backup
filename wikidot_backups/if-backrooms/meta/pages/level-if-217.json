@@ -1,0 +1,89 @@
+{
+    "name": "level-if-217",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541847690,
+            "author": 8620589,
+            "stamp": 1770559330,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531627402,
+            "author": 8620589,
+            "stamp": 1755508084,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度4, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531627325,
+            "author": 8620589,
+            "stamp": 1755507937,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460074644,
+    "rating": 9,
+    "forum_thread": 17203649,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度4",
+        "神秘"
+    ],
+    "title": "Level IF-217",
+    "sitemap_update": 1770559330000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9804860,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            false
+        ],
+        [
+            9831743,
+            true
+        ],
+        [
+            9608029,
+            true
+        ],
+        [
+            9419995,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": true
+}

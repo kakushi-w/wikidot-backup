@@ -1,0 +1,74 @@
+{
+    "name": "level-if-296",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1533623762,
+            "author": 9485306,
+            "stamp": 1761467687,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 层级, 格式错乱, 生存难度不适用。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533623691,
+            "author": 9485306,
+            "stamp": 1761467663,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1461145045,
+    "rating": 9,
+    "forum_thread": 17393273,
+    "tags": [
+        "切行困难",
+        "原创",
+        "层级",
+        "格式错乱",
+        "生存难度不适用"
+    ],
+    "title": "Level IF-296",
+    "sitemap_update": 1761467687000,
+    "votings": [
+        [
+            9832778,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9309055,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

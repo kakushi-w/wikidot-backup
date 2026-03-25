@@ -1,0 +1,26 @@
+{
+    "name": "component:image-block-base",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 1528492707,
+            "author": 9375128,
+            "stamp": 1742185938,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727587,
+    "tags": [
+        "搬运",
+        "管理",
+        "组件",
+        "组件后端"
+    ],
+    "title": "图片框后端",
+    "sitemap_update": 1742185938000,
+    "votings": [],
+    "is_locked": false
+}

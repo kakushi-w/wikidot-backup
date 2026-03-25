@@ -1,0 +1,247 @@
+{
+    "name": "level-if-226",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1541433971,
+            "author": 8620589,
+            "stamp": 1768616191,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1541433934,
+            "author": 8620589,
+            "stamp": 1768616096,
+            "flags": "F",
+            "commentary": "已上传文件 “Level26.webp”。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1541433902,
+            "author": 8620589,
+            "stamp": 1768616026,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1541433829,
+            "author": 8620589,
+            "stamp": 1768615851,
+            "flags": "F",
+            "commentary": "已上传文件 “1768150172868_edit_539878378741057.png”。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1541433691,
+            "author": 8620589,
+            "stamp": 1768615585,
+            "flags": "F",
+            "commentary": "已上传文件 “Level-26-1.webp”。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1541360041,
+            "author": 8620589,
+            "stamp": 1768150453,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1541360024,
+            "author": 8620589,
+            "stamp": 1768150389,
+            "flags": "F",
+            "commentary": "已删除文件 “1768150172868.png”。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541360020,
+            "author": 8620589,
+            "stamp": 1768150356,
+            "flags": "F",
+            "commentary": "已上传文件 “1768150172868.png”。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541360016,
+            "author": 8620589,
+            "stamp": 1768150331,
+            "flags": "F",
+            "commentary": "已上传文件 “26-2.webp”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541359954,
+            "author": 8620589,
+            "stamp": 1768150196,
+            "flags": "F",
+            "commentary": "已上传文件 “1768149916611.jpeg”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532335251,
+            "author": 9454668,
+            "stamp": 1758112313,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532154835,
+            "author": 8620589,
+            "stamp": 1757151539,
+            "flags": "A",
+            "commentary": "已新增标签：虚妄归档设定。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531898508,
+            "author": 8620589,
+            "stamp": 1756615238,
+            "flags": "A",
+            "commentary": "已新增标签：前厅映像, 原创, 封闭性, 层级, 建筑, 怀旧, 生存难度5。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531898473,
+            "author": 8620589,
+            "stamp": 1756615051,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11717675,
+            "name": "1768149916611.jpeg",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-226/1768149916611.jpeg",
+            "size": "204.07 kB (208968 Bytes)",
+            "size_bytes": 208968,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 622x702, components 3",
+            "author": 8620589,
+            "stamp": 1768150196,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11720520,
+            "name": "1768150172868_edit_539878378741057.png",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-226/1768150172868_edit_539878378741057.png",
+            "size": "1.88 MB (1970466 Bytes)",
+            "size_bytes": 1970466,
+            "mime": "image/png",
+            "content": "PNG image data, 2444 x 1375, 8-bit/color RGB, non-interlaced",
+            "author": 8620589,
+            "stamp": 1768615851,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11717676,
+            "name": "26-2.webp",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-226/26-2.webp",
+            "size": "14.87 kB (15228 Bytes)",
+            "size_bytes": 15228,
+            "mime": "application/octet-stream",
+            "content": "RIFF (little-endian) data, Web/P image",
+            "author": 8620589,
+            "stamp": 1768150331,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11720519,
+            "name": "Level-26-1.webp",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-226/Level-26-1.webp",
+            "size": "14.99 kB (15352 Bytes)",
+            "size_bytes": 15352,
+            "mime": "application/octet-stream",
+            "content": "RIFF (little-endian) data, Web/P image, VP8 encoding, 300x188, Scaling: [none]x[none], YUV color, decoders should clamp",
+            "author": 8620589,
+            "stamp": 1768615585,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11720522,
+            "name": "Level26.webp",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-226/Level26.webp",
+            "size": "123.04 kB (125994 Bytes)",
+            "size_bytes": 125994,
+            "mime": "application/octet-stream",
+            "content": "RIFF (little-endian) data, Web/P image, VP8 encoding, 1000x750, Scaling: [none]x[none], YUV color, decoders should clamp",
+            "author": 8620589,
+            "stamp": 1768616096,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460161800,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 10,
+    "forum_thread": 17236267,
+    "tags": [
+        "前厅映像",
+        "原创",
+        "封闭性",
+        "层级",
+        "建筑",
+        "怀旧",
+        "生存难度5",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-226",
+    "sitemap_update": 1768616191000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9531925,
+            false
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9669086,
+            true
+        ],
+        [
+            9895946,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            10146283,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

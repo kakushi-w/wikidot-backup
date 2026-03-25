@@ -1,0 +1,40 @@
+{
+    "name": "record:wuxie1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1539885740,
+            "author": 9375128,
+            "stamp": 1763984540,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530555836,
+            "author": 9375128,
+            "stamp": 1750240224,
+            "flags": "A",
+            "commentary": "已新增标签：处分记录。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530553733,
+            "author": 9375128,
+            "stamp": 1750221003,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459811818,
+    "parent": "records",
+    "tags": [
+        "处分记录"
+    ],
+    "title": "Wuxie1",
+    "sitemap_update": 1763984540000,
+    "votings": [],
+    "is_locked": false
+}

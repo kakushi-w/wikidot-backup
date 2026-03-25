@@ -1,0 +1,102 @@
+{
+    "name": "object-if-7",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531454583,
+            "author": 9337208,
+            "stamp": 1754710380,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531454198,
+            "author": 9337208,
+            "stamp": 1754708499,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531454151,
+            "author": 9337208,
+            "stamp": 1754708158,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 物品。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531454148,
+            "author": 9337208,
+            "stamp": 1754708149,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531454146,
+            "author": 9337208,
+            "stamp": 1754708118,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460022442,
+    "forum_thread": 17177990,
+    "tags": [
+        "原创",
+        "物品"
+    ],
+    "title": "Object IF-7",
+    "sitemap_update": 1754710380000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9764585,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9337208,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

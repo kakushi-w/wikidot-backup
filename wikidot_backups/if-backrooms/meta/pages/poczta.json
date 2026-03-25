@@ -1,0 +1,104 @@
+{
+    "name": "poczta",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1533191706,
+            "author": 9454668,
+            "stamp": 1761305544,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531716319,
+            "author": 9454668,
+            "stamp": 1755926918,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531716311,
+            "author": 9454668,
+            "stamp": 1755926889,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531716285,
+            "author": 9454668,
+            "stamp": 1755926804,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531715985,
+            "author": 9454668,
+            "stamp": 1755925814,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"1\" 至 \"poczta\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531715977,
+            "author": 9454668,
+            "stamp": 1755925796,
+            "flags": "A",
+            "commentary": "已新增标签：pl, 二次翻译, 封闭性, 层级, 生存难度1, 翻译, 隐秘系列。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531715971,
+            "author": 9454668,
+            "stamp": 1755925776,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460096196,
+    "rating": 6,
+    "forum_thread": 17225984,
+    "tags": [
+        "pl",
+        "二次翻译",
+        "封闭性",
+        "层级",
+        "生存难度1",
+        "翻译",
+        "隐秘系列"
+    ],
+    "title": "隐秘层级PL - “邮局”",
+    "sitemap_update": 1761305544000,
+    "votings": [
+        [
+            8759709,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

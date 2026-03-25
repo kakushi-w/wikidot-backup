@@ -1,0 +1,83 @@
+{
+    "name": "level-if-188",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1530473872,
+            "author": 9477209,
+            "stamp": 1749705808,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 合著, 城镇, 层级, 悲喜交加, 感官影响, 生存难度0, 精神影响, 降水, 非线性。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530473865,
+            "author": 9477209,
+            "stamp": 1749705752,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459788108,
+    "rating": 8,
+    "forum_thread": 17149142,
+    "tags": [
+        "原创",
+        "合著",
+        "城镇",
+        "层级",
+        "悲喜交加",
+        "感官影响",
+        "生存难度0",
+        "精神影响",
+        "降水",
+        "非线性"
+    ],
+    "title": "Level IF-188",
+    "sitemap_update": 1749705808000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9541601,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9485306,
+            false
+        ]
+    ],
+    "is_locked": false
+}

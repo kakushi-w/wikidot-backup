@@ -1,0 +1,32 @@
+{
+    "name": "qqbot-dv",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541772389,
+            "author": 9375128,
+            "stamp": 1770183097,
+            "flags": "A",
+            "commentary": "已新增标签：功能, 管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541772385,
+            "author": 9375128,
+            "stamp": 1770183060,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468090492,
+    "tags": [
+        "功能",
+        "管理"
+    ],
+    "title": "BOTDV抓取页",
+    "sitemap_update": 1770183097000,
+    "votings": [],
+    "is_locked": false
+}

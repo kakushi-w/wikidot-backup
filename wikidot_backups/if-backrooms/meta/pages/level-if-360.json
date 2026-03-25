@@ -1,0 +1,53 @@
+{
+    "name": "level-if-360",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1542148102,
+            "author": 8620589,
+            "stamp": 1771467167,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 格式错乱, 生存难度其他, 积极。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542148101,
+            "author": 8620589,
+            "stamp": 1771467148,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468147114,
+    "rating": 4,
+    "tags": [
+        "原创",
+        "层级",
+        "格式错乱",
+        "生存难度其他",
+        "积极"
+    ],
+    "title": "Level IF-360",
+    "sitemap_update": 1771467167000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

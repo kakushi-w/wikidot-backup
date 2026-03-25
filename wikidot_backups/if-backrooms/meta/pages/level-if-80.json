@@ -1,0 +1,180 @@
+{
+    "name": "level-if-80",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1532174305,
+            "author": 9609194,
+            "stamp": 1757241954,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531754687,
+            "author": 9454668,
+            "stamp": 1756100310,
+            "flags": "A",
+            "commentary": "已新增标签：合作。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531641920,
+            "author": 9609194,
+            "stamp": 1755580732,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531641759,
+            "author": 9609194,
+            "stamp": 1755579813,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531641752,
+            "author": 9609194,
+            "stamp": 1755579785,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_5978.jpeg”。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531262319,
+            "author": 9609194,
+            "stamp": 1753786870,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530641280,
+            "author": 9609194,
+            "stamp": 1750765185,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530641264,
+            "author": 9609194,
+            "stamp": 1750765048,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530626567,
+            "author": 9609194,
+            "stamp": 1750679001,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530626468,
+            "author": 9609194,
+            "stamp": 1750678772,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 善意, 城镇, 层级, 层级意识, 开阔性, 生存难度宜居, 补给可能, 返乡可能, 降水。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530626461,
+            "author": 9609194,
+            "stamp": 1750678735,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11441737,
+            "name": "IMG_5978.jpeg",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-80/IMG_5978.jpeg",
+            "size": "313.49 kB (321010 Bytes)",
+            "size_bytes": 321010,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 1740x1160, components 3",
+            "author": 9609194,
+            "stamp": 1755579785,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459832539,
+    "forum_thread": 17158365,
+    "tags": [
+        "原创",
+        "合作",
+        "善意",
+        "城镇",
+        "层级",
+        "层级意识",
+        "开阔性",
+        "生存难度宜居",
+        "补给可能",
+        "返乡可能",
+        "降水"
+    ],
+    "title": "Level IF-80",
+    "sitemap_update": 1757241954000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            8728373,
+            false
+        ],
+        [
+            9153958,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9620145,
+            true
+        ],
+        [
+            8367260,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

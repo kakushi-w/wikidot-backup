@@ -1,0 +1,93 @@
+{
+    "name": "level-if-196",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531027202,
+            "author": 8620589,
+            "stamp": 1752663908,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531027185,
+            "author": 8620589,
+            "stamp": 1752663791,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531027055,
+            "author": 8620589,
+            "stamp": 1752663347,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度0, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531027053,
+            "author": 8620589,
+            "stamp": 1752663321,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459924329,
+    "rating": 10,
+    "forum_thread": 17166772,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度0",
+        "神秘"
+    ],
+    "title": "Level IF-196",
+    "sitemap_update": 1752663908000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            8728373,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

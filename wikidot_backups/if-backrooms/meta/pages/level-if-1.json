@@ -1,0 +1,295 @@
+{
+    "name": "level-if-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1542823536,
+            "author": 9454668,
+            "stamp": 1774101792,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1542823507,
+            "author": 9454668,
+            "stamp": 1774101683,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539888074,
+            "author": 9454668,
+            "stamp": 1763994467,
+            "flags": "A",
+            "commentary": "已新增标签：竞赛优胜作品。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532381960,
+            "author": 9454668,
+            "stamp": 1758351414,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"collab:level-if-1\" 至 \"level-if-1\"."
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531554858,
+            "author": 9375128,
+            "stamp": 1755140563,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"collab:level-if-1-fnhanbao-yx3-lucifer597\" 至 \"collab:level-if-1\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530988092,
+            "author": 8728373,
+            "stamp": 1752485650,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530987625,
+            "author": 8728373,
+            "stamp": 1752483432,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530987535,
+            "author": 8728373,
+            "stamp": 1752482974,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530987469,
+            "author": 8728373,
+            "stamp": 1752482675,
+            "flags": "A",
+            "commentary": "已新增标签：if-1竞赛, 合著, 层级, 生存难度0。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530987455,
+            "author": 8728373,
+            "stamp": 1752482622,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530986855,
+            "author": 8728373,
+            "stamp": 1752480863,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530986834,
+            "author": 8728373,
+            "stamp": 1752480774,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"collab:level-if-fnhanbao-yx3-lucifer597\" 至 \"collab:level-if-1-fnhanbao-yx3-lucifer597\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530986827,
+            "author": 8728373,
+            "stamp": 1752480751,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459915474,
+    "rating": 38,
+    "forum_thread": 17165929,
+    "tags": [
+        "if-1竞赛",
+        "原创",
+        "合著",
+        "层级",
+        "生存难度0",
+        "竞赛优胜作品"
+    ],
+    "title": "Level IF-1 - “深渊之途:自我重塑之所”",
+    "sitemap_update": 1774101792000,
+    "votings": [
+        [
+            9448575,
+            true
+        ],
+        [
+            8482895,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9690576,
+            true
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            9552098,
+            true
+        ],
+        [
+            9535635,
+            true
+        ],
+        [
+            8728373,
+            true
+        ],
+        [
+            9631911,
+            true
+        ],
+        [
+            9777570,
+            true
+        ],
+        [
+            9475961,
+            true
+        ],
+        [
+            9899195,
+            true
+        ],
+        [
+            10157685,
+            true
+        ],
+        [
+            9555402,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9375128,
+            true
+        ],
+        [
+            9670203,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9675242,
+            true
+        ],
+        [
+            9650605,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            false
+        ],
+        [
+            9385645,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9777632,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9565995,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            9302580,
+            false
+        ],
+        [
+            9669086,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            9437079,
+            true
+        ],
+        [
+            9895946,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9608029,
+            true
+        ],
+        [
+            9419995,
+            true
+        ],
+        [
+            9299905,
+            true
+        ]
+    ],
+    "is_locked": false
+}

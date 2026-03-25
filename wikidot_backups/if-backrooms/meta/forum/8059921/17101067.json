@@ -1,0 +1,32 @@
+{
+    "title": "站规",
+    "id": 17101067,
+    "description": "",
+    "last": 1745814028,
+    "lastUser": 9375128,
+    "started": 1745642223,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6935880,
+            "title": "",
+            "poster": 9551083,
+            "stamp": 1745642363,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6941614,
+                    "title": "",
+                    "poster": 9375128,
+                    "stamp": 1745814028,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

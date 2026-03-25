@@ -1,0 +1,40 @@
+{
+    "title": "测试",
+    "id": 17560711,
+    "description": "",
+    "last": 1768472218,
+    "lastUser": 7344601,
+    "started": 1768067294,
+    "startedUser": 9882061,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": true,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7502613,
+            "title": "职员帖：锁帖",
+            "poster": 7344601,
+            "stamp": 1768472218,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7498678,
+            "title": "测试",
+            "poster": 9882061,
+            "stamp": 1768067294,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7498682,
+                    "title": "Re: 测试",
+                    "poster": 9882061,
+                    "stamp": 1768067389,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

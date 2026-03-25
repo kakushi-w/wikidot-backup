@@ -1,0 +1,75 @@
+{
+    "title": "Level 510 - “...---...“",
+    "id": 17166721,
+    "description": "",
+    "last": 1752663931,
+    "lastUser": 8774679,
+    "started": 1752656692,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7071457,
+            "title": "",
+            "poster": 9099707,
+            "stamp": 1752656707,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7071600,
+            "title": "",
+            "poster": 8774679,
+            "stamp": 1752663931,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7071503,
+            "title": "好的翻译",
+            "poster": 8150801,
+            "stamp": 1752659506,
+            "lastEdit": 1752664388,
+            "lastEditBy": 8150801,
+            "revisions": [
+                {
+                    "title": "好的翻译",
+                    "author": 8150801,
+                    "id": 8553619,
+                    "stamp": 1752664388
+                },
+                {
+                    "title": "好的翻译",
+                    "author": 8150801,
+                    "id": 8553525,
+                    "stamp": 1752660990
+                },
+                {
+                    "title": "好的翻译",
+                    "author": 8150801,
+                    "id": 8553517,
+                    "stamp": 1752660695
+                },
+                {
+                    "title": "好的翻译",
+                    "author": 8150801,
+                    "id": 8553486,
+                    "stamp": 1752659506
+                }
+            ],
+            "children": [
+                {
+                    "id": 7071509,
+                    "title": "Re: 好的翻译",
+                    "poster": 8217963,
+                    "stamp": 1752659676,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

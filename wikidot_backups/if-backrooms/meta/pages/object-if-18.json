@@ -1,0 +1,51 @@
+{
+    "name": "object-if-18",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541839546,
+            "author": 9555733,
+            "stamp": 1770525737,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 实用性, 物品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541839541,
+            "author": 9555733,
+            "stamp": 1770525710,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468105993,
+    "rating": 4,
+    "tags": [
+        "原创",
+        "实用性",
+        "物品"
+    ],
+    "title": "Object IF-18",
+    "sitemap_update": 1770525737000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

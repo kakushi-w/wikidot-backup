@@ -1,0 +1,115 @@
+{
+    "name": "level-if-249",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1541588877,
+            "author": 7344601,
+            "stamp": 1769357023,
+            "flags": "A",
+            "commentary": "您已成功地回复本页至修订版本编号 5"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541569842,
+            "author": 7344601,
+            "stamp": 1769265639,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。 移除标签：if层群2025经典速写, 封闭性, 层级, 怀旧, 生存难度0。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541365534,
+            "author": 9551174,
+            "stamp": 1768192116,
+            "flags": "S",
+            "commentary": "修改一处缺少谓语的句子"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540825170,
+            "author": 9609194,
+            "stamp": 1766303176,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540825136,
+            "author": 9609194,
+            "stamp": 1766303107,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540824701,
+            "author": 9609194,
+            "stamp": 1766302297,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540824637,
+            "author": 9609194,
+            "stamp": 1766302191,
+            "flags": "A",
+            "commentary": "已新增标签：if层群2025经典速写, 原创, 封闭性, 层级, 怀旧, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540824632,
+            "author": 9609194,
+            "stamp": 1766302170,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467699623,
+    "rating": 5,
+    "forum_thread": 17571260,
+    "tags": [
+        "if层群2025经典速写",
+        "原创",
+        "封闭性",
+        "层级",
+        "怀旧",
+        "生存难度0"
+    ],
+    "title": "Level IF-249",
+    "sitemap_update": 1769357023000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            7344601,
+            false
+        ]
+    ],
+    "is_locked": false
+}

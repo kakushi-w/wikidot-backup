@@ -1,0 +1,54 @@
+{
+    "name": "level-9-id",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541017268,
+            "author": 10184925,
+            "stamp": 1766669552,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541016367,
+            "author": 10184925,
+            "stamp": 1766667890,
+            "flags": "A",
+            "commentary": "已新增标签：id, 层级, 建筑, 生存难度3, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541016335,
+            "author": 10184925,
+            "stamp": 1766667841,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467833874,
+    "rating": 0,
+    "forum_thread": 17498384,
+    "tags": [
+        "id",
+        "层级",
+        "建筑",
+        "生存难度3",
+        "翻译"
+    ],
+    "title": "Level 9-ID - “怀旧之城”",
+    "sitemap_update": 1766669552000,
+    "votings": [
+        [
+            8219242,
+            false
+        ],
+        [
+            10184925,
+            true
+        ]
+    ],
+    "is_locked": true
+}

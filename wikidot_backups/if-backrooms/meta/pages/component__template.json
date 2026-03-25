@@ -1,0 +1,40 @@
+{
+    "name": "component:_template",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1529066769,
+            "author": 9483189,
+            "stamp": 1743842566,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528493390,
+            "author": 9375128,
+            "stamp": 1742189518,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528492704,
+            "author": 9375128,
+            "stamp": 1742185938,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727584,
+    "tags": [
+        "功能",
+        "管理"
+    ],
+    "title": "_template（component）",
+    "sitemap_update": 1743842566000,
+    "votings": [],
+    "is_locked": true
+}

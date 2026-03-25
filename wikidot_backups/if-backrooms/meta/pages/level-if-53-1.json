@@ -1,0 +1,72 @@
+{
+    "name": "level-if-53-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531666039,
+            "author": 9454668,
+            "stamp": 1755695632,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531664630,
+            "author": 8759709,
+            "stamp": 1755689851,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531664585,
+            "author": 8759709,
+            "stamp": 1755689630,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 子层级, 层级, 开阔性, 生存难度5。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531664576,
+            "author": 8759709,
+            "stamp": 1755689584,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460086007,
+    "tags": [
+        "原创",
+        "子层级",
+        "层级",
+        "开阔性",
+        "生存难度5"
+    ],
+    "title": "Level IF-53.1",
+    "sitemap_update": 1755695632000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

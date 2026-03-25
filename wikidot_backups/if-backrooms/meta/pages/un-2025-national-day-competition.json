@@ -1,0 +1,67 @@
+{
+    "name": "un-2025-national-day-competition",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532616887,
+            "author": 9375128,
+            "stamp": 1759468384,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532572946,
+            "author": 9454668,
+            "stamp": 1759292466,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532572934,
+            "author": 9454668,
+            "stamp": 1759292412,
+            "flags": "A",
+            "commentary": "已新增标签：2025联合竞赛, 竞赛。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532572924,
+            "author": 9454668,
+            "stamp": 1759292377,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460471479,
+    "forum_thread": 17273605,
+    "tags": [
+        "2025联合竞赛",
+        "原创",
+        "竞赛"
+    ],
+    "title": "2025 UN 联合竞赛",
+    "sitemap_update": 1759468384000,
+    "votings": [
+        [
+            9832778,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            9850702,
+            true
+        ]
+    ],
+    "is_locked": false
+}

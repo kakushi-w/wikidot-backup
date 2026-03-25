@@ -1,0 +1,133 @@
+{
+    "name": "level-700-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1541773547,
+            "author": 9100566,
+            "stamp": 1770190127,
+            "flags": "A",
+            "commentary": "已新增标签：翻译精品。 移除标签：精品。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1541773264,
+            "author": 8620589,
+            "stamp": 1770188609,
+            "flags": "A",
+            "commentary": "已新增标签：精品。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539903686,
+            "author": 8150801,
+            "stamp": 1764084039,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1539901936,
+            "author": 8150801,
+            "stamp": 1764076214,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539899926,
+            "author": 8150801,
+            "stamp": 1764067274,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539893262,
+            "author": 8150801,
+            "stamp": 1764024952,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539889163,
+            "author": 8150801,
+            "stamp": 1764000506,
+            "flags": "A",
+            "commentary": "已新增标签：翻译。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539889156,
+            "author": 8150801,
+            "stamp": 1764000471,
+            "flags": "A",
+            "commentary": "已新增标签：_image, 子区集, 层级, 悲剧, 浪漫, 生存难度其他。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539889150,
+            "author": 8150801,
+            "stamp": 1764000424,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467081712,
+    "rating": 9,
+    "forum_thread": 17458738,
+    "tags": [
+        "_image",
+        "子区集",
+        "层级",
+        "悲剧",
+        "浪漫",
+        "生存难度其他",
+        "翻译",
+        "翻译精品"
+    ],
+    "title": "Level 700.1 - “诚然如此。”",
+    "sitemap_update": 1770190127000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            8728373,
+            true
+        ],
+        [
+            9189492,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

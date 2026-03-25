@@ -1,0 +1,48 @@
+{
+    "name": "level-if-38",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1542826025,
+            "author": 8620589,
+            "stamp": 1774108419,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542826020,
+            "author": 8620589,
+            "stamp": 1774108400,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468333432,
+    "rating": 3,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度0"
+    ],
+    "title": "Level IF-38",
+    "sitemap_update": 1774108419000,
+    "votings": [
+        [
+            10138849,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

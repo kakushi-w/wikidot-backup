@@ -1,0 +1,76 @@
+{
+    "name": "level-if-177",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1533071123,
+            "author": 8620589,
+            "stamp": 1760715417,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533071102,
+            "author": 8620589,
+            "stamp": 1760715336,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460708145,
+    "rating": 4,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度0"
+    ],
+    "title": "Level IF-177",
+    "sitemap_update": 1760715417000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            false
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ],
+        [
+            9168168,
+            false
+        ]
+    ],
+    "is_locked": false
+}

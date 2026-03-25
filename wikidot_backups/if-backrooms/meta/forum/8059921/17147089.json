@@ -1,0 +1,88 @@
+{
+    "title": "Level IF-13",
+    "id": 17147089,
+    "description": "",
+    "last": 1749555576,
+    "lastUser": 9168168,
+    "started": 1749473406,
+    "startedUser": null,
+    "postsNum": 7,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7025702,
+            "title": "",
+            "poster": 9657913,
+            "stamp": 1749487988,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7026029,
+            "title": "",
+            "poster": 9099707,
+            "stamp": 1749534384,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7026219,
+                    "title": "",
+                    "poster": 9168168,
+                    "stamp": 1749555576,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7025555,
+            "title": "作者贴",
+            "poster": 9168168,
+            "stamp": 1749473755,
+            "lastEdit": 1749474433,
+            "lastEditBy": 9168168,
+            "revisions": [
+                {
+                    "title": "作者贴",
+                    "author": 9168168,
+                    "id": 8498293,
+                    "stamp": 1749473755
+                },
+                {
+                    "title": "作者贴",
+                    "author": 9168168,
+                    "id": 8498304,
+                    "stamp": 1749474433
+                }
+            ],
+            "children": [
+                {
+                    "id": 7025559,
+                    "title": "Re: 作者贴",
+                    "poster": 8759709,
+                    "stamp": 1749474257,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 7025574,
+                    "title": "Re: 作者贴",
+                    "poster": 8759709,
+                    "stamp": 1749475246,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 7025657,
+                    "title": "Re: 作者贴",
+                    "poster": 9639856,
+                    "stamp": 1749483809,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

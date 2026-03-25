@@ -1,0 +1,109 @@
+{
+    "name": "level-if-312",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1542361409,
+            "author": 10205157,
+            "stamp": 1772339892,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542361059,
+            "author": 10205157,
+            "stamp": 1772338470,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542361053,
+            "author": 10205157,
+            "stamp": 1772338438,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开放性, 生存难度宜居。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542361049,
+            "author": 10205157,
+            "stamp": 1772338419,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542361033,
+            "author": 10205157,
+            "stamp": 1772338325,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468187407,
+    "rating": 4,
+    "forum_thread": 17598940,
+    "tags": [
+        "原创",
+        "层级",
+        "开放性",
+        "生存难度宜居"
+    ],
+    "title": "Level If-312",
+    "sitemap_update": 1772339892000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            10193630,
+            true
+        ],
+        [
+            9609194,
+            false
+        ],
+        [
+            10157685,
+            true
+        ],
+        [
+            9100566,
+            false
+        ],
+        [
+            10138849,
+            false
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            10265816,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            10205157,
+            true
+        ],
+        [
+            10146283,
+            true
+        ]
+    ],
+    "is_locked": false
+}

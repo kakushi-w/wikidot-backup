@@ -1,0 +1,61 @@
+{
+    "name": "level-if-108",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541694949,
+            "author": 8620589,
+            "stamp": 1769859550,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 封闭性, 层级, 生存难度待定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541694924,
+            "author": 8620589,
+            "stamp": 1769859421,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468073003,
+    "rating": 6,
+    "tags": [
+        "切行困难",
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度待定"
+    ],
+    "title": "Level IF-108",
+    "sitemap_update": 1769859550000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            10206888,
+            true
+        ]
+    ],
+    "is_locked": false
+}

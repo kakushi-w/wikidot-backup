@@ -1,0 +1,191 @@
+{
+    "title": "Level If 134",
+    "id": 17159965,
+    "description": "",
+    "last": 1751247215,
+    "lastUser": 9099707,
+    "started": 1751184828,
+    "startedUser": null,
+    "postsNum": 17,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7052715,
+            "title": "职员帖：提醒",
+            "poster": 9375128,
+            "stamp": 1751186765,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7052768,
+            "title": "dv，以及",
+            "poster": 9540010,
+            "stamp": 1751189940,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7052775,
+            "title": "↓",
+            "poster": 9735885,
+            "stamp": 1751190386,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7052717,
+            "title": "职员帖：删除宣告",
+            "poster": 9375128,
+            "stamp": 1751187065,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7052799,
+            "title": "职员帖：警告",
+            "poster": 9375128,
+            "stamp": 1751191479,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7052841,
+            "title": "DV",
+            "poster": 9192541,
+            "stamp": 1751192052,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7053354,
+            "title": "",
+            "poster": 9099707,
+            "stamp": 1751247215,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7052721,
+            "title": "DV",
+            "poster": 8828300,
+            "stamp": 1751187204,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7052748,
+            "title": "dv",
+            "poster": 8585657,
+            "stamp": 1751189014,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7052760,
+            "title": "向下投票",
+            "poster": 9561914,
+            "stamp": 1751189496,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7052763,
+                    "title": "向下投票",
+                    "poster": 9735885,
+                    "stamp": 1751189706,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 7052771,
+                    "title": "向下投票",
+                    "poster": 9540010,
+                    "stamp": 1751190205,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7052745,
+            "title": "DV",
+            "poster": 9639856,
+            "stamp": 1751188837,
+            "lastEdit": 1751191547,
+            "lastEditBy": 9639856,
+            "revisions": [
+                {
+                    "title": "DV",
+                    "author": 9639856,
+                    "id": 8529476,
+                    "stamp": 1751191547
+                },
+                {
+                    "title": "DV",
+                    "author": 9639856,
+                    "id": 8529474,
+                    "stamp": 1751191528
+                },
+                {
+                    "title": "DV",
+                    "author": 9639856,
+                    "id": 8529407,
+                    "stamp": 1751188837
+                }
+            ],
+            "children": [
+                {
+                    "id": 7052750,
+                    "title": "Re: DV",
+                    "poster": 9732522,
+                    "stamp": 1751189054,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7052751,
+                            "title": "Re: DV",
+                            "poster": 9732522,
+                            "stamp": 1751189070,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7052786,
+            "title": "D",
+            "poster": 9551174,
+            "stamp": 1751190778,
+            "lastEdit": 1751190808,
+            "lastEditBy": 9551174,
+            "revisions": [
+                {
+                    "title": "D",
+                    "author": 9551174,
+                    "id": 8529458,
+                    "stamp": 1751190808
+                },
+                {
+                    "title": "D",
+                    "author": 9551174,
+                    "id": 8529456,
+                    "stamp": 1751190778
+                }
+            ],
+            "children": [
+                {
+                    "id": 7052790,
+                    "title": "D",
+                    "poster": 9735885,
+                    "stamp": 1751190926,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

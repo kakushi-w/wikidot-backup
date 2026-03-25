@@ -1,0 +1,77 @@
+{
+    "name": "level-if-234",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532596314,
+            "author": 8759709,
+            "stamp": 1759386574,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 层级, 开阔性, 生存难度其他。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532596265,
+            "author": 8759709,
+            "stamp": 1759386383,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532596262,
+            "author": 8759709,
+            "stamp": 1759386364,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460477107,
+    "rating": 8,
+    "tags": [
+        "切行困难",
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度其他"
+    ],
+    "title": "Level IF 234",
+    "sitemap_update": 1759386574000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

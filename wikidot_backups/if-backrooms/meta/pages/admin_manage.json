@@ -1,0 +1,32 @@
+{
+    "name": "admin:manage",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1529184807,
+            "author": 9375128,
+            "stamp": 1744347902,
+            "flags": "A",
+            "commentary": "已新增标签：功能, 管理, 重定向。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529184798,
+            "author": 9375128,
+            "stamp": 1744347807,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459146914,
+    "tags": [
+        "功能",
+        "管理",
+        "重定向"
+    ],
+    "sitemap_update": 1744347902000,
+    "votings": [],
+    "is_locked": false
+}

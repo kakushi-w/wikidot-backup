@@ -1,0 +1,411 @@
+{
+    "name": "level-if-37",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 32,
+            "global_revision": 1532958107,
+            "author": 9419995,
+            "stamp": 1760190738,
+            "flags": "A",
+            "commentary": "已新增标签：精神影响。"
+        },
+        {
+            "revision": 31,
+            "global_revision": 1532958068,
+            "author": 9419995,
+            "stamp": 1760190609,
+            "flags": "A",
+            "commentary": "已新增标签：开阔性, 昼夜变化。"
+        },
+        {
+            "revision": 30,
+            "global_revision": 1532490806,
+            "author": 9419995,
+            "stamp": 1758894973,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1532490795,
+            "author": 9419995,
+            "stamp": 1758894927,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1532490762,
+            "author": 9419995,
+            "stamp": 1758894805,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 23"
+        },
+        {
+            "revision": 27,
+            "global_revision": 1532490756,
+            "author": 9419995,
+            "stamp": 1758894768,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1532490719,
+            "author": 9419995,
+            "stamp": 1758894631,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1532490591,
+            "author": 9419995,
+            "stamp": 1758894198,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 23"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1532490528,
+            "author": 9419995,
+            "stamp": 1758893969,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1532490422,
+            "author": 9419995,
+            "stamp": 1758893591,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1532335294,
+            "author": 9454668,
+            "stamp": 1758112519,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 21,
+            "global_revision": 1532155785,
+            "author": 9419995,
+            "stamp": 1757156567,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1532155773,
+            "author": 9419995,
+            "stamp": 1757156516,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1532155728,
+            "author": 9419995,
+            "stamp": 1757156305,
+            "flags": "A",
+            "commentary": "已新增标签：虚妄归档设定。"
+        },
+        {
+            "revision": 18,
+            "global_revision": 1532155726,
+            "author": 9419995,
+            "stamp": 1757156284,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1530691844,
+            "author": 9419995,
+            "stamp": 1751010197,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1530691831,
+            "author": 9419995,
+            "stamp": 1751010134,
+            "flags": "F",
+            "commentary": "已上传文件 “lol”。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1530691830,
+            "author": 9419995,
+            "stamp": 1751010115,
+            "flags": "F",
+            "commentary": "已上传文件 “forest”。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1530691823,
+            "author": 9419995,
+            "stamp": 1751010094,
+            "flags": "F",
+            "commentary": "已上传文件 “rain”。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1530691734,
+            "author": 9419995,
+            "stamp": 1751009829,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1530691730,
+            "author": 9419995,
+            "stamp": 1751009804,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1530612515,
+            "author": 9419995,
+            "stamp": 1750576510,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1530612472,
+            "author": 9419995,
+            "stamp": 1750576386,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530612430,
+            "author": 9419995,
+            "stamp": 1750576291,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530596563,
+            "author": 9419995,
+            "stamp": 1750473313,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度1。 移除标签：生存难度3。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530596557,
+            "author": 9419995,
+            "stamp": 1750473285,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530585736,
+            "author": 9419995,
+            "stamp": 1750419287,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530585718,
+            "author": 9419995,
+            "stamp": 1750419179,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530585383,
+            "author": 9419995,
+            "stamp": 1750417629,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530585376,
+            "author": 9419995,
+            "stamp": 1750417569,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530585361,
+            "author": 9419995,
+            "stamp": 1750417369,
+            "flags": "A",
+            "commentary": "已新增标签：层级, 林地, 生存难度3。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530585099,
+            "author": 9419995,
+            "stamp": 1750415835,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530585087,
+            "author": 9419995,
+            "stamp": 1750415794,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11409628,
+            "name": "forest",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-37/forest",
+            "size": "51.88 kB (53126 Bytes)",
+            "size_bytes": 53126,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 500x344, components 3",
+            "author": 9419995,
+            "stamp": 1751010115,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11409629,
+            "name": "lol",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-37/lol",
+            "size": "55.1 kB (56421 Bytes)",
+            "size_bytes": 56421,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 500x333, components 3",
+            "author": 9419995,
+            "stamp": 1751010134,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11409627,
+            "name": "rain",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-37/rain",
+            "size": "27.14 kB (27796 Bytes)",
+            "size_bytes": 27796,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 500x326, components 3",
+            "author": 9419995,
+            "stamp": 1751010094,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459821449,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 15,
+    "forum_thread": 17157496,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "昼夜变化",
+        "林地",
+        "生存难度1",
+        "精神影响",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-37 - “不欢迎来到丛林👎👎👎”",
+    "sitemap_update": 1760190738000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            10193630,
+            true
+        ],
+        [
+            10184925,
+            true
+        ],
+        [
+            9639856,
+            false
+        ],
+        [
+            9475961,
+            true
+        ],
+        [
+            9804860,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            9375128,
+            false
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9565995,
+            true
+        ],
+        [
+            9541601,
+            true
+        ],
+        [
+            9669086,
+            true
+        ],
+        [
+            9895946,
+            true
+        ],
+        [
+            9631596,
+            true
+        ],
+        [
+            9485306,
+            false
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": true
+}

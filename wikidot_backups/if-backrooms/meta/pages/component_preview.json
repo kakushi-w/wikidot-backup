@@ -1,0 +1,78 @@
+{
+    "name": "component:preview",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531158191,
+            "author": 9454668,
+            "stamp": 1753338816,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531093826,
+            "author": 9454668,
+            "stamp": 1753006948,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530503349,
+            "author": 9454668,
+            "stamp": 1749902294,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530503283,
+            "author": 9454668,
+            "stamp": 1749901978,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530503063,
+            "author": 9454668,
+            "stamp": 1749900875,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530503054,
+            "author": 9454668,
+            "stamp": 1749900834,
+            "flags": "A",
+            "commentary": "已新增标签：组件, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530503051,
+            "author": 9454668,
+            "stamp": 1749900825,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459797344,
+    "rating": 1,
+    "tags": [
+        "组件",
+        "翻译"
+    ],
+    "title": "组件：CROM 预览",
+    "sitemap_update": 1753338816000,
+    "votings": [
+        [
+            8620589,
+            true
+        ]
+    ],
+    "is_locked": false
+}

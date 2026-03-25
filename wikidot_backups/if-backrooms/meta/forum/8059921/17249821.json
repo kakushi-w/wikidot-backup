@@ -1,0 +1,32 @@
+{
+    "title": "Level PL-7 - “雾中桥”",
+    "id": 17249821,
+    "description": "",
+    "last": 1761024613,
+    "lastUser": 9454668,
+    "started": 1758085541,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7333922,
+            "title": "",
+            "poster": 9609194,
+            "stamp": 1760968935,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7336569,
+                    "title": "",
+                    "poster": 9454668,
+                    "stamp": 1761024613,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

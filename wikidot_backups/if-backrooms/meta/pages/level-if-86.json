@@ -1,0 +1,88 @@
+{
+    "name": "level-if-86",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1540612844,
+            "author": 9551174,
+            "stamp": 1765700406,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度0。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540608307,
+            "author": 8620589,
+            "stamp": 1765675622,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540608112,
+            "author": 8620589,
+            "stamp": 1765673670,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540608105,
+            "author": 8620589,
+            "stamp": 1765673585,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540608101,
+            "author": 8620589,
+            "stamp": 1765673530,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467562119,
+    "rating": 7,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度0"
+    ],
+    "title": "Level IF-86",
+    "sitemap_update": 1765700406000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9850702,
+            true
+        ]
+    ],
+    "is_locked": false
+}

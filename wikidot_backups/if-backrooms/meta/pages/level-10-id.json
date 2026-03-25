@@ -1,0 +1,68 @@
+{
+    "name": "level-10-id",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1541062048,
+            "author": 10184925,
+            "stamp": 1766752377,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541053265,
+            "author": 10184925,
+            "stamp": 1766737006,
+            "flags": "A",
+            "commentary": "已新增标签：层级, 生存难度2, 翻译。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541053218,
+            "author": 10184925,
+            "stamp": 1766736924,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541053201,
+            "author": 10184925,
+            "stamp": 1766736895,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541053185,
+            "author": 10184925,
+            "stamp": 1766736863,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467863585,
+    "rating": 0,
+    "forum_thread": 17500591,
+    "tags": [
+        "层级",
+        "生存难度2",
+        "翻译"
+    ],
+    "title": "Level 10-ID - “工业区”",
+    "sitemap_update": 1766752377000,
+    "votings": [
+        [
+            8219242,
+            false
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,80 @@
+{
+    "name": "level-if-448",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542704278,
+            "author": 8145986,
+            "stamp": 1773663250,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度其他。 移除标签：生产难度其他。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542461685,
+            "author": 9555733,
+            "stamp": 1772803563,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542461681,
+            "author": 9555733,
+            "stamp": 1772803548,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生产难度其他。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542461646,
+            "author": 9555733,
+            "stamp": 1772803399,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468217092,
+    "forum_thread": 17612782,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度其他"
+    ],
+    "title": "Level IF-448",
+    "sitemap_update": 1773663250000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

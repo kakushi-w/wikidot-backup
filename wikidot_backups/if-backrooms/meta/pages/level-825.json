@@ -1,0 +1,100 @@
+{
+    "name": "level-825",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531386563,
+            "author": 9454668,
+            "stamp": 1754366521,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531366544,
+            "author": 9454668,
+            "stamp": 1754276868,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531366533,
+            "author": 9454668,
+            "stamp": 1754276818,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531366525,
+            "author": 9454668,
+            "stamp": 1754276768,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531355682,
+            "author": 9454668,
+            "stamp": 1754214367,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531355442,
+            "author": 9454668,
+            "stamp": 1754212959,
+            "flags": "A",
+            "commentary": "已新增标签：2025决斗竞赛, 2025希望队, 原野, 层级, 开阔性, 林地, 生存难度0, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531355433,
+            "author": 9454668,
+            "stamp": 1754212894,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459997535,
+    "rating": 5,
+    "tags": [
+        "2025决斗竞赛",
+        "2025希望队",
+        "原野",
+        "层级",
+        "开阔性",
+        "林地",
+        "生存难度0",
+        "翻译"
+    ],
+    "title": "Level 825 - “我将回到天上”",
+    "sitemap_update": 1754366521000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": true
+}

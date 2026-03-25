@@ -1,0 +1,62 @@
+{
+    "name": "level-if-172",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541677619,
+            "author": 8620589,
+            "stamp": 1769785759,
+            "flags": "A",
+            "commentary": "已新增标签：前厅映像, 原创, 层级, 建筑, 生存难度宜居, 积极。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541677576,
+            "author": 8620589,
+            "stamp": 1769785609,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468068881,
+    "rating": 6,
+    "tags": [
+        "前厅映像",
+        "原创",
+        "层级",
+        "建筑",
+        "生存难度宜居",
+        "积极"
+    ],
+    "title": "Level IF-172",
+    "sitemap_update": 1769785759000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

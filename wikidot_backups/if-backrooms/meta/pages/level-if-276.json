@@ -1,0 +1,178 @@
+{
+    "name": "level-if-276",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1541205665,
+            "author": 9454668,
+            "stamp": 1767235078,
+            "flags": "A",
+            "commentary": "已新增标签：精品。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1539467964,
+            "author": 9657913,
+            "stamp": 1763133339,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1533107726,
+            "author": 9657913,
+            "stamp": 1760875515,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1533107686,
+            "author": 9657913,
+            "stamp": 1760875357,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1533107670,
+            "author": 9657913,
+            "stamp": 1760875302,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1533107638,
+            "author": 9657913,
+            "stamp": 1760875258,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1533107623,
+            "author": 9657913,
+            "stamp": 1760875229,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532642515,
+            "author": 9792759,
+            "stamp": 1759546984,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532642506,
+            "author": 9792759,
+            "stamp": 1759546959,
+            "flags": "F",
+            "commentary": "已上传文件 “Screenshot_20250811_093110.jpg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532512164,
+            "author": 9657913,
+            "stamp": 1758989578,
+            "flags": "A",
+            "commentary": "已新增标签：劣化, 原创, 封闭性, 层级, 思想感知, 环境危害, 生存难度死区。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532512150,
+            "author": 9657913,
+            "stamp": 1758989473,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11479420,
+            "name": "Screenshot_20250811_093110.jpg",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-276/Screenshot_20250811_093110.jpg",
+            "size": "558.17 kB (571570 Bytes)",
+            "size_bytes": 571570,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1084x981, components 3",
+            "author": 9792759,
+            "stamp": 1759546959,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460456003,
+    "rating": 13,
+    "forum_thread": 17261499,
+    "tags": [
+        "劣化",
+        "原创",
+        "封闭性",
+        "层级",
+        "思想感知",
+        "环境危害",
+        "生存难度死区",
+        "精品"
+    ],
+    "title": "Level IF-276",
+    "sitemap_update": 1767235078000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

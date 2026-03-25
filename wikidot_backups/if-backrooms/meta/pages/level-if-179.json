@@ -1,0 +1,56 @@
+{
+    "name": "level-if-179",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541677114,
+            "author": 8620589,
+            "stamp": 1769783855,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 生存难度4。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541677063,
+            "author": 8620589,
+            "stamp": 1769783684,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468068781,
+    "rating": 5,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度4"
+    ],
+    "title": "Level IF-179",
+    "sitemap_update": 1769783855000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

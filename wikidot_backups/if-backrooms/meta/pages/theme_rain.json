@@ -1,0 +1,64 @@
+{
+    "name": "theme:rain",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1542094600,
+            "author": 9657913,
+            "stamp": 1771210650,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 版式, 美学版式。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542094592,
+            "author": 9657913,
+            "stamp": 1771210628,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468134924,
+    "rating": 7,
+    "forum_thread": 17589865,
+    "tags": [
+        "原创",
+        "版式",
+        "美学版式"
+    ],
+    "title": "版式：雨",
+    "sitemap_update": 1771210650000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

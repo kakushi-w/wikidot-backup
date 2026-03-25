@@ -1,0 +1,70 @@
+{
+    "name": "level-if-345",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541759035,
+            "author": 8620589,
+            "stamp": 1770108091,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541758767,
+            "author": 8620589,
+            "stamp": 1770107112,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541758766,
+            "author": 8620589,
+            "stamp": 1770107090,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度1, 虚妄归档设定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541758760,
+            "author": 8620589,
+            "stamp": 1770107059,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468086811,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 4,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度1",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-345",
+    "sitemap_update": 1770108091000,
+    "votings": [
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": true
+}

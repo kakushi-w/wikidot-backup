@@ -1,0 +1,120 @@
+{
+    "name": "hell-backrooms-if-i",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531818832,
+            "author": 8620589,
+            "stamp": 1756382317,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531762876,
+            "author": 8620589,
+            "stamp": 1756132997,
+            "flags": "A",
+            "commentary": "已新增标签：搞笑。 移除标签：搞笑条目。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531762777,
+            "author": 8620589,
+            "stamp": 1756132558,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 搞笑条目, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531762738,
+            "author": 8620589,
+            "stamp": 1756132433,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460106079,
+    "rating": 17,
+    "forum_thread": 17230546,
+    "tags": [
+        "原创",
+        "搞笑",
+        "故事"
+    ],
+    "title": "炼狱后室：IF层群版 第一章：试播集",
+    "sitemap_update": 1756382317000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9552098,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9620145,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9608029,
+            true
+        ],
+        [
+            9419995,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

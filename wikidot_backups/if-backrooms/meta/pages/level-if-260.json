@@ -1,0 +1,254 @@
+{
+    "name": "level-if-260",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 15,
+            "global_revision": 1539343238,
+            "author": 9657913,
+            "stamp": 1762961456,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1539343219,
+            "author": 9657913,
+            "stamp": 1762961406,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1533183769,
+            "author": 9454668,
+            "stamp": 1761261227,
+            "flags": "A",
+            "commentary": "已新增标签：精品。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1533154850,
+            "author": 9657913,
+            "stamp": 1761116999,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1533107792,
+            "author": 9657913,
+            "stamp": 1760875779,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1532677022,
+            "author": 9657913,
+            "stamp": 1759623423,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度0, 生存难度死区。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532677008,
+            "author": 9657913,
+            "stamp": 1759623337,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532676992,
+            "author": 9657913,
+            "stamp": 1759623206,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20251005_081248.jpg”。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532676987,
+            "author": 9657913,
+            "stamp": 1759623180,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532617220,
+            "author": 9657913,
+            "stamp": 1759469853,
+            "flags": "S",
+            "commentary": "修改错别字"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532615615,
+            "author": 9657913,
+            "stamp": 1759462977,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532615590,
+            "author": 9657913,
+            "stamp": 1759462869,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532615551,
+            "author": 9657913,
+            "stamp": 1759462732,
+            "flags": "F",
+            "commentary": "已上传文件 “wx_camera_1759315584079_edit_152866567642985.jpg”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532615311,
+            "author": 9657913,
+            "stamp": 1759461711,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532615282,
+            "author": 9657913,
+            "stamp": 1759461552,
+            "flags": "A",
+            "commentary": "已新增标签：2025联合竞赛, 劣化, 原创, 合著, 层级, 格式错乱, 浪漫, 环境危害, 述记影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532615265,
+            "author": 9657913,
+            "stamp": 1759461477,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11480142,
+            "name": "IMG_20251005_081248.jpg",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-260/IMG_20251005_081248.jpg",
+            "size": "70.93 kB (72634 Bytes)",
+            "size_bytes": 72634,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 451x497, components 3",
+            "author": 9657913,
+            "stamp": 1759623206,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11478554,
+            "name": "wx_camera_1759315584079_edit_152866567642985.jpg",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-260/wx_camera_1759315584079_edit_152866567642985.jpg",
+            "size": "70.67 kB (72369 Bytes)",
+            "size_bytes": 72369,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 451x497, components 3",
+            "author": 9657913,
+            "stamp": 1759462732,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460481658,
+    "rating": 18,
+    "forum_thread": 17286772,
+    "tags": [
+        "2025联合竞赛",
+        "劣化",
+        "原创",
+        "合著",
+        "层级",
+        "格式错乱",
+        "浪漫",
+        "环境危害",
+        "生存难度0",
+        "生存难度死区",
+        "精品",
+        "述记影响"
+    ],
+    "title": "Dream 260",
+    "sitemap_update": 1762961456000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            10206888,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": true
+}

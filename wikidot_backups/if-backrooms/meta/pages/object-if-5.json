@@ -1,0 +1,62 @@
+{
+    "name": "object-if-5",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531059782,
+            "author": 8620589,
+            "stamp": 1752820972,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 物品。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531059777,
+            "author": 8620589,
+            "stamp": 1752820957,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531059772,
+            "author": 8620589,
+            "stamp": 1752820924,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459932193,
+    "rating": 5,
+    "tags": [
+        "原创",
+        "物品"
+    ],
+    "title": "Object IF-5",
+    "sitemap_update": 1752820972000,
+    "votings": [
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            9541601,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": true
+}

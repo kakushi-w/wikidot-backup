@@ -1,0 +1,80 @@
+{
+    "name": "levelif500-contest-hub",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541555696,
+            "author": 7344601,
+            "stamp": 1769208308,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541533798,
+            "author": 7344601,
+            "stamp": 1769087399,
+            "flags": "A",
+            "commentary": "已新增标签：中心页。 移除标签：中心。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541533725,
+            "author": 7344601,
+            "stamp": 1769087146,
+            "flags": "A",
+            "commentary": "已新增标签：if-500, 中心, 原创, 竞赛。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541533685,
+            "author": 7344601,
+            "stamp": 1769087030,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468036918,
+    "forum_thread": 17569165,
+    "tags": [
+        "if-500",
+        "中心页",
+        "原创",
+        "竞赛"
+    ],
+    "title": "Level IF 500 竞赛",
+    "sitemap_update": 1769208308000,
+    "votings": [
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

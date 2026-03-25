@@ -1,0 +1,153 @@
+{
+    "name": "g-incarnation",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1533854665,
+            "author": 9454668,
+            "stamp": 1761538771,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"darkness-hub\"."
+        },
+        {
+            "revision": 6,
+            "global_revision": 1533541417,
+            "author": 9782629,
+            "stamp": 1761446518,
+            "flags": "A",
+            "commentary": "已新增标签：至暗时代设定。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1533215865,
+            "author": 9782125,
+            "stamp": 1761349059,
+            "flags": "S",
+            "commentary": "“来自Level 51”的“Level 51”我加了个联通中站Level 51的URL。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1533158665,
+            "author": 9782629,
+            "stamp": 1761135602,
+            "flags": "A",
+            "commentary": "移除标签：至暗时代设定。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533157179,
+            "author": 9782629,
+            "stamp": 1761129417,
+            "flags": "A",
+            "commentary": "已新增标签：至暗时代设定。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533156565,
+            "author": 9782629,
+            "stamp": 1761127264,
+            "flags": "A",
+            "commentary": "已新增标签：万神殿, 中立, 原创, 实体, 层级意识, 探险者总署, 现实扭曲, 神性, 返乡可能, 迫使转换。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533156559,
+            "author": 9782629,
+            "stamp": 1761127250,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533156555,
+            "author": 9782629,
+            "stamp": 1761127219,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460728862,
+    "parent": "darkness-hub",
+    "rating": 5,
+    "forum_thread": 17377738,
+    "tags": [
+        "万神殿",
+        "中立",
+        "原创",
+        "实体",
+        "层级意识",
+        "探险者总署",
+        "现实扭曲",
+        "神性",
+        "至暗时代设定",
+        "返乡可能",
+        "迫使转换"
+    ],
+    "title": "Entity IF-┃ - ”G-Incarnation“",
+    "sitemap_update": 1761538771000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            8219242,
+            false
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9832778,
+            false
+        ],
+        [
+            9115362,
+            true
+        ],
+        [
+            9552098,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9306319,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            7344601,
+            false
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

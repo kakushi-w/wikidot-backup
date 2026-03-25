@@ -1,0 +1,133 @@
+{
+    "name": "common-phenomenon-31",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1539360218,
+            "author": 9454668,
+            "stamp": 1763010078,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531817109,
+            "author": 9454668,
+            "stamp": 1756376667,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531815811,
+            "author": 9454668,
+            "stamp": 1756371962,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531815689,
+            "author": 9454668,
+            "stamp": 1756371418,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531815499,
+            "author": 9454668,
+            "stamp": 1756370917,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531815487,
+            "author": 9454668,
+            "stamp": 1756370870,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531814077,
+            "author": 9454668,
+            "stamp": 1756365026,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531814069,
+            "author": 9454668,
+            "stamp": 1756364986,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531814020,
+            "author": 9454668,
+            "stamp": 1756364893,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531814015,
+            "author": 9454668,
+            "stamp": 1756364864,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531813989,
+            "author": 9454668,
+            "stamp": 1756364762,
+            "flags": "A",
+            "commentary": "已新增标签：恐怖, 悲剧, 拟态设定, 现象, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531813936,
+            "author": 9454668,
+            "stamp": 1756364689,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460118973,
+    "rating": 4,
+    "tags": [
+        "恐怖",
+        "悲剧",
+        "拟态设定",
+        "现象",
+        "翻译"
+    ],
+    "title": "Phenomenon 31 - “潜在骤灭假说”（纯文档）",
+    "sitemap_update": 1763010078000,
+    "votings": [
+        [
+            9099707,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": true
+}

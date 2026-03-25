@@ -1,0 +1,141 @@
+{
+    "name": "level-if-98",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1541698037,
+            "author": 8620589,
+            "stamp": 1769869096,
+            "flags": "S",
+            "commentary": "修改出入口层级名（海豹怎么这么粗心层级编号只改了一半）"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528943674,
+            "author": 9009838,
+            "stamp": 1743327569,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528611561,
+            "author": 9375128,
+            "stamp": 1742721171,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528611546,
+            "author": 9375128,
+            "stamp": 1742721110,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-l-98\" 至 \"level-if-98\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528509446,
+            "author": 9375128,
+            "stamp": 1742271520,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度0, 道路。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528509432,
+            "author": 9375128,
+            "stamp": 1742271446,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528509428,
+            "author": 9375128,
+            "stamp": 1742271411,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458733011,
+    "rating": 16,
+    "forum_thread": 17109524,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度0",
+        "道路"
+    ],
+    "title": "Level IF-98",
+    "sitemap_update": 1769869096000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9701536,
+            true
+        ],
+        [
+            9690576,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9670203,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            8367260,
+            true
+        ],
+        [
+            9168168,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,100 @@
+{
+    "name": "level-if-192",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532366071,
+            "author": 9422717,
+            "stamp": 1758285642,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531078699,
+            "author": 9422717,
+            "stamp": 1752919468,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531078630,
+            "author": 9422717,
+            "stamp": 1752919144,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度1, 精神危害。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531078611,
+            "author": 9422717,
+            "stamp": 1752919076,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459937464,
+    "rating": 8,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度1",
+        "精神危害"
+    ],
+    "title": "Level IF-192",
+    "sitemap_update": 1758285642000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            8339207,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9531925,
+            false
+        ],
+        [
+            9609194,
+            false
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9631596,
+            true
+        ]
+    ],
+    "is_locked": true
+}

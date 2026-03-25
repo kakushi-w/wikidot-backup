@@ -1,0 +1,61 @@
+{
+    "name": "jam2025",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1540779110,
+            "author": 9782125,
+            "stamp": 1766226051,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540771985,
+            "author": 8620589,
+            "stamp": 1766214541,
+            "flags": "A",
+            "commentary": "已新增标签：if层群2025经典速写, 活动。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540771929,
+            "author": 8620589,
+            "stamp": 1766214445,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467660393,
+    "tags": [
+        "if层群2025经典速写",
+        "活动"
+    ],
+    "title": "2025经典速写活动",
+    "sitemap_update": 1766226051000,
+    "votings": [
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9551083,
+            true
+        ]
+    ],
+    "is_locked": false
+}

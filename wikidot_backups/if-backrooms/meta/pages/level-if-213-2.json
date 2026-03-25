@@ -1,0 +1,92 @@
+{
+    "name": "level-if-213-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531663863,
+            "author": 9333820,
+            "stamp": 1755686708,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度宜居。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531663851,
+            "author": 9333820,
+            "stamp": 1755686640,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531663817,
+            "author": 9333820,
+            "stamp": 1755686438,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531663713,
+            "author": 9333820,
+            "stamp": 1755686037,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460085614,
+    "rating": 10,
+    "forum_thread": 17212393,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度宜居"
+    ],
+    "title": "Level IF-213.2",
+    "sitemap_update": 1755686708000,
+    "votings": [
+        [
+            9810819,
+            true
+        ],
+        [
+            8728373,
+            true
+        ],
+        [
+            9899195,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

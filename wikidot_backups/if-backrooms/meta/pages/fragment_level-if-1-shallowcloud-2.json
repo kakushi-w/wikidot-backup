@@ -1,0 +1,56 @@
+{
+    "name": "fragment:level-if-1-shallowcloud-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531557206,
+            "author": 9192541,
+            "stamp": 1755151391,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531556829,
+            "author": 9192541,
+            "stamp": 1755149128,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531110688,
+            "author": 9192541,
+            "stamp": 1753093532,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"level-if-1-shallowcloud\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531110675,
+            "author": 9192541,
+            "stamp": 1753093476,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531110674,
+            "author": 9192541,
+            "stamp": 1753093468,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459944259,
+    "parent": "level-if-225",
+    "tags": [
+        "段落"
+    ],
+    "title": "Level If 1 Shallowcloud 2",
+    "sitemap_update": 1755151391000,
+    "votings": [],
+    "is_locked": false
+}

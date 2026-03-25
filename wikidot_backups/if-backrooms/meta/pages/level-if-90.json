@@ -1,0 +1,52 @@
+{
+    "name": "level-if-90",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1530851137,
+            "author": 8620589,
+            "stamp": 1751814208,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度0, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530851129,
+            "author": 8620589,
+            "stamp": 1751814181,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459883908,
+    "rating": 4,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度0",
+        "神秘"
+    ],
+    "title": "Level IF-90",
+    "sitemap_update": 1751814208000,
+    "votings": [
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

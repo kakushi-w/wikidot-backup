@@ -1,0 +1,84 @@
+{
+    "name": "level-650",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1539123713,
+            "author": 9454668,
+            "stamp": 1762510836,
+            "flags": "A",
+            "commentary": "已新增标签：需更新。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531724500,
+            "author": 8150801,
+            "stamp": 1755958943,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"collab:level-650\" 至 \"level-650\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531724491,
+            "author": 8150801,
+            "stamp": 1755958928,
+            "flags": "A",
+            "commentary": "已新增标签：2025决斗竞赛, 2025希望队, _image, 层级, 生存难度0, 翻译。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531724406,
+            "author": 8150801,
+            "stamp": 1755958681,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-650\" 至 \"collab:level-650\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531724403,
+            "author": 8150801,
+            "stamp": 1755958670,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460098139,
+    "rating": 5,
+    "forum_thread": 17225839,
+    "tags": [
+        "2025决斗竞赛",
+        "2025希望队",
+        "_image",
+        "层级",
+        "生存难度0",
+        "翻译",
+        "需更新"
+    ],
+    "title": "Level 650 - “波维塔”",
+    "sitemap_update": 1762510836000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

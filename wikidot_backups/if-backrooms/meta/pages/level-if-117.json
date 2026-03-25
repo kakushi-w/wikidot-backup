@@ -1,0 +1,76 @@
+{
+    "name": "level-if-117",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1530970318,
+            "author": 8620589,
+            "stamp": 1752395017,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530970078,
+            "author": 8620589,
+            "stamp": 1752393908,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度3, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530970061,
+            "author": 8620589,
+            "stamp": 1752393855,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459911498,
+    "rating": 6,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度3",
+        "神秘"
+    ],
+    "title": "Level IF-117",
+    "sitemap_update": 1752395017000,
+    "votings": [
+        [
+            9454668,
+            false
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            9153958,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

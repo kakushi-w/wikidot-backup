@@ -1,0 +1,52 @@
+{
+    "name": "object-if-20",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541719433,
+            "author": 10206888,
+            "stamp": 1769946207,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 格式错乱, 物品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541719426,
+            "author": 10206888,
+            "stamp": 1769946184,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468077055,
+    "rating": 4,
+    "forum_thread": 17576875,
+    "tags": [
+        "原创",
+        "格式错乱",
+        "物品"
+    ],
+    "title": "Object IF-20 - “配图网站”",
+    "sitemap_update": 1769946207000,
+    "votings": [
+        [
+            8620589,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

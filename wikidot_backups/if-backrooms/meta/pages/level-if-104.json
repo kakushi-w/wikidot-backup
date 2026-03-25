@@ -1,0 +1,108 @@
+{
+    "name": "level-if-104",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532581033,
+            "author": 9609194,
+            "stamp": 1759321090,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532573533,
+            "author": 8620589,
+            "stamp": 1759294557,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530888780,
+            "author": 8620589,
+            "stamp": 1752017320,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530888726,
+            "author": 8620589,
+            "stamp": 1752016714,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530883453,
+            "author": 8620589,
+            "stamp": 1751985898,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度0, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530883452,
+            "author": 8620589,
+            "stamp": 1751985887,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459892103,
+    "rating": 10,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度0",
+        "神秘"
+    ],
+    "title": "Level IF-104",
+    "sitemap_update": 1759321090000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9608029,
+            true
+        ]
+    ],
+    "is_locked": false
+}

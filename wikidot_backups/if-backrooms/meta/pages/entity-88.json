@@ -1,0 +1,142 @@
+{
+    "name": "entity-88",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1540079859,
+            "author": 9454668,
+            "stamp": 1764505055,
+            "flags": "A",
+            "commentary": "已新增标签：智能。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1540075927,
+            "author": 9454668,
+            "stamp": 1764497072,
+            "flags": "A",
+            "commentary": "已新增标签：人类关联。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1533916007,
+            "author": 9454668,
+            "stamp": 1761564855,
+            "flags": "A",
+            "commentary": "已新增标签：欺骗性。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532655451,
+            "author": 9454668,
+            "stamp": 1759572175,
+            "flags": "A",
+            "commentary": "移除标签：不结盟贸易集团, 后室机器人科技, 无羁探险者联盟, 铁拳。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532534123,
+            "author": 9454668,
+            "stamp": 1759102385,
+            "flags": "A",
+            "commentary": "已新增标签：精密器械。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532516890,
+            "author": 9454668,
+            "stamp": 1759015528,
+            "flags": "A",
+            "commentary": "您已成功地回复本页至修订版本编号 3"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532516855,
+            "author": 9454668,
+            "stamp": 1759015495,
+            "flags": "A",
+            "commentary": "已新增标签：机械。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532277876,
+            "author": 9454668,
+            "stamp": 1757808455,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531975699,
+            "author": 9454668,
+            "stamp": 1756736902,
+            "flags": "A",
+            "commentary": "已新增标签：不结盟贸易集团。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531975246,
+            "author": 9454668,
+            "stamp": 1756736457,
+            "flags": "A",
+            "commentary": "已新增标签：后室机器人科技, 善意, 实体, 无羁探险者联盟, 神秘, 翻译, 铁拳, 音频。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531975245,
+            "author": 9454668,
+            "stamp": 1756736450,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460222224,
+    "rating": 7,
+    "forum_thread": 17236824,
+    "tags": [
+        "人类关联",
+        "善意",
+        "实体",
+        "智能",
+        "欺骗性",
+        "神秘",
+        "精密器械",
+        "翻译",
+        "音频"
+    ],
+    "title": "Entity 88 - “机器人视界”",
+    "sitemap_update": 1764505055000,
+    "votings": [
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

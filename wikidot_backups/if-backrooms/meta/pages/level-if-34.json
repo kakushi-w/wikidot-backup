@@ -1,0 +1,81 @@
+{
+    "name": "level-if-34",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1532993651,
+            "author": 9609194,
+            "stamp": 1760279095,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 合著, 城镇, 层级, 建筑, 开阔性, 毒性, 生存难度1, 补给可能。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532993643,
+            "author": 9609194,
+            "stamp": 1760279068,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460684535,
+    "rating": 10,
+    "tags": [
+        "原创",
+        "合著",
+        "城镇",
+        "层级",
+        "建筑",
+        "开阔性",
+        "毒性",
+        "生存难度1",
+        "补给可能"
+    ],
+    "title": "Level IF-34",
+    "sitemap_update": 1760279095000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9419995,
+            true
+        ],
+        [
+            9455397,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

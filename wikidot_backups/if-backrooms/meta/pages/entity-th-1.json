@@ -1,0 +1,83 @@
+{
+    "name": "entity-th-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1538051627,
+            "author": 9454668,
+            "stamp": 1762181929,
+            "flags": "A",
+            "commentary": "已新增标签：伏击性, 敌意, 群居。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1537968229,
+            "author": 9454668,
+            "stamp": 1762147648,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1537967721,
+            "author": 9454668,
+            "stamp": 1762145067,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1537967585,
+            "author": 9454668,
+            "stamp": 1762144485,
+            "flags": "A",
+            "commentary": "已新增标签：th, 二次翻译, 实体, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1537967555,
+            "author": 9454668,
+            "stamp": 1762144475,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1465394343,
+    "rating": 5,
+    "tags": [
+        "th",
+        "二次翻译",
+        "伏击性",
+        "实体",
+        "敌意",
+        "群居",
+        "翻译"
+    ],
+    "title": "Entity TH-1 - “手印”",
+    "sitemap_update": 1762181929000,
+    "votings": [
+        [
+            9782125,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": false
+}

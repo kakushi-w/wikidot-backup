@@ -1,0 +1,104 @@
+{
+    "name": "level-if-275",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531262246,
+            "author": 9192541,
+            "stamp": 1753786560,
+            "flags": "A",
+            "commentary": "已新增标签：实体侵害, 环境危害, 疾病侵扰, 精神影响。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531262231,
+            "author": 9192541,
+            "stamp": 1753786504,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度死区。 移除标签：生存难度其他。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531262223,
+            "author": 9192541,
+            "stamp": 1753786478,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 层级, 开阔性, 恐怖, 时间异常, 林地, 生存难度其他, 神秘, 述记影响, 雾霾, 非线性。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531262219,
+            "author": 9192541,
+            "stamp": 1753786458,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459978380,
+    "rating": 10,
+    "tags": [
+        "切行困难",
+        "原创",
+        "实体侵害",
+        "层级",
+        "开阔性",
+        "恐怖",
+        "时间异常",
+        "林地",
+        "环境危害",
+        "生存难度死区",
+        "疾病侵扰",
+        "神秘",
+        "精神影响",
+        "述记影响",
+        "雾霾",
+        "非线性"
+    ],
+    "title": "Level IF-275",
+    "sitemap_update": 1753786560000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9475961,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

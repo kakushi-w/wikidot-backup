@@ -1,0 +1,128 @@
+{
+    "name": "phenomenon-38",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1531581762,
+            "author": 9454668,
+            "stamp": 1755267785,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531581742,
+            "author": 9454668,
+            "stamp": 1755267733,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531579454,
+            "author": 9454668,
+            "stamp": 1755259240,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531323593,
+            "author": 9454668,
+            "stamp": 1754053070,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531322449,
+            "author": 8150801,
+            "stamp": 1754048685,
+            "flags": "S",
+            "commentary": "修一下迭代一的现象分级代码"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531322050,
+            "author": 9454668,
+            "stamp": 1754046649,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531322038,
+            "author": 9454668,
+            "stamp": 1754046548,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531322033,
+            "author": 9454668,
+            "stamp": 1754046520,
+            "flags": "A",
+            "commentary": "已新增标签：2025决斗竞赛, 2025希望队, 探险者总署, 现象, 监督者kat, 监督者stretch, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531322031,
+            "author": 9454668,
+            "stamp": 1754046504,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459990326,
+    "rating": 8,
+    "forum_thread": 17174679,
+    "tags": [
+        "2025决斗竞赛",
+        "2025希望队",
+        "探险者总署",
+        "现象",
+        "监督者kat",
+        "监督者stretch",
+        "翻译"
+    ],
+    "title": "Phenomenon 38 - “希望论”",
+    "sitemap_update": 1755267785000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9701536,
+            true
+        ],
+        [
+            9639371,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

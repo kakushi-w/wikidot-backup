@@ -1,0 +1,130 @@
+{
+    "name": "poziom-pl-7",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1532843626,
+            "author": 9454668,
+            "stamp": 1759894674,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532366533,
+            "author": 9454668,
+            "stamp": 1758287231,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 开阔性。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532363525,
+            "author": 9454668,
+            "stamp": 1758276050,
+            "flags": "A",
+            "commentary": "已新增标签：雾霾。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532336522,
+            "author": 9454668,
+            "stamp": 1758117703,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532334709,
+            "author": 9454668,
+            "stamp": 1758109980,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 3"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532334700,
+            "author": 9454668,
+            "stamp": 1758109902,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532330725,
+            "author": 9454668,
+            "stamp": 1758086633,
+            "flags": "A",
+            "commentary": "已新增标签：波兰探险家委员会。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532330512,
+            "author": 9454668,
+            "stamp": 1758085238,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532330507,
+            "author": 9454668,
+            "stamp": 1758085214,
+            "flags": "A",
+            "commentary": "已新增标签：二次翻译, 层级, 怀旧, 生存难度其他, 神秘, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532330495,
+            "author": 9454668,
+            "stamp": 1758085163,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460406948,
+    "forum_thread": 17249821,
+    "tags": [
+        "二次翻译",
+        "切行困难",
+        "层级",
+        "开阔性",
+        "怀旧",
+        "波兰探险家委员会",
+        "生存难度其他",
+        "神秘",
+        "翻译",
+        "雾霾"
+    ],
+    "title": "Level PL-7 - “雾中桥”",
+    "sitemap_update": 1759894674000,
+    "votings": [
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9304231,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": true
+}

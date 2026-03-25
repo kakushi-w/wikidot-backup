@@ -1,0 +1,63 @@
+{
+    "name": "wsunwishehsim",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1531924352,
+            "author": 9609194,
+            "stamp": 1756648644,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 搞笑, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531924317,
+            "author": 9609194,
+            "stamp": 1756648626,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460182300,
+    "forum_thread": 17236430,
+    "tags": [
+        "原创",
+        "搞笑",
+        "故事"
+    ],
+    "title": "误入厚实，成为排队克 第三章“排队克的王”",
+    "sitemap_update": 1756648644000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            8426551,
+            false
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": false
+}

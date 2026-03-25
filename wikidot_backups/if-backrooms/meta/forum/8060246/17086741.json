@@ -1,0 +1,40 @@
+{
+    "title": "想不到什么标题",
+    "id": 17086741,
+    "description": "",
+    "last": 1747537688,
+    "lastUser": 9168168,
+    "started": 1743543348,
+    "startedUser": 9541601,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6907502,
+            "title": "想不到什么标题",
+            "poster": 9541601,
+            "stamp": 1743543348,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6984176,
+                    "title": "Re: 想不到什么标题",
+                    "poster": 9679652,
+                    "stamp": 1746800269,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 7004062,
+                    "title": "suesa之死",
+                    "poster": 9168168,
+                    "stamp": 1747537688,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

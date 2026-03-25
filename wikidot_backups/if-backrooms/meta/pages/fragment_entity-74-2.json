@@ -1,0 +1,48 @@
+{
+    "name": "fragment:entity-74-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532382585,
+            "author": 9454668,
+            "stamp": 1758354418,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532368101,
+            "author": 9454668,
+            "stamp": 1758292022,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"entity-74\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532368098,
+            "author": 9454668,
+            "stamp": 1758291998,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532368095,
+            "author": 9454668,
+            "stamp": 1758291987,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460418484,
+    "parent": "entity-74",
+    "tags": [
+        "段落"
+    ],
+    "title": "fragment:entity-74-2",
+    "sitemap_update": 1758354418000,
+    "votings": [],
+    "is_locked": true
+}

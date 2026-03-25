@@ -1,0 +1,226 @@
+{
+    "name": "level-if-254",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 15,
+            "global_revision": 1540141337,
+            "author": 9099707,
+            "stamp": 1764679561,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1539887681,
+            "author": 9099707,
+            "stamp": 1763993083,
+            "flags": "A",
+            "commentary": "移除标签：反转, 至暗时代设定。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1539887626,
+            "author": 9099707,
+            "stamp": 1763992891,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539159568,
+            "author": 9099707,
+            "stamp": 1762661672,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"\"."
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539158816,
+            "author": 9099707,
+            "stamp": 1762659293,
+            "flags": "A",
+            "commentary": "已新增标签：开阔性。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539158716,
+            "author": 9099707,
+            "stamp": 1762658990,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1536015886,
+            "author": 9099707,
+            "stamp": 1761823728,
+            "flags": "A",
+            "commentary": "移除标签：合著。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1534040747,
+            "author": 9099707,
+            "stamp": 1761649585,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1534040517,
+            "author": 9099707,
+            "stamp": 1761649539,
+            "flags": "F",
+            "commentary": "已上传文件 “IF-254”。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1533991769,
+            "author": 9454668,
+            "stamp": 1761608442,
+            "flags": "A",
+            "commentary": "已新增标签：合著。 移除标签：合作。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1533991209,
+            "author": 9454668,
+            "stamp": 1761607891,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"darkness-hub\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1533987702,
+            "author": 9099707,
+            "stamp": 1761604706,
+            "flags": "A",
+            "commentary": "已新增标签：合作。 移除标签：合著。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533987674,
+            "author": 9099707,
+            "stamp": 1761604684,
+            "flags": "A",
+            "commentary": "已新增标签：反转, 合著, 至暗时代设定。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533939763,
+            "author": 9540010,
+            "stamp": 1761575373,
+            "flags": "A",
+            "commentary": "已新增标签：层级, 生存难度宜居。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533939576,
+            "author": 8414006,
+            "stamp": 1761575286,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533939213,
+            "author": 8414006,
+            "stamp": 1761575135,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11504774,
+            "name": "IF-254",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-254/IF-254",
+            "size": "215.54 kB (220713 Bytes)",
+            "size_bytes": 220713,
+            "mime": "application/octet-stream",
+            "content": "ISO Media, AVIF Image",
+            "author": 9099707,
+            "stamp": 1761649539,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1461444102,
+    "rating": 16,
+    "forum_thread": 17399746,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度宜居"
+    ],
+    "title": "Level IF-254 『 素律•秋 』",
+    "sitemap_update": 1764679561000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            9639371,
+            true
+        ],
+        [
+            9100566,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

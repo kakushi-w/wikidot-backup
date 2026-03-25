@@ -1,0 +1,189 @@
+{
+    "name": "level-if-335",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1540490732,
+            "author": 9609194,
+            "stamp": 1765372498,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1534092985,
+            "author": 9454668,
+            "stamp": 1761661299,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532580608,
+            "author": 9419995,
+            "stamp": 1759319542,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532580393,
+            "author": 9419995,
+            "stamp": 1759318920,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532573830,
+            "author": 9454668,
+            "stamp": 1759295686,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532573694,
+            "author": 8620589,
+            "stamp": 1759295292,
+            "flags": "A",
+            "commentary": "已新增标签：crossover, 虚妄归档设定。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532573587,
+            "author": 9419995,
+            "stamp": 1759294861,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 建筑, 生存难度0。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532573583,
+            "author": 9419995,
+            "stamp": 1759294825,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532573581,
+            "author": 9419995,
+            "stamp": 1759294798,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460471640,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 17,
+    "forum_thread": 17275737,
+    "tags": [
+        "crossover",
+        "原创",
+        "封闭性",
+        "层级",
+        "建筑",
+        "生存难度0",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-335 - “拨号中心”",
+    "sitemap_update": 1765372498000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9115362,
+            true
+        ],
+        [
+            9552098,
+            true
+        ],
+        [
+            9853042,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8677784,
+            false
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9375128,
+            false
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9385645,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9608029,
+            true
+        ],
+        [
+            9419995,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

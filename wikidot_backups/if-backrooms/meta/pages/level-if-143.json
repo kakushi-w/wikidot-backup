@@ -1,0 +1,132 @@
+{
+    "name": "level-if-143",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531261067,
+            "author": 9609194,
+            "stamp": 1753781443,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531173143,
+            "author": 9551174,
+            "stamp": 1753416817,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531172987,
+            "author": 9551174,
+            "stamp": 1753416056,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531164684,
+            "author": 9609194,
+            "stamp": 1753367322,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531164677,
+            "author": 9609194,
+            "stamp": 1753367284,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531164638,
+            "author": 9609194,
+            "stamp": 1753367127,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 城镇, 层级, 层级意识, 开阔性, 毒性, 环境危害, 生存难度3, 道路, 雾霾。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531164628,
+            "author": 9609194,
+            "stamp": 1753367097,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459958548,
+    "rating": 12,
+    "forum_thread": 17171166,
+    "tags": [
+        "切行困难",
+        "原创",
+        "城镇",
+        "层级",
+        "层级意识",
+        "开阔性",
+        "毒性",
+        "环境危害",
+        "生存难度3",
+        "道路",
+        "雾霾"
+    ],
+    "title": "Level IF-143 - “大雾都”",
+    "sitemap_update": 1753781443000,
+    "votings": [
+        [
+            9810334,
+            true
+        ],
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            8728373,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9192541,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,47 @@
+{
+    "title": "往生之地",
+    "id": 17171529,
+    "description": "",
+    "last": 1753494475,
+    "lastUser": 9620145,
+    "started": 1753453268,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7084414,
+            "title": "",
+            "poster": 9099707,
+            "stamp": 1753488876,
+            "lastEdit": 1753488889,
+            "lastEditBy": 9099707,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9099707,
+                    "id": 8570106,
+                    "stamp": 1753488889
+                },
+                {
+                    "title": "",
+                    "author": 9099707,
+                    "id": 8570105,
+                    "stamp": 1753488876
+                }
+            ],
+            "children": [
+                {
+                    "id": 7084471,
+                    "title": "",
+                    "poster": 9620145,
+                    "stamp": 1753494475,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

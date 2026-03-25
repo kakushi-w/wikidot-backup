@@ -1,0 +1,131 @@
+{
+    "name": "wxgws",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1533098898,
+            "author": 9306319,
+            "stamp": 1760837563,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1533078962,
+            "author": 9306319,
+            "stamp": 1760761294,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1533077045,
+            "author": 9306319,
+            "stamp": 1760751924,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1533076951,
+            "author": 9306319,
+            "stamp": 1760751332,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1533076931,
+            "author": 9306319,
+            "stamp": 1760751248,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1533076903,
+            "author": 9306319,
+            "stamp": 1760751111,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1533076889,
+            "author": 9306319,
+            "stamp": 1760751060,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533076468,
+            "author": 9306319,
+            "stamp": 1760748211,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 宗教, 故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533076463,
+            "author": 9306319,
+            "stamp": 1760748174,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533076444,
+            "author": 9306319,
+            "stamp": 1760748031,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533076441,
+            "author": 9306319,
+            "stamp": 1760748009,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460709270,
+    "forum_thread": 17359194,
+    "tags": [
+        "原创",
+        "宗教",
+        "故事"
+    ],
+    "title": "残光",
+    "sitemap_update": 1760837563000,
+    "votings": [
+        [
+            9306319,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,97 @@
+{
+    "name": "karagatan-para-kay-saranay",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531743585,
+            "author": 9454668,
+            "stamp": 1756046603,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"karagatan-para-kay-sarana\" 至 \"karagatan-para-kay-saranay\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531735207,
+            "author": 9454668,
+            "stamp": 1756018960,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 3"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531735203,
+            "author": 9454668,
+            "stamp": 1756018935,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531734965,
+            "author": 9454668,
+            "stamp": 1756018052,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531734876,
+            "author": 9454668,
+            "stamp": 1756017461,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"e\" 至 \"karagatan-para-kay-sarana\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531734861,
+            "author": 9454668,
+            "stamp": 1756017406,
+            "flags": "A",
+            "commentary": "已新增标签：卡拉格灵协会, 悲喜交加, 故事, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531734857,
+            "author": 9454668,
+            "stamp": 1756017392,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460100502,
+    "rating": 5,
+    "forum_thread": 17226649,
+    "tags": [
+        "卡拉格灵协会",
+        "悲喜交加",
+        "故事",
+        "翻译"
+    ],
+    "title": "萨兰奈的海洋之约",
+    "sitemap_update": 1756046603000,
+    "votings": [
+        [
+            9630520,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

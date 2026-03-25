@@ -1,0 +1,180 @@
+{
+    "name": "lls-death",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1539458977,
+            "author": 9630520,
+            "stamp": 1763118000,
+            "flags": "S",
+            "commentary": "改了些东西"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1539375209,
+            "author": 9657913,
+            "stamp": 1763038975,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1539368940,
+            "author": 9657913,
+            "stamp": 1763034059,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539368803,
+            "author": 9657913,
+            "stamp": 1763033618,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531831014,
+            "author": 9630520,
+            "stamp": 1756435571,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531830815,
+            "author": 9630520,
+            "stamp": 1756434465,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531830744,
+            "author": 9630520,
+            "stamp": 1756434015,
+            "flags": "A",
+            "commentary": "移除标签：奇葩, 强势, 怪诞, 恐怖, 惊悚, 权威, 猎奇, 畏惧, 神秘, 离奇, 诡异, 难绷。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531830730,
+            "author": 9630520,
+            "stamp": 1756433975,
+            "flags": "A",
+            "commentary": "已新增标签：奇葩, 强势, 怪诞, 恐怖, 惊悚, 权威, 猎奇, 畏惧, 神秘, 离奇, 诡异, 难绷。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531822855,
+            "author": 9630520,
+            "stamp": 1756394630,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 搞笑, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531822845,
+            "author": 9630520,
+            "stamp": 1756394592,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460121811,
+    "rating": 16,
+    "forum_thread": 17254026,
+    "tags": [
+        "原创",
+        "搞笑",
+        "故事"
+    ],
+    "title": "李老师之死（无恶意整活抱歉）",
+    "sitemap_update": 1763118000000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9832778,
+            false
+        ],
+        [
+            9287769,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8979477,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9375128,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            false
+        ],
+        [
+            9385645,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9620145,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

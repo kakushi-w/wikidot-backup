@@ -1,0 +1,115 @@
+{
+    "name": "level-if-330",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531793201,
+            "author": 8150801,
+            "stamp": 1756275207,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531791970,
+            "author": 9099707,
+            "stamp": 1756272212,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度死区。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531791650,
+            "author": 9126349,
+            "stamp": 1756271516,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531791512,
+            "author": 9126349,
+            "stamp": 1756271205,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531791375,
+            "author": 9126349,
+            "stamp": 1756270825,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531791366,
+            "author": 9126349,
+            "stamp": 1756270777,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531791326,
+            "author": 9126349,
+            "stamp": 1756270471,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460113782,
+    "forum_thread": 17234282,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度死区"
+    ],
+    "title": "Level IF-330 - “渐行渐远的月亮”",
+    "sitemap_update": 1756275207000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9437079,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ]
+    ],
+    "is_locked": false
+}

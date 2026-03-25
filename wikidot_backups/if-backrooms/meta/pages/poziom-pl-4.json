@@ -1,0 +1,152 @@
+{
+    "name": "poziom-pl-4",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1532843634,
+            "author": 9454668,
+            "stamp": 1759894727,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1532330732,
+            "author": 9454668,
+            "stamp": 1758086660,
+            "flags": "A",
+            "commentary": "已新增标签：波兰探险家委员会。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531685450,
+            "author": 9454668,
+            "stamp": 1755785333,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531438869,
+            "author": 9454668,
+            "stamp": 1754629803,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531305707,
+            "author": 9454668,
+            "stamp": 1753959653,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度0。 移除标签：生存难度其他。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531278828,
+            "author": 9454668,
+            "stamp": 1753874350,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531278818,
+            "author": 9454668,
+            "stamp": 1753874304,
+            "flags": "A",
+            "commentary": "已新增标签：怀旧, 惊悚, 神秘。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531278761,
+            "author": 9454668,
+            "stamp": 1753874052,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531278717,
+            "author": 9454668,
+            "stamp": 1753873998,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531278706,
+            "author": 9454668,
+            "stamp": 1753873954,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531277464,
+            "author": 9454668,
+            "stamp": 1753868708,
+            "flags": "A",
+            "commentary": "已新增标签：pl, 二次翻译, 层级, 生存难度其他, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531277457,
+            "author": 9454668,
+            "stamp": 1753868681,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459982173,
+    "tags": [
+        "pl",
+        "二次翻译",
+        "层级",
+        "怀旧",
+        "惊悚",
+        "波兰探险家委员会",
+        "生存难度0",
+        "神秘",
+        "翻译"
+    ],
+    "title": "Level PL-4 - “大理石迷宫”",
+    "sitemap_update": 1759894727000,
+    "votings": [
+        [
+            9701536,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9555402,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,107 @@
+{
+    "name": "level-if-15",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1532698585,
+            "author": 9485306,
+            "stamp": 1759723672,
+            "flags": "A",
+            "commentary": "移除标签：重写中。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531597193,
+            "author": 9485306,
+            "stamp": 1755346751,
+            "flags": "A",
+            "commentary": "已新增标签：重写中。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531139862,
+            "author": 9485306,
+            "stamp": 1753246067,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531139858,
+            "author": 9485306,
+            "stamp": 1753246051,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531139816,
+            "author": 9485306,
+            "stamp": 1753245764,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530514771,
+            "author": 9485306,
+            "stamp": 1749970292,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度宜居。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530514767,
+            "author": 9485306,
+            "stamp": 1749970270,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459800571,
+    "forum_thread": 17160273,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度宜居"
+    ],
+    "title": "Level IF-15",
+    "sitemap_update": 1759723672000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9690576,
+            true
+        ],
+        [
+            9545391,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9541601,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

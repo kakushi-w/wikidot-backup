@@ -1,0 +1,70 @@
+{
+    "name": "fall-in-backrooms",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541389812,
+            "author": 7344601,
+            "stamp": 1768353422,
+            "flags": "A",
+            "commentary": "移除标签：中心页。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541389810,
+            "author": 7344601,
+            "stamp": 1768353406,
+            "flags": "A",
+            "commentary": "已新增标签：中心页。 移除标签：中心。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541389791,
+            "author": 7344601,
+            "stamp": 1768353210,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541368948,
+            "author": 8414006,
+            "stamp": 1768214717,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467992863,
+    "rating": 5,
+    "forum_thread": 17563398,
+    "tags": [
+        "原创"
+    ],
+    "title": "[后室x败犬/温八/严肃向文学/第一章更新中] 堕入虚室——自暗黑与绝望中平行与相交的挣扎与救赎",
+    "sitemap_update": 1768353422000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": true
+}

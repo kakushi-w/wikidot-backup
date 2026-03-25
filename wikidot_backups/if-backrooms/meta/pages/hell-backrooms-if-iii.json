@@ -1,0 +1,60 @@
+{
+    "name": "hell-backrooms-if-iii",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1531939081,
+            "author": 9454668,
+            "stamp": 1756681304,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 搞笑, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531928201,
+            "author": 8620589,
+            "stamp": 1756652945,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460185324,
+    "rating": 6,
+    "forum_thread": 17236502,
+    "tags": [
+        "原创",
+        "搞笑",
+        "故事"
+    ],
+    "title": "炼狱后室：IF层群版 第三章：以为能消失在山里",
+    "sitemap_update": 1756681304000,
+    "votings": [
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,106 @@
+{
+    "name": "level-if-200",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1540143555,
+            "author": 9099707,
+            "stamp": 1764684099,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540143507,
+            "author": 9882061,
+            "stamp": 1764683989,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 城镇, 层级, 开阔性, 生存难度宜居, 返乡可能。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540143316,
+            "author": 9882061,
+            "stamp": 1764683506,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467233839,
+    "forum_thread": 17469923,
+    "tags": [
+        "原创",
+        "城镇",
+        "层级",
+        "开阔性",
+        "生存难度宜居",
+        "返乡可能"
+    ],
+    "title": "Level IF-200",
+    "sitemap_update": 1764684099000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9882061,
+            true
+        ],
+        [
+            10209740,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            10146283,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

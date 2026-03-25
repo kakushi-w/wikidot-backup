@@ -1,0 +1,23 @@
+{
+    "title": "组件：评分",
+    "id": 17168115,
+    "description": "",
+    "last": 1753007115,
+    "lastUser": 9454668,
+    "started": 1753007040,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7076051,
+            "title": "搬运帖",
+            "poster": 9454668,
+            "stamp": 1753007115,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

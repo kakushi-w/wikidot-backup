@@ -1,0 +1,54 @@
+{
+    "title": "Level IF-246 - “未来主义建筑群”",
+    "id": 17360003,
+    "description": "",
+    "last": 1760870077,
+    "lastUser": 9551174,
+    "started": 1760765280,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7329128,
+            "title": "",
+            "poster": 9551174,
+            "stamp": 1760870077,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7323731,
+            "title": "",
+            "poster": 9099707,
+            "stamp": 1760765317,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7323919,
+            "title": "暂时+0",
+            "poster": 9485306,
+            "stamp": 1760768908,
+            "lastEdit": 1760769233,
+            "lastEditBy": 9485306,
+            "revisions": [
+                {
+                    "title": "-0.5～-1",
+                    "author": 9485306,
+                    "id": 8836556,
+                    "stamp": 1760768908
+                },
+                {
+                    "title": "暂时+0",
+                    "author": 9485306,
+                    "id": 8836574,
+                    "stamp": 1760769233
+                }
+            ],
+            "children": []
+        }
+    ]
+}

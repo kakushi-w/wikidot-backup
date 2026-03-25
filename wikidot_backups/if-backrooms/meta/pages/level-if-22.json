@@ -1,0 +1,82 @@
+{
+    "name": "level-if-22",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1542838977,
+            "author": 8620589,
+            "stamp": 1774172039,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542838964,
+            "author": 8620589,
+            "stamp": 1774171946,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-342\" 至 \"level-if-22\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542825598,
+            "author": 8620589,
+            "stamp": 1774107699,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542825444,
+            "author": 8620589,
+            "stamp": 1774107574,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 环境危害, 生存难度1。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542825371,
+            "author": 8620589,
+            "stamp": 1774107497,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468333414,
+    "rating": 5,
+    "forum_thread": 17640155,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "环境危害",
+        "生存难度1"
+    ],
+    "title": "Level IF-22",
+    "sitemap_update": 1774172039000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

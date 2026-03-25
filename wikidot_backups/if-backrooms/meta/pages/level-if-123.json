@@ -1,0 +1,53 @@
+{
+    "name": "level-if-123",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541671961,
+            "author": 8620589,
+            "stamp": 1769761417,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 生存难度其他。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541671957,
+            "author": 8620589,
+            "stamp": 1769761382,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468067442,
+    "rating": 4,
+    "forum_thread": 17575410,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度其他"
+    ],
+    "title": "Level IF-123 - “堆积塔楼”",
+    "sitemap_update": 1769761417000,
+    "votings": [
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            10206888,
+            true
+        ]
+    ],
+    "is_locked": false
+}

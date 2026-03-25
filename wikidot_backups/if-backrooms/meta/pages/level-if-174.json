@@ -1,0 +1,81 @@
+{
+    "name": "level-if-174",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531577693,
+            "author": 9454668,
+            "stamp": 1755252599,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531577485,
+            "author": 9454668,
+            "stamp": 1755251638,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度死区。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531577384,
+            "author": 8620589,
+            "stamp": 1755251352,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460063811,
+    "rating": 7,
+    "tags": [
+        "切行困难",
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度死区"
+    ],
+    "title": "Level IF-174",
+    "sitemap_update": 1755252599000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9608029,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": true
+}

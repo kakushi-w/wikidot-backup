@@ -1,0 +1,32 @@
+{
+    "name": "search:_template",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1539799760,
+            "author": 9375128,
+            "stamp": 1763791076,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528492673,
+            "author": 9375128,
+            "stamp": 1742185938,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727553,
+    "tags": [
+        "功能",
+        "管理"
+    ],
+    "title": "_template（search）",
+    "sitemap_update": 1763791076000,
+    "votings": [],
+    "is_locked": true
+}

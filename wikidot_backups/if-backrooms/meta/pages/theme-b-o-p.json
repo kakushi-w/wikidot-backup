@@ -1,0 +1,72 @@
+{
+    "name": "theme-b-o-p",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542351495,
+            "author": 9657913,
+            "stamp": 1772287885,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542210986,
+            "author": 9657913,
+            "stamp": 1771667767,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 团体版式, 版式。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542210973,
+            "author": 9657913,
+            "stamp": 1771667740,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468156810,
+    "rating": 7,
+    "forum_thread": 17592905,
+    "tags": [
+        "原创",
+        "团体版式",
+        "版式"
+    ],
+    "title": "版式：B.O.P.",
+    "sitemap_update": 1772287885000,
+    "votings": [
+        [
+            9764585,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            10146283,
+            true
+        ]
+    ],
+    "is_locked": true
+}

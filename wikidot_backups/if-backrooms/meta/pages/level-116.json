@@ -1,0 +1,80 @@
+{
+    "name": "level-116",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531114733,
+            "author": 9454668,
+            "stamp": 1753108157,
+            "flags": "S",
+            "commentary": "汉化文章表格"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530381643,
+            "author": 8150801,
+            "stamp": 1749129757,
+            "flags": "A",
+            "commentary": "已新增标签：_image, 劣化, 城镇, 层级, 开阔性, 恐怖, 悲剧, 格式错乱, 水域, 生存难度其他, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530381639,
+            "author": 8150801,
+            "stamp": 1749129740,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459760664,
+    "rating": 7,
+    "forum_thread": 17146040,
+    "tags": [
+        "_image",
+        "劣化",
+        "城镇",
+        "层级",
+        "开阔性",
+        "恐怖",
+        "悲剧",
+        "格式错乱",
+        "水域",
+        "生存难度其他",
+        "翻译"
+    ],
+    "title": "Level 116 - “神祇尖塔”",
+    "sitemap_update": 1753108157000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9701536,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            10184925,
+            true
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

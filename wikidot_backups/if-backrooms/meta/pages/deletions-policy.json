@@ -1,0 +1,170 @@
+{
+    "name": "deletions-policy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 18,
+            "global_revision": 1539136478,
+            "author": 9375128,
+            "stamp": 1762568812,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1539136164,
+            "author": 9626134,
+            "stamp": 1762567765,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1539136141,
+            "author": 9626134,
+            "stamp": 1762567680,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1539135723,
+            "author": 9626134,
+            "stamp": 1762565724,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1539135694,
+            "author": 9626134,
+            "stamp": 1762565635,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1539135316,
+            "author": 9626134,
+            "stamp": 1762563666,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539135299,
+            "author": 9626134,
+            "stamp": 1762563601,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539134977,
+            "author": 9626134,
+            "stamp": 1762563037,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539134934,
+            "author": 9626134,
+            "stamp": 1762562794,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1539126187,
+            "author": 9626134,
+            "stamp": 1762521857,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1539126159,
+            "author": 9626134,
+            "stamp": 1762521756,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530585804,
+            "author": 9375128,
+            "stamp": 1750419497,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1529912003,
+            "author": 9375128,
+            "stamp": 1746359649,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528526184,
+            "author": 9375128,
+            "stamp": 1742382889,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 指导。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528525994,
+            "author": 9375128,
+            "stamp": 1742381956,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528525953,
+            "author": 9375128,
+            "stamp": 1742381706,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528525943,
+            "author": 9375128,
+            "stamp": 1742381626,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528525933,
+            "author": 9375128,
+            "stamp": 1742381543,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528525920,
+            "author": 9375128,
+            "stamp": 1742381444,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458738720,
+    "forum_thread": 17073116,
+    "tags": [
+        "原创",
+        "指导",
+        "管理"
+    ],
+    "title": "删除政策",
+    "sitemap_update": 1762568812000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Level IF-244 - “蜿蜒死廊”",
+    "id": 17226807,
+    "description": "",
+    "last": 1756111344,
+    "lastUser": 9485306,
+    "started": 1756031417,
+    "startedUser": null,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7160650,
+            "title": "DV了",
+            "poster": 9241330,
+            "stamp": 1756031639,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7164044,
+                    "title": "Re: DV了",
+                    "poster": 9485306,
+                    "stamp": 1756111344,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 7160655,
+                    "title": "Re: DV了",
+                    "poster": 9454668,
+                    "stamp": 1756031784,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7160675,
+            "title": "uv",
+            "poster": 9468413,
+            "stamp": 1756032389,
+            "lastEdit": 1756184629,
+            "lastEditBy": 9468413,
+            "revisions": [
+                {
+                    "title": "uv",
+                    "author": 9468413,
+                    "id": 8664342,
+                    "stamp": 1756184629
+                },
+                {
+                    "title": "nv",
+                    "author": 9468413,
+                    "id": 8657161,
+                    "stamp": 1756032389
+                }
+            ],
+            "children": [
+                {
+                    "id": 7164042,
+                    "title": "Re: nv",
+                    "poster": 9485306,
+                    "stamp": 1756111329,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

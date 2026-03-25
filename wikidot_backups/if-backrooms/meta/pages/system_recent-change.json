@@ -1,0 +1,23 @@
+{
+    "name": "system:recent-change",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 1528492669,
+            "author": 9375128,
+            "stamp": 1742185938,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727549,
+    "tags": [
+        "管理"
+    ],
+    "title": "最近更新",
+    "sitemap_update": 1742185938000,
+    "votings": [],
+    "is_locked": false
+}

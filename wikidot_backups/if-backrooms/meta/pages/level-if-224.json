@@ -1,0 +1,89 @@
+{
+    "name": "level-if-224",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532581568,
+            "author": 8620589,
+            "stamp": 1759322940,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度2。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532581533,
+            "author": 8620589,
+            "stamp": 1759322847,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532581496,
+            "author": 8620589,
+            "stamp": 1759322729,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460474005,
+    "rating": 11,
+    "forum_thread": 17275986,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度2"
+    ],
+    "title": "Level IF-224",
+    "sitemap_update": 1759322940000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

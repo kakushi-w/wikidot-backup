@@ -1,0 +1,68 @@
+{
+    "title": "Level 276 - “蜂巢”",
+    "id": 17309798,
+    "description": "",
+    "last": 1759822356,
+    "lastUser": 9009838,
+    "started": 1759747553,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7275560,
+            "title": "uv",
+            "poster": 9657913,
+            "stamp": 1759798516,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7271035,
+            "title": "译者帖B",
+            "poster": 8150801,
+            "stamp": 1759748125,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7277723,
+            "title": "译者帖C",
+            "poster": 9009838,
+            "stamp": 1759822356,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7271003,
+            "title": "译者帖A：",
+            "poster": 9454668,
+            "stamp": 1759747837,
+            "lastEdit": 1759751515,
+            "lastEditBy": 9454668,
+            "revisions": [
+                {
+                    "title": "译者帖A：",
+                    "author": 9454668,
+                    "id": 8780466,
+                    "stamp": 1759751515
+                },
+                {
+                    "title": "译者帖A：",
+                    "author": 9454668,
+                    "id": 8780061,
+                    "stamp": 1759747848
+                },
+                {
+                    "title": "译者帖A：",
+                    "author": 9454668,
+                    "id": 8780059,
+                    "stamp": 1759747837
+                }
+            ],
+            "children": []
+        }
+    ]
+}

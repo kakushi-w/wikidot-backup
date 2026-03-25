@@ -1,0 +1,100 @@
+{
+    "title": "议论：《教育的失败》为什么失败？",
+    "id": 17590491,
+    "description": "",
+    "last": 1773445365,
+    "lastUser": 8579565,
+    "started": 1771305436,
+    "startedUser": null,
+    "postsNum": 7,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7624347,
+            "title": "uv",
+            "poster": 8579565,
+            "stamp": 1773445365,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7567600,
+            "title": "",
+            "poster": 9189492,
+            "stamp": 1772008577,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7559729,
+            "title": "",
+            "poster": 8620589,
+            "stamp": 1771504403,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7557680,
+            "title": "",
+            "poster": 9861467,
+            "stamp": 1771403773,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7562478,
+            "title": "",
+            "poster": 9454668,
+            "stamp": 1771683226,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7563084,
+                    "title": "",
+                    "poster": 9657913,
+                    "stamp": 1771741178,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7563262,
+                            "title": "",
+                            "poster": 9454668,
+                            "stamp": 1771766202,
+                            "lastEdit": 1771767323,
+                            "lastEditBy": 9454668,
+                            "revisions": [
+                                {
+                                    "title": "",
+                                    "author": 9454668,
+                                    "id": 9112741,
+                                    "stamp": 1771767323
+                                },
+                                {
+                                    "title": "",
+                                    "author": 9454668,
+                                    "id": 9112713,
+                                    "stamp": 1771766320
+                                },
+                                {
+                                    "title": "",
+                                    "author": 9454668,
+                                    "id": 9112711,
+                                    "stamp": 1771766202
+                                },
+                                {
+                                    "title": "",
+                                    "author": 9454668,
+                                    "id": 9112720,
+                                    "stamp": 1771766655
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

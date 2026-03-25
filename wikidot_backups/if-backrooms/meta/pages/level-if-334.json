@@ -1,0 +1,95 @@
+{
+    "name": "level-if-334",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532285085,
+            "author": 9099707,
+            "stamp": 1757838239,
+            "flags": "T",
+            "commentary": "标题应有-与双引号"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532284980,
+            "author": 9099707,
+            "stamp": 1757837758,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度2。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532284606,
+            "author": 9126349,
+            "stamp": 1757836308,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532284566,
+            "author": 9126349,
+            "stamp": 1757836138,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532284553,
+            "author": 9126349,
+            "stamp": 1757836086,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460393080,
+    "forum_thread": 17364724,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度2"
+    ],
+    "title": "Level IF-334 -“月白灯光”",
+    "sitemap_update": 1757838239000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

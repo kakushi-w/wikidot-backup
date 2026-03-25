@@ -1,0 +1,32 @@
+{
+    "name": "chat:_template",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1539336755,
+            "author": 9375128,
+            "stamp": 1762945069,
+            "flags": "A",
+            "commentary": "已新增标签：功能, 管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539336751,
+            "author": 9375128,
+            "stamp": 1762945056,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466637193,
+    "tags": [
+        "功能",
+        "管理"
+    ],
+    "title": "_template（chat）",
+    "sitemap_update": 1762945069000,
+    "votings": [],
+    "is_locked": true
+}

@@ -1,0 +1,56 @@
+{
+    "name": "fragment:phenomenon-38-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532148924,
+            "author": 9454668,
+            "stamp": 1757123559,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531581795,
+            "author": 9454668,
+            "stamp": 1755267862,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"phenomenon-38\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531581719,
+            "author": 9454668,
+            "stamp": 1755267657,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531581718,
+            "author": 9454668,
+            "stamp": 1755267649,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531581703,
+            "author": 9454668,
+            "stamp": 1755267610,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460064677,
+    "parent": "phenomenon-38",
+    "tags": [
+        "段落"
+    ],
+    "title": "Phenomenon 38-2",
+    "sitemap_update": 1757123559000,
+    "votings": [],
+    "is_locked": false
+}

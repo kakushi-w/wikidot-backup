@@ -1,0 +1,96 @@
+{
+    "name": "phenomenon-if-8",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1541791990,
+            "author": 9782125,
+            "stamp": 1770284991,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541791976,
+            "author": 9782125,
+            "stamp": 1770284893,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540608343,
+            "author": 9782125,
+            "stamp": 1765675988,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540377557,
+            "author": 9782125,
+            "stamp": 1765199154,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 模因, 现象。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540377409,
+            "author": 9782125,
+            "stamp": 1765198877,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467402199,
+    "rating": 9,
+    "forum_thread": 17484345,
+    "tags": [
+        "原创",
+        "模因",
+        "现象"
+    ],
+    "title": "Phenomenon IF-8 - “异同点”",
+    "sitemap_update": 1770284991000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

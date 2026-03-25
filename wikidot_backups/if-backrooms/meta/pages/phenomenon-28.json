@@ -1,0 +1,93 @@
+{
+    "name": "phenomenon-28",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1532260027,
+            "author": 9454668,
+            "stamp": 1757729257,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532259946,
+            "author": 9454668,
+            "stamp": 1757729166,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532251727,
+            "author": 9454668,
+            "stamp": 1757689695,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532250027,
+            "author": 9454668,
+            "stamp": 1757683292,
+            "flags": "A",
+            "commentary": "已新增标签：怀旧, 悲剧。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532248698,
+            "author": 9454668,
+            "stamp": 1757679163,
+            "flags": "A",
+            "commentary": "移除标签：神秘。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532248695,
+            "author": 9454668,
+            "stamp": 1757679153,
+            "flags": "A",
+            "commentary": "已新增标签：格式错乱, 现象, 神秘, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532248685,
+            "author": 9454668,
+            "stamp": 1757679107,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460384711,
+    "rating": 4,
+    "tags": [
+        "怀旧",
+        "悲剧",
+        "格式错乱",
+        "现象",
+        "翻译"
+    ],
+    "title": "Phenomenon 28 - “无端哀悼”",
+    "sitemap_update": 1757729257000,
+    "votings": [
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": false
+}

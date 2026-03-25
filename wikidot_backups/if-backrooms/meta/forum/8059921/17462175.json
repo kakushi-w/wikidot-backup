@@ -1,0 +1,120 @@
+{
+    "title": "后室IF层群维基 12月月刊",
+    "id": 17462175,
+    "description": "",
+    "last": 1764853612,
+    "lastUser": 9850702,
+    "started": 1764326889,
+    "startedUser": null,
+    "postsNum": 13,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7439566,
+            "title": "作者帖B",
+            "poster": 9375128,
+            "stamp": 1764327769,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7439757,
+            "title": "",
+            "poster": 9657913,
+            "stamp": 1764341825,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7440909,
+            "title": "",
+            "poster": 9630520,
+            "stamp": 1764405509,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7441602,
+            "title": "",
+            "poster": 9861467,
+            "stamp": 1764422928,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7450130,
+            "title": "",
+            "poster": 9782125,
+            "stamp": 1764687200,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7439561,
+            "title": "",
+            "poster": 9609194,
+            "stamp": 1764327605,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7454535,
+            "title": "",
+            "poster": 9850702,
+            "stamp": 1764853612,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7441341,
+            "title": "",
+            "poster": 9882061,
+            "stamp": 1764416596,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7439572,
+            "title": "",
+            "poster": 7344601,
+            "stamp": 1764328241,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7439559,
+            "title": "作者帖A",
+            "poster": 9454668,
+            "stamp": 1764327261,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7439560,
+            "title": "",
+            "poster": 9552098,
+            "stamp": 1764327300,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7442931,
+            "title": "",
+            "poster": 9681637,
+            "stamp": 1764474224,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7443284,
+                    "title": "",
+                    "poster": 9375128,
+                    "stamp": 1764495978,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

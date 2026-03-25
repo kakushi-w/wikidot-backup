@@ -1,0 +1,111 @@
+{
+    "name": "theme:black-and-white-world",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1537228454,
+            "author": 8620589,
+            "stamp": 1761984535,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1537175621,
+            "author": 8620589,
+            "stamp": 1761978852,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1537174660,
+            "author": 8620589,
+            "stamp": 1761978740,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"deleted:theme:black-and-white-world\" 至 \"theme:black-and-white-world\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1537174456,
+            "author": 8620589,
+            "stamp": 1761978721,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 版式。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1537173675,
+            "author": 8620589,
+            "stamp": 1761978636,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"theme:black-and-white-world\" 至 \"deleted:theme:black-and-white-world\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1537172874,
+            "author": 8620589,
+            "stamp": 1761978553,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1464626983,
+    "rating": 9,
+    "forum_thread": 17417405,
+    "tags": [
+        "原创",
+        "版式"
+    ],
+    "title": "版式：黑与白之界",
+    "sitemap_update": 1761984535000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9531925,
+            false
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

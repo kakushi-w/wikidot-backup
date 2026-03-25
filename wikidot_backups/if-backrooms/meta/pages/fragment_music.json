@@ -1,0 +1,48 @@
+{
+    "name": "fragment:music",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531158946,
+            "author": 9454668,
+            "stamp": 1753341950,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531158944,
+            "author": 9454668,
+            "stamp": 1753341938,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531158936,
+            "author": 9454668,
+            "stamp": 1753341895,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459956902,
+    "tags": [
+        "段落"
+    ],
+    "title": "音乐",
+    "sitemap_update": 1753341950000,
+    "votings": [
+        [
+            9701536,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": true
+}

@@ -1,0 +1,150 @@
+{
+    "name": "level-if-477",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1542395449,
+            "author": 8999121,
+            "stamp": 1772518582,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度？。 移除标签：生存难度未定分级。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1542395445,
+            "author": 8999121,
+            "stamp": 1772518540,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1542395427,
+            "author": 8999121,
+            "stamp": 1772518450,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1542395416,
+            "author": 8999121,
+            "stamp": 1772518364,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542395401,
+            "author": 8999121,
+            "stamp": 1772518207,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542395357,
+            "author": 8999121,
+            "stamp": 1772517910,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542031867,
+            "author": 8999121,
+            "stamp": 1770902594,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541949277,
+            "author": 8999121,
+            "stamp": 1770817225,
+            "flags": "A",
+            "commentary": "已新增标签：前厅映像, 原创, 层级, 悲喜交加, 格式错乱, 生存难度未定分级。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541949169,
+            "author": 8999121,
+            "stamp": 1770817029,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541949095,
+            "author": 8999121,
+            "stamp": 1770816937,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541949073,
+            "author": 8999121,
+            "stamp": 1770816871,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541949049,
+            "author": 8999121,
+            "stamp": 1770816787,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468118133,
+    "forum_thread": 17587873,
+    "tags": [
+        "前厅映像",
+        "原创",
+        "层级",
+        "悲喜交加",
+        "格式错乱",
+        "生存难度？"
+    ],
+    "title": "Level IF-477",
+    "sitemap_update": 1772518582000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

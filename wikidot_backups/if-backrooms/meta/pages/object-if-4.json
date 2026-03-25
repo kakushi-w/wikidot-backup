@@ -1,0 +1,87 @@
+{
+    "name": "object-if-4",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1530502634,
+            "author": 9541601,
+            "stamp": 1749899056,
+            "flags": "S",
+            "commentary": "经原作者同意进行了一些微调"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530490005,
+            "author": 8620589,
+            "stamp": 1749819549,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530489783,
+            "author": 8620589,
+            "stamp": 1749818612,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 物品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530489779,
+            "author": 8620589,
+            "stamp": 1749818589,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459793380,
+    "rating": 9,
+    "forum_thread": 17150082,
+    "tags": [
+        "原创",
+        "物品"
+    ],
+    "title": "Object IF-4",
+    "sitemap_update": 1749899056000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            9541601,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,104 @@
+{
+    "name": "level-if-245",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1533638103,
+            "author": 9485306,
+            "stamp": 1761473228,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532617157,
+            "author": 9485306,
+            "stamp": 1759469589,
+            "flags": "A",
+            "commentary": "已新增标签：2025联合竞赛, 切行困难, 原创, 层级, 悲剧, 生存难度不适用, 神秘。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532617147,
+            "author": 9485306,
+            "stamp": 1759469550,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532617141,
+            "author": 9485306,
+            "stamp": 1759469526,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460482032,
+    "rating": 12,
+    "forum_thread": 17287352,
+    "tags": [
+        "2025联合竞赛",
+        "切行困难",
+        "原创",
+        "层级",
+        "悲剧",
+        "生存难度不适用",
+        "神秘"
+    ],
+    "title": "Level IF-245",
+    "sitemap_update": 1761473228000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            8728373,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ]
+    ],
+    "is_locked": false
+}

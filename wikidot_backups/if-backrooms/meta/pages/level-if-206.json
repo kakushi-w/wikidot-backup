@@ -1,0 +1,214 @@
+{
+    "name": "level-if-206",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1531560255,
+            "author": 8217963,
+            "stamp": 1755163959,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531560247,
+            "author": 8217963,
+            "stamp": 1755163925,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531560113,
+            "author": 8217963,
+            "stamp": 1755163356,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-1-jgpze-100\" 至 \"level-if-206\"."
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531206121,
+            "author": 9419995,
+            "stamp": 1753571451,
+            "flags": "S",
+            "commentary": "修改了一处编号错误。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1530963943,
+            "author": 8217963,
+            "stamp": 1752364185,
+            "flags": "S",
+            "commentary": "增加AI图像协议说明"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530960361,
+            "author": 8217963,
+            "stamp": 1752340431,
+            "flags": "S",
+            "commentary": "更改脚注错误"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530959569,
+            "author": 8217963,
+            "stamp": 1752337167,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"deleted:level-if-1-jgpze-100\" 至 \"level-if-1-jgpze-100\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530958560,
+            "author": 8217963,
+            "stamp": 1752333192,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-1-jgpze-100\" 至 \"deleted:level-if-1-jgpze-100\"."
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530958385,
+            "author": 8217963,
+            "stamp": 1752332272,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530957527,
+            "author": 8217963,
+            "stamp": 1752329181,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530957518,
+            "author": 8217963,
+            "stamp": 1752329153,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530957470,
+            "author": 8217963,
+            "stamp": 1752328999,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20250712_215727.png”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530957466,
+            "author": 8217963,
+            "stamp": 1752328985,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20250712_215715.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530957464,
+            "author": 8217963,
+            "stamp": 1752328961,
+            "flags": "A",
+            "commentary": "已新增标签：if-1竞赛, 原创, 层级, 生存难度其他。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530957447,
+            "author": 8217963,
+            "stamp": 1752328902,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11418854,
+            "name": "IMG_20250712_215715.png",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-206/IMG_20250712_215715.png",
+            "size": "1.61 MB (1685172 Bytes)",
+            "size_bytes": 1685172,
+            "mime": "image/png",
+            "content": "PNG image data, 1328 x 1165, 8-bit/color RGBA, non-interlaced",
+            "author": 8217963,
+            "stamp": 1752328985,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11418855,
+            "name": "IMG_20250712_215727.png",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-206/IMG_20250712_215727.png",
+            "size": "983.81 kB (1007418 Bytes)",
+            "size_bytes": 1007418,
+            "mime": "image/png",
+            "content": "PNG image data, 1328 x 1217, 8-bit/color RGBA, non-interlaced",
+            "author": 8217963,
+            "stamp": 1752328999,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459908644,
+    "rating": 8,
+    "forum_thread": 17165172,
+    "tags": [
+        "if-1竞赛",
+        "原创",
+        "层级",
+        "生存难度其他"
+    ],
+    "title": "Level IF-206 - “空虚之宙”",
+    "sitemap_update": 1755163959000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9552098,
+            true
+        ],
+        [
+            9708533,
+            false
+        ],
+        [
+            9555402,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9831743,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9302580,
+            false
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": false
+}

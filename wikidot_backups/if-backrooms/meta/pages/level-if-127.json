@@ -1,0 +1,76 @@
+{
+    "name": "level-if-127",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1539796610,
+            "author": 8620589,
+            "stamp": 1763783078,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531386904,
+            "author": 8620589,
+            "stamp": 1754368381,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531370752,
+            "author": 8620589,
+            "stamp": 1754297994,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 格式错乱, 生存难度宜居。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531370737,
+            "author": 8620589,
+            "stamp": 1754297906,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460000949,
+    "rating": 6,
+    "tags": [
+        "原创",
+        "层级",
+        "格式错乱",
+        "生存难度宜居"
+    ],
+    "title": "Level IF-127",
+    "sitemap_update": 1763783078000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9608029,
+            true
+        ]
+    ],
+    "is_locked": false
+}

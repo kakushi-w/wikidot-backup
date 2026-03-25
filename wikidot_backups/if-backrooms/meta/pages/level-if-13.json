@@ -1,0 +1,154 @@
+{
+    "name": "level-if-13",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531324594,
+            "author": 9168168,
+            "stamp": 1754057048,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530452856,
+            "author": 9168168,
+            "stamp": 1749555474,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530452855,
+            "author": 9168168,
+            "stamp": 1749555374,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-14\" 至 \"level-if-13\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530447790,
+            "author": 9168168,
+            "stamp": 1749526032,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530439744,
+            "author": 9168168,
+            "stamp": 1749473982,
+            "flags": "F",
+            "commentary": "已上传文件 “L17”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530439726,
+            "author": 9168168,
+            "stamp": 1749473871,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度3, 精神影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530439639,
+            "author": 9168168,
+            "stamp": 1749473382,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11399792,
+            "name": "L17",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-13/L17",
+            "size": "265.06 kB (271424 Bytes)",
+            "size_bytes": 271424,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1024x626, components 3",
+            "author": 9168168,
+            "stamp": 1749473982,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459776849,
+    "rating": 6,
+    "forum_thread": 17147089,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度3",
+        "精神影响"
+    ],
+    "title": "Level IF-13",
+    "sitemap_update": 1754057048000,
+    "votings": [
+        [
+            8828300,
+            true
+        ],
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9639856,
+            false
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9565995,
+            false
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9437079,
+            false
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9620145,
+            false
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

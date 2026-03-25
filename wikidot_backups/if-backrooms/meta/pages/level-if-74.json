@@ -1,0 +1,109 @@
+{
+    "name": "level-if-74",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1539141074,
+            "author": 8620589,
+            "stamp": 1762582851,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531898727,
+            "author": 8620589,
+            "stamp": 1756616462,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531641633,
+            "author": 8620589,
+            "stamp": 1755579155,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530880833,
+            "author": 8620589,
+            "stamp": 1751975682,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530878990,
+            "author": 8620589,
+            "stamp": 1751967202,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度3。 移除标签：生存难度03。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530878987,
+            "author": 8620589,
+            "stamp": 1751967194,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度03, 神秘。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530878968,
+            "author": 8620589,
+            "stamp": 1751967050,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530878962,
+            "author": 8620589,
+            "stamp": 1751966999,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459891072,
+    "rating": 6,
+    "forum_thread": 17163526,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度3",
+        "神秘"
+    ],
+    "title": "Level IF-74",
+    "sitemap_update": 1762582851000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9541601,
+            true
+        ],
+        [
+            9437079,
+            true
+        ]
+    ],
+    "is_locked": false
+}

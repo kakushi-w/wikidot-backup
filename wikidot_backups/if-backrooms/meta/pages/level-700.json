@@ -1,0 +1,104 @@
+{
+    "name": "level-700",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1532176635,
+            "author": 9454668,
+            "stamp": 1757252759,
+            "flags": "A",
+            "commentary": "已新增标签：开阔性。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531593210,
+            "author": 9454668,
+            "stamp": 1755329219,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531402118,
+            "author": 9454668,
+            "stamp": 1754442810,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531396321,
+            "author": 9454668,
+            "stamp": 1754407244,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531396255,
+            "author": 9454668,
+            "stamp": 1754407037,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531396207,
+            "author": 9454668,
+            "stamp": 1754406965,
+            "flags": "A",
+            "commentary": "已新增标签：2025决斗竞赛, 2025绝望队, 层级, 格式错乱, 生存难度其他, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531396195,
+            "author": 9454668,
+            "stamp": 1754406933,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460008208,
+    "rating": 6,
+    "forum_thread": 17212177,
+    "tags": [
+        "2025决斗竞赛",
+        "2025绝望队",
+        "层级",
+        "开阔性",
+        "格式错乱",
+        "生存难度其他",
+        "翻译"
+    ],
+    "title": "Level 700 - “它很美，不是吗？”",
+    "sitemap_update": 1757252759000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9608029,
+            true
+        ]
+    ],
+    "is_locked": false
+}

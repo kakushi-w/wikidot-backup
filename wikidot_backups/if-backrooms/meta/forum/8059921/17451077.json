@@ -1,0 +1,76 @@
+{
+    "title": "Level IF-389",
+    "id": 17451077,
+    "description": "",
+    "last": 1765955480,
+    "lastUser": 9792759,
+    "started": 1763360175,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7441091,
+            "title": "uv转dv",
+            "poster": 8414006,
+            "stamp": 1764410017,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7471757,
+                    "title": "Re: uv转dv",
+                    "poster": 9792759,
+                    "stamp": 1765955480,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7430798,
+            "title": "",
+            "poster": 9099707,
+            "stamp": 1763376595,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7430945,
+                    "title": "",
+                    "poster": 9792759,
+                    "stamp": 1763389376,
+                    "lastEdit": 1769945389,
+                    "lastEditBy": 9792759,
+                    "revisions": [
+                        {
+                            "title": "",
+                            "author": 9792759,
+                            "id": 8952957,
+                            "stamp": 1763390133
+                        },
+                        {
+                            "title": "",
+                            "author": 9792759,
+                            "id": 9071254,
+                            "stamp": 1769945389
+                        },
+                        {
+                            "title": "",
+                            "author": 9792759,
+                            "id": 8952948,
+                            "stamp": 1763389499
+                        },
+                        {
+                            "title": "",
+                            "author": 9792759,
+                            "id": 8952944,
+                            "stamp": 1763389376
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "title": "Level IF-103",
+    "id": 17160314,
+    "description": "",
+    "last": 1752764293,
+    "lastUser": 8728373,
+    "started": 1751273401,
+    "startedUser": null,
+    "postsNum": 14,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7057470,
+            "title": "IF层群自己的人力可胜天",
+            "poster": 9620145,
+            "stamp": 1751686658,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7057760,
+                    "title": "Re: IF层群自己的人力可胜天",
+                    "poster": 9657913,
+                    "stamp": 1751714175,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 7057773,
+                    "title": "Re: IF层群自己的人力可胜天",
+                    "poster": 9304232,
+                    "stamp": 1751714891,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7053562,
+            "title": "",
+            "poster": 8774679,
+            "stamp": 1751273413,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7053626,
+                    "title": "",
+                    "poster": 9657913,
+                    "stamp": 1751281245,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7053563,
+            "title": "",
+            "poster": 9304232,
+            "stamp": 1751273701,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7053628,
+                    "title": "",
+                    "poster": 9657913,
+                    "stamp": 1751281269,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7053642,
+                            "title": "",
+                            "poster": 9304232,
+                            "stamp": 1751282964,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7069892,
+            "title": "",
+            "poster": 8728373,
+            "stamp": 1752555415,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7071679,
+                    "title": "",
+                    "poster": 9657913,
+                    "stamp": 1752668646,
+                    "lastEdit": 1753194079,
+                    "lastEditBy": 9657913,
+                    "revisions": [
+                        {
+                            "title": "",
+                            "author": 9657913,
+                            "id": 8563380,
+                            "stamp": 1753194079
+                        },
+                        {
+                            "title": "",
+                            "author": 9657913,
+                            "id": 8553712,
+                            "stamp": 1752668646
+                        }
+                    ],
+                    "children": [
+                        {
+                            "id": 7073089,
+                            "title": "",
+                            "poster": 8728373,
+                            "stamp": 1752764293,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7063603,
+            "title": "uv",
+            "poster": 9168168,
+            "stamp": 1752124458,
+            "lastEdit": 1752190157,
+            "lastEditBy": 9168168,
+            "revisions": [
+                {
+                    "title": "uv",
+                    "author": 9168168,
+                    "id": 8544479,
+                    "stamp": 1752190157
+                },
+                {
+                    "title": "uv",
+                    "author": 9168168,
+                    "id": 8543532,
+                    "stamp": 1752136923
+                },
+                {
+                    "title": "uv",
+                    "author": 9168168,
+                    "id": 8543281,
+                    "stamp": 1752124458
+                }
+            ],
+            "children": [
+                {
+                    "id": 7063914,
+                    "title": "Re: uv",
+                    "poster": 9099707,
+                    "stamp": 1752147011,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 7063923,
+                    "title": "Re: uv",
+                    "poster": 9657913,
+                    "stamp": 1752147478,
+                    "lastEdit": 1752148592,
+                    "lastEditBy": 9657913,
+                    "revisions": [
+                        {
+                            "title": "Re: uv",
+                            "author": 9657913,
+                            "id": 8543734,
+                            "stamp": 1752148592
+                        },
+                        {
+                            "title": "Re: uv",
+                            "author": 9657913,
+                            "id": 8543732,
+                            "stamp": 1752148528
+                        },
+                        {
+                            "title": "Re: uv",
+                            "author": 9657913,
+                            "id": 8543715,
+                            "stamp": 1752147478
+                        },
+                        {
+                            "title": "Re: uv",
+                            "author": 9657913,
+                            "id": 8543730,
+                            "stamp": 1752148512
+                        },
+                        {
+                            "title": "Re: uv",
+                            "author": 9657913,
+                            "id": 8543718,
+                            "stamp": 1752147653
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "frutiger-aero",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541692488,
+            "author": 10206888,
+            "stamp": 1769851300,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 悲剧, 生存难度宜居, 隐秘系列。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541692481,
+            "author": 10206888,
+            "stamp": 1769851261,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468072353,
+    "rating": 5,
+    "forum_thread": 17575945,
+    "tags": [
+        "原创",
+        "层级",
+        "悲剧",
+        "生存难度宜居",
+        "隐秘系列"
+    ],
+    "title": "Frutiger Aero",
+    "sitemap_update": 1769851300000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

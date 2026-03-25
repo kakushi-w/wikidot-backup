@@ -1,0 +1,39 @@
+{
+    "title": "Level IF-319",
+    "id": 17480917,
+    "description": "",
+    "last": 1765169511,
+    "lastUser": 9551174,
+    "started": 1765036901,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7459561,
+            "title": "",
+            "poster": 9882061,
+            "stamp": 1765115426,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7457408,
+            "title": "暂时nv",
+            "poster": 9782125,
+            "stamp": 1765036927,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7460592,
+            "title": "down歉",
+            "poster": 9551174,
+            "stamp": 1765169511,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

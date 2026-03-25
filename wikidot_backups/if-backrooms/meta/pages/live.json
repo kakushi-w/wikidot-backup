@@ -1,0 +1,102 @@
+{
+    "name": "live",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1531188893,
+            "author": 9620145,
+            "stamp": 1753495273,
+            "flags": "A",
+            "commentary": "已新增标签：隐秘系列。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531188808,
+            "author": 9620145,
+            "stamp": 1753494507,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531181217,
+            "author": 8728373,
+            "stamp": 1753453257,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 合著, 层级, 生存难度？。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531181214,
+            "author": 8728373,
+            "stamp": 1753453228,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531181204,
+            "author": 8728373,
+            "stamp": 1753453201,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531181192,
+            "author": 8728373,
+            "stamp": 1753453144,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459962835,
+    "rating": 8,
+    "forum_thread": 17171529,
+    "tags": [
+        "原创",
+        "合著",
+        "层级",
+        "生存难度？",
+        "隐秘系列"
+    ],
+    "title": "往生之地",
+    "sitemap_update": 1753495273000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9555402,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9620145,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,78 @@
+{
+    "name": "level-if-368",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1540027136,
+            "author": 8620589,
+            "stamp": 1764396208,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540027121,
+            "author": 8620589,
+            "stamp": 1764396191,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 建筑, 生存难度1, 虚妄归档设定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540027100,
+            "author": 8620589,
+            "stamp": 1764396152,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467170584,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 6,
+    "tags": [
+        "原创",
+        "层级",
+        "建筑",
+        "生存难度1",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-368",
+    "sitemap_update": 1764396208000,
+    "votings": [
+        [
+            10193630,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9895946,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            7344601,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Level IF-502：无止煞梦",
+    "id": 17584792,
+    "description": "",
+    "last": 1774272967,
+    "lastUser": 9551174,
+    "started": 1770611207,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7543276,
+            "title": "作者帖",
+            "poster": 9555733,
+            "stamp": 1770611461,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7655971,
+            "title": "",
+            "poster": 9551174,
+            "stamp": 1774272967,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

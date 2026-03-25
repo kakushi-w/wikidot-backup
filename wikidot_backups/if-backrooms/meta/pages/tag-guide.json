@@ -1,0 +1,33 @@
+{
+    "name": "tag-guide",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1529171870,
+            "author": 9375128,
+            "stamp": 1744282997,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 指导, 管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529171867,
+            "author": 9375128,
+            "stamp": 1744282978,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459143828,
+    "tags": [
+        "原创",
+        "指导",
+        "管理"
+    ],
+    "title": "标签指导",
+    "sitemap_update": 1744282997000,
+    "votings": [],
+    "is_locked": false
+}

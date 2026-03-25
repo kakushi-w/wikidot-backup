@@ -1,0 +1,38 @@
+{
+    "title": "Level IF-370",
+    "id": 17607102,
+    "description": "",
+    "last": 1772834600,
+    "lastUser": 10146283,
+    "started": 1772834451,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7592849,
+            "title": "作者帖",
+            "poster": 10146283,
+            "stamp": 1772834600,
+            "lastEdit": 1772993373,
+            "lastEditBy": 10146283,
+            "revisions": [
+                {
+                    "title": "作者帖",
+                    "author": 10146283,
+                    "id": 9162628,
+                    "stamp": 1772993373
+                },
+                {
+                    "title": "作者帖",
+                    "author": 10146283,
+                    "id": 9146706,
+                    "stamp": 1772834600
+                }
+            ],
+            "children": []
+        }
+    ]
+}

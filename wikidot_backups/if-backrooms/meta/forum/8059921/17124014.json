@@ -1,0 +1,32 @@
+{
+    "title": "Level IF-阿法米伽—“若梦不再”",
+    "id": 17124014,
+    "description": "",
+    "last": 1746937246,
+    "lastUser": 9678843,
+    "started": 1746897286,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6987236,
+            "title": "",
+            "poster": 9496473,
+            "stamp": 1746897373,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6988251,
+                    "title": "",
+                    "poster": 9678843,
+                    "stamp": 1746937246,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "scattered-reports-hub",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532189396,
+            "author": 9419995,
+            "stamp": 1757333123,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532189279,
+            "author": 9375128,
+            "stamp": 1757332449,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 散乱报告集, 文章系列。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532189268,
+            "author": 9375128,
+            "stamp": 1757332371,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460361908,
+    "rating": 7,
+    "forum_thread": 17242842,
+    "tags": [
+        "原创",
+        "散乱报告集",
+        "文章系列"
+    ],
+    "title": "散乱报告集 中心页",
+    "sitemap_update": 1757333123000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,136 @@
+{
+    "name": "level-if-365",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1541773260,
+            "author": 8620589,
+            "stamp": 1770188587,
+            "flags": "A",
+            "commentary": "已新增标签：精品。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541550312,
+            "author": 9419995,
+            "stamp": 1769179043,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541550240,
+            "author": 9419995,
+            "stamp": 1769178482,
+            "flags": "A",
+            "commentary": "已新增标签：不结盟贸易集团, 低温, 原创, 合著, 城镇, 失落一族, 层级, 帕拉斯研究所, 探险者总署, 无羁探险者联盟, 正电子粒子科技有限公司, 永恒资料库, 生存难度4, 阿丽亚娜集团。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541550215,
+            "author": 9419995,
+            "stamp": 1769178348,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541550173,
+            "author": 9419995,
+            "stamp": 1769178193,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468040680,
+    "rating": 16,
+    "forum_thread": 17591959,
+    "tags": [
+        "不结盟贸易集团",
+        "低温",
+        "原创",
+        "合著",
+        "城镇",
+        "失落一族",
+        "层级",
+        "帕拉斯研究所",
+        "探险者总署",
+        "无羁探险者联盟",
+        "正电子粒子科技有限公司",
+        "永恒资料库",
+        "生存难度4",
+        "精品",
+        "阿丽亚娜集团"
+    ],
+    "title": "Level IF-365 - “寒降峻都”",
+    "sitemap_update": 1770188587000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            10193630,
+            true
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9385645,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9780825,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9555733,
+            true
+        ],
+        [
+            9419995,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": true
+}

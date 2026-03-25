@@ -1,0 +1,161 @@
+{
+    "name": "art:reydaybanner",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1531121704,
+            "author": 9454668,
+            "stamp": 1753153094,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531121682,
+            "author": 9454668,
+            "stamp": 1753152993,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531050362,
+            "author": 9454668,
+            "stamp": 1752762339,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531050311,
+            "author": 9454668,
+            "stamp": 1752762117,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531050306,
+            "author": 9454668,
+            "stamp": 1752762088,
+            "flags": "F",
+            "commentary": "已上传文件 “tess”。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531050291,
+            "author": 9454668,
+            "stamp": 1752761999,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530829470,
+            "author": 9454668,
+            "stamp": 1751695630,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530488663,
+            "author": 9454668,
+            "stamp": 1749812549,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530347583,
+            "author": 9454668,
+            "stamp": 1748904682,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530341366,
+            "author": 9454668,
+            "stamp": 1748870539,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530341195,
+            "author": 9454668,
+            "stamp": 1748870228,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530341160,
+            "author": 9454668,
+            "stamp": 1748870057,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530341146,
+            "author": 9454668,
+            "stamp": 1748869982,
+            "flags": "A",
+            "commentary": "已新增标签：2025横幅竞赛, 翻译, 艺术作品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530341139,
+            "author": 9454668,
+            "stamp": 1748869954,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11421859,
+            "name": "tess",
+            "url": "http://if-backrooms.wikidot.com/local--files/art:reydaybanner/tess",
+            "size": "332.62 kB (340602 Bytes)",
+            "size_bytes": 340602,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 144x144, segment length 16, Exif Standard: , baseline, precision 8, 1137x465, components 3",
+            "author": 9454668,
+            "stamp": 1752762088,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459747787,
+    "rating": 4,
+    "forum_thread": 17143290,
+    "tags": [
+        "2025横幅竞赛",
+        "翻译",
+        "艺术作品"
+    ],
+    "title": "Tesseract欢迎横幅",
+    "sitemap_update": 1753153094000,
+    "votings": [
+        [
+            9639856,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": true
+}

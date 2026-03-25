@@ -1,0 +1,127 @@
+{
+    "name": "level-if-5",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531577780,
+            "author": 9609194,
+            "stamp": 1755253177,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528943769,
+            "author": 9009838,
+            "stamp": 1743328144,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-l-5\" 至 \"level-if-5\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528943709,
+            "author": 9009838,
+            "stamp": 1743327824,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528943697,
+            "author": 9009838,
+            "stamp": 1743327735,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528499309,
+            "author": 9454668,
+            "stamp": 1742217444,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528499274,
+            "author": 9454668,
+            "stamp": 1742217299,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度1。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528499267,
+            "author": 9454668,
+            "stamp": 1742217281,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458730084,
+    "rating": 13,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度1"
+    ],
+    "title": "Level IF-5",
+    "sitemap_update": 1755253177000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9477209,
+            true
+        ],
+        [
+            9690576,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9679652,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9565995,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

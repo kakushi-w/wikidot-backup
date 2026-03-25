@@ -7,5 +7,26 @@
         "activity": 3,
         "fetched_at": 1774402418691,
         "user_id": 9331062
+    },
+    "9333820": {
+        "full_name": "shenglvehaowu",
+        "username": "shenglvehaowu",
+        "real_name": "盛绿浩/奚ming",
+        "from": "Level LW-60",
+        "website": "lw-backrooms-wiki.wikidot.com/",
+        "wikidot_user_since": 1723513560,
+        "account_type": "free",
+        "activity": 5,
+        "fetched_at": 1774412923104,
+        "user_id": 9333820
+    },
+    "9337208": {
+        "full_name": "level479FR",
+        "username": "level479fr",
+        "wikidot_user_since": 1723634040,
+        "account_type": "free",
+        "activity": 3,
+        "fetched_at": 1774414327236,
+        "user_id": 9337208
     }
 }

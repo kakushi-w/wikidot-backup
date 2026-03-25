@@ -1,0 +1,104 @@
+{
+    "name": "object-th-3",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531781635,
+            "author": 9454668,
+            "stamp": 1756220630,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531598377,
+            "author": 9454668,
+            "stamp": 1755352064,
+            "flags": "A",
+            "commentary": "移除标签：组件。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531598367,
+            "author": 9454668,
+            "stamp": 1755352039,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531596890,
+            "author": 9454668,
+            "stamp": 1755345099,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531596811,
+            "author": 9454668,
+            "stamp": 1755345030,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531592415,
+            "author": 9454668,
+            "stamp": 1755326699,
+            "flags": "A",
+            "commentary": "已新增标签：th, 二次翻译, 物品, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531592410,
+            "author": 9454668,
+            "stamp": 1755326688,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460067155,
+    "rating": 7,
+    "tags": [
+        "th",
+        "二次翻译",
+        "物品",
+        "翻译"
+    ],
+    "title": "Object TH-3 - “冰果”",
+    "sitemap_update": 1756220630000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

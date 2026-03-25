@@ -1,0 +1,130 @@
+{
+    "name": "level-if-167",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1542169815,
+            "author": 8620589,
+            "stamp": 1771575501,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542169808,
+            "author": 8620589,
+            "stamp": 1771575478,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 5"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542169804,
+            "author": 8620589,
+            "stamp": 1771575465,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532850348,
+            "author": 8620589,
+            "stamp": 1759918128,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532850254,
+            "author": 8620589,
+            "stamp": 1759917357,
+            "flags": "S",
+            "commentary": "FM没出门快又写错别字了，改一下"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532850172,
+            "author": 9454668,
+            "stamp": 1759916700,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532850099,
+            "author": 8620589,
+            "stamp": 1759916410,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532850064,
+            "author": 8620589,
+            "stamp": 1759916186,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度2, 精神危害, 虚妄归档设定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532850045,
+            "author": 8620589,
+            "stamp": 1759916047,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460607135,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 7,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度2",
+        "精神危害",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-167",
+    "sitemap_update": 1771575501000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9115362,
+            false
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,88 @@
+{
+    "name": "theme:aeternum-repositorium",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1539995700,
+            "author": 9454668,
+            "stamp": 1764328587,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532117368,
+            "author": 9454668,
+            "stamp": 1757066719,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532108476,
+            "author": 9454668,
+            "stamp": 1757048963,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532108419,
+            "author": 9454668,
+            "stamp": 1757048747,
+            "flags": "A",
+            "commentary": "已新增标签：团体版式, 永恒资料库, 版式, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532108417,
+            "author": 9454668,
+            "stamp": 1757048727,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460320131,
+    "rating": 7,
+    "tags": [
+        "团体版式",
+        "永恒资料库",
+        "版式",
+        "翻译"
+    ],
+    "title": "永存资料库 版式",
+    "sitemap_update": 1764328587000,
+    "votings": [
+        [
+            9782125,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

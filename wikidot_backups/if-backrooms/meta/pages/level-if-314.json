@@ -1,0 +1,99 @@
+{
+    "name": "level-if-314",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532335289,
+            "author": 9454668,
+            "stamp": 1758112494,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532286627,
+            "author": 9419995,
+            "stamp": 1757844499,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 合著, 封闭性, 层级, 建筑, 虚妄归档设定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532286619,
+            "author": 9419995,
+            "stamp": 1757844465,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460393500,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 13,
+    "tags": [
+        "原创",
+        "合著",
+        "封闭性",
+        "层级",
+        "建筑",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-314 - “战地医院”",
+    "sitemap_update": 1758112494000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            10193630,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9468413,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9669086,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": true
+}

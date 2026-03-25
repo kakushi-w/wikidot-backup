@@ -1,0 +1,70 @@
+{
+    "name": "level-if-164",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531572640,
+            "author": 8620589,
+            "stamp": 1755228147,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531572624,
+            "author": 8620589,
+            "stamp": 1755228031,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度死区, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531572591,
+            "author": 8620589,
+            "stamp": 1755227803,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460062784,
+    "rating": 4,
+    "forum_thread": 17191486,
+    "tags": [
+        "切行困难",
+        "原创",
+        "层级",
+        "生存难度死区",
+        "神秘"
+    ],
+    "title": "Level IF-164",
+    "sitemap_update": 1755228147000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            8728373,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9620145,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

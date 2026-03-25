@@ -1,0 +1,46 @@
+{
+    "name": "fragment:front-page-style",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1528610740,
+            "author": 9483189,
+            "stamp": 1742717020,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528526420,
+            "author": 9375128,
+            "stamp": 1742384813,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"start\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528492695,
+            "author": 9375128,
+            "stamp": 1742185938,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727575,
+    "parent": "start",
+    "tags": [
+        "段落",
+        "管理"
+    ],
+    "title": "主页样式",
+    "sitemap_update": 1742717020000,
+    "votings": [
+        [
+            8774679,
+            true
+        ]
+    ],
+    "is_locked": true
+}

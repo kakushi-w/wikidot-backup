@@ -1,0 +1,82 @@
+{
+    "name": "level-if-250",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531212152,
+            "author": 9609194,
+            "stamp": 1753601212,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531195855,
+            "author": 9609194,
+            "stamp": 1753527588,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531195840,
+            "author": 9609194,
+            "stamp": 1753527557,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度3, 补给可能。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531195837,
+            "author": 9609194,
+            "stamp": 1753527536,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459966024,
+    "rating": 7,
+    "forum_thread": 17171926,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度3",
+        "补给可能"
+    ],
+    "title": "Level IF-250",
+    "sitemap_update": 1753601212000,
+    "votings": [
+        [
+            8217781,
+            true
+        ],
+        [
+            9555402,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

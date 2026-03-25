@@ -1,0 +1,90 @@
+{
+    "name": "level-if-258",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531631681,
+            "author": 9454668,
+            "stamp": 1755524953,
+            "flags": "A",
+            "commentary": "已新增标签：补给可能。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531631622,
+            "author": 9454668,
+            "stamp": 1755524743,
+            "flags": "A",
+            "commentary": "已新增标签：不结盟贸易集团, 探险者总署, 生存难度宜居。 移除标签：封闭性, 生存难度0。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531631620,
+            "author": 8620589,
+            "stamp": 1755524741,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531631549,
+            "author": 8620589,
+            "stamp": 1755524574,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460076047,
+    "rating": 9,
+    "tags": [
+        "不结盟贸易集团",
+        "原创",
+        "层级",
+        "探险者总署",
+        "生存难度宜居",
+        "补给可能"
+    ],
+    "title": "Level IF-258",
+    "sitemap_update": 1755524953000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

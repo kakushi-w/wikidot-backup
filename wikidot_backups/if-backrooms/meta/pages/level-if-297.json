@@ -1,0 +1,141 @@
+{
+    "name": "level-if-297",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1531484821,
+            "author": 9422717,
+            "stamp": 1754868687,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531271565,
+            "author": 9422717,
+            "stamp": 1753838146,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531270865,
+            "author": 9422717,
+            "stamp": 1753831657,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531270702,
+            "author": 9422717,
+            "stamp": 1753830231,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531265836,
+            "author": 9422717,
+            "stamp": 1753799431,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531265823,
+            "author": 9422717,
+            "stamp": 1753799390,
+            "flags": "A",
+            "commentary": "已新增标签：奇异, 开阔性, 精神影响。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531265758,
+            "author": 9422717,
+            "stamp": 1753799149,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 后室, 悲剧, 格式错乱, 生存难度其他, 神秘。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531265748,
+            "author": 9422717,
+            "stamp": 1753799112,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531265726,
+            "author": 9422717,
+            "stamp": 1753799047,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459979307,
+    "rating": 9,
+    "tags": [
+        "原创",
+        "后室",
+        "奇异",
+        "开阔性",
+        "悲剧",
+        "格式错乱",
+        "生存难度其他",
+        "神秘",
+        "精神影响"
+    ],
+    "title": "FREEDOM",
+    "sitemap_update": 1754868687000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9577158,
+            true
+        ],
+        [
+            9701536,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9555402,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9419995,
+            false
+        ]
+    ],
+    "is_locked": false
+}

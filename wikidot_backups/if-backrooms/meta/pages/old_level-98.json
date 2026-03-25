@@ -1,0 +1,131 @@
+{
+    "name": "old:level-98",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1532149666,
+            "author": 9454668,
+            "stamp": 1757127531,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531577754,
+            "author": 9454668,
+            "stamp": 1755252979,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531577750,
+            "author": 9454668,
+            "stamp": 1755252948,
+            "flags": "S",
+            "commentary": "术语错误"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531573709,
+            "author": 9454668,
+            "stamp": 1755237731,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531573663,
+            "author": 9454668,
+            "stamp": 1755237514,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度？。 移除标签：生存难度5。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531559809,
+            "author": 9454668,
+            "stamp": 1755162030,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度5。 移除标签：生存难度其他。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531559801,
+            "author": 9454668,
+            "stamp": 1755161993,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度其他, 翻译。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531559765,
+            "author": 9419995,
+            "stamp": 1755161860,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531559719,
+            "author": 9419995,
+            "stamp": 1755161796,
+            "flags": "A",
+            "commentary": "已新增标签：层级, 旧页面。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531559703,
+            "author": 9419995,
+            "stamp": 1755161748,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460060280,
+    "tags": [
+        "层级",
+        "旧页面",
+        "生存难度？",
+        "翻译"
+    ],
+    "title": "Level 98 - “虚拟层级”（旧）",
+    "sitemap_update": 1757127531000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

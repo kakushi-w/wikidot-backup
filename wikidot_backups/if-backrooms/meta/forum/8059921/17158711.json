@@ -1,0 +1,74 @@
+{
+    "title": "Level IF 92 前厅已死",
+    "id": 17158711,
+    "description": "",
+    "last": 1768699853,
+    "lastUser": 9555733,
+    "started": 1750846740,
+    "startedUser": null,
+    "postsNum": 7,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7504530,
+            "title": "uv",
+            "poster": 9555733,
+            "stamp": 1768699853,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7049710,
+            "title": "此处代码露出",
+            "poster": 8774679,
+            "stamp": 1750846762,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7049715,
+                    "title": "Re: 此处代码露出",
+                    "poster": 9639856,
+                    "stamp": 1750847186,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7049777,
+            "title": "编号打错了",
+            "poster": 9437079,
+            "stamp": 1750853865,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7049801,
+                    "title": "Re: 编号打错了",
+                    "poster": 9639856,
+                    "stamp": 1750855776,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7049936,
+            "title": "讲了什么？",
+            "poster": 9304232,
+            "stamp": 1750867009,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7050242,
+                    "title": "Re: 讲了什么？",
+                    "poster": 9620145,
+                    "stamp": 1750913505,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

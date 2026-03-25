@@ -1,0 +1,126 @@
+{
+    "name": "level-if-256",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532958079,
+            "author": 9419995,
+            "stamp": 1760190657,
+            "flags": "A",
+            "commentary": "已新增标签：低温。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532958034,
+            "author": 9419995,
+            "stamp": 1760190502,
+            "flags": "A",
+            "commentary": "已新增标签：现实扭曲, 精神影响。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532958001,
+            "author": 9419995,
+            "stamp": 1760190409,
+            "flags": "A",
+            "commentary": "已新增标签：劣化, 建筑。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532957865,
+            "author": 9419995,
+            "stamp": 1760189975,
+            "flags": "A",
+            "commentary": "已新增标签：时间异常。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532957832,
+            "author": 9419995,
+            "stamp": 1760189780,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 封闭性, 层级, 生存难度？, 神秘, 轨道交通。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532957784,
+            "author": 9419995,
+            "stamp": 1760189723,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460679287,
+    "rating": 4,
+    "forum_thread": 17337079,
+    "tags": [
+        "低温",
+        "切行困难",
+        "劣化",
+        "原创",
+        "封闭性",
+        "层级",
+        "建筑",
+        "时间异常",
+        "现实扭曲",
+        "生存难度？",
+        "神秘",
+        "精神影响",
+        "轨道交通"
+    ],
+    "title": "Level IF-256",
+    "sitemap_update": 1760190657000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            8728373,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            false
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8317495,
+            false
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9485306,
+            false
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,92 @@
+{
+    "name": "object-if-11",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1530798386,
+            "author": 9192541,
+            "stamp": 1751521029,
+            "flags": "A",
+            "commentary": "已新增标签：消耗品。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530796841,
+            "author": 9454668,
+            "stamp": 1751513744,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530796835,
+            "author": 9454668,
+            "stamp": 1751513708,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 物品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530796559,
+            "author": 9192541,
+            "stamp": 1751512044,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459870120,
+    "rating": 8,
+    "forum_thread": 17161373,
+    "tags": [
+        "原创",
+        "消耗品",
+        "物品"
+    ],
+    "title": "Object IF-11",
+    "sitemap_update": 1751521029000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9541601,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,155 @@
+{
+    "name": "level-if-390",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1536489341,
+            "author": 9454668,
+            "stamp": 1761866560,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533647406,
+            "author": 9419995,
+            "stamp": 1761476929,
+            "flags": "A",
+            "commentary": "移除标签：死区。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533599780,
+            "author": 9099707,
+            "stamp": 1761460802,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533597474,
+            "author": 9099707,
+            "stamp": 1761460150,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 多元难度, 层级, 恐怖, 格式错乱, 死区, 精神危害。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533596944,
+            "author": 9099707,
+            "stamp": 1761459985,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1461119492,
+    "rating": 23,
+    "forum_thread": 17392007,
+    "tags": [
+        "原创",
+        "多元难度",
+        "层级",
+        "恐怖",
+        "格式错乱",
+        "精神危害"
+    ],
+    "title": "Level IF-390 - “絲網潶澀”",
+    "sitemap_update": 1761866560000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9098871,
+            true
+        ],
+        [
+            8585657,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9420530,
+            true
+        ],
+        [
+            9100566,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9882061,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            8414006,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9575701,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

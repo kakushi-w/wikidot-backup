@@ -1,0 +1,89 @@
+{
+    "name": "level-if-236",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532990731,
+            "author": 9419995,
+            "stamp": 1760268272,
+            "flags": "A",
+            "commentary": "已新增标签：燃火。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531641216,
+            "author": 9631761,
+            "stamp": 1755576843,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 多元难度, 层级, 生存难度其他。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531641211,
+            "author": 9631761,
+            "stamp": 1755576816,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460078715,
+    "rating": 11,
+    "tags": [
+        "原创",
+        "多元难度",
+        "层级",
+        "燃火",
+        "生存难度其他"
+    ],
+    "title": "Level IF-236",
+    "sitemap_update": 1760268272000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9804860,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

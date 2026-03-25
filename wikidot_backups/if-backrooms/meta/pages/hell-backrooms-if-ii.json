@@ -1,0 +1,92 @@
+{
+    "name": "hell-backrooms-if-ii",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531819474,
+            "author": 8620589,
+            "stamp": 1756384005,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531819370,
+            "author": 9454668,
+            "stamp": 1756383811,
+            "flags": "A",
+            "commentary": "已新增标签：搞笑, 故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531819367,
+            "author": 8620589,
+            "stamp": 1756383800,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531819302,
+            "author": 8620589,
+            "stamp": 1756383567,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460120844,
+    "rating": 10,
+    "forum_thread": 17234986,
+    "tags": [
+        "原创",
+        "搞笑",
+        "故事"
+    ],
+    "title": "炼狱后室：IF层群版 第二章：膨胀螺丝立大功",
+    "sitemap_update": 1756384005000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9620145,
+            true
+        ]
+    ],
+    "is_locked": false
+}

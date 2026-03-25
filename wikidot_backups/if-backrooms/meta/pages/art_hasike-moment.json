@@ -1,0 +1,72 @@
+{
+    "name": "art:hasike-moment",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531050593,
+            "author": 9454668,
+            "stamp": 1752763074,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531050574,
+            "author": 9454668,
+            "stamp": 1752763034,
+            "flags": "A",
+            "commentary": "已新增标签：2025横幅竞赛, 翻译, 艺术作品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531050568,
+            "author": 9454668,
+            "stamp": 1752763007,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459930107,
+    "rating": 7,
+    "forum_thread": 17167175,
+    "tags": [
+        "2025横幅竞赛",
+        "翻译",
+        "艺术作品"
+    ],
+    "title": "Hasike时间",
+    "sitemap_update": 1752763074000,
+    "votings": [
+        [
+            8728373,
+            true
+        ],
+        [
+            9306319,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

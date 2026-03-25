@@ -1,0 +1,264 @@
+{
+    "name": "level-if-60",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 24,
+            "global_revision": 1542066889,
+            "author": 8620589,
+            "stamp": 1771054186,
+            "flags": "S",
+            "commentary": "修改错别字"
+        },
+        {
+            "revision": 23,
+            "global_revision": 1537788984,
+            "author": 9657913,
+            "stamp": 1762072340,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1537767537,
+            "author": 9657913,
+            "stamp": 1762069317,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1532404161,
+            "author": 9657913,
+            "stamp": 1758440527,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1532404117,
+            "author": 9657913,
+            "stamp": 1758440444,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1532404070,
+            "author": 9657913,
+            "stamp": 1758440356,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1532331787,
+            "author": 9657913,
+            "stamp": 1758093924,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1532331768,
+            "author": 9657913,
+            "stamp": 1758093810,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1532331753,
+            "author": 9657913,
+            "stamp": 1758093707,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1532331733,
+            "author": 9657913,
+            "stamp": 1758093479,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1531422772,
+            "author": 9657913,
+            "stamp": 1754552728,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531421474,
+            "author": 9657913,
+            "stamp": 1754545683,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1530866837,
+            "author": 9657913,
+            "stamp": 1751898437,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1530866716,
+            "author": 9657913,
+            "stamp": 1751898047,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1530866689,
+            "author": 9657913,
+            "stamp": 1751897953,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530825750,
+            "author": 9657913,
+            "stamp": 1751672832,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530825693,
+            "author": 9657913,
+            "stamp": 1751672103,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530613036,
+            "author": 9657913,
+            "stamp": 1750580179,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530612769,
+            "author": 9657913,
+            "stamp": 1750578538,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530612767,
+            "author": 9657913,
+            "stamp": 1750578512,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1529156450,
+            "author": 9541601,
+            "stamp": 1744199010,
+            "flags": "A",
+            "commentary": "已新增标签：开阔性, 无定性, 述记影响。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1529156435,
+            "author": 9626134,
+            "stamp": 1744198873,
+            "flags": "A",
+            "commentary": "已新增标签：层级。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529156428,
+            "author": 9626134,
+            "stamp": 1744198821,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度3。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529156423,
+            "author": 9626134,
+            "stamp": 1744198788,
+            "flags": "A",
+            "commentary": "已新增标签：代发, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529156418,
+            "author": 9626134,
+            "stamp": 1744198759,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459138634,
+    "rating": 8,
+    "forum_thread": 17089823,
+    "tags": [
+        "代发",
+        "原创",
+        "层级",
+        "开阔性",
+        "无定性",
+        "生存难度3",
+        "述记影响"
+    ],
+    "title": "Level IF-60",
+    "sitemap_update": 1771054186000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9670203,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9485306,
+            false
+        ],
+        [
+            9168168,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

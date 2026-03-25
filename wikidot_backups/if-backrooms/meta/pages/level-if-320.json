@@ -1,0 +1,174 @@
+{
+    "name": "level-if-320",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1532689364,
+            "author": 9454668,
+            "stamp": 1759675032,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532689202,
+            "author": 8317495,
+            "stamp": 1759674416,
+            "flags": "A",
+            "commentary": "已新增标签：虚妄归档设定。 移除标签：虚妄归档。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532689170,
+            "author": 8317495,
+            "stamp": 1759674283,
+            "flags": "A",
+            "commentary": "已新增标签：虚妄归档。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532689054,
+            "author": 8317495,
+            "stamp": 1759673702,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532688939,
+            "author": 8317495,
+            "stamp": 1759673289,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532688913,
+            "author": 8317495,
+            "stamp": 1759673171,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532688906,
+            "author": 8317495,
+            "stamp": 1759673146,
+            "flags": "F",
+            "commentary": "已上传文件 “生成特定公路图片.png”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532688890,
+            "author": 8317495,
+            "stamp": 1759673068,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532688884,
+            "author": 8317495,
+            "stamp": 1759673040,
+            "flags": "F",
+            "commentary": "已上传文件 “生成特定公路图片 (1).png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532688876,
+            "author": 8317495,
+            "stamp": 1759673010,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度1。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532688865,
+            "author": 8317495,
+            "stamp": 1759672972,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11480545,
+            "name": "生成特定公路图片 (1).png",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-320/%E7%94%9F%E6%88%90%E7%89%B9%E5%AE%9A%E5%85%AC%E8%B7%AF%E5%9B%BE%E7%89%87%20%281%29.png",
+            "size": "2.24 MB (2348066 Bytes)",
+            "size_bytes": 2348066,
+            "mime": "image/png",
+            "content": "PNG image data, 1886 x 1535, 8-bit/color RGBA, non-interlaced",
+            "author": 8317495,
+            "stamp": 1759673040,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11480546,
+            "name": "生成特定公路图片.png",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-320/%E7%94%9F%E6%88%90%E7%89%B9%E5%AE%9A%E5%85%AC%E8%B7%AF%E5%9B%BE%E7%89%87.png",
+            "size": "3.3 MB (3457599 Bytes)",
+            "size_bytes": 3457599,
+            "mime": "image/png",
+            "content": "PNG image data, 2516 x 1303, 8-bit/color RGBA, non-interlaced",
+            "author": 8317495,
+            "stamp": 1759673146,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460494190,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 10,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度1",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-320",
+    "sitemap_update": 1759675032000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

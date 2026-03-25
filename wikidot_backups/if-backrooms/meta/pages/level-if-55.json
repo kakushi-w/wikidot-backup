@@ -1,0 +1,148 @@
+{
+    "name": "level-if-55",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1533987903,
+            "author": 9051567,
+            "stamp": 1761604890,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531761067,
+            "author": 9051567,
+            "stamp": 1756126954,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530090294,
+            "author": 9051567,
+            "stamp": 1747064861,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530089747,
+            "author": 9496473,
+            "stamp": 1747062604,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530089297,
+            "author": 9051567,
+            "stamp": 1747060816,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度宜居。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530089273,
+            "author": 9051567,
+            "stamp": 1747060705,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530089270,
+            "author": 9051567,
+            "stamp": 1747060684,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459705593,
+    "rating": 6,
+    "forum_thread": 17126502,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度宜居"
+    ],
+    "title": "Level IF-55",
+    "sitemap_update": 1761604890000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9448575,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9153958,
+            true
+        ],
+        [
+            9375128,
+            false
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            9541601,
+            true
+        ],
+        [
+            9437079,
+            false
+        ],
+        [
+            9540010,
+            false
+        ],
+        [
+            9631596,
+            true
+        ],
+        [
+            9485306,
+            false
+        ],
+        [
+            9304232,
+            false
+        ]
+    ],
+    "is_locked": false
+}

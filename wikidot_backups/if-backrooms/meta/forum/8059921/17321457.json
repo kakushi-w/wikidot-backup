@@ -1,0 +1,32 @@
+{
+    "title": "Level IF-349 - “黑暗前夕”",
+    "id": 17321457,
+    "description": "",
+    "last": 1760239169,
+    "lastUser": 9485306,
+    "started": 1759906364,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7299439,
+            "title": "+1",
+            "poster": 9485306,
+            "stamp": 1760237346,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7299544,
+                    "title": "Re: +1",
+                    "poster": 9485306,
+                    "stamp": 1760239169,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "name": "level-if-285",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532365315,
+            "author": 8643702,
+            "stamp": 1758282532,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531642195,
+            "author": 8643702,
+            "stamp": 1755582357,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度2。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531642186,
+            "author": 8643702,
+            "stamp": 1755582313,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460078981,
+    "rating": 9,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度2"
+    ],
+    "title": "Level IF-285",
+    "sitemap_update": 1758282532000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            8643702,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,39 @@
+{
+    "name": "system:members",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1540140604,
+            "author": 9375128,
+            "stamp": 1764677858,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539803281,
+            "author": 7344601,
+            "stamp": 1763798085,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528492668,
+            "author": 9375128,
+            "stamp": 1742185938,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727548,
+    "tags": [
+        "管理"
+    ],
+    "title": "成员一览",
+    "sitemap_update": 1764677858000,
+    "votings": [],
+    "is_locked": true
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Level 9-ID - “怀旧之城”",
+    "id": 17498384,
+    "description": "",
+    "last": 1766903400,
+    "lastUser": 8219242,
+    "started": 1766667912,
+    "startedUser": null,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7482263,
+            "title": "",
+            "poster": 8219242,
+            "stamp": 1766903400,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7479758,
+            "title": "译者贴",
+            "poster": 10184925,
+            "stamp": 1766667924,
+            "lastEdit": 1766737032,
+            "lastEditBy": 10184925,
+            "revisions": [
+                {
+                    "title": "译者贴",
+                    "author": 10184925,
+                    "id": 9011851,
+                    "stamp": 1766737032
+                },
+                {
+                    "title": "译者贴",
+                    "author": 10184925,
+                    "id": 9010915,
+                    "stamp": 1766669345
+                },
+                {
+                    "title": "译者贴",
+                    "author": 10184925,
+                    "id": 9010898,
+                    "stamp": 1766667924
+                }
+            ],
+            "children": [
+                {
+                    "id": 7479805,
+                    "title": "Re: 译者贴",
+                    "poster": 9454668,
+                    "stamp": 1766671378,
+                    "lastEdit": 1766671724,
+                    "lastEditBy": 9454668,
+                    "revisions": [
+                        {
+                            "title": "Re: 译者贴",
+                            "author": 9454668,
+                            "id": 9010955,
+                            "stamp": 1766671724
+                        },
+                        {
+                            "title": "Re: 译者贴",
+                            "author": 9454668,
+                            "id": 9010952,
+                            "stamp": 1766671378
+                        }
+                    ],
+                    "children": [
+                        {
+                            "id": 7480206,
+                            "title": "Re: 译者贴",
+                            "poster": 10184925,
+                            "stamp": 1766703468,
+                            "revisions": [],
+                            "children": []
+                        },
+                        {
+                            "id": 7480498,
+                            "title": "Re: 译者贴",
+                            "poster": 9375128,
+                            "stamp": 1766742216,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

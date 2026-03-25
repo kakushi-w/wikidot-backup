@@ -1,0 +1,205 @@
+{
+    "name": "level-if-147",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1533160480,
+            "author": 9333820,
+            "stamp": 1761143631,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1533160261,
+            "author": 9333820,
+            "stamp": 1761142905,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1533160244,
+            "author": 9333820,
+            "stamp": 1761142825,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531721878,
+            "author": 9333820,
+            "stamp": 1755949834,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531092655,
+            "author": 9333820,
+            "stamp": 1753001020,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531092640,
+            "author": 9333820,
+            "stamp": 1753000955,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1530852171,
+            "author": 9333820,
+            "stamp": 1751818925,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530852164,
+            "author": 9333820,
+            "stamp": 1751818898,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530852156,
+            "author": 9333820,
+            "stamp": 1751818854,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530852130,
+            "author": 9333820,
+            "stamp": 1751818703,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530852010,
+            "author": 9333820,
+            "stamp": 1751818040,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530852004,
+            "author": 9333820,
+            "stamp": 1751817998,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530851879,
+            "author": 9333820,
+            "stamp": 1751817431,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530851868,
+            "author": 9333820,
+            "stamp": 1751817395,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530851855,
+            "author": 9333820,
+            "stamp": 1751817332,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530851845,
+            "author": 9333820,
+            "stamp": 1751817262,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 层级, 生存难度5。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530851836,
+            "author": 9333820,
+            "stamp": 1751817229,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459884012,
+    "rating": 12,
+    "forum_thread": 17235385,
+    "tags": [
+        "切行困难",
+        "原创",
+        "层级",
+        "生存难度5"
+    ],
+    "title": "Level IF-147",
+    "sitemap_update": 1761143631000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9398101,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9385645,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            10209740,
+            true
+        ]
+    ],
+    "is_locked": false
+}

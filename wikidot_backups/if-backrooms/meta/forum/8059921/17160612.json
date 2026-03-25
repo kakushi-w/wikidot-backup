@@ -1,0 +1,136 @@
+{
+    "title": "Level IF-50.7-失色虹光",
+    "id": 17160612,
+    "description": "",
+    "last": 1751372547,
+    "lastUser": 8774679,
+    "started": 1751346697,
+    "startedUser": null,
+    "postsNum": 7,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7054258,
+            "title": "",
+            "poster": 9099707,
+            "stamp": 1751347494,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7054514,
+            "title": "小心重蹈某人覆辙",
+            "poster": 8774679,
+            "stamp": 1751372534,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7054515,
+                    "title": "Re: 小心重蹈某人覆辙",
+                    "poster": 8774679,
+                    "stamp": 1751372547,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7054252,
+            "title": "作者贴",
+            "poster": 9168168,
+            "stamp": 1751346810,
+            "lastEdit": 1755143089,
+            "lastEditBy": 9168168,
+            "revisions": [
+                {
+                    "title": "作者贴",
+                    "author": 9168168,
+                    "id": 8606872,
+                    "stamp": 1755143089
+                },
+                {
+                    "title": "作者贴",
+                    "author": 9168168,
+                    "id": 8531282,
+                    "stamp": 1751349084
+                },
+                {
+                    "title": "作者贴",
+                    "author": 9168168,
+                    "id": 8531261,
+                    "stamp": 1751346810
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7054282,
+            "title": "赛后uv",
+            "poster": 9551083,
+            "stamp": 1751350432,
+            "lastEdit": 1751350497,
+            "lastEditBy": 9551083,
+            "revisions": [
+                {
+                    "title": "赛后uv",
+                    "author": 9551083,
+                    "id": 8531300,
+                    "stamp": 1751350497
+                },
+                {
+                    "title": "",
+                    "author": 9551083,
+                    "id": 8531298,
+                    "stamp": 1751350432
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7054342,
+            "title": "暂且NV",
+            "poster": 9485306,
+            "stamp": 1751357156,
+            "lastEdit": 1751357261,
+            "lastEditBy": 9485306,
+            "revisions": [
+                {
+                    "title": "暂且NV",
+                    "author": 9485306,
+                    "id": 8531372,
+                    "stamp": 1751357243
+                },
+                {
+                    "title": "暂且NV",
+                    "author": 9485306,
+                    "id": 8531373,
+                    "stamp": 1751357261
+                },
+                {
+                    "title": "暂且NV",
+                    "author": 9485306,
+                    "id": 8531369,
+                    "stamp": 1751357156
+                },
+                {
+                    "title": "暂且NV",
+                    "author": 9485306,
+                    "id": 8531371,
+                    "stamp": 1751357180
+                }
+            ],
+            "children": [
+                {
+                    "id": 7054358,
+                    "title": "Re: 暂且NV",
+                    "poster": 9168168,
+                    "stamp": 1751359024,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

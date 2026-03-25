@@ -1,0 +1,136 @@
+{
+    "name": "forum:_template",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1539290909,
+            "author": 9375128,
+            "stamp": 1762855419,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1539290867,
+            "author": 9375128,
+            "stamp": 1762855223,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539290852,
+            "author": 9375128,
+            "stamp": 1762855163,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 10"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539290838,
+            "author": 9375128,
+            "stamp": 1762855118,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1529283732,
+            "author": 9375128,
+            "stamp": 1744621645,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1529066807,
+            "author": 9483189,
+            "stamp": 1743842602,
+            "flags": "A",
+            "commentary": "已新增标签：功能, 管理。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1528970084,
+            "author": 9375128,
+            "stamp": 1743427884,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1528963239,
+            "author": 9375128,
+            "stamp": 1743394055,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1528942812,
+            "author": 9375128,
+            "stamp": 1743323455,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528942774,
+            "author": 9375128,
+            "stamp": 1743323383,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 1"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528942763,
+            "author": 9375128,
+            "stamp": 1743323358,
+            "flags": "S A",
+            "commentary": "您已成功地回复本页至修订版本编号 2"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528942749,
+            "author": 9375128,
+            "stamp": 1743323327,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528942742,
+            "author": 9375128,
+            "stamp": 1743323303,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528942529,
+            "author": 9375128,
+            "stamp": 1743322810,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528492696,
+            "author": 9375128,
+            "stamp": 1742185938,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727576,
+    "tags": [
+        "功能",
+        "管理"
+    ],
+    "title": "_template（forum）",
+    "sitemap_update": 1762855419000,
+    "votings": [],
+    "is_locked": true
+}

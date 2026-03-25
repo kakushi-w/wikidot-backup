@@ -1,0 +1,63 @@
+{
+    "name": "component:rate",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1531093808,
+            "author": 9454668,
+            "stamp": 1753006828,
+            "flags": "A",
+            "commentary": "已新增标签：组件, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531093806,
+            "author": 9454668,
+            "stamp": 1753006813,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459940657,
+    "rating": 7,
+    "forum_thread": 17168115,
+    "tags": [
+        "组件",
+        "翻译"
+    ],
+    "title": "组件：评分",
+    "sitemap_update": 1753006828000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            8774679,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

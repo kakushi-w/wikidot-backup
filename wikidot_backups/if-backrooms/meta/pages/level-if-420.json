@@ -1,0 +1,83 @@
+{
+    "name": "level-if-420",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542139517,
+            "author": 9333820,
+            "stamp": 1771418396,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542139490,
+            "author": 9333820,
+            "stamp": 1771418257,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542134571,
+            "author": 9333820,
+            "stamp": 1771396210,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度5。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542134565,
+            "author": 9333820,
+            "stamp": 1771396183,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468143895,
+    "rating": 8,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度5"
+    ],
+    "title": "Level IF-420",
+    "sitemap_update": 1771418396000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ]
+    ],
+    "is_locked": false
+}

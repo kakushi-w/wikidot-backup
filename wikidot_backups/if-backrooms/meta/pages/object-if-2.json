@@ -1,0 +1,94 @@
+{
+    "name": "object-if-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532583719,
+            "author": 8317495,
+            "stamp": 1759329327,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532583694,
+            "author": 8317495,
+            "stamp": 1759329218,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532583232,
+            "author": 8317495,
+            "stamp": 1759327903,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531189655,
+            "author": 8317495,
+            "stamp": 1753498832,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 物品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531189647,
+            "author": 8317495,
+            "stamp": 1753498795,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459964627,
+    "rating": 9,
+    "tags": [
+        "原创",
+        "物品"
+    ],
+    "title": "Object IF-2",
+    "sitemap_update": 1759329327000,
+    "votings": [
+        [
+            9535635,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9500860,
+            true
+        ]
+    ],
+    "is_locked": false
+}

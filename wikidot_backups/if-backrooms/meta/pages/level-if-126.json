@@ -1,0 +1,83 @@
+{
+    "name": "level-if-126",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1541760181,
+            "author": 9609194,
+            "stamp": 1770114740,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539796605,
+            "author": 8620589,
+            "stamp": 1763783050,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531386897,
+            "author": 8620589,
+            "stamp": 1754368333,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531369217,
+            "author": 8620589,
+            "stamp": 1754291253,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度0。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531369215,
+            "author": 8620589,
+            "stamp": 1754291241,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531369211,
+            "author": 8620589,
+            "stamp": 1754291189,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460000598,
+    "rating": 4,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度0"
+    ],
+    "title": "Level IF-126",
+    "sitemap_update": 1770114740000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

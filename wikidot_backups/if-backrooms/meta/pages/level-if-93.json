@@ -1,0 +1,57 @@
+{
+    "name": "level-if-93",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1530860057,
+            "author": 8620589,
+            "stamp": 1751868999,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度死区, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530860056,
+            "author": 8620589,
+            "stamp": 1751868968,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459885880,
+    "rating": 5,
+    "forum_thread": 17163098,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度死区",
+        "神秘"
+    ],
+    "title": "Level IF-93",
+    "sitemap_update": 1751868999000,
+    "votings": [
+        [
+            9639856,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,131 @@
+{
+    "name": "level-if-272",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1540592711,
+            "author": 9551174,
+            "stamp": 1765604391,
+            "flags": "S",
+            "commentary": "修复sd难度无法显示全的问题"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532366281,
+            "author": 9422717,
+            "stamp": 1758286264,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532366273,
+            "author": 9422717,
+            "stamp": 1758286230,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532366260,
+            "author": 9422717,
+            "stamp": 1758286193,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531262048,
+            "author": 9422717,
+            "stamp": 1753785564,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531261098,
+            "author": 9422717,
+            "stamp": 1753781600,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 悲剧, 环境危害, 生存难度死区, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531261089,
+            "author": 9422717,
+            "stamp": 1753781532,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459978160,
+    "rating": 13,
+    "forum_thread": 17600839,
+    "tags": [
+        "原创",
+        "层级",
+        "悲剧",
+        "环境危害",
+        "生存难度死区",
+        "神秘"
+    ],
+    "title": "Level IF-272",
+    "sitemap_update": 1765604391000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            10193630,
+            true
+        ],
+        [
+            9475961,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9650605,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": true
+}

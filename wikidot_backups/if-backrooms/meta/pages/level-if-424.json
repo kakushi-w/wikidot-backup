@@ -1,0 +1,70 @@
+{
+    "name": "level-if-424",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541555715,
+            "author": 9555733,
+            "stamp": 1769208518,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541548934,
+            "author": 9555733,
+            "stamp": 1769172446,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 城镇, 层级, 开阔性, 生存难度宜居。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541548916,
+            "author": 9555733,
+            "stamp": 1769172320,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468040415,
+    "rating": 6,
+    "forum_thread": 17571595,
+    "tags": [
+        "原创",
+        "城镇",
+        "层级",
+        "开阔性",
+        "生存难度宜居"
+    ],
+    "title": "Level IF-424",
+    "sitemap_update": 1769208518000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            10193630,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

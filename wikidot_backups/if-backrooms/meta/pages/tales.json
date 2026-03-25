@@ -1,0 +1,23 @@
+{
+    "name": "tales",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 1528492720,
+            "author": 9375128,
+            "stamp": 1742185939,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727600,
+    "tags": [
+        "总览"
+    ],
+    "title": "按日期排序的故事",
+    "sitemap_update": 1742185939000,
+    "votings": [],
+    "is_locked": false
+}

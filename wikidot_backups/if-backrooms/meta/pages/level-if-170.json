@@ -1,0 +1,134 @@
+{
+    "name": "level-if-170",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1531591581,
+            "author": 9099707,
+            "stamp": 1755323198,
+            "flags": "A",
+            "commentary": "已新增标签：开阔性。 移除标签：原野。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531589662,
+            "author": 9099707,
+            "stamp": 1755313602,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531577648,
+            "author": 9099707,
+            "stamp": 1755252360,
+            "flags": "A",
+            "commentary": "已新增标签：原野。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531577638,
+            "author": 9454668,
+            "stamp": 1755252340,
+            "flags": "T",
+            "commentary": "标题修正"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531577591,
+            "author": 9099707,
+            "stamp": 1755252081,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 合著, 层级, 生存难度宜居。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531577524,
+            "author": 9099707,
+            "stamp": 1755251789,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460063823,
+    "rating": 12,
+    "forum_thread": 17192251,
+    "tags": [
+        "原创",
+        "合著",
+        "层级",
+        "开阔性",
+        "生存难度宜居"
+    ],
+    "title": "Level IF-170 - “在星空下”",
+    "sitemap_update": 1755323198000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9764585,
+            true
+        ],
+        [
+            8728373,
+            false
+        ],
+        [
+            9777570,
+            true
+        ],
+        [
+            9804860,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9563672,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

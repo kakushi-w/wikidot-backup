@@ -1,0 +1,140 @@
+{
+    "name": "level-if-20",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1528943834,
+            "author": 9009838,
+            "stamp": 1743328500,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-l-20\" 至 \"level-if-20\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528943829,
+            "author": 9009838,
+            "stamp": 1743328481,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528496253,
+            "author": 8206574,
+            "stamp": 1742203782,
+            "flags": "A",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528496252,
+            "author": 8206574,
+            "stamp": 1742203781,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 恐怖, 生存难度3, 神秘, 道路。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528496197,
+            "author": 8206574,
+            "stamp": 1742203588,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-i-20\" 至 \"level-if-l-20\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528496194,
+            "author": 8206574,
+            "stamp": 1742203571,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458729028,
+    "rating": 15,
+    "forum_thread": 17163106,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "恐怖",
+        "生存难度3",
+        "神秘",
+        "道路"
+    ],
+    "title": "Level IF-20",
+    "sitemap_update": 1743328500000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9678510,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            9899195,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9541601,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9620145,
+            false
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

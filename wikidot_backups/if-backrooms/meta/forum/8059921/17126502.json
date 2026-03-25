@@ -1,0 +1,46 @@
+{
+    "title": "Level IF-55",
+    "id": 17126502,
+    "description": "",
+    "last": 1747486120,
+    "lastUser": 9485306,
+    "started": 1747062697,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7002740,
+            "title": "描述难评...",
+            "poster": 9485306,
+            "stamp": 1747486120,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6991562,
+            "title": "惊人入口",
+            "poster": 9577158,
+            "stamp": 1747062855,
+            "lastEdit": 1747063019,
+            "lastEditBy": 9577158,
+            "revisions": [
+                {
+                    "title": "惊人入口",
+                    "author": 9577158,
+                    "id": 8458216,
+                    "stamp": 1747062855
+                },
+                {
+                    "title": "惊人入口",
+                    "author": 9577158,
+                    "id": 8458227,
+                    "stamp": 1747063019
+                }
+            ],
+            "children": []
+        }
+    ]
+}

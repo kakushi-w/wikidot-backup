@@ -1,0 +1,484 @@
+{
+    "name": "level-if-7",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 43,
+            "global_revision": 1532175791,
+            "author": 9454668,
+            "stamp": 1757248790,
+            "flags": "A",
+            "commentary": "已新增标签：雾霾。 移除标签：大雾。"
+        },
+        {
+            "revision": 42,
+            "global_revision": 1530830056,
+            "author": 9099707,
+            "stamp": 1751698814,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度待定。 移除标签：生存难度？。"
+        },
+        {
+            "revision": 41,
+            "global_revision": 1530570023,
+            "author": 9496473,
+            "stamp": 1750340343,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1530570013,
+            "author": 9496473,
+            "stamp": 1750340308,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1530569995,
+            "author": 9496473,
+            "stamp": 1750340239,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1530569987,
+            "author": 9496473,
+            "stamp": 1750340198,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1530569983,
+            "author": 9496473,
+            "stamp": 1750340170,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1530186161,
+            "author": 9496473,
+            "stamp": 1747753772,
+            "flags": "F",
+            "commentary": "已上传文件 “\"大厅\"”。"
+        },
+        {
+            "revision": 35,
+            "global_revision": 1530053528,
+            "author": 8620589,
+            "stamp": 1746927101,
+            "flags": "S T A",
+            "commentary": "您已成功地回复本页至修订版本编号 33"
+        },
+        {
+            "revision": 34,
+            "global_revision": 1530053519,
+            "author": 8620589,
+            "stamp": 1746927055,
+            "flags": "S T A",
+            "commentary": "您已成功地回复本页至修订版本编号 14"
+        },
+        {
+            "revision": 33,
+            "global_revision": 1530031046,
+            "author": 9496473,
+            "stamp": 1746860029,
+            "flags": "A",
+            "commentary": "已新增标签：大雾, 开阔性, 林地, 降雪。"
+        },
+        {
+            "revision": 32,
+            "global_revision": 1530021547,
+            "author": 9496473,
+            "stamp": 1746801216,
+            "flags": "S",
+            "commentary": "少打了一个句号"
+        },
+        {
+            "revision": 31,
+            "global_revision": 1530021529,
+            "author": 9496473,
+            "stamp": 1746801135,
+            "flags": "S",
+            "commentary": "本次修改：\n·移除了那个神经背景音乐\n·修改了部分语法错误\n·增加了一首诗经式的短诗，分散的加到了每一段的段尾\n·在结尾加了一段无关紧要的斜体中二语录\n·移除了HIM"
+        },
+        {
+            "revision": 30,
+            "global_revision": 1529979022,
+            "author": 9496473,
+            "stamp": 1746541065,
+            "flags": "S",
+            "commentary": "本文第五次重写……"
+        },
+        {
+            "revision": 29,
+            "global_revision": 1529914731,
+            "author": 9496473,
+            "stamp": 1746370613,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1529914624,
+            "author": 9496473,
+            "stamp": 1746370187,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1529914615,
+            "author": 9496473,
+            "stamp": 1746370147,
+            "flags": "F",
+            "commentary": "已删除文件 “0044（1-16小节）.wav”。"
+        },
+        {
+            "revision": 26,
+            "global_revision": 1529914607,
+            "author": 9496473,
+            "stamp": 1746370113,
+            "flags": "F",
+            "commentary": "已上传文件 “Level IF-7.wav”。"
+        },
+        {
+            "revision": 25,
+            "global_revision": 1529914435,
+            "author": 9496473,
+            "stamp": 1746369348,
+            "flags": "F",
+            "commentary": "已上传文件 “0044（1-16小节）.wav”。"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1529905930,
+            "author": 9496473,
+            "stamp": 1746331904,
+            "flags": "T",
+            "commentary": "修改了标题小写的问题"
+        },
+        {
+            "revision": 23,
+            "global_revision": 1529905651,
+            "author": 9496473,
+            "stamp": 1746330930,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1529890669,
+            "author": 9496473,
+            "stamp": 1746326411,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1529878804,
+            "author": 9496473,
+            "stamp": 1746266432,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1529878118,
+            "author": 9496473,
+            "stamp": 1746264266,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1529878011,
+            "author": 9496473,
+            "stamp": 1746263611,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1529876836,
+            "author": 9496473,
+            "stamp": 1746257843,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1529873711,
+            "author": 9496473,
+            "stamp": 1746242219,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1529861776,
+            "author": 9496473,
+            "stamp": 1746189484,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1529855878,
+            "author": 9496473,
+            "stamp": 1746168157,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1529855027,
+            "author": 9496473,
+            "stamp": 1746165295,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1529852892,
+            "author": 9496473,
+            "stamp": 1746153695,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1529852885,
+            "author": 9496473,
+            "stamp": 1746153674,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1529815743,
+            "author": 9496473,
+            "stamp": 1746012209,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1529815713,
+            "author": 9496473,
+            "stamp": 1746012056,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1529815555,
+            "author": 9496473,
+            "stamp": 1746011387,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1529815540,
+            "author": 9496473,
+            "stamp": 1746011246,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1529815534,
+            "author": 9496473,
+            "stamp": 1746011213,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1529815356,
+            "author": 9496473,
+            "stamp": 1746010122,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1529815349,
+            "author": 9496473,
+            "stamp": 1746010094,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1529815219,
+            "author": 9496473,
+            "stamp": 1746009707,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1529814963,
+            "author": 9496473,
+            "stamp": 1746008500,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529713518,
+            "author": 9496473,
+            "stamp": 1745848606,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度？。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529713512,
+            "author": 9496473,
+            "stamp": 1745848575,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529713491,
+            "author": 9496473,
+            "stamp": 1745848413,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11380740,
+            "name": "Level IF-7.wav",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-7/Level%20IF-7.wav",
+            "size": "14.1 MB (14782520 Bytes)",
+            "size_bytes": 14782520,
+            "mime": "audio/x-wav",
+            "content": "RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, stereo 44100 Hz",
+            "author": 9496473,
+            "stamp": 1746370114,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11389069,
+            "name": "\"大厅\"",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-7/%22%E5%A4%A7%E5%8E%85%22",
+            "size": "286.22 kB (293091 Bytes)",
+            "size_bytes": 293091,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1080x1333, components 3",
+            "author": 9496473,
+            "stamp": 1747753772,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459490433,
+    "forum_thread": 17105208,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "林地",
+        "生存难度待定",
+        "降雪",
+        "雾霾"
+    ],
+    "title": "Level IF-7",
+    "sitemap_update": 1757248790000,
+    "votings": [
+        [
+            8828300,
+            true
+        ],
+        [
+            9551174,
+            true
+        ],
+        [
+            9477209,
+            false
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9631911,
+            true
+        ],
+        [
+            9609194,
+            false
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9375128,
+            false
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9565995,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9551083,
+            false
+        ],
+        [
+            9191146,
+            true
+        ],
+        [
+            9485306,
+            false
+        ],
+        [
+            9419995,
+            false
+        ],
+        [
+            9620173,
+            true
+        ],
+        [
+            9304232,
+            false
+        ]
+    ],
+    "is_locked": false
+}

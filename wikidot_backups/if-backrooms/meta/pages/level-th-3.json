@@ -1,0 +1,96 @@
+{
+    "name": "level-th-3",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1533053416,
+            "author": 9454668,
+            "stamp": 1760619075,
+            "flags": "A",
+            "commentary": "已新增标签：封闭性, 建筑。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532862802,
+            "author": 9454668,
+            "stamp": 1759986949,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532220341,
+            "author": 9454668,
+            "stamp": 1757508117,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532220288,
+            "author": 9454668,
+            "stamp": 1757507992,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532215229,
+            "author": 9454668,
+            "stamp": 1757479717,
+            "flags": "A",
+            "commentary": "已新增标签：th, 二次翻译, 层级, 生存难度2, 翻译, 高温。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532215227,
+            "author": 9454668,
+            "stamp": 1757479708,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460371473,
+    "rating": 6,
+    "tags": [
+        "th",
+        "二次翻译",
+        "封闭性",
+        "层级",
+        "建筑",
+        "生存难度2",
+        "翻译",
+        "高温"
+    ],
+    "title": "Level TH-3 - “昏暗微光”",
+    "sitemap_update": 1760619075000,
+    "votings": [
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": true
+}

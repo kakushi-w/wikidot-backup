@@ -1,0 +1,122 @@
+{
+    "name": "level-if-46",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1530541649,
+            "author": 8620589,
+            "stamp": 1750135897,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530517111,
+            "author": 8620589,
+            "stamp": 1749983610,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530517101,
+            "author": 8620589,
+            "stamp": 1749983553,
+            "flags": "F",
+            "commentary": "已上传文件 “island.jpg”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530517080,
+            "author": 8620589,
+            "stamp": 1749983430,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530517070,
+            "author": 8620589,
+            "stamp": 1749983374,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度宜居, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530517060,
+            "author": 8620589,
+            "stamp": 1749983315,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11403306,
+            "name": "island.jpg",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-46/island.jpg",
+            "size": "901.74 kB (923379 Bytes)",
+            "size_bytes": 923379,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 2187x1372, components 3",
+            "author": 8620589,
+            "stamp": 1749983553,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459801160,
+    "rating": 4,
+    "forum_thread": 17153235,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度宜居",
+        "神秘"
+    ],
+    "title": "Level IF-46",
+    "sitemap_update": 1750135897000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9385645,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9541601,
+            true
+        ],
+        [
+            9620145,
+            true
+        ],
+        [
+            9485306,
+            false
+        ],
+        [
+            9608029,
+            true
+        ]
+    ],
+    "is_locked": false
+}

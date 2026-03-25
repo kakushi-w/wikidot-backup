@@ -1,0 +1,72 @@
+{
+    "name": "level-if-480",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541838344,
+            "author": 9555733,
+            "stamp": 1770519780,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 后室意志, 层级, 开阔性, 探险者总署, 环境危害, 生存难度5。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541838309,
+            "author": 9555733,
+            "stamp": 1770519630,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541838304,
+            "author": 9555733,
+            "stamp": 1770519603,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468105807,
+    "rating": 6,
+    "forum_thread": 17583443,
+    "tags": [
+        "原创",
+        "后室意志",
+        "层级",
+        "开阔性",
+        "探险者总署",
+        "环境危害",
+        "生存难度5"
+    ],
+    "title": "Level IF-480",
+    "sitemap_update": 1770519780000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": true
+}

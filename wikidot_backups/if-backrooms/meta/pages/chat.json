@@ -1,0 +1,31 @@
+{
+    "name": "chat",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1539336762,
+            "author": 9375128,
+            "stamp": 1762945090,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539336735,
+            "author": 9375128,
+            "stamp": 1762944987,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466637180,
+    "tags": [
+        "管理"
+    ],
+    "title": "聊天室",
+    "sitemap_update": 1762945090000,
+    "votings": [],
+    "is_locked": true
+}

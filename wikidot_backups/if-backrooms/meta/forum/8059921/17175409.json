@@ -1,0 +1,23 @@
+{
+    "title": "B.N.T.G.",
+    "id": 17175409,
+    "description": "",
+    "last": 1754190717,
+    "lastUser": 9454668,
+    "started": 1754190529,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7095282,
+            "title": "译者帖A",
+            "poster": 9454668,
+            "stamp": 1754190717,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

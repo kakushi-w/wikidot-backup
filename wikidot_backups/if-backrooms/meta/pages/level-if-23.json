@@ -1,0 +1,96 @@
+{
+    "name": "level-if-23",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532953755,
+            "author": 9099707,
+            "stamp": 1760178790,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530218222,
+            "author": 9099707,
+            "stamp": 1747997882,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530218207,
+            "author": 9099707,
+            "stamp": 1747997733,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530218175,
+            "author": 9099707,
+            "stamp": 1747997459,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 生存难度死区。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530218173,
+            "author": 9099707,
+            "stamp": 1747997438,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530218154,
+            "author": 9099707,
+            "stamp": 1747997380,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459726612,
+    "forum_thread": 17137857,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度死区"
+    ],
+    "title": "Level IF-23",
+    "sitemap_update": 1760178790000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9690576,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9485306,
+            false
+        ]
+    ],
+    "is_locked": false
+}

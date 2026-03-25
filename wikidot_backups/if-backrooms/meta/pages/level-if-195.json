@@ -1,0 +1,63 @@
+{
+    "name": "level-if-195",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1533920969,
+            "author": 9419995,
+            "stamp": 1761567775,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 层级, 建筑, 开阔性, 生存难度0, 轨道交通。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533920868,
+            "author": 9419995,
+            "stamp": 1761567721,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1461427224,
+    "rating": 6,
+    "tags": [
+        "切行困难",
+        "原创",
+        "层级",
+        "建筑",
+        "开阔性",
+        "生存难度0",
+        "轨道交通"
+    ],
+    "title": "Level IF-195 - “层层砖囚”",
+    "sitemap_update": 1761567775000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

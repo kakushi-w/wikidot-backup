@@ -1,0 +1,156 @@
+{
+    "name": "entity-th-7",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1532175169,
+            "author": 9454668,
+            "stamp": 1757245637,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531579570,
+            "author": 9454668,
+            "stamp": 1755259589,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531579563,
+            "author": 9454668,
+            "stamp": 1755259545,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1530883152,
+            "author": 9454668,
+            "stamp": 1751984902,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530503460,
+            "author": 9454668,
+            "stamp": 1749902445,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 7"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530503447,
+            "author": 9454668,
+            "stamp": 1749902394,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530496924,
+            "author": 9454668,
+            "stamp": 1749864764,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530492273,
+            "author": 9454668,
+            "stamp": 1749828755,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530491386,
+            "author": 9454668,
+            "stamp": 1749825560,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530491284,
+            "author": 9454668,
+            "stamp": 1749825364,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530491036,
+            "author": 9454668,
+            "stamp": 1749824321,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530491030,
+            "author": 9454668,
+            "stamp": 1749824292,
+            "flags": "A",
+            "commentary": "已新增标签：th, 二次翻译, 实体, 翻译。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530491026,
+            "author": 9454668,
+            "stamp": 1749824272,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530490979,
+            "author": 9454668,
+            "stamp": 1749824125,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459793685,
+    "rating": 6,
+    "tags": [
+        "th",
+        "二次翻译",
+        "实体",
+        "翻译"
+    ],
+    "title": "Entity TH-7 - “信号草”",
+    "sitemap_update": 1757245637000,
+    "votings": [
+        [
+            9701536,
+            true
+        ],
+        [
+            9375128,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9192541,
+            true
+        ]
+    ],
+    "is_locked": false
+}

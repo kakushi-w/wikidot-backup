@@ -1,0 +1,32 @@
+{
+    "title": "Level IF-288 - “数学”",
+    "id": 17439446,
+    "description": "",
+    "last": 1762587145,
+    "lastUser": 9950499,
+    "started": 1762583161,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7416093,
+            "title": "",
+            "poster": 9099707,
+            "stamp": 1762583214,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7416178,
+                    "title": "",
+                    "poster": 9950499,
+                    "stamp": 1762587145,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

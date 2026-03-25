@@ -1,0 +1,185 @@
+{
+    "name": "old:pof-if-11",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1541727361,
+            "author": 7344601,
+            "stamp": 1769958380,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"pof-if-11\" 至 \"old:pof-if-11\"."
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531534987,
+            "author": 9375128,
+            "stamp": 1755074641,
+            "flags": "A",
+            "commentary": "已新增标签：已归档。 移除标签：原创, 层级, 开阔性, 生存难度不适用。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531337136,
+            "author": 9454668,
+            "stamp": 1754124273,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"pof-if-9\" 至 \"pof-if-11\"."
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531337132,
+            "author": 9454668,
+            "stamp": 1754124259,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-9\" 至 \"pof-if-9\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530233627,
+            "author": 8759709,
+            "stamp": 1748098046,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530046096,
+            "author": 8828300,
+            "stamp": 1746886757,
+            "flags": "T",
+            "commentary": "才发现还有一个"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530046009,
+            "author": 8828300,
+            "stamp": 1746886707,
+            "flags": "T",
+            "commentary": "标题改大写，不违规"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530045893,
+            "author": 8759709,
+            "stamp": 1746886271,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 生存难度不适用。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530045886,
+            "author": 8759709,
+            "stamp": 1746886228,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530045868,
+            "author": 8759709,
+            "stamp": 1746886172,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459684918,
+    "forum_thread": 17157681,
+    "tags": [
+        "已归档"
+    ],
+    "title": "Level IF-9",
+    "sitemap_update": 1769958380000,
+    "votings": [
+        [
+            8828300,
+            true
+        ],
+        [
+            9551174,
+            false
+        ],
+        [
+            9477209,
+            false
+        ],
+        [
+            9577158,
+            true
+        ],
+        [
+            9701536,
+            false
+        ],
+        [
+            9631911,
+            false
+        ],
+        [
+            9609194,
+            false
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9565995,
+            false
+        ],
+        [
+            9657913,
+            false
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            9424597,
+            false
+        ],
+        [
+            9541601,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9620145,
+            false
+        ],
+        [
+            8984306,
+            true
+        ],
+        [
+            9485306,
+            false
+        ],
+        [
+            9419995,
+            false
+        ],
+        [
+            9168168,
+            false
+        ]
+    ],
+    "is_locked": true
+}

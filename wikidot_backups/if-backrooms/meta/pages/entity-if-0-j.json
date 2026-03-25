@@ -1,0 +1,89 @@
+{
+    "name": "entity-if-0-j",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541205671,
+            "author": 9454668,
+            "stamp": 1767235105,
+            "flags": "A",
+            "commentary": "已新增标签：精品。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532576744,
+            "author": 8317495,
+            "stamp": 1759305959,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 实体, 搞笑。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532576681,
+            "author": 8317495,
+            "stamp": 1759305757,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460472617,
+    "rating": 11,
+    "forum_thread": 17504850,
+    "tags": [
+        "原创",
+        "实体",
+        "搞笑",
+        "精品"
+    ],
+    "title": "Entity IF-0-J",
+    "sitemap_update": 1767235105000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

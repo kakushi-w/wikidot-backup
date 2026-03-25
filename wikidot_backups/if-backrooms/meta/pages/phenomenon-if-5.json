@@ -1,0 +1,96 @@
+{
+    "name": "phenomenon-if-5",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532682498,
+            "author": 9099707,
+            "stamp": 1759647786,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532682445,
+            "author": 9099707,
+            "stamp": 1759647519,
+            "flags": "A",
+            "commentary": "已新增标签：2025联合竞赛, 原创, 现象。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532682441,
+            "author": 9099707,
+            "stamp": 1759647505,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460492821,
+    "rating": 13,
+    "forum_thread": 17462180,
+    "tags": [
+        "2025联合竞赛",
+        "原创",
+        "现象"
+    ],
+    "title": "Phenomenon IF-5 - 「凛冬雪穹」",
+    "sitemap_update": 1759647786000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9555733,
+            true
+        ],
+        [
+            9419995,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": true
+}

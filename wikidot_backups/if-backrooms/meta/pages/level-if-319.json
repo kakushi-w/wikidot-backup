@@ -1,0 +1,110 @@
+{
+    "name": "level-if-319",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1541196773,
+            "author": 9657913,
+            "stamp": 1767184198,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541196767,
+            "author": 9657913,
+            "stamp": 1767184183,
+            "flags": "S",
+            "commentary": "使用的版式的原作者调整版式来源"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540318168,
+            "author": 8620589,
+            "stamp": 1765095215,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540305594,
+            "author": 8620589,
+            "stamp": 1765036685,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 层级, 建筑, 生存难度不适用。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540305577,
+            "author": 8620589,
+            "stamp": 1765036616,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467350517,
+    "rating": 6,
+    "forum_thread": 17480917,
+    "tags": [
+        "切行困难",
+        "原创",
+        "层级",
+        "建筑",
+        "生存难度不适用"
+    ],
+    "title": "Level IF-319",
+    "sitemap_update": 1767184198000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            false
+        ],
+        [
+            9553275,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9882061,
+            true
+        ],
+        [
+            9895946,
+            true
+        ],
+        [
+            7344601,
+            false
+        ]
+    ],
+    "is_locked": false
+}

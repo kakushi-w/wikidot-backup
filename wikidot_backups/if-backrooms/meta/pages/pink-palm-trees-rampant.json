@@ -1,0 +1,113 @@
+{
+    "name": "pink-palm-trees-rampant",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532974767,
+            "author": 9454668,
+            "stamp": 1760245867,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532974742,
+            "author": 9454668,
+            "stamp": 1760245844,
+            "flags": "S",
+            "commentary": "Link fix"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532974494,
+            "author": 9454668,
+            "stamp": 1760245629,
+            "flags": "S",
+            "commentary": "License box"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532968138,
+            "author": 9782629,
+            "stamp": 1760239431,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度？, 群岛设定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532968134,
+            "author": 9782629,
+            "stamp": 1760239404,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460682643,
+    "rating": 11,
+    "forum_thread": 17337544,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度？",
+        "群岛设定"
+    ],
+    "title": "日光照射的棕榈树岛",
+    "sitemap_update": 1760245867000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9899195,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

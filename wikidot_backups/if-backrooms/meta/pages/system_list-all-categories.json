@@ -1,0 +1,23 @@
+{
+    "name": "system:list-all-categories",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 1528492670,
+            "author": 9375128,
+            "stamp": 1742185938,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727550,
+    "tags": [
+        "管理"
+    ],
+    "title": "分类一览",
+    "sitemap_update": 1742185938000,
+    "votings": [],
+    "is_locked": false
+}

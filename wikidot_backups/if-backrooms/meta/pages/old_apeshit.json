@@ -1,0 +1,122 @@
+{
+    "name": "old:apeshit",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1532177086,
+            "author": 9454668,
+            "stamp": 1757255031,
+            "flags": "A",
+            "commentary": "已新增标签：旧页面。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532175732,
+            "author": 9454668,
+            "stamp": 1757248553,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532175723,
+            "author": 9454668,
+            "stamp": 1757248537,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"apeshit\" 至 \"old:apeshit\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531841894,
+            "author": 9454668,
+            "stamp": 1756471872,
+            "flags": "A",
+            "commentary": "已新增标签：搞笑。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531841615,
+            "author": 9454668,
+            "stamp": 1756471026,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531841473,
+            "author": 9454668,
+            "stamp": 1756470940,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531841048,
+            "author": 9454668,
+            "stamp": 1756469698,
+            "flags": "A",
+            "commentary": "已新增标签：故事, 翻译, 速切玩家。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531841004,
+            "author": 9454668,
+            "stamp": 1756469663,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460127920,
+    "rating": 9,
+    "forum_thread": 17235714,
+    "tags": [
+        "搞笑",
+        "故事",
+        "旧页面",
+        "翻译",
+        "速切玩家"
+    ],
+    "title": "你就他妈不想发会癫吗（旧）",
+    "sitemap_update": 1757255031000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

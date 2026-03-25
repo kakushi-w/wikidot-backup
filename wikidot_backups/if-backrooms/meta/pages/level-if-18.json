@@ -1,0 +1,89 @@
+{
+    "name": "level-if-18",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1542839070,
+            "author": 8620589,
+            "stamp": 1774172470,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542839062,
+            "author": 8620589,
+            "stamp": 1774172432,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-498\" 至 \"level-if-18\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541247050,
+            "author": 8620589,
+            "stamp": 1767447353,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541245098,
+            "author": 8620589,
+            "stamp": 1767444324,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度5, 补给可能。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541245089,
+            "author": 8620589,
+            "stamp": 1767444252,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467959204,
+    "rating": 7,
+    "forum_thread": 17506874,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度5",
+        "补给可能"
+    ],
+    "title": "Level IF-18",
+    "sitemap_update": 1774172470000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            10193630,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9483189,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

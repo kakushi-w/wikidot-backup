@@ -1,0 +1,143 @@
+{
+    "name": "level-if-41",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532698623,
+            "author": 9485306,
+            "stamp": 1759723708,
+            "flags": "A",
+            "commentary": "移除标签：重写中。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531664877,
+            "author": 9485306,
+            "stamp": 1755691033,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531664665,
+            "author": 9419995,
+            "stamp": 1755690101,
+            "flags": "S",
+            "commentary": "修改一处错别字。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531458127,
+            "author": 9485306,
+            "stamp": 1754726840,
+            "flags": "A",
+            "commentary": "已新增标签：重写中。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530227369,
+            "author": 9485306,
+            "stamp": 1748067915,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 层级, 格式错乱, 生存难度不适用, 生存难度？。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530227344,
+            "author": 9485306,
+            "stamp": 1748067797,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459727681,
+    "rating": 12,
+    "forum_thread": 17138254,
+    "tags": [
+        "切行困难",
+        "原创",
+        "层级",
+        "格式错乱",
+        "生存难度不适用",
+        "生存难度？"
+    ],
+    "title": "Level IF-41",
+    "sitemap_update": 1759723708000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9701536,
+            true
+        ],
+        [
+            9690576,
+            true
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            9804860,
+            true
+        ],
+        [
+            8206574,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9309055,
+            false
+        ],
+        [
+            9424597,
+            false
+        ],
+        [
+            9541601,
+            true
+        ],
+        [
+            9364147,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9620145,
+            false
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": true
+}

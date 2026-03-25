@@ -1,0 +1,96 @@
+{
+    "name": "level-if-222",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531260153,
+            "author": 9419995,
+            "stamp": 1753777347,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531208571,
+            "author": 9419995,
+            "stamp": 1753585593,
+            "flags": "A",
+            "commentary": "已新增标签：封闭性。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531208564,
+            "author": 9419995,
+            "stamp": 1753585558,
+            "flags": "A",
+            "commentary": "已新增标签：层级, 建筑, 惊悚, 格式错乱, 生存难度5。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531208476,
+            "author": 9419995,
+            "stamp": 1753585306,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459968479,
+    "rating": 10,
+    "forum_thread": 17172316,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "建筑",
+        "惊悚",
+        "格式错乱",
+        "生存难度5"
+    ],
+    "title": "神祇之手",
+    "sitemap_update": 1753777347000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9577158,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9555402,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

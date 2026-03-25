@@ -1,0 +1,101 @@
+{
+    "name": "level-if-248",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1531624372,
+            "author": 9419995,
+            "stamp": 1755494368,
+            "flags": "A",
+            "commentary": "已新增标签：开阔性。 移除标签：开阔。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531614048,
+            "author": 9419995,
+            "stamp": 1755437388,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531614029,
+            "author": 9419995,
+            "stamp": 1755437281,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531612355,
+            "author": 9419995,
+            "stamp": 1755430663,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531612109,
+            "author": 9419995,
+            "stamp": 1755429512,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 原野, 层级, 开阔, 生存难度5。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531612102,
+            "author": 9419995,
+            "stamp": 1755429457,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460071193,
+    "rating": 8,
+    "tags": [
+        "原创",
+        "原野",
+        "层级",
+        "开阔性",
+        "生存难度5"
+    ],
+    "title": "Level IF-248 - “审判之时”",
+    "sitemap_update": 1755494368000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            8728373,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9831743,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

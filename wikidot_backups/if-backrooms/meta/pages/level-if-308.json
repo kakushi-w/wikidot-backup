@@ -1,0 +1,86 @@
+{
+    "name": "level-if-308",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541184395,
+            "author": 9832778,
+            "stamp": 1767105397,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541184383,
+            "author": 9832778,
+            "stamp": 1767105317,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 建筑, 生存难度？。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541184372,
+            "author": 9832778,
+            "stamp": 1767105252,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541184363,
+            "author": 9832778,
+            "stamp": 1767105217,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467944840,
+    "rating": 8,
+    "forum_thread": 17560930,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "建筑",
+        "生存难度？"
+    ],
+    "title": "Level IF-308",
+    "sitemap_update": 1767105397000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8317495,
+            true
+        ]
+    ],
+    "is_locked": true
+}

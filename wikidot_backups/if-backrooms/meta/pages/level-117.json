@@ -1,0 +1,92 @@
+{
+    "name": "level-117",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531114748,
+            "author": 9454668,
+            "stamp": 1753108249,
+            "flags": "A",
+            "commentary": "已新增标签：格式错乱。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531114741,
+            "author": 9454668,
+            "stamp": 1753108225,
+            "flags": "S",
+            "commentary": "汉化文章表格"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530801510,
+            "author": 8150801,
+            "stamp": 1751537888,
+            "flags": "A",
+            "commentary": "已新增标签：_image。 移除标签：o_image。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530801439,
+            "author": 8150801,
+            "stamp": 1751537447,
+            "flags": "A",
+            "commentary": "已新增标签：o_image, 奇异, 层级, 悲剧, 悲喜交加, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530801436,
+            "author": 8150801,
+            "stamp": 1751537421,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459871848,
+    "rating": 5,
+    "forum_thread": 17161502,
+    "tags": [
+        "_image",
+        "奇异",
+        "层级",
+        "悲剧",
+        "悲喜交加",
+        "格式错乱",
+        "翻译"
+    ],
+    "title": "Level 117 - “伊莎贝尔之峡”",
+    "sitemap_update": 1753108249000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9850702,
+            false
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

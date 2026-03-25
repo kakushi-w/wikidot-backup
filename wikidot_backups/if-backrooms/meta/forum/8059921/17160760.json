@@ -1,0 +1,64 @@
+{
+    "title": "XiaoZi666的作者页",
+    "id": 17160760,
+    "description": "",
+    "last": 1759833698,
+    "lastUser": 9782629,
+    "started": 1751383175,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7278748,
+            "title": "",
+            "poster": 9782629,
+            "stamp": 1759833698,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7054638,
+            "title": "",
+            "poster": 9657913,
+            "stamp": 1751383304,
+            "lastEdit": 1751383339,
+            "lastEditBy": 9657913,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9657913,
+                    "id": 8531771,
+                    "stamp": 1751383339
+                },
+                {
+                    "title": "",
+                    "author": 9657913,
+                    "id": 8531767,
+                    "stamp": 1751383304
+                }
+            ],
+            "children": [
+                {
+                    "id": 7055789,
+                    "title": "",
+                    "poster": 9485306,
+                    "stamp": 1751513081,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7057063,
+                            "title": "",
+                            "poster": 9657913,
+                            "stamp": 1751640722,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

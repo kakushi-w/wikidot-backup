@@ -1,0 +1,92 @@
+{
+    "name": "level-if-324",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1533226690,
+            "author": 8620589,
+            "stamp": 1761358280,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532771841,
+            "author": 9419995,
+            "stamp": 1759797088,
+            "flags": "A",
+            "commentary": "已新增标签：crossover。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532724422,
+            "author": 9454668,
+            "stamp": 1759758293,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532724375,
+            "author": 9454668,
+            "stamp": 1759758257,
+            "flags": "A",
+            "commentary": "移除标签：中华。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532724355,
+            "author": 9454668,
+            "stamp": 1759758238,
+            "flags": "A",
+            "commentary": "已新增标签：中华, 原创, 层级, 开阔性, 探险者总署, 生存难度宜居, 虚妄归档设定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532720174,
+            "author": 8620589,
+            "stamp": 1759756141,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460512025,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 5,
+    "tags": [
+        "crossover",
+        "原创",
+        "层级",
+        "开阔性",
+        "探险者总署",
+        "生存难度宜居",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-324",
+    "sitemap_update": 1761358280000,
+    "votings": [
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

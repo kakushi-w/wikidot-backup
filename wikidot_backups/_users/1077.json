@@ -18,5 +18,18 @@
         "activity": 3,
         "fetched_at": 1774404657674,
         "user_id": 8824993
+    },
+    "8828300": {
+        "full_name": "1Level 256",
+        "username": "1level-256",
+        "real_name": "073879",
+        "gender": "male",
+        "birthday": -16299446400000,
+        "from": "杜王町，日本",
+        "wikidot_user_since": 1696644900,
+        "account_type": "free",
+        "activity": 3,
+        "fetched_at": 1774413627717,
+        "user_id": 8828300
     }
 }

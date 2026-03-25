@@ -1,0 +1,40 @@
+{
+    "title": "Level IF-240",
+    "id": 17212228,
+    "description": "",
+    "last": 1761220422,
+    "lastUser": 9485306,
+    "started": 1755683854,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7348361,
+            "title": "",
+            "poster": 9485306,
+            "stamp": 1761220422,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7142670,
+            "title": "",
+            "poster": 9419995,
+            "stamp": 1755683906,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7165099,
+                    "title": "",
+                    "poster": 8759709,
+                    "stamp": 1756131424,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

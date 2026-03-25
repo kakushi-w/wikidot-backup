@@ -1,0 +1,81 @@
+{
+    "name": "level-if-133",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531460780,
+            "author": 9337208,
+            "stamp": 1754739285,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度宜居。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531460776,
+            "author": 9337208,
+            "stamp": 1754739270,
+            "flags": "A",
+            "commentary": "已新增标签：前厅映像, 原创, 层级, 补给可能。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531460768,
+            "author": 9337208,
+            "stamp": 1754739228,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531460765,
+            "author": 9337208,
+            "stamp": 1754739214,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460024105,
+    "forum_thread": 17458729,
+    "tags": [
+        "前厅映像",
+        "原创",
+        "层级",
+        "生存难度宜居",
+        "补给可能"
+    ],
+    "title": "Level IF-133",
+    "sitemap_update": 1754739285000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9337208,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9561914,
+            true
+        ]
+    ],
+    "is_locked": false
+}

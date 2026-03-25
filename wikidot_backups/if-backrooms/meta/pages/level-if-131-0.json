@@ -1,0 +1,102 @@
+{
+    "name": "level-if-131-0",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1532350793,
+            "author": 9609194,
+            "stamp": 1758200649,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532343046,
+            "author": 9609194,
+            "stamp": 1758152180,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532268747,
+            "author": 9609194,
+            "stamp": 1757763680,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532268675,
+            "author": 9609194,
+            "stamp": 1757763321,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532268428,
+            "author": 9609194,
+            "stamp": 1757762256,
+            "flags": "A",
+            "commentary": "已新增标签：虚妄归档设定。 移除标签：虚妄归档系列。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532268423,
+            "author": 9609194,
+            "stamp": 1757762241,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度1, 虚妄归档系列。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532268413,
+            "author": 9609194,
+            "stamp": 1757762199,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460390117,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 6,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度1",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-131.0",
+    "sitemap_update": 1758200649000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

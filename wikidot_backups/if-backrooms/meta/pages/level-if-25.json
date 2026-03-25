@@ -1,0 +1,129 @@
+{
+    "name": "level-if-25",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1530704151,
+            "author": 9099707,
+            "stamp": 1751077423,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530231986,
+            "author": 9375128,
+            "stamp": 1748091365,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530229591,
+            "author": 9099707,
+            "stamp": 1748079321,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530229565,
+            "author": 9099707,
+            "stamp": 1748079204,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530229546,
+            "author": 9099707,
+            "stamp": 1748079123,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 林地, 生存难度死区。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530229532,
+            "author": 9099707,
+            "stamp": 1748079068,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530229522,
+            "author": 9099707,
+            "stamp": 1748079014,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530229509,
+            "author": 9099707,
+            "stamp": 1748078940,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459728216,
+    "forum_thread": 17138512,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "林地",
+        "生存难度死区"
+    ],
+    "title": "Level IF-25",
+    "sitemap_update": 1751077423000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9690576,
+            true
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            8759709,
+            false
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9565995,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9540010,
+            false
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,69 @@
+{
+    "name": "level-if-318",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1542644589,
+            "author": 8620589,
+            "stamp": 1773464786,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 生存难度2。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542644541,
+            "author": 8620589,
+            "stamp": 1773464666,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468250048,
+    "rating": 4,
+    "forum_thread": 17623499,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度2"
+    ],
+    "title": "Level IF-318",
+    "sitemap_update": 1773464786000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            10138849,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            10265816,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            7344601,
+            false
+        ]
+    ],
+    "is_locked": false
+}

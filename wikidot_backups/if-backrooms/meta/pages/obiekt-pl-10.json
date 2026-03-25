@@ -1,0 +1,154 @@
+{
+    "name": "obiekt-pl-10",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1531419472,
+            "author": 9454668,
+            "stamp": 1754534771,
+            "flags": "A",
+            "commentary": "已新增标签：波兰探险家委员会, 消耗品。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531412536,
+            "author": 9454668,
+            "stamp": 1754491029,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531191040,
+            "author": 9454668,
+            "stamp": 1753505750,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531188861,
+            "author": 9454668,
+            "stamp": 1753494955,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531188859,
+            "author": 9454668,
+            "stamp": 1753494934,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531188798,
+            "author": 9454668,
+            "stamp": 1753494422,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531178695,
+            "author": 9454668,
+            "stamp": 1753442436,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531178691,
+            "author": 9454668,
+            "stamp": 1753442410,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531178688,
+            "author": 9454668,
+            "stamp": 1753442385,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531178685,
+            "author": 9454668,
+            "stamp": 1753442369,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531178653,
+            "author": 9454668,
+            "stamp": 1753442197,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531178594,
+            "author": 9454668,
+            "stamp": 1753441890,
+            "flags": "A",
+            "commentary": "已新增标签：pl, 二次翻译, 物品, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531178589,
+            "author": 9454668,
+            "stamp": 1753441869,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459962246,
+    "forum_thread": 17171452,
+    "tags": [
+        "pl",
+        "二次翻译",
+        "波兰探险家委员会",
+        "消耗品",
+        "物品",
+        "翻译"
+    ],
+    "title": "Object PL-10 - “冷树脂”",
+    "sitemap_update": 1754534771000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

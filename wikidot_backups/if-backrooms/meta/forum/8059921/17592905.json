@@ -1,0 +1,40 @@
+{
+    "title": "版式：B.O.P.",
+    "id": 17592905,
+    "description": "",
+    "last": 1772281329,
+    "lastUser": 9375128,
+    "started": 1771760428,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7576294,
+            "title": "职员帖：开放",
+            "poster": 9375128,
+            "stamp": 1772281329,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7563189,
+            "title": "超牛逼",
+            "poster": 8620589,
+            "stamp": 1771760443,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7563198,
+                    "title": "Re: 超牛逼",
+                    "poster": 9657913,
+                    "stamp": 1771761096,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

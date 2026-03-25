@@ -1,0 +1,32 @@
+{
+    "name": "template:recording",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1530553654,
+            "author": 9375128,
+            "stamp": 1750220518,
+            "flags": "A",
+            "commentary": "已新增标签：功能, 管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530553653,
+            "author": 9375128,
+            "stamp": 1750220496,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459811783,
+    "tags": [
+        "功能",
+        "管理"
+    ],
+    "title": "处分记录 模板",
+    "sitemap_update": 1750220518000,
+    "votings": [],
+    "is_locked": false
+}

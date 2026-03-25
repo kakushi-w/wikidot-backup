@@ -1,0 +1,87 @@
+{
+    "name": "phenomenon-if-7",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1530471211,
+            "author": 9168168,
+            "stamp": 1749684297,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"deleted:phenomenon-if-7\" 至 \"phenomenon-if-7\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530447702,
+            "author": 9168168,
+            "stamp": 1749525715,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"phenomenon-if-7\" 至 \"deleted:phenomenon-if-7\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530439421,
+            "author": 9168168,
+            "stamp": 1749472070,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 现象。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530439284,
+            "author": 9168168,
+            "stamp": 1749471396,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459776739,
+    "rating": 5,
+    "forum_thread": 17147431,
+    "tags": [
+        "原创",
+        "现象"
+    ],
+    "title": "Phenomenon IF-7",
+    "sitemap_update": 1749684297000,
+    "votings": [
+        [
+            9477209,
+            false
+        ],
+        [
+            9701536,
+            true
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9631596,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,122 @@
+{
+    "name": "level-if-216",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1539157078,
+            "author": 8620589,
+            "stamp": 1762651194,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度0。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1533038693,
+            "author": 9782629,
+            "stamp": 1760533232,
+            "flags": "A",
+            "commentary": "移除标签：生存难度0。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532959114,
+            "author": 8620589,
+            "stamp": 1760194312,
+            "flags": "A",
+            "commentary": "移除标签：精神危害。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532959047,
+            "author": 8620589,
+            "stamp": 1760193993,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532959013,
+            "author": 8620589,
+            "stamp": 1760193874,
+            "flags": "A",
+            "commentary": "已新增标签：低温, 切行困难, 原创, 合著, 层级, 恐怖, 惊悚, 探险者总署, 无羁探险者联盟, 时间异常, 现实扭曲, 生存难度0, 生存难度5, 精神危害, 虚妄归档设定, 道路, 降水, 降雪。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532958898,
+            "author": 8620589,
+            "stamp": 1760193511,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460679453,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 10,
+    "tags": [
+        "低温",
+        "切行困难",
+        "原创",
+        "合著",
+        "层级",
+        "恐怖",
+        "惊悚",
+        "探险者总署",
+        "无羁探险者联盟",
+        "时间异常",
+        "现实扭曲",
+        "生存难度0",
+        "生存难度5",
+        "虚妄归档设定",
+        "道路",
+        "降水",
+        "降雪"
+    ],
+    "title": "Level IF-216",
+    "sitemap_update": 1762651194000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9115362,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

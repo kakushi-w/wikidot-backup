@@ -1,0 +1,47 @@
+{
+    "name": "fragment:spec-8",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1533068135,
+            "author": 9454668,
+            "stamp": 1760703721,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532490813,
+            "author": 9454668,
+            "stamp": 1758894992,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"spec\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532490655,
+            "author": 9454668,
+            "stamp": 1758894438,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532490652,
+            "author": 9454668,
+            "stamp": 1758894427,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460451011,
+    "tags": [
+        "段落"
+    ],
+    "title": "fragment:spec-8",
+    "sitemap_update": 1760703721000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,106 @@
+{
+    "name": "level-if-142",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1532377490,
+            "author": 9609194,
+            "stamp": 1758335644,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532375647,
+            "author": 8620589,
+            "stamp": 1758328035,
+            "flags": "A",
+            "commentary": "已新增标签：虚妄归档设定。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531321479,
+            "author": 8620589,
+            "stamp": 1754043153,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531160758,
+            "author": 8620589,
+            "stamp": 1753350392,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531160640,
+            "author": 8620589,
+            "stamp": 1753349906,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531160552,
+            "author": 8620589,
+            "stamp": 1753349639,
+            "flags": "A",
+            "commentary": "已新增标签：crossover, 原创, 层级, 生存难度3。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531160531,
+            "author": 8620589,
+            "stamp": 1753349563,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459957313,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 5,
+    "tags": [
+        "crossover",
+        "原创",
+        "层级",
+        "生存难度3",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-142",
+    "sitemap_update": 1758335644000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            false
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,158 @@
+{
+    "name": "level-if-73",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1530914199,
+            "author": 9437079,
+            "stamp": 1752106612,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530914198,
+            "author": 9437079,
+            "stamp": 1752106592,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530335837,
+            "author": 8759709,
+            "stamp": 1748839276,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530161289,
+            "author": 8759709,
+            "stamp": 1747567167,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 邪教。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530161269,
+            "author": 8759709,
+            "stamp": 1747567053,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度5。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530161263,
+            "author": 8759709,
+            "stamp": 1747567033,
+            "flags": "F",
+            "commentary": "已上传文件 “1”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530161254,
+            "author": 8759709,
+            "stamp": 1747566983,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11388180,
+            "name": "1",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-73/1",
+            "size": "207.01 kB (211977 Bytes)",
+            "size_bytes": 211977,
+            "mime": "image/png",
+            "content": "PNG image data, 722 x 1049, 8-bit/color RGBA, non-interlaced",
+            "author": 8759709,
+            "stamp": 1747567033,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459718757,
+    "forum_thread": 17137478,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度5",
+        "邪教"
+    ],
+    "title": "Level IF-73",
+    "sitemap_update": 1752106612000,
+    "votings": [
+        [
+            9696467,
+            true
+        ],
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9681637,
+            true
+        ],
+        [
+            9899195,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9437079,
+            true
+        ],
+        [
+            9631596,
+            true
+        ],
+        [
+            9485306,
+            false
+        ],
+        [
+            9168168,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,73 @@
+{
+    "name": "uncle-nicolini-author-page",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532174904,
+            "author": 9454668,
+            "stamp": 1757244613,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531333495,
+            "author": 9454668,
+            "stamp": 1754106981,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531190818,
+            "author": 9454668,
+            "stamp": 1753504403,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531190714,
+            "author": 9454668,
+            "stamp": 1753503972,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531190696,
+            "author": 9454668,
+            "stamp": 1753503879,
+            "flags": "A",
+            "commentary": "已新增标签：作者, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531190694,
+            "author": 9454668,
+            "stamp": 1753503869,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459964890,
+    "tags": [
+        "作者",
+        "翻译"
+    ],
+    "title": "Uncle Nicolini的作者页！",
+    "sitemap_update": 1757244613000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

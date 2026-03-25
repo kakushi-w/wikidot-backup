@@ -1,0 +1,32 @@
+{
+    "name": "reviewing:_template",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1529184862,
+            "author": 9375128,
+            "stamp": 1744348113,
+            "flags": "A",
+            "commentary": "已新增标签：功能, 管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529184860,
+            "author": 9375128,
+            "stamp": 1744348104,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459146948,
+    "tags": [
+        "功能",
+        "管理"
+    ],
+    "title": "_template",
+    "sitemap_update": 1744348113000,
+    "votings": [],
+    "is_locked": false
+}

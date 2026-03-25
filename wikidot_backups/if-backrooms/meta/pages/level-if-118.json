@@ -1,0 +1,168 @@
+{
+    "name": "level-if-118",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1542155633,
+            "author": 8620589,
+            "stamp": 1771502431,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1542155624,
+            "author": 8620589,
+            "stamp": 1771502389,
+            "flags": "F",
+            "commentary": "已上传文件 “new”。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532377458,
+            "author": 9454668,
+            "stamp": 1758335501,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532375646,
+            "author": 8620589,
+            "stamp": 1758328026,
+            "flags": "A",
+            "commentary": "已新增标签：虚妄归档设定。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531158857,
+            "author": 8620589,
+            "stamp": 1753341643,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531154489,
+            "author": 8620589,
+            "stamp": 1753321637,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531147534,
+            "author": 8620589,
+            "stamp": 1753277593,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531146395,
+            "author": 8620589,
+            "stamp": 1753274378,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531146021,
+            "author": 8620589,
+            "stamp": 1753273217,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531145687,
+            "author": 8620589,
+            "stamp": 1753272155,
+            "flags": "A",
+            "commentary": "已新增标签：crossover, 原创, 层级, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531145680,
+            "author": 8620589,
+            "stamp": 1753272128,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11744125,
+            "name": "new",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-118/new",
+            "size": "722.06 kB (739387 Bytes)",
+            "size_bytes": 739387,
+            "mime": "image/png",
+            "content": "PNG image data, 1280 x 894, 8-bit/color RGB, non-interlaced",
+            "author": 8620589,
+            "stamp": 1771502389,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459953626,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 11,
+    "forum_thread": 17170131,
+    "tags": [
+        "crossover",
+        "原创",
+        "层级",
+        "生存难度0",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-118",
+    "sitemap_update": 1771502431000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            8728373,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9650605,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9304231,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

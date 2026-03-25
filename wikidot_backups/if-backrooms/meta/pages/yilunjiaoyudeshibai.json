@@ -1,0 +1,114 @@
+{
+    "name": "yilunjiaoyudeshibai",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542124337,
+            "author": 9375128,
+            "stamp": 1771340005,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542115596,
+            "author": 9657913,
+            "stamp": 1771303548,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542115592,
+            "author": 9657913,
+            "stamp": 1771303488,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 议论。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542115589,
+            "author": 9657913,
+            "stamp": 1771303466,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468139986,
+    "forum_thread": 17590491,
+    "tags": [
+        "原创",
+        "议论"
+    ],
+    "title": "议论：《教育的失败》为什么失败？",
+    "sitemap_update": 1771340005000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            8012806,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9375128,
+            true
+        ],
+        [
+            8579565,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            10265816,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9583871,
+            true
+        ],
+        [
+            9540010,
+            true
+        ]
+    ],
+    "is_locked": false
+}

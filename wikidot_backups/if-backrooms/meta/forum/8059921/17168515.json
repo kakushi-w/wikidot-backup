@@ -1,0 +1,83 @@
+{
+    "title": "Level IF-225 - \"霓虹天际线\"",
+    "id": 17168515,
+    "description": "",
+    "last": 1763991715,
+    "lastUser": 9609194,
+    "started": 1753094547,
+    "startedUser": null,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7186117,
+            "title": "uv",
+            "poster": 9552098,
+            "stamp": 1757135129,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7436896,
+            "title": "",
+            "poster": 9609194,
+            "stamp": 1763991715,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7077257,
+            "title": "",
+            "poster": 9099707,
+            "stamp": 1753094715,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7077367,
+                    "title": "",
+                    "poster": 8217963,
+                    "stamp": 1753101570,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7077449,
+            "title": "",
+            "poster": 9551174,
+            "stamp": 1753106742,
+            "lastEdit": 1767862555,
+            "lastEditBy": 9551174,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9551174,
+                    "id": 9030002,
+                    "stamp": 1767862555
+                },
+                {
+                    "title": "",
+                    "author": 9551174,
+                    "id": 9014354,
+                    "stamp": 1766904624
+                },
+                {
+                    "title": "",
+                    "author": 9551174,
+                    "id": 8561296,
+                    "stamp": 1753106742
+                },
+                {
+                    "title": "",
+                    "author": 9551174,
+                    "id": 8562332,
+                    "stamp": 1753163172
+                }
+            ],
+            "children": []
+        }
+    ]
+}

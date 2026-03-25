@@ -1,0 +1,70 @@
+{
+    "title": "你站第一个新人报道帖",
+    "id": 17164233,
+    "description": "",
+    "last": 1752155233,
+    "lastUser": 9375128,
+    "started": 1752139956,
+    "startedUser": 8217963,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7063823,
+            "title": "你站第一个新人报道帖",
+            "poster": 8217963,
+            "stamp": 1752139956,
+            "lastEdit": 1752140044,
+            "lastEditBy": 8217963,
+            "revisions": [
+                {
+                    "title": "你站第一个新人报道帖",
+                    "author": 8217963,
+                    "id": 8543595,
+                    "stamp": 1752140044
+                },
+                {
+                    "title": "你站第一个新人报道帖",
+                    "author": 8217963,
+                    "id": 8543592,
+                    "stamp": 1752139956
+                }
+            ],
+            "children": [
+                {
+                    "id": 7063913,
+                    "title": "Re: 你站第一个新人报道帖",
+                    "poster": 9099707,
+                    "stamp": 1752146928,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 7064054,
+                    "title": "Re: 你站第一个新人报道帖",
+                    "poster": 9375128,
+                    "stamp": 1752155233,
+                    "lastEdit": 1752217300,
+                    "lastEditBy": 9375128,
+                    "revisions": [
+                        {
+                            "title": "Re: 你站第一个新人报道帖",
+                            "author": 9375128,
+                            "id": 8544975,
+                            "stamp": 1752217300
+                        },
+                        {
+                            "title": "Re: 你站第一个新人报道帖",
+                            "author": 9375128,
+                            "id": 8543907,
+                            "stamp": 1752155233
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

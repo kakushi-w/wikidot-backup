@@ -1,0 +1,62 @@
+{
+    "name": "cuibei-is-yemianzijian",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531794843,
+            "author": 9782629,
+            "stamp": 1756281170,
+            "flags": "A",
+            "commentary": "已新增标签：补充材料。 移除标签：补充资料。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531794821,
+            "author": 9782629,
+            "stamp": 1756281105,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 补充资料。 移除标签：段落。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531794814,
+            "author": 9782629,
+            "stamp": 1756281078,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531794805,
+            "author": 9782629,
+            "stamp": 1756281040,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531794800,
+            "author": 9782629,
+            "stamp": 1756281027,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460114400,
+    "forum_thread": 17234722,
+    "tags": [
+        "原创",
+        "补充材料"
+    ],
+    "title": "崔北の页面自检",
+    "sitemap_update": 1756281170000,
+    "votings": [
+        [
+            9551083,
+            true
+        ]
+    ],
+    "is_locked": false
+}

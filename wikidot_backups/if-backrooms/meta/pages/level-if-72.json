@@ -1,0 +1,77 @@
+{
+    "name": "level-if-72",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531544349,
+            "author": 8317495,
+            "stamp": 1755092570,
+            "flags": "A",
+            "commentary": "已新增标签：时间异常。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531506602,
+            "author": 8317495,
+            "stamp": 1754982059,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531504785,
+            "author": 8317495,
+            "stamp": 1754973520,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度3。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531504778,
+            "author": 8317495,
+            "stamp": 1754973478,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460034147,
+    "rating": 6,
+    "forum_thread": 17183628,
+    "tags": [
+        "原创",
+        "层级",
+        "时间异常",
+        "生存难度3"
+    ],
+    "title": "Level IF-72",
+    "sitemap_update": 1755092570000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8317495,
+            true
+        ]
+    ],
+    "is_locked": false
+}

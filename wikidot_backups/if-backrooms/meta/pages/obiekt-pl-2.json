@@ -1,0 +1,97 @@
+{
+    "name": "obiekt-pl-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1531606306,
+            "author": 9454668,
+            "stamp": 1755402036,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531606299,
+            "author": 9454668,
+            "stamp": 1755402004,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531596774,
+            "author": 9454668,
+            "stamp": 1755344751,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531596766,
+            "author": 9454668,
+            "stamp": 1755344720,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531596659,
+            "author": 9454668,
+            "stamp": 1755344106,
+            "flags": "A",
+            "commentary": "已新增标签：pl, 二次翻译, 格式错乱, 物品, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531596656,
+            "author": 9454668,
+            "stamp": 1755344092,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460068260,
+    "forum_thread": 17200861,
+    "tags": [
+        "pl",
+        "二次翻译",
+        "格式错乱",
+        "物品",
+        "翻译"
+    ],
+    "title": "Object PL-2 - “跨维度邮箱”",
+    "sitemap_update": 1755402036000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": true
+}

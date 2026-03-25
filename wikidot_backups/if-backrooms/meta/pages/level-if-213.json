@@ -1,0 +1,103 @@
+{
+    "name": "level-if-213",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1541117616,
+            "author": 9333820,
+            "stamp": 1766846617,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531422824,
+            "author": 9333820,
+            "stamp": 1754553021,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531422816,
+            "author": 9333820,
+            "stamp": 1754552983,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531422788,
+            "author": 9333820,
+            "stamp": 1754552818,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度2。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531422781,
+            "author": 9333820,
+            "stamp": 1754552782,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531422758,
+            "author": 9333820,
+            "stamp": 1754552618,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460015328,
+    "rating": 9,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度2"
+    ],
+    "title": "Level IF-213",
+    "sitemap_update": 1766846617000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9899195,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9608029,
+            true
+        ]
+    ],
+    "is_locked": true
+}

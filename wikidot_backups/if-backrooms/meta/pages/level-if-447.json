@@ -1,0 +1,77 @@
+{
+    "name": "level-if-447",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541576125,
+            "author": 7344601,
+            "stamp": 1769299205,
+            "flags": "A",
+            "commentary": "已新增标签：_作者自评。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541458662,
+            "author": 8620589,
+            "stamp": 1768720608,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 层级, 生存难度死区。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541458658,
+            "author": 8620589,
+            "stamp": 1768720569,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468015914,
+    "rating": 4,
+    "tags": [
+        "_作者自评",
+        "切行困难",
+        "原创",
+        "层级",
+        "生存难度死区"
+    ],
+    "title": "Level IF-447",
+    "sitemap_update": 1769299205000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            7344601,
+            false
+        ]
+    ],
+    "is_locked": false
+}

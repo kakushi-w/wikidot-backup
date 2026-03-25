@@ -1,0 +1,73 @@
+{
+    "name": "level-if-301",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541772761,
+            "author": 8620589,
+            "stamp": 1770185422,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541772760,
+            "author": 8620589,
+            "stamp": 1770185401,
+            "flags": "A",
+            "commentary": "已新增标签：crossover, 原创, 封闭性, 层级, 建筑, 生存难度1, 虚妄归档设定。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541772756,
+            "author": 8620589,
+            "stamp": 1770185346,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541772745,
+            "author": 8620589,
+            "stamp": 1770185274,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468090649,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 4,
+    "forum_thread": 17601526,
+    "tags": [
+        "crossover",
+        "原创",
+        "封闭性",
+        "层级",
+        "建筑",
+        "生存难度1",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-301",
+    "sitemap_update": 1770185422000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ]
+    ],
+    "is_locked": true
+}

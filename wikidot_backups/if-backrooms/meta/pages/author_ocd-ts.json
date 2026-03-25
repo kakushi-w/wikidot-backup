@@ -1,0 +1,129 @@
+{
+    "name": "author:ocd-ts",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1531639421,
+            "author": 9496473,
+            "stamp": 1755568234,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531129277,
+            "author": 9496473,
+            "stamp": 1753186399,
+            "flags": "S",
+            "commentary": "补充:level if172"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530834272,
+            "author": 9496473,
+            "stamp": 1751718433,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530615372,
+            "author": 9496473,
+            "stamp": 1750592313,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530615364,
+            "author": 9496473,
+            "stamp": 1750592257,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530611514,
+            "author": 9496473,
+            "stamp": 1750569923,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530528827,
+            "author": 9541601,
+            "stamp": 1750053329,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530336533,
+            "author": 9496473,
+            "stamp": 1748845019,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530336523,
+            "author": 9496473,
+            "stamp": 1748844974,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530336514,
+            "author": 9496473,
+            "stamp": 1748844877,
+            "flags": "A",
+            "commentary": "已新增标签：作者。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530336510,
+            "author": 9496473,
+            "stamp": 1748844841,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459746224,
+    "tags": [
+        "作者",
+        "原创"
+    ],
+    "title": "OCD-TS的作者页",
+    "sitemap_update": 1755568234000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

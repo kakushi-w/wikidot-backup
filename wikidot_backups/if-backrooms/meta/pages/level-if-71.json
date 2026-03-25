@@ -1,0 +1,98 @@
+{
+    "name": "level-if-71",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1528600932,
+            "author": 9375128,
+            "stamp": 1742661969,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528600930,
+            "author": 9375128,
+            "stamp": 1742661955,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-l-71\" 至 \"level-if-71\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528512302,
+            "author": 9375128,
+            "stamp": 1742291598,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 生存难度？, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528512291,
+            "author": 9375128,
+            "stamp": 1742291525,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458734194,
+    "rating": 9,
+    "forum_thread": 17147466,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度？",
+        "神秘"
+    ],
+    "title": "Level IF-71",
+    "sitemap_update": 1742661969000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9385645,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9620145,
+            false
+        ],
+        [
+            9168168,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

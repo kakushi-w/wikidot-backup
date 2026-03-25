@@ -1,0 +1,153 @@
+{
+    "name": "the-b-n-t-g",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1532351729,
+            "author": 9454668,
+            "stamp": 1758204434,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532343005,
+            "author": 9454668,
+            "stamp": 1758151897,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532342991,
+            "author": 9454668,
+            "stamp": 1758151802,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532342914,
+            "author": 9454668,
+            "stamp": 1758151092,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532342906,
+            "author": 9454668,
+            "stamp": 1758151032,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531353429,
+            "author": 9454668,
+            "stamp": 1754204843,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 3"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531353419,
+            "author": 9454668,
+            "stamp": 1754204788,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531353150,
+            "author": 8150801,
+            "stamp": 1754203216,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531351173,
+            "author": 9454668,
+            "stamp": 1754194555,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531350454,
+            "author": 9454668,
+            "stamp": 1754190241,
+            "flags": "A",
+            "commentary": "已新增标签：不结盟贸易集团, 商人之家, 团体, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531350446,
+            "author": 9454668,
+            "stamp": 1754190216,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459996572,
+    "rating": 11,
+    "forum_thread": 17175409,
+    "tags": [
+        "不结盟贸易集团",
+        "商人之家",
+        "团体",
+        "翻译"
+    ],
+    "title": "B.N.T.G.",
+    "sitemap_update": 1758204434000,
+    "votings": [
+        [
+            9701536,
+            true
+        ],
+        [
+            8979477,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9385645,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9608029,
+            true
+        ]
+    ],
+    "is_locked": false
+}

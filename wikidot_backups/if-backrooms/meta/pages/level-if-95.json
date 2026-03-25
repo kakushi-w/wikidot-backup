@@ -1,0 +1,105 @@
+{
+    "name": "level-if-95",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532528407,
+            "author": 9608029,
+            "stamp": 1759072869,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531480517,
+            "author": 9608029,
+            "stamp": 1754841347,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531357957,
+            "author": 9608029,
+            "stamp": 1754224787,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 怀旧, 生存难度其他, 补给可能。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531357946,
+            "author": 9608029,
+            "stamp": 1754224741,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531357939,
+            "author": 9608029,
+            "stamp": 1754224710,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459998033,
+    "forum_thread": 17615186,
+    "tags": [
+        "原创",
+        "层级",
+        "怀旧",
+        "生存难度其他",
+        "补给可能"
+    ],
+    "title": "Level IF-95",
+    "sitemap_update": 1759072869000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9608029,
+            true
+        ],
+        [
+            9419995,
+            true
+        ],
+        [
+            8397437,
+            true
+        ]
+    ],
+    "is_locked": true
+}

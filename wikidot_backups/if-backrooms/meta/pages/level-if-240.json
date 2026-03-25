@@ -1,0 +1,98 @@
+{
+    "name": "level-if-240",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531666048,
+            "author": 9454668,
+            "stamp": 1755695662,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531663816,
+            "author": 8759709,
+            "stamp": 1755686434,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531662557,
+            "author": 8759709,
+            "stamp": 1755680756,
+            "flags": "F",
+            "commentary": "已上传文件 “1”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531662550,
+            "author": 8759709,
+            "stamp": 1755680716,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531662543,
+            "author": 8759709,
+            "stamp": 1755680693,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11442494,
+            "name": "1",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-240/1",
+            "size": "501.79 kB (513835 Bytes)",
+            "size_bytes": 513835,
+            "mime": "image/png",
+            "content": "PNG image data, 415 x 611, 8-bit/color RGBA, non-interlaced",
+            "author": 8759709,
+            "stamp": 1755680756,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460085236,
+    "rating": 6,
+    "forum_thread": 17212228,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度0"
+    ],
+    "title": "Level IF-240",
+    "sitemap_update": 1755695662000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,44 @@
+{
+    "title": "Level 10-ID - “工业区”",
+    "id": 17500591,
+    "description": "",
+    "last": 1766737085,
+    "lastUser": 10184925,
+    "started": 1766737055,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7480450,
+            "title": "译者贴",
+            "poster": 10184925,
+            "stamp": 1766737085,
+            "lastEdit": 1766813730,
+            "lastEditBy": 10184925,
+            "revisions": [
+                {
+                    "title": "译者贴",
+                    "author": 10184925,
+                    "id": 9012804,
+                    "stamp": 1766813730
+                },
+                {
+                    "title": "译者贴",
+                    "author": 10184925,
+                    "id": 9011855,
+                    "stamp": 1766737285
+                },
+                {
+                    "title": "译者贴",
+                    "author": 10184925,
+                    "id": 9011852,
+                    "stamp": 1766737085
+                }
+            ],
+            "children": []
+        }
+    ]
+}

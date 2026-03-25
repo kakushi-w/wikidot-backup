@@ -1,0 +1,32 @@
+{
+    "name": "attribution-metadata",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541583077,
+            "author": 7344601,
+            "stamp": 1769331140,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541583072,
+            "author": 7344601,
+            "stamp": 1769331116,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468048074,
+    "forum_thread": 17572475,
+    "tags": [
+        "管理"
+    ],
+    "title": "归属资料",
+    "sitemap_update": 1769331140000,
+    "votings": [],
+    "is_locked": false
+}

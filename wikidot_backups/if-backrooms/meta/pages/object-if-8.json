@@ -1,0 +1,116 @@
+{
+    "name": "object-if-8",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1531463232,
+            "author": 8150801,
+            "stamp": 1754748959,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531418747,
+            "author": 9385645,
+            "stamp": 1754530621,
+            "flags": "S",
+            "commentary": "修改错别字：“于Level IF-136M.E.G.探险者小队的房间中拍摄的效益清除装置图”中的“应”打成了“益”🤨"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531418035,
+            "author": 8759709,
+            "stamp": 1754525412,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 物品。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531418020,
+            "author": 8759709,
+            "stamp": 1754525325,
+            "flags": "F",
+            "commentary": "已上传文件 “1”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531418018,
+            "author": 8759709,
+            "stamp": 1754525296,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531418015,
+            "author": 8759709,
+            "stamp": 1754525280,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11434111,
+            "name": "1",
+            "url": "http://if-backrooms.wikidot.com/local--files/object-if-8/1",
+            "size": "488.62 kB (500344 Bytes)",
+            "size_bytes": 500344,
+            "mime": "image/png",
+            "content": "PNG image data, 598 x 797, 8-bit/color RGBA, non-interlaced",
+            "author": 8759709,
+            "stamp": 1754525325,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460014197,
+    "rating": 9,
+    "forum_thread": 17180815,
+    "tags": [
+        "原创",
+        "物品"
+    ],
+    "title": "Object IF-8",
+    "sitemap_update": 1754748959000,
+    "votings": [
+        [
+            9298678,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9385645,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

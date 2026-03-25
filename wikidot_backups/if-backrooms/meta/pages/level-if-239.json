@@ -1,0 +1,97 @@
+{
+    "name": "level-if-239",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1533241633,
+            "author": 8620589,
+            "stamp": 1761369162,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531641882,
+            "author": 8620589,
+            "stamp": 1755580531,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531614341,
+            "author": 9419995,
+            "stamp": 1755438654,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531596547,
+            "author": 8620589,
+            "stamp": 1755343529,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 封闭性, 层级, 生存难度5。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531596476,
+            "author": 8620589,
+            "stamp": 1755343206,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460068212,
+    "rating": 7,
+    "tags": [
+        "切行困难",
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度5"
+    ],
+    "title": "Level IF-239",
+    "sitemap_update": 1761369162000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            9485306,
+            false
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

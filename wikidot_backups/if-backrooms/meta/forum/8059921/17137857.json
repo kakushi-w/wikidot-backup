@@ -1,0 +1,48 @@
+{
+    "title": "Level IF-23",
+    "id": 17137857,
+    "description": "",
+    "last": 1769826714,
+    "lastUser": 9551174,
+    "started": 1747997473,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7013548,
+            "title": "代发作者帖",
+            "poster": 9099707,
+            "stamp": 1747997620,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7527665,
+            "title": "",
+            "poster": 9551174,
+            "stamp": 1769826714,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7057474,
+            "title": "DV",
+            "poster": 9485306,
+            "stamp": 1751686902,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7057524,
+                    "title": "Re: DV",
+                    "poster": 9099707,
+                    "stamp": 1751691184,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

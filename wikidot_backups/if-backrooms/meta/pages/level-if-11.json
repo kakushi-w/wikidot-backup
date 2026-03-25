@@ -1,0 +1,95 @@
+{
+    "name": "level-if-11",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1528943774,
+            "author": 9009838,
+            "stamp": 1743328174,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-l-11\" 至 \"level-if-11\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528943731,
+            "author": 9009838,
+            "stamp": 1743327970,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528497712,
+            "author": 9541601,
+            "stamp": 1742210534,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528497707,
+            "author": 9541601,
+            "stamp": 1742210512,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458729678,
+    "rating": 11,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度0"
+    ],
+    "title": "Level IF-11",
+    "sitemap_update": 1743328174000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9477209,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9565995,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9540010,
+            true
+        ]
+    ],
+    "is_locked": false
+}

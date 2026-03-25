@@ -1,0 +1,32 @@
+{
+    "title": "Level IF-48",
+    "id": 17157902,
+    "description": "",
+    "last": 1750569405,
+    "lastUser": 9496473,
+    "started": 1750569310,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7047772,
+            "title": "标签",
+            "poster": 8774679,
+            "stamp": 1750569366,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7047773,
+                    "title": "Re: 标签",
+                    "poster": 9496473,
+                    "stamp": 1750569405,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "title": "Level IF-90",
+    "id": 17138577,
+    "description": "",
+    "last": 1748160320,
+    "lastUser": 9375128,
+    "started": 1748160206,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7015206,
+            "title": "职员帖：删除宣告",
+            "poster": 9375128,
+            "stamp": 1748160320,
+            "lastEdit": 1748160440,
+            "lastEditBy": 9375128,
+            "revisions": [
+                {
+                    "title": "职员帖：删除宣告",
+                    "author": 9375128,
+                    "id": 8484642,
+                    "stamp": 1748160396
+                },
+                {
+                    "title": "职员帖：删除宣告",
+                    "author": 9375128,
+                    "id": 8484645,
+                    "stamp": 1748160440
+                },
+                {
+                    "title": "职员帖：删除宣告",
+                    "author": 9375128,
+                    "id": 8484638,
+                    "stamp": 1748160320
+                }
+            ],
+            "children": []
+        }
+    ]
+}

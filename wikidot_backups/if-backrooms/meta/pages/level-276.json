@@ -1,0 +1,197 @@
+{
+    "name": "level-276",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1541595641,
+            "author": 9454668,
+            "stamp": 1769406247,
+            "flags": "A",
+            "commentary": "已新增标签：监督者-a。 移除标签：监督者stretch。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1539895688,
+            "author": 9454668,
+            "stamp": 1764042970,
+            "flags": "A",
+            "commentary": "已新增标签：翻译精品。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539295133,
+            "author": 9454668,
+            "stamp": 1762863148,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539253875,
+            "author": 9454668,
+            "stamp": 1762749056,
+            "flags": "A",
+            "commentary": "已新增标签：音频。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1537253231,
+            "author": 9454668,
+            "stamp": 1761988228,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1536124780,
+            "author": 9454668,
+            "stamp": 1761833865,
+            "flags": "A",
+            "commentary": "已新增标签：olivia-bellerose。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1533508905,
+            "author": 8150801,
+            "stamp": 1761438749,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1533508668,
+            "author": 8150801,
+            "stamp": 1761438689,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532956963,
+            "author": 9454668,
+            "stamp": 1760186222,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532956906,
+            "author": 9454668,
+            "stamp": 1760186012,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532955403,
+            "author": 9454668,
+            "stamp": 1760179636,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 实体侵害, 封闭性。 移除标签：悲喜交加。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532746601,
+            "author": 9454668,
+            "stamp": 1759764523,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532711867,
+            "author": 9454668,
+            "stamp": 1759748458,
+            "flags": "A",
+            "commentary": "已新增标签：悲喜交加。 移除标签：监督者andrew, 监督者kat。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532711207,
+            "author": 9454668,
+            "stamp": 1759745590,
+            "flags": "A",
+            "commentary": "已新增标签：失落一族, 层级, 惊悚, 探险者总署, 洞穴, 浪漫, 生存难度死区, 监督者andrew, 监督者kat, 监督者stretch, 神秘, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532711205,
+            "author": 9454668,
+            "stamp": 1759745581,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460505266,
+    "rating": 11,
+    "forum_thread": 17309798,
+    "tags": [
+        "olivia-bellerose",
+        "切行困难",
+        "失落一族",
+        "实体侵害",
+        "封闭性",
+        "层级",
+        "惊悚",
+        "探险者总署",
+        "洞穴",
+        "浪漫",
+        "生存难度死区",
+        "监督者-a",
+        "神秘",
+        "翻译",
+        "翻译精品",
+        "音频"
+    ],
+    "title": "Level 276 - “蜂巢”",
+    "sitemap_update": 1769406247000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            7344601,
+            true
+        ]
+    ],
+    "is_locked": false
+}

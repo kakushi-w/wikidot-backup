@@ -1,0 +1,114 @@
+{
+    "name": "level-if-277",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1542173278,
+            "author": 9419995,
+            "stamp": 1771589344,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531260052,
+            "author": 9419995,
+            "stamp": 1753776875,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531248472,
+            "author": 9419995,
+            "stamp": 1753757683,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 水域, 环境危害, 生存难度死区。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531248458,
+            "author": 9419995,
+            "stamp": 1753757626,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531248429,
+            "author": 9419995,
+            "stamp": 1753757506,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459976659,
+    "rating": 13,
+    "forum_thread": 17172974,
+    "tags": [
+        "原创",
+        "层级",
+        "水域",
+        "环境危害",
+        "生存难度死区"
+    ],
+    "title": "死寂荧蓝：无终死亡",
+    "sitemap_update": 1771589344000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9555402,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": true
+}

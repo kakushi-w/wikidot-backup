@@ -1,0 +1,74 @@
+{
+    "title": "██，今在，永在的剧目",
+    "id": 17167859,
+    "description": "",
+    "last": 1753159194,
+    "lastUser": 9551174,
+    "started": 1752940360,
+    "startedUser": null,
+    "postsNum": 7,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7076592,
+            "title": "",
+            "poster": 9657913,
+            "stamp": 1753047382,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7076159,
+            "title": "",
+            "poster": 9485306,
+            "stamp": 1753014052,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7077872,
+            "title": "好文",
+            "poster": 9620145,
+            "stamp": 1753146484,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7078071,
+                    "title": "Re: 好文",
+                    "poster": 9531925,
+                    "stamp": 1753156982,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7075231,
+            "title": "",
+            "poster": 9551174,
+            "stamp": 1752940390,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7075301,
+                    "title": "",
+                    "poster": 9531925,
+                    "stamp": 1752944548,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7078106,
+                            "title": "",
+                            "poster": 9551174,
+                            "stamp": 1753159194,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

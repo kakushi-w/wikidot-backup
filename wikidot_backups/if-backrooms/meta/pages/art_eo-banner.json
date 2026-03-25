@@ -1,0 +1,51 @@
+{
+    "name": "art:eo-banner",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531261205,
+            "author": 9454668,
+            "stamp": 1753781980,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531050184,
+            "author": 9454668,
+            "stamp": 1752761664,
+            "flags": "A",
+            "commentary": "已新增标签：2025横幅竞赛, 翻译, 艺术作品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531050174,
+            "author": 9454668,
+            "stamp": 1752761625,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459929982,
+    "rating": 2,
+    "tags": [
+        "2025横幅竞赛",
+        "翻译",
+        "艺术作品"
+    ],
+    "title": "Eo横幅",
+    "sitemap_update": 1753781980000,
+    "votings": [
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ]
+    ],
+    "is_locked": true
+}

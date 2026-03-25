@@ -1,0 +1,103 @@
+{
+    "name": "level-if-17",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1529989451,
+            "author": 9609194,
+            "stamp": 1746607395,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529989443,
+            "author": 9609194,
+            "stamp": 1746607336,
+            "flags": "A",
+            "commentary": "已新增标签：合著。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529989435,
+            "author": 9609194,
+            "stamp": 1746607268,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 生存难度2, 补给可能, 道路。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529989432,
+            "author": 9609194,
+            "stamp": 1746607247,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459661803,
+    "forum_thread": 17120824,
+    "tags": [
+        "原创",
+        "合著",
+        "层级",
+        "开阔性",
+        "生存难度2",
+        "补给可能",
+        "道路"
+    ],
+    "title": "Level IF-17 - “巷”",
+    "sitemap_update": 1746607395000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9631911,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            9631596,
+            true
+        ],
+        [
+            8367260,
+            true
+        ],
+        [
+            9168168,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

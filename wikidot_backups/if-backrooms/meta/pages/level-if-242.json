@@ -1,0 +1,105 @@
+{
+    "name": "level-if-242",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1531724504,
+            "author": 8150801,
+            "stamp": 1755958968,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531723755,
+            "author": 9241330,
+            "stamp": 1755956571,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531723355,
+            "author": 9241330,
+            "stamp": 1755955254,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531723330,
+            "author": 9241330,
+            "stamp": 1755955171,
+            "flags": "F",
+            "commentary": "已上传文件 “1”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531723197,
+            "author": 9241330,
+            "stamp": 1755954775,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 城镇, 层级, 生存难度5。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531723156,
+            "author": 9241330,
+            "stamp": 1755954717,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11444233,
+            "name": "1",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-242/1",
+            "size": "347.74 kB (356086 Bytes)",
+            "size_bytes": 356086,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 719x650, components 3",
+            "author": 9241330,
+            "stamp": 1755955171,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460097876,
+    "rating": 6,
+    "tags": [
+        "原创",
+        "城镇",
+        "层级",
+        "生存难度5"
+    ],
+    "title": "Level IF-242",
+    "sitemap_update": 1755958968000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

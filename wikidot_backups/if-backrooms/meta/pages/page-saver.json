@@ -1,0 +1,40 @@
+{
+    "name": "page-saver",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1529840753,
+            "author": 9483189,
+            "stamp": 1746094617,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529838993,
+            "author": 9483189,
+            "stamp": 1746088146,
+            "flags": "A",
+            "commentary": "已新增标签：功能, 管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529838991,
+            "author": 9483189,
+            "stamp": 1746088128,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459585301,
+    "tags": [
+        "功能",
+        "管理"
+    ],
+    "title": "页面拯救器",
+    "sitemap_update": 1746094617000,
+    "votings": [],
+    "is_locked": false
+}

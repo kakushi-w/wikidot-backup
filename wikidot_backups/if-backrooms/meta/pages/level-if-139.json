@@ -1,0 +1,94 @@
+{
+    "name": "level-if-139",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1533193497,
+            "author": 8620589,
+            "stamp": 1761313774,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532795044,
+            "author": 9419995,
+            "stamp": 1759827456,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532795038,
+            "author": 9419995,
+            "stamp": 1759827441,
+            "flags": "A",
+            "commentary": "已新增标签：crossover, 层级, 开阔性, 格式错乱。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532795024,
+            "author": 8620589,
+            "stamp": 1759827340,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460573630,
+    "rating": 10,
+    "forum_thread": 17316809,
+    "tags": [
+        "crossover",
+        "原创",
+        "层级",
+        "开阔性",
+        "格式错乱"
+    ],
+    "title": "SCP-IF-139",
+    "sitemap_update": 1761313774000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9899195,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": true
+}

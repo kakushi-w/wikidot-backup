@@ -1,0 +1,40 @@
+{
+    "name": "system:user",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531757460,
+            "author": 9375128,
+            "stamp": 1756112444,
+            "flags": "A",
+            "commentary": "已新增标签：功能, 管理。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531757444,
+            "author": 9375128,
+            "stamp": 1756112375,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531757428,
+            "author": 9375128,
+            "stamp": 1756112275,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460104586,
+    "tags": [
+        "功能",
+        "管理"
+    ],
+    "title": "用户快捷封禁",
+    "sitemap_update": 1756112444000,
+    "votings": [],
+    "is_locked": false
+}

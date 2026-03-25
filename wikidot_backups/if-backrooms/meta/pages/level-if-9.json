@@ -1,0 +1,196 @@
+{
+    "name": "level-if-9",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1542183258,
+            "author": 9419995,
+            "stamp": 1771633181,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1542183254,
+            "author": 9419995,
+            "stamp": 1771633154,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531683680,
+            "author": 9419995,
+            "stamp": 1755780878,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度死区。 移除标签：生存难度其他。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531657654,
+            "author": 9419995,
+            "stamp": 1755655976,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531657641,
+            "author": 9419995,
+            "stamp": 1755655882,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531337457,
+            "author": 9419995,
+            "stamp": 1754125415,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531337390,
+            "author": 9419995,
+            "stamp": 1754125057,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531337386,
+            "author": 8759709,
+            "stamp": 1754125038,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531337267,
+            "author": 9419995,
+            "stamp": 1754124715,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531337248,
+            "author": 9419995,
+            "stamp": 1754124652,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531337220,
+            "author": 9419995,
+            "stamp": 1754124562,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531337202,
+            "author": 9419995,
+            "stamp": 1754124517,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531337193,
+            "author": 9419995,
+            "stamp": 1754124494,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度其他。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531337158,
+            "author": 9419995,
+            "stamp": 1754124348,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459993849,
+    "rating": 16,
+    "forum_thread": 17232828,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度死区"
+    ],
+    "title": "Level IF-9",
+    "sitemap_update": 1771633181000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            10193630,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            10196772,
+            true
+        ],
+        [
+            9419995,
+            true
+        ],
+        [
+            9168168,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

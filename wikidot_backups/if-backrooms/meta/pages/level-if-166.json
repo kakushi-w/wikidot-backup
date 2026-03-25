@@ -1,0 +1,84 @@
+{
+    "name": "level-if-166",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532366018,
+            "author": 9422717,
+            "stamp": 1758285362,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531037464,
+            "author": 9422717,
+            "stamp": 1752707792,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531028886,
+            "author": 9422717,
+            "stamp": 1752670284,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度5。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531028881,
+            "author": 9422717,
+            "stamp": 1752670246,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459924993,
+    "rating": 8,
+    "forum_thread": 17167178,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度5"
+    ],
+    "title": "Level IF-166",
+    "sitemap_update": 1758285362000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": false
+}

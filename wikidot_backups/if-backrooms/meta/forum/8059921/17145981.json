@@ -1,0 +1,227 @@
+{
+    "title": "Level If 37",
+    "id": 17145981,
+    "description": "",
+    "last": 1755769063,
+    "lastUser": 9561914,
+    "started": 1749275218,
+    "startedUser": null,
+    "postsNum": 17,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7023852,
+            "title": "绝世好文",
+            "poster": 8984306,
+            "stamp": 1749275341,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7024012,
+            "title": "DV",
+            "poster": 9639856,
+            "stamp": 1749294814,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7024052,
+            "title": "奇异搞笑之演都不带演",
+            "poster": 9496473,
+            "stamp": 1749297767,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7023863,
+            "title": "",
+            "poster": 9485306,
+            "stamp": 1749277191,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7147226,
+            "title": "此时的文章性质已然发生变化",
+            "poster": 9561914,
+            "stamp": 1755769063,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7023859,
+            "title": "职员帖：删除宣告",
+            "poster": 9454668,
+            "stamp": 1749275927,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7023935,
+            "title": "dv",
+            "poster": 9168168,
+            "stamp": 1749285843,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7024438,
+                    "title": "Re: dv",
+                    "poster": 9099707,
+                    "stamp": 1749344805,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7024479,
+            "title": "衣服分里最神的文👍",
+            "poster": 8759709,
+            "stamp": 1749349182,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7024557,
+                    "title": "Re: 衣服分里最神的文👍",
+                    "poster": 9099707,
+                    "stamp": 1749357676,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7023916,
+            "title": "dv",
+            "poster": 9099707,
+            "stamp": 1749283257,
+            "lastEdit": 1749283346,
+            "lastEditBy": 9099707,
+            "revisions": [
+                {
+                    "title": "dv",
+                    "author": 9099707,
+                    "id": 8496014,
+                    "stamp": 1749283346
+                },
+                {
+                    "title": "",
+                    "author": 9099707,
+                    "id": 8496013,
+                    "stamp": 1749283257
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7023940,
+            "title": "无题",
+            "poster": 8984306,
+            "stamp": 1749286588,
+            "lastEdit": 1749287444,
+            "lastEditBy": 8984306,
+            "revisions": [
+                {
+                    "title": "无题",
+                    "author": 8984306,
+                    "id": 8496053,
+                    "stamp": 1749287444
+                },
+                {
+                    "title": "恭喜该层级评分达到-10",
+                    "author": 8984306,
+                    "id": 8496045,
+                    "stamp": 1749286588
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7024229,
+            "title": "这倒是提醒我了",
+            "poster": 8828300,
+            "stamp": 1749311237,
+            "lastEdit": 1749360919,
+            "lastEditBy": 9375128,
+            "revisions": [
+                {
+                    "title": "这倒是提醒我了",
+                    "author": 9375128,
+                    "id": 8496920,
+                    "stamp": 1749360919
+                },
+                {
+                    "title": "这倒是提醒我了",
+                    "author": 9375128,
+                    "id": 8496919,
+                    "stamp": 1749360902
+                },
+                {
+                    "title": "这倒是提醒我了",
+                    "author": 9375128,
+                    "id": 8496918,
+                    "stamp": 1749360875
+                },
+                {
+                    "title": "这倒是提醒我了",
+                    "author": 8828300,
+                    "id": 8496421,
+                    "stamp": 1749311237
+                }
+            ],
+            "children": [
+                {
+                    "id": 7024474,
+                    "title": "职员帖：警告",
+                    "poster": 9375128,
+                    "stamp": 1749348612,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 7024556,
+                    "title": "Re: 这倒是提醒我了",
+                    "poster": 9099707,
+                    "stamp": 1749357618,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7023854,
+            "title": "",
+            "poster": 8206574,
+            "stamp": 1749275486,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7023855,
+                    "title": "",
+                    "poster": 8984306,
+                    "stamp": 1749275542,
+                    "lastEdit": 1749275628,
+                    "lastEditBy": 9454668,
+                    "revisions": [
+                        {
+                            "title": "",
+                            "author": 8984306,
+                            "id": 8495940,
+                            "stamp": 1749275542
+                        },
+                        {
+                            "title": "",
+                            "author": 9454668,
+                            "id": 8495942,
+                            "stamp": 1749275628
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

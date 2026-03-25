@@ -1,0 +1,143 @@
+{
+    "name": "lowest-rated-pages",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1542704200,
+            "author": 8145986,
+            "stamp": 1773662691,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1542704191,
+            "author": 8145986,
+            "stamp": 1773662612,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1542704185,
+            "author": 8145986,
+            "stamp": 1773662557,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1540476992,
+            "author": 9375128,
+            "stamp": 1765342159,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531528363,
+            "author": 9375128,
+            "stamp": 1755060841,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531000064,
+            "author": 9375128,
+            "stamp": 1752550661,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530541537,
+            "author": 9375128,
+            "stamp": 1750135080,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1529965110,
+            "author": 9375128,
+            "stamp": 1746457269,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528850321,
+            "author": 9375128,
+            "stamp": 1742963052,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528509602,
+            "author": 9375128,
+            "stamp": 1742272499,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528492717,
+            "author": 9375128,
+            "stamp": 1742185939,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727597,
+    "forum_thread": 17123880,
+    "tags": [
+        "功能",
+        "原创",
+        "管理"
+    ],
+    "title": "最低评分的页面",
+    "sitemap_update": 1773662691000,
+    "votings": [
+        [
+            8828300,
+            false
+        ],
+        [
+            9551174,
+            false
+        ],
+        [
+            9601426,
+            false
+        ],
+        [
+            9804860,
+            false
+        ],
+        [
+            9375128,
+            false
+        ],
+        [
+            9496473,
+            false
+        ],
+        [
+            9541601,
+            false
+        ],
+        [
+            9540010,
+            false
+        ],
+        [
+            8984306,
+            false
+        ]
+    ],
+    "is_locked": false
+}

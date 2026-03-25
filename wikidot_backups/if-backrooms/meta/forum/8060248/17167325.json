@@ -1,0 +1,84 @@
+{
+    "title": "新bntg寻求合译",
+    "id": 17167325,
+    "description": "",
+    "last": 1766841338,
+    "lastUser": 10184925,
+    "started": 1752813225,
+    "startedUser": 9454668,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7481547,
+            "title": "Re: 新bntg寻求合译",
+            "poster": 10184925,
+            "stamp": 1766841338,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7073582,
+            "title": "",
+            "poster": 9454668,
+            "stamp": 1752813225,
+            "lastEdit": 1752827541,
+            "lastEditBy": 9454668,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9454668,
+                    "id": 8556450,
+                    "stamp": 1752827541
+                },
+                {
+                    "title": "新bntg寻求合译",
+                    "author": 9454668,
+                    "id": 8556244,
+                    "stamp": 1752818027
+                },
+                {
+                    "title": "新bntg寻求合译",
+                    "author": 9454668,
+                    "id": 8556170,
+                    "stamp": 1752813276
+                },
+                {
+                    "title": "新bntg寻求合译",
+                    "author": 9454668,
+                    "id": 8556168,
+                    "stamp": 1752813225
+                }
+            ],
+            "children": [
+                {
+                    "id": 7088884,
+                    "title": "",
+                    "poster": 9701536,
+                    "stamp": 1753774975,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7090083,
+                            "title": "",
+                            "poster": 8150801,
+                            "stamp": 1753847862,
+                            "revisions": [],
+                            "children": []
+                        },
+                        {
+                            "id": 7090420,
+                            "title": "",
+                            "poster": 9454668,
+                            "stamp": 1753870438,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

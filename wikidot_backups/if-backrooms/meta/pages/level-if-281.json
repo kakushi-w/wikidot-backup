@@ -1,0 +1,85 @@
+{
+    "name": "level-if-281",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531775937,
+            "author": 9099707,
+            "stamp": 1756199687,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度其他。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531756059,
+            "author": 9810819,
+            "stamp": 1756106790,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531756041,
+            "author": 9810819,
+            "stamp": 1756106733,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 多元难度, 层级。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531755995,
+            "author": 9810819,
+            "stamp": 1756106705,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460104063,
+    "rating": 6,
+    "forum_thread": 17232847,
+    "tags": [
+        "原创",
+        "多元难度",
+        "层级",
+        "生存难度其他"
+    ],
+    "title": "Level IF-281",
+    "sitemap_update": 1756199687000,
+    "votings": [
+        [
+            9832778,
+            true
+        ],
+        [
+            9552098,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9650605,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9485306,
+            false
+        ]
+    ],
+    "is_locked": true
+}

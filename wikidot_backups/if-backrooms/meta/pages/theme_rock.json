@@ -1,0 +1,68 @@
+{
+    "name": "theme:rock",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542833339,
+            "author": 9375128,
+            "stamp": 1774147672,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542833237,
+            "author": 9375128,
+            "stamp": 1774147224,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542094615,
+            "author": 9657913,
+            "stamp": 1771210728,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 版式, 美学版式。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542094611,
+            "author": 9657913,
+            "stamp": 1771210708,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468134927,
+    "rating": 4,
+    "forum_thread": 17640313,
+    "tags": [
+        "原创",
+        "版式",
+        "美学版式"
+    ],
+    "title": "版式：磐石",
+    "sitemap_update": 1774147672000,
+    "votings": [
+        [
+            9375128,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

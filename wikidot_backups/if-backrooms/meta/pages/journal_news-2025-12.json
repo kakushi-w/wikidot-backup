@@ -1,0 +1,208 @@
+{
+    "name": "journal:news-2025-12",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1540002049,
+            "author": 9454668,
+            "stamp": 1764342421,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539996135,
+            "author": 9454668,
+            "stamp": 1764329607,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539996119,
+            "author": 9454668,
+            "stamp": 1764329556,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539995963,
+            "author": 9454668,
+            "stamp": 1764329191,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1539995923,
+            "author": 9454668,
+            "stamp": 1764329102,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1539995618,
+            "author": 9454668,
+            "stamp": 1764328410,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1539995380,
+            "author": 9454668,
+            "stamp": 1764327775,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539995318,
+            "author": 9375128,
+            "stamp": 1764327590,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"news-2025-12\" 至 \"journal:news-2025-12\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1539995143,
+            "author": 9454668,
+            "stamp": 1764327166,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539995112,
+            "author": 9454668,
+            "stamp": 1764327099,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"202512\" 至 \"news-2025-12\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539995091,
+            "author": 9454668,
+            "stamp": 1764327045,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539995083,
+            "author": 9375128,
+            "stamp": 1764327027,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 议论。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539995036,
+            "author": 9375128,
+            "stamp": 1764326932,
+            "flags": "A",
+            "commentary": "已新增标签：月刊。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539995019,
+            "author": 9375128,
+            "stamp": 1764326888,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467148231,
+    "rating": 19,
+    "forum_thread": 17462175,
+    "tags": [
+        "原创",
+        "月刊",
+        "议论"
+    ],
+    "title": "后室IF层群维基 12月月刊",
+    "sitemap_update": 1764342421000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9098871,
+            true
+        ],
+        [
+            8113340,
+            true
+        ],
+        [
+            9701536,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9681637,
+            true
+        ],
+        [
+            9287769,
+            true
+        ],
+        [
+            9552098,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9375128,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9882061,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": true
+}

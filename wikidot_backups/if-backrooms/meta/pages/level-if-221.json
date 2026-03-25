@@ -1,0 +1,89 @@
+{
+    "name": "level-if-221",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532528589,
+            "author": 9608029,
+            "stamp": 1759073368,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532528578,
+            "author": 9608029,
+            "stamp": 1759073306,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531492867,
+            "author": 9608029,
+            "stamp": 1754911348,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 生存难度宜居, 积极。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531492852,
+            "author": 9608029,
+            "stamp": 1754911284,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531492847,
+            "author": 9608029,
+            "stamp": 1754911266,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460030597,
+    "forum_thread": 17181697,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度宜居",
+        "积极"
+    ],
+    "title": "Level IF-221",
+    "sitemap_update": 1759073368000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9609194,
+            false
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9608029,
+            true
+        ]
+    ],
+    "is_locked": true
+}

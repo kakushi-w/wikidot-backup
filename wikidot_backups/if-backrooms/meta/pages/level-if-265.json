@@ -1,0 +1,97 @@
+{
+    "name": "level-if-265",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1540780154,
+            "author": 9454668,
+            "stamp": 1766227724,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"jam2025\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540773371,
+            "author": 9657913,
+            "stamp": 1766217023,
+            "flags": "A",
+            "commentary": "已新增标签：if层群2025经典速写, 原创, 封闭性, 层级, 怀旧, 生存难度2, 非线性。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540773308,
+            "author": 9657913,
+            "stamp": 1766216939,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540773284,
+            "author": 9657913,
+            "stamp": 1766216895,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467661431,
+    "parent": "jam2025",
+    "rating": 8,
+    "forum_thread": 17494082,
+    "tags": [
+        "if层群2025经典速写",
+        "原创",
+        "封闭性",
+        "层级",
+        "怀旧",
+        "生存难度2",
+        "非线性"
+    ],
+    "title": "Level IF-265",
+    "sitemap_update": 1766227724000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            10193630,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9882061,
+            true
+        ]
+    ],
+    "is_locked": true
+}

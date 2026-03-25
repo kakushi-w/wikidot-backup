@@ -1,0 +1,87 @@
+{
+    "name": "featured-archive",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1530311844,
+            "author": 9375128,
+            "stamp": 1748685663,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530311780,
+            "author": 9375128,
+            "stamp": 1748685283,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530311775,
+            "author": 9375128,
+            "stamp": 1748685242,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530311741,
+            "author": 9375128,
+            "stamp": 1748685113,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530311663,
+            "author": 9375128,
+            "stamp": 1748684714,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530311643,
+            "author": 9375128,
+            "stamp": 1748684608,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 总览, 管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530311638,
+            "author": 9375128,
+            "stamp": 1748684571,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459742287,
+    "forum_thread": 17170995,
+    "tags": [
+        "原创",
+        "总览",
+        "管理"
+    ],
+    "title": "精品归档",
+    "sitemap_update": 1748685663000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9375128,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": true
+}

@@ -1,0 +1,122 @@
+{
+    "name": "level-if-47",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1531641619,
+            "author": 8620589,
+            "stamp": 1755579090,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530541637,
+            "author": 8620589,
+            "stamp": 1750135812,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530520946,
+            "author": 8620589,
+            "stamp": 1749998617,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530520930,
+            "author": 8620589,
+            "stamp": 1749998532,
+            "flags": "F",
+            "commentary": "已上传文件 “classroom.jpeg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530520919,
+            "author": 8620589,
+            "stamp": 1749998433,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度5, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530520891,
+            "author": 8620589,
+            "stamp": 1749998243,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11403438,
+            "name": "classroom.jpeg",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-47/classroom.jpeg",
+            "size": "1.24 MB (1295179 Bytes)",
+            "size_bytes": 1295179,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 2340x1080, components 3",
+            "author": 8620589,
+            "stamp": 1749998532,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459801880,
+    "rating": 4,
+    "forum_thread": 17153534,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度5",
+        "神秘"
+    ],
+    "title": "Level IF-47",
+    "sitemap_update": 1755579090000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8643702,
+            true
+        ],
+        [
+            9620145,
+            true
+        ],
+        [
+            9485306,
+            false
+        ],
+        [
+            9608029,
+            true
+        ],
+        [
+            9168168,
+            false
+        ]
+    ],
+    "is_locked": true
+}

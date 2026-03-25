@@ -1,0 +1,145 @@
+{
+    "name": "level-if-39",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1541438694,
+            "author": 8620589,
+            "stamp": 1768633207,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531673522,
+            "author": 8620589,
+            "stamp": 1755743215,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530422820,
+            "author": 8620589,
+            "stamp": 1749371896,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530422415,
+            "author": 8620589,
+            "stamp": 1749370256,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530422400,
+            "author": 8620589,
+            "stamp": 1749370118,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530422205,
+            "author": 8620589,
+            "stamp": 1749368738,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530422182,
+            "author": 8620589,
+            "stamp": 1749368590,
+            "flags": "F",
+            "commentary": "已上传文件 “black.jpg”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530422117,
+            "author": 8620589,
+            "stamp": 1749368161,
+            "flags": "A",
+            "commentary": "已新增标签：封闭性, 建筑, 环境危害, 精神影响。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530422102,
+            "author": 8620589,
+            "stamp": 1749368086,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度4, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530422070,
+            "author": 8620589,
+            "stamp": 1749367831,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11398884,
+            "name": "black.jpg",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-39/black.jpg",
+            "size": "57.43 kB (58811 Bytes)",
+            "size_bytes": 58811,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 1683x1654, components 3",
+            "author": 8620589,
+            "stamp": 1749368590,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459771687,
+    "rating": 7,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "建筑",
+        "环境危害",
+        "生存难度4",
+        "神秘",
+        "精神影响"
+    ],
+    "title": "Level IF-39",
+    "sitemap_update": 1768633207000,
+    "votings": [
+        [
+            9639856,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": false
+}

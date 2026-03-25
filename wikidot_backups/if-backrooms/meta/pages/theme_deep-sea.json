@@ -1,0 +1,99 @@
+{
+    "name": "theme:deep-sea",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531171998,
+            "author": 9454668,
+            "stamp": 1753411471,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531077935,
+            "author": 9454668,
+            "stamp": 1752915390,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531077921,
+            "author": 9454668,
+            "stamp": 1752915320,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531077756,
+            "author": 9454668,
+            "stamp": 1752914599,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531077719,
+            "author": 9454668,
+            "stamp": 1752914284,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531077667,
+            "author": 9454668,
+            "stamp": 1752914179,
+            "flags": "A",
+            "commentary": "已新增标签：版式, 美学版式, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531077665,
+            "author": 9454668,
+            "stamp": 1752914157,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459937178,
+    "rating": 6,
+    "tags": [
+        "版式",
+        "美学版式",
+        "翻译"
+    ],
+    "title": "版式：深海",
+    "sitemap_update": 1753411471000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9531925,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,32 @@
+{
+    "title": "好奇版主平时要干什么",
+    "id": 17146583,
+    "description": "",
+    "last": 1749424473,
+    "lastUser": 9375128,
+    "started": 1749372284,
+    "startedUser": 9099707,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7024693,
+            "title": "好奇版主平时要干什么",
+            "poster": 9099707,
+            "stamp": 1749372284,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7025168,
+                    "title": "Re: 好奇版主平时要干什么",
+                    "poster": 9375128,
+                    "stamp": 1749424473,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

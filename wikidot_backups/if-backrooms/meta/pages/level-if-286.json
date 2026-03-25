@@ -1,0 +1,71 @@
+{
+    "name": "level-if-286",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1540000399,
+            "author": 9609194,
+            "stamp": 1764338935,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540000125,
+            "author": 9609194,
+            "stamp": 1764338628,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度0, 虚妄归档设定, 补给可能。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540000108,
+            "author": 9609194,
+            "stamp": 1764338594,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467151407,
+    "parent": "the-rewrite-initiativ-canon",
+    "forum_thread": 17462288,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度0",
+        "虚妄归档设定",
+        "补给可能"
+    ],
+    "title": "Level IF-286",
+    "sitemap_update": 1764338935000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": true
+}

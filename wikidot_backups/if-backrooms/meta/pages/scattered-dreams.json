@@ -1,0 +1,68 @@
+{
+    "name": "scattered-dreams",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541905104,
+            "author": 8012806,
+            "stamp": 1770730694,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541881022,
+            "author": 8012806,
+            "stamp": 1770701544,
+            "flags": "A",
+            "commentary": "已新增标签：翻译。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541881018,
+            "author": 8012806,
+            "stamp": 1770701508,
+            "flags": "A",
+            "commentary": "已新增标签：后室机器人科技, 工业革命设定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541881004,
+            "author": 8012806,
+            "stamp": 1770701449,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468113272,
+    "rating": 4,
+    "forum_thread": 17586132,
+    "tags": [
+        "后室机器人科技",
+        "工业革命设定",
+        "翻译"
+    ],
+    "title": "飘散幻梦",
+    "sitemap_update": 1770730694000,
+    "votings": [
+        [
+            8012806,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": false
+}

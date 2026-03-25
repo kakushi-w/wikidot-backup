@@ -1,0 +1,61 @@
+{
+    "name": "level-if-305",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542027107,
+            "author": 9609194,
+            "stamp": 1770889747,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542027100,
+            "author": 9609194,
+            "stamp": 1770889725,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 环境危害, 生存难度2, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542027091,
+            "author": 9609194,
+            "stamp": 1770889701,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468121936,
+    "rating": 4,
+    "tags": [
+        "原创",
+        "层级",
+        "环境危害",
+        "生存难度2",
+        "神秘"
+    ],
+    "title": "Level IF-305",
+    "sitemap_update": 1770889747000,
+    "votings": [
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

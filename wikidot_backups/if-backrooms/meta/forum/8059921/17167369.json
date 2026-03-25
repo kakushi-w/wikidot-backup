@@ -1,0 +1,40 @@
+{
+    "title": "Level IF 111",
+    "id": 17167369,
+    "description": "",
+    "last": 1754057479,
+    "lastUser": 9804860,
+    "started": 1752824026,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7093358,
+            "title": "",
+            "poster": 9804860,
+            "stamp": 1754057479,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7073739,
+            "title": "",
+            "poster": 9485306,
+            "stamp": 1752824058,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7073978,
+                    "title": "感谢指正",
+                    "poster": 9306319,
+                    "stamp": 1752842675,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

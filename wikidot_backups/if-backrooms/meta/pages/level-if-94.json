@@ -1,0 +1,76 @@
+{
+    "name": "level-if-94",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1530872384,
+            "author": 8620589,
+            "stamp": 1751932106,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530872256,
+            "author": 8620589,
+            "stamp": 1751930853,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度待定。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530866912,
+            "author": 8620589,
+            "stamp": 1751898706,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530866903,
+            "author": 8620589,
+            "stamp": 1751898681,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459887971,
+    "rating": 6,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度待定",
+        "神秘"
+    ],
+    "title": "Level IF-94",
+    "sitemap_update": 1751932106000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

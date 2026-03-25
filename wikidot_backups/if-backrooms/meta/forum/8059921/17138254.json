@@ -1,0 +1,40 @@
+{
+    "title": "Level IF-41",
+    "id": 17138254,
+    "description": "",
+    "last": 1751615529,
+    "lastUser": 9485306,
+    "started": 1748070793,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7056741,
+            "title": "作者帖",
+            "poster": 9485306,
+            "stamp": 1751615529,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7014460,
+            "title": "",
+            "poster": 8206574,
+            "stamp": 1748070805,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7014481,
+                    "title": "",
+                    "poster": 9485306,
+                    "stamp": 1748072632,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

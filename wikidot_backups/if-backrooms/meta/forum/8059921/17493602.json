@@ -1,0 +1,31 @@
+{
+    "title": "维新教会",
+    "id": 17493602,
+    "description": "",
+    "last": 1766190510,
+    "lastUser": 9657913,
+    "started": 1766155767,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7473405,
+            "title": "为什么没有建议啊…",
+            "poster": 9306319,
+            "stamp": 1766164131,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7473525,
+            "title": "",
+            "poster": 9657913,
+            "stamp": 1766190510,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

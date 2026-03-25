@@ -1,0 +1,128 @@
+{
+    "name": "level-if-599",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1542699278,
+            "author": 9551174,
+            "stamp": 1773635264,
+            "flags": "A",
+            "commentary": "已新增标签：多元难度。 移除标签：生存难度多元。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542440601,
+            "author": 9099707,
+            "stamp": 1772704183,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542383336,
+            "author": 10157685,
+            "stamp": 1772453241,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度多元。 移除标签：生存难度1, 生存难度3, 生存难度4, 生存难度5, 生存难度其他, 生存难度宜居。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542382551,
+            "author": 7344601,
+            "stamp": 1772450072,
+            "flags": "A",
+            "commentary": "移除标签：需更新。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542380661,
+            "author": 10157685,
+            "stamp": 1772440400,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 喜剧, 实体-敌对, 层级, 建筑, 开阔性, 探险者总署, 昼夜变化, 生存难度1, 生存难度3, 生存难度4, 生存难度5, 生存难度其他, 生存难度宜居, 空间-稳定, 荒漠, 需更新。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542380492,
+            "author": 10157685,
+            "stamp": 1772439967,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468191927,
+    "rating": 11,
+    "forum_thread": 17599427,
+    "tags": [
+        "原创",
+        "喜剧",
+        "多元难度",
+        "实体-敌对",
+        "层级",
+        "建筑",
+        "开阔性",
+        "探险者总署",
+        "昼夜变化",
+        "空间-稳定",
+        "荒漠"
+    ],
+    "title": "Level IF-599",
+    "sitemap_update": 1773635264000,
+    "votings": [
+        [
+            10193630,
+            true
+        ],
+        [
+            10157685,
+            true
+        ],
+        [
+            9468413,
+            false
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9650605,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            10265816,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9669086,
+            true
+        ],
+        [
+            10146283,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,94 @@
+{
+    "name": "author:bbianshu",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531788532,
+            "author": 9701536,
+            "stamp": 1756259428,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531788516,
+            "author": 9701536,
+            "stamp": 1756259380,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531788508,
+            "author": 9701536,
+            "stamp": 1756259317,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531275569,
+            "author": 9701536,
+            "stamp": 1753859886,
+            "flags": "A",
+            "commentary": "已新增标签：作者, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531275380,
+            "author": 9701536,
+            "stamp": 1753858777,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531275345,
+            "author": 9701536,
+            "stamp": 1753858542,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531275334,
+            "author": 9701536,
+            "stamp": 1753858485,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459981637,
+    "forum_thread": 17173450,
+    "tags": [
+        "作者",
+        "原创"
+    ],
+    "title": "编数的作者页",
+    "sitemap_update": 1756259428000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": false
+}

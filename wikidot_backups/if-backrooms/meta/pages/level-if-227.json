@@ -1,0 +1,85 @@
+{
+    "name": "level-if-227",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531736180,
+            "author": 9454668,
+            "stamp": 1756023995,
+            "flags": "A",
+            "commentary": "已新增标签：开阔性, 探险者总署。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531736149,
+            "author": 8620589,
+            "stamp": 1756023781,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度宜居。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531736116,
+            "author": 8620589,
+            "stamp": 1756023631,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460100786,
+    "rating": 10,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "探险者总署",
+        "生存难度宜居"
+    ],
+    "title": "Level IF-227",
+    "sitemap_update": 1756023995000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9468413,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

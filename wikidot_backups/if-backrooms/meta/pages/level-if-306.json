@@ -1,0 +1,97 @@
+{
+    "name": "level-if-306",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541698969,
+            "author": 9657913,
+            "stamp": 1769872602,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541698947,
+            "author": 9657913,
+            "stamp": 1769872505,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 环境危害。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541698936,
+            "author": 9657913,
+            "stamp": 1769872455,
+            "flags": "F",
+            "commentary": "已上传文件 “d045b9867128415c9bd957cb09d1a31e_edit_184100843723154.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541698929,
+            "author": 9657913,
+            "stamp": 1769872431,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11731099,
+            "name": "d045b9867128415c9bd957cb09d1a31e_edit_184100843723154.png",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-306/d045b9867128415c9bd957cb09d1a31e_edit_184100843723154.png",
+            "size": "1.29 MB (1349967 Bytes)",
+            "size_bytes": 1349967,
+            "mime": "image/png",
+            "content": "PNG image data, 1102 x 832, 8-bit/color RGB, non-interlaced",
+            "author": 9657913,
+            "stamp": 1769872455,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468073792,
+    "rating": 6,
+    "forum_thread": 17576543,
+    "tags": [
+        "原创",
+        "层级",
+        "环境危害"
+    ],
+    "title": "Level IF-306",
+    "sitemap_update": 1769872602000,
+    "votings": [
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            10206888,
+            true
+        ],
+        [
+            7344601,
+            false
+        ]
+    ],
+    "is_locked": false
+}

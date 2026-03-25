@@ -1,0 +1,176 @@
+{
+    "name": "level-if-77",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1530914191,
+            "author": 9437079,
+            "stamp": 1752106524,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530053450,
+            "author": 8620589,
+            "stamp": 1746926624,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530053313,
+            "author": 8620589,
+            "stamp": 1746926021,
+            "flags": "F",
+            "commentary": "已上传文件 “river-2”。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530053311,
+            "author": 8620589,
+            "stamp": 1746926006,
+            "flags": "F",
+            "commentary": "已上传文件 “river-1”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530053310,
+            "author": 8620589,
+            "stamp": 1746925990,
+            "flags": "F",
+            "commentary": "已上传文件 “bridge-2”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530053309,
+            "author": 8620589,
+            "stamp": 1746925959,
+            "flags": "F",
+            "commentary": "已上传文件 “bridge-1”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530048179,
+            "author": 9496473,
+            "stamp": 1746894460,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度2。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530047532,
+            "author": 8620589,
+            "stamp": 1746891745,
+            "flags": "S",
+            "commentary": "修改错字（？）"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530046874,
+            "author": 8620589,
+            "stamp": 1746889391,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11384480,
+            "name": "bridge-1",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-77/bridge-1",
+            "size": "411.41 kB (421279 Bytes)",
+            "size_bytes": 421279,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 900x1600, components 3",
+            "author": 8620589,
+            "stamp": 1746925959,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11384481,
+            "name": "bridge-2",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-77/bridge-2",
+            "size": "54.3 kB (55605 Bytes)",
+            "size_bytes": 55605,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 800x533, components 3",
+            "author": 8620589,
+            "stamp": 1746925990,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11384482,
+            "name": "river-1",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-77/river-1",
+            "size": "6.78 kB (6945 Bytes)",
+            "size_bytes": 6945,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 342x192, components 3",
+            "author": 8620589,
+            "stamp": 1746926006,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11384483,
+            "name": "river-2",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-77/river-2",
+            "size": "28.07 kB (28742 Bytes)",
+            "size_bytes": 28742,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, baseline, precision 8, 819x545, components 3",
+            "author": 8620589,
+            "stamp": 1746926021,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459685336,
+    "rating": 9,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度2"
+    ],
+    "title": "Level IF-77",
+    "sitemap_update": 1752106524000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9608029,
+            true
+        ]
+    ],
+    "is_locked": false
+}

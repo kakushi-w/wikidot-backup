@@ -1,0 +1,64 @@
+{
+    "name": "level-if-69",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1530800124,
+            "author": 8620589,
+            "stamp": 1751530986,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度0, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530800122,
+            "author": 8620589,
+            "stamp": 1751530961,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459871298,
+    "rating": 7,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度0",
+        "神秘"
+    ],
+    "title": "Level IF-69",
+    "sitemap_update": 1751530986000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

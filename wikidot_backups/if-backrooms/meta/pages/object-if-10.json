@@ -1,0 +1,84 @@
+{
+    "name": "object-if-10",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1534029359,
+            "author": 9782125,
+            "stamp": 1761647246,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533911875,
+            "author": 9782125,
+            "stamp": 1761562705,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533523238,
+            "author": 9454668,
+            "stamp": 1761442736,
+            "flags": "A",
+            "commentary": "移除标签：短文。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533517446,
+            "author": 9782125,
+            "stamp": 1761441542,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 物品, 短文, 躯。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533516899,
+            "author": 9782125,
+            "stamp": 1761441414,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1461042477,
+    "rating": 4,
+    "forum_thread": 17392897,
+    "tags": [
+        "原创",
+        "物品",
+        "躯"
+    ],
+    "title": "Flesh IF-10 - “伤口愈合带”",
+    "sitemap_update": 1761647246000,
+    "votings": [
+        [
+            9782125,
+            true
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": false
+}

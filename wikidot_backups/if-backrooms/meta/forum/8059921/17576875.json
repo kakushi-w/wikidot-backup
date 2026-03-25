@@ -1,0 +1,44 @@
+{
+    "title": "Object IF-20 - “配图网站”",
+    "id": 17576875,
+    "description": "",
+    "last": 1769946368,
+    "lastUser": 10206888,
+    "started": 1769946226,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7529858,
+            "title": "作者贴",
+            "poster": 10206888,
+            "stamp": 1769946368,
+            "lastEdit": 1769946439,
+            "lastEditBy": 10206888,
+            "revisions": [
+                {
+                    "title": "作者贴",
+                    "author": 10206888,
+                    "id": 9071289,
+                    "stamp": 1769946439
+                },
+                {
+                    "title": "作者贴",
+                    "author": 10206888,
+                    "id": 9071287,
+                    "stamp": 1769946394
+                },
+                {
+                    "title": "作者贴",
+                    "author": 10206888,
+                    "id": 9071285,
+                    "stamp": 1769946368
+                }
+            ],
+            "children": []
+        }
+    ]
+}

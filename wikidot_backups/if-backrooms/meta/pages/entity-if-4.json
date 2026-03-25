@@ -1,0 +1,70 @@
+{
+    "name": "entity-if-4",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541180852,
+            "author": 9531925,
+            "stamp": 1767090821,
+            "flags": "A",
+            "commentary": "已新增标签：共生, 原创, 实体, 悲剧, 智能, 精神影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541180847,
+            "author": 9531925,
+            "stamp": 1767090803,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467943480,
+    "rating": 8,
+    "tags": [
+        "共生",
+        "原创",
+        "实体",
+        "悲剧",
+        "智能",
+        "精神影响"
+    ],
+    "title": "Entity IF-4",
+    "sitemap_update": 1767090821000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            10206888,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": true
+}

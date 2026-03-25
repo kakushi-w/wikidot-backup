@@ -1,0 +1,38 @@
+{
+    "title": "2025 UN 联合竞赛",
+    "id": 17273605,
+    "description": "",
+    "last": 1759292511,
+    "lastUser": 9454668,
+    "started": 1759292493,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7232135,
+            "title": "占位",
+            "poster": 9454668,
+            "stamp": 1759292511,
+            "lastEdit": 1759292615,
+            "lastEditBy": 9454668,
+            "revisions": [
+                {
+                    "title": "占位",
+                    "author": 9454668,
+                    "id": 8738917,
+                    "stamp": 1759292615
+                },
+                {
+                    "title": "占位",
+                    "author": 9454668,
+                    "id": 8738901,
+                    "stamp": 1759292511
+                }
+            ],
+            "children": []
+        }
+    ]
+}

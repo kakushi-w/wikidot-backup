@@ -1,0 +1,166 @@
+{
+    "name": "akirooms",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1531402764,
+            "author": 9454668,
+            "stamp": 1754445508,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1531024980,
+            "author": 9454668,
+            "stamp": 1752653978,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1530832047,
+            "author": 9454668,
+            "stamp": 1751708281,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1530832036,
+            "author": 9454668,
+            "stamp": 1751708184,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1530832032,
+            "author": 9454668,
+            "stamp": 1751708157,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"deleted:akirooms\" 至 \"akirooms\"."
+        },
+        {
+            "revision": 11,
+            "global_revision": 1530831568,
+            "author": 9454668,
+            "stamp": 1751706574,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"akirooms\" 至 \"deleted:akirooms\"."
+        },
+        {
+            "revision": 10,
+            "global_revision": 1530829483,
+            "author": 9454668,
+            "stamp": 1751695690,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530796768,
+            "author": 9454668,
+            "stamp": 1751513369,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530667665,
+            "author": 9454668,
+            "stamp": 1750913647,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530667618,
+            "author": 9454668,
+            "stamp": 1750913526,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530488774,
+            "author": 9454668,
+            "stamp": 1749813026,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530488704,
+            "author": 9454668,
+            "stamp": 1749812801,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530336536,
+            "author": 9454668,
+            "stamp": 1748845035,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530336522,
+            "author": 9454668,
+            "stamp": 1748844974,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530335023,
+            "author": 9454668,
+            "stamp": 1748835067,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530335003,
+            "author": 9454668,
+            "stamp": 1748834966,
+            "flags": "A",
+            "commentary": "已新增标签：作者, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530334991,
+            "author": 9454668,
+            "stamp": 1748834891,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459745849,
+    "rating": 3,
+    "tags": [
+        "作者",
+        "翻译"
+    ],
+    "title": "DrAkimoto的作者页",
+    "sitemap_update": 1754445508000,
+    "votings": [
+        [
+            8217963,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

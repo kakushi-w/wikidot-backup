@@ -1,0 +1,89 @@
+{
+    "name": "level-if-176",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532377722,
+            "author": 9454668,
+            "stamp": 1758336688,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度？。 移除标签：生存难度?。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531858530,
+            "author": 9561914,
+            "stamp": 1756544237,
+            "flags": "A",
+            "commentary": "已新增标签：反转, 生存难度?。 移除标签：生存难度？反转。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531439085,
+            "author": 9561914,
+            "stamp": 1754630782,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531438442,
+            "author": 9551174,
+            "stamp": 1754627432,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531438417,
+            "author": 9561914,
+            "stamp": 1754627254,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度？反转。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531438407,
+            "author": 9561914,
+            "stamp": 1754627159,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460018700,
+    "rating": 5,
+    "forum_thread": 17177576,
+    "tags": [
+        "原创",
+        "反转",
+        "层级",
+        "生存难度？"
+    ],
+    "title": "Level IF-176",
+    "sitemap_update": 1758336688000,
+    "votings": [
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

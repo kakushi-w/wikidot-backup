@@ -1,0 +1,136 @@
+{
+    "name": "level-if-349",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1533854561,
+            "author": 9454668,
+            "stamp": 1761538733,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"darkness-hub\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1533543209,
+            "author": 9782629,
+            "stamp": 1761446905,
+            "flags": "A",
+            "commentary": "已新增标签：至暗时代设定。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1533158662,
+            "author": 9782629,
+            "stamp": 1761135590,
+            "flags": "A",
+            "commentary": "移除标签：至暗时代设定。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1533157187,
+            "author": 9782629,
+            "stamp": 1761129456,
+            "flags": "A",
+            "commentary": "已新增标签：至暗时代设定。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532934642,
+            "author": 9454668,
+            "stamp": 1760138741,
+            "flags": "S",
+            "commentary": "Link fix"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532794797,
+            "author": 9454668,
+            "stamp": 1759826679,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 探险者总署, 生存难度3, 神秘。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532794149,
+            "author": 9782629,
+            "stamp": 1759823954,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532794148,
+            "author": 9782629,
+            "stamp": 1759823900,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532794138,
+            "author": 9782629,
+            "stamp": 1759823848,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460573345,
+    "parent": "darkness-hub",
+    "rating": 10,
+    "forum_thread": 17321457,
+    "tags": [
+        "原创",
+        "层级",
+        "探险者总署",
+        "生存难度3",
+        "神秘",
+        "至暗时代设定"
+    ],
+    "title": "Level IF-349 - “黑暗前夕”",
+    "sitemap_update": 1761538733000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": true
+}

@@ -1,0 +1,90 @@
+{
+    "name": "object-if-16",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542275305,
+            "author": 9609194,
+            "stamp": 1771933945,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542116712,
+            "author": 9609194,
+            "stamp": 1771307852,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542103103,
+            "author": 9609194,
+            "stamp": 1771246367,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 反转, 物品, 神秘, 速切玩家。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542103098,
+            "author": 9609194,
+            "stamp": 1771246344,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468136958,
+    "rating": 9,
+    "forum_thread": 17590142,
+    "tags": [
+        "原创",
+        "反转",
+        "物品",
+        "神秘",
+        "速切玩家"
+    ],
+    "title": "Object IF-16",
+    "sitemap_update": 1771933945000,
+    "votings": [
+        [
+            9832778,
+            true
+        ],
+        [
+            9287769,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,86 @@
+{
+    "name": "level-if-273",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1539510625,
+            "author": 9168168,
+            "stamp": 1763217927,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532366307,
+            "author": 9422717,
+            "stamp": 1758286365,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531544581,
+            "author": 9422717,
+            "stamp": 1755093043,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531544564,
+            "author": 9422717,
+            "stamp": 1755093004,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531274149,
+            "author": 9422717,
+            "stamp": 1753852770,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 悲剧, 环境危害, 生存难度死区。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531274135,
+            "author": 9422717,
+            "stamp": 1753852717,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459981248,
+    "rating": 4,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "悲剧",
+        "环境危害",
+        "生存难度死区"
+    ],
+    "title": "Level IF-273",
+    "sitemap_update": 1763217927000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9555402,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

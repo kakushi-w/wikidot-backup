@@ -1,0 +1,145 @@
+{
+    "name": "level-if-300",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1533854776,
+            "author": 9454668,
+            "stamp": 1761538797,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"darkness-hub\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1533543327,
+            "author": 9782629,
+            "stamp": 1761446931,
+            "flags": "A",
+            "commentary": "已新增标签：至暗时代设定。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1533158670,
+            "author": 9782629,
+            "stamp": 1761135617,
+            "flags": "A",
+            "commentary": "移除标签：至暗时代设定。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1533157181,
+            "author": 9782629,
+            "stamp": 1761129428,
+            "flags": "A",
+            "commentary": "已新增标签：至暗时代设定。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531818153,
+            "author": 9782629,
+            "stamp": 1756379732,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531818146,
+            "author": 9782629,
+            "stamp": 1756379681,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531818142,
+            "author": 9782629,
+            "stamp": 1756379648,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531818064,
+            "author": 9782629,
+            "stamp": 1756379493,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 格式错乱, 生存难度其他, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531818048,
+            "author": 9782629,
+            "stamp": 1756379431,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460120406,
+    "parent": "darkness-hub",
+    "rating": 8,
+    "forum_thread": 17337129,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "格式错乱",
+        "生存难度其他",
+        "神秘",
+        "至暗时代设定"
+    ],
+    "title": "Level IF-300",
+    "sitemap_update": 1761538797000,
+    "votings": [
+        [
+            8219242,
+            false
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9832778,
+            false
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9419995,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

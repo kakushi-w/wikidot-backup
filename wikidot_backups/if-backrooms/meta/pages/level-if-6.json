@@ -1,0 +1,138 @@
+{
+    "name": "level-if-6",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1528943852,
+            "author": 9009838,
+            "stamp": 1743328617,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528943849,
+            "author": 9009838,
+            "stamp": 1743328601,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-l-6\" 至 \"level-if-6\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528496301,
+            "author": 8206574,
+            "stamp": 1742203905,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-i-6\" 至 \"level-if-l-6\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528496033,
+            "author": 9375128,
+            "stamp": 1742202846,
+            "flags": "A",
+            "commentary": "已新增标签：封闭性, 层级, 生存难度？, 神秘, 精神影响。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528495725,
+            "author": 9375128,
+            "stamp": 1742200809,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528495721,
+            "author": 9375128,
+            "stamp": 1742200798,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528493412,
+            "author": 9375128,
+            "stamp": 1742189642,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727850,
+    "rating": 15,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度？",
+        "神秘",
+        "精神影响"
+    ],
+    "title": "Level IF-6",
+    "sitemap_update": 1743328617000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9477209,
+            true
+        ],
+        [
+            9899195,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9375128,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9565995,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

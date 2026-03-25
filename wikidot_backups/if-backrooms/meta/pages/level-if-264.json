@@ -1,0 +1,50 @@
+{
+    "name": "level-if-264",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541807760,
+            "author": 8620589,
+            "stamp": 1770369732,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 城镇, 层级, 开阔性, 生存难度3, 补给可能。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541807740,
+            "author": 8620589,
+            "stamp": 1770369613,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468099829,
+    "rating": 3,
+    "tags": [
+        "原创",
+        "城镇",
+        "层级",
+        "开阔性",
+        "生存难度3",
+        "补给可能"
+    ],
+    "title": "Level IF-264",
+    "sitemap_update": 1770369732000,
+    "votings": [
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

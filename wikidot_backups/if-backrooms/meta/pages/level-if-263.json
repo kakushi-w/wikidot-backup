@@ -1,0 +1,81 @@
+{
+    "name": "level-if-263",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531681260,
+            "author": 9454668,
+            "stamp": 1755774523,
+            "flags": "S",
+            "commentary": "Css外观"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531675097,
+            "author": 9437079,
+            "stamp": 1755757612,
+            "flags": "T",
+            "commentary": "标题大写"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531673705,
+            "author": 8759709,
+            "stamp": 1755749183,
+            "flags": "A",
+            "commentary": "已新增标签：开阔性。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531673683,
+            "author": 9099707,
+            "stamp": 1755748979,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度5。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531673617,
+            "author": 8759709,
+            "stamp": 1755746787,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460088172,
+    "rating": 5,
+    "forum_thread": 17490373,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度5"
+    ],
+    "title": "Level IF-263",
+    "sitemap_update": 1755774523000,
+    "votings": [
+        [
+            9804860,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

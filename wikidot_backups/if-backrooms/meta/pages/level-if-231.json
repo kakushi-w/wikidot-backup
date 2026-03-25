@@ -1,0 +1,77 @@
+{
+    "name": "level-if-231",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531297256,
+            "author": 9551174,
+            "stamp": 1753930631,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度1。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531297245,
+            "author": 9551174,
+            "stamp": 1753930589,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531297234,
+            "author": 9551174,
+            "stamp": 1753930546,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459985012,
+    "rating": 8,
+    "forum_thread": 17173826,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度1"
+    ],
+    "title": "Level IF-231",
+    "sitemap_update": 1753930631000,
+    "votings": [
+        [
+            9448575,
+            true
+        ],
+        [
+            9555402,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": false
+}

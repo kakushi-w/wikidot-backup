@@ -1,0 +1,120 @@
+{
+    "name": "level-if-100",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1541569887,
+            "author": 7344601,
+            "stamp": 1769265969,
+            "flags": "S A",
+            "commentary": "您已成功地回复本页至修订版本编号 1"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541569857,
+            "author": 7344601,
+            "stamp": 1769265786,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。 移除标签：室外, 层级, 建筑, 恐怖, 生存难度1, 精神影响。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541397784,
+            "author": 8620589,
+            "stamp": 1768403549,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541353908,
+            "author": 8620589,
+            "stamp": 1768119653,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541353617,
+            "author": 8620589,
+            "stamp": 1768118074,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 室外, 层级, 建筑, 恐怖, 生存难度1, 精神影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541353599,
+            "author": 8620589,
+            "stamp": 1768117992,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467988322,
+    "rating": 4,
+    "forum_thread": 17561017,
+    "tags": [
+        "原创",
+        "室外",
+        "层级",
+        "建筑",
+        "恐怖",
+        "生存难度1",
+        "精神影响"
+    ],
+    "title": "Level IF-100",
+    "sitemap_update": 1769265969000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9832778,
+            false
+        ],
+        [
+            10193630,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9375128,
+            false
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            7344601,
+            false
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

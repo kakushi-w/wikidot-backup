@@ -1,0 +1,93 @@
+{
+    "name": "level-if-501",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542377392,
+            "author": 8620589,
+            "stamp": 1772424141,
+            "flags": "T",
+            "commentary": "竞赛后修改层级标题"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542376508,
+            "author": 8196010,
+            "stamp": 1772418818,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"if500-rtlb\" 至 \"level-if-501\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541728092,
+            "author": 10206888,
+            "stamp": 1769962201,
+            "flags": "A",
+            "commentary": "已新增标签：if500, 原创, 层级, 生存难度5。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541728083,
+            "author": 10206888,
+            "stamp": 1769962165,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468077595,
+    "rating": 8,
+    "forum_thread": 17577026,
+    "tags": [
+        "if500",
+        "原创",
+        "层级",
+        "生存难度5"
+    ],
+    "title": "Level IF-501 ：遗蓝之骸",
+    "sitemap_update": 1772424141000,
+    "votings": [
+        [
+            9782125,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9375128,
+            false
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,83 @@
+{
+    "name": "level-if-241",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532663494,
+            "author": 8620589,
+            "stamp": 1759579308,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532657631,
+            "author": 8620589,
+            "stamp": 1759573950,
+            "flags": "A",
+            "commentary": "已新增标签：crossover。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532657501,
+            "author": 8620589,
+            "stamp": 1759573839,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度0, 虚妄归档设定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532656965,
+            "author": 8620589,
+            "stamp": 1759573415,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460487496,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 7,
+    "tags": [
+        "crossover",
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度0",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-241",
+    "sitemap_update": 1759579308000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": true
+}

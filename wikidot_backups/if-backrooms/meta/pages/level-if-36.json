@@ -1,0 +1,126 @@
+{
+    "name": "level-if-36",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1532442332,
+            "author": 9541601,
+            "stamp": 1758637050,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531754859,
+            "author": 8620589,
+            "stamp": 1756101099,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531754720,
+            "author": 8620589,
+            "stamp": 1756100480,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-36-1\" 至 \"level-if-36\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531754689,
+            "author": 8620589,
+            "stamp": 1756100322,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531029593,
+            "author": 9541601,
+            "stamp": 1752673461,
+            "flags": "A",
+            "commentary": "已新增标签：合著。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530725002,
+            "author": 9541601,
+            "stamp": 1751188803,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 城镇, 子层级, 层级, 开阔性, 探险者总署, 生存难度1, 补给可能。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530724984,
+            "author": 9541601,
+            "stamp": 1751188732,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459855182,
+    "rating": 9,
+    "forum_thread": 17159987,
+    "tags": [
+        "原创",
+        "合著",
+        "城镇",
+        "子层级",
+        "层级",
+        "开阔性",
+        "探险者总署",
+        "生存难度1",
+        "补给可能"
+    ],
+    "title": "Level IF-36",
+    "sitemap_update": 1758637050000,
+    "votings": [
+        [
+            8828300,
+            true
+        ],
+        [
+            9551174,
+            true
+        ],
+        [
+            9701536,
+            true
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9690576,
+            true
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": true
+}

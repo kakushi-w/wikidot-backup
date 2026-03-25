@@ -1,0 +1,71 @@
+{
+    "name": "fragment:spec-4",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1537767613,
+            "author": 9454668,
+            "stamp": 1762069339,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1533090062,
+            "author": 9454668,
+            "stamp": 1760798681,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1533084289,
+            "author": 9454668,
+            "stamp": 1760783086,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533084207,
+            "author": 9454668,
+            "stamp": 1760782997,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532490775,
+            "author": 9454668,
+            "stamp": 1758894856,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"spec\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532490480,
+            "author": 9454668,
+            "stamp": 1758893802,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532490474,
+            "author": 9454668,
+            "stamp": 1758893787,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460450996,
+    "tags": [
+        "段落"
+    ],
+    "title": "fragment:spec-4",
+    "sitemap_update": 1762069339000,
+    "votings": [],
+    "is_locked": false
+}

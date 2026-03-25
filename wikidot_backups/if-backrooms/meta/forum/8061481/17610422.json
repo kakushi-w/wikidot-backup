@@ -1,0 +1,63 @@
+{
+    "title": "精品推荐帖 - 2026年4月",
+    "id": 17610422,
+    "description": "",
+    "last": 1773420418,
+    "lastUser": 9551174,
+    "started": 1772879806,
+    "startedUser": 9454668,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7600169,
+            "title": "精品推荐帖 - 2026年4月",
+            "poster": 9454668,
+            "stamp": 1772879806,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7600348,
+            "title": "Re: 精品推荐帖 - 2026年4月",
+            "poster": 9099707,
+            "stamp": 1772880996,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7602222,
+                    "title": "Re: 精品推荐帖 - 2026年4月",
+                    "poster": 9657913,
+                    "stamp": 1772893452,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 7622688,
+                    "title": "Re: 精品推荐帖 - 2026年4月",
+                    "poster": 9551174,
+                    "stamp": 1773420418,
+                    "lastEdit": 1773420426,
+                    "lastEditBy": 9551174,
+                    "revisions": [
+                        {
+                            "title": "Re: 精品推荐帖 - 2026年4月",
+                            "author": 9551174,
+                            "id": 9178588,
+                            "stamp": 1773420426
+                        },
+                        {
+                            "title": "Re: 精品推荐帖 - 2026年4月",
+                            "author": 9551174,
+                            "id": 9178587,
+                            "stamp": 1773420418
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

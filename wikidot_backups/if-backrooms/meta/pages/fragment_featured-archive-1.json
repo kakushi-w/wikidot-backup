@@ -1,0 +1,94 @@
+{
+    "name": "fragment:featured-archive-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1539895734,
+            "author": 9454668,
+            "stamp": 1764043548,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1533230998,
+            "author": 9454668,
+            "stamp": 1761363671,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532464405,
+            "author": 9454668,
+            "stamp": 1758756558,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532464404,
+            "author": 9454668,
+            "stamp": 1758756534,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531800181,
+            "author": 9454668,
+            "stamp": 1756300621,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530543818,
+            "author": 9375128,
+            "stamp": 1750153907,
+            "flags": "A",
+            "commentary": "已新增标签：段落, 管理。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530311727,
+            "author": 9375128,
+            "stamp": 1748685016,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530311723,
+            "author": 9375128,
+            "stamp": 1748685000,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"featured-archive\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530311711,
+            "author": 9375128,
+            "stamp": 1748684952,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459742293,
+    "parent": "featured-archive",
+    "tags": [
+        "段落",
+        "管理"
+    ],
+    "title": "原创精品 I 归档页面",
+    "sitemap_update": 1764043548000,
+    "votings": [
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": true
+}

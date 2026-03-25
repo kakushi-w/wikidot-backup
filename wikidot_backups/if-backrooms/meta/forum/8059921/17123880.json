@@ -1,0 +1,23 @@
+{
+    "title": "最低评分的页面",
+    "id": 17123880,
+    "description": "",
+    "last": 1746888951,
+    "lastUser": 9541601,
+    "started": 1746888869,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6986992,
+            "title": "DV",
+            "poster": 9541601,
+            "stamp": 1746888951,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

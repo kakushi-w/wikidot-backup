@@ -1,0 +1,145 @@
+{
+    "name": "level-if-4",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1532399295,
+            "author": 9422717,
+            "stamp": 1758421817,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530135805,
+            "author": 9633089,
+            "stamp": 1747401616,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530135797,
+            "author": 9633089,
+            "stamp": 1747401555,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530118244,
+            "author": 9633089,
+            "stamp": 1747261893,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529712106,
+            "author": 9633089,
+            "stamp": 1745842068,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 建筑, 怀旧, 昼夜变化, 生存难度1, 补给可能。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529711927,
+            "author": 9633089,
+            "stamp": 1745841241,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529711921,
+            "author": 9633089,
+            "stamp": 1745841193,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459489902,
+    "rating": 14,
+    "forum_thread": 17120829,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "建筑",
+        "怀旧",
+        "昼夜变化",
+        "生存难度1",
+        "补给可能"
+    ],
+    "title": "Level IF-4",
+    "sitemap_update": 1758421817000,
+    "votings": [
+        [
+            8828300,
+            true
+        ],
+        [
+            9551174,
+            true
+        ],
+        [
+            9477209,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9679652,
+            false
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9633089,
+            true
+        ],
+        [
+            8100577,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9385645,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

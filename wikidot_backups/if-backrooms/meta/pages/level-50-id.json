@@ -1,0 +1,115 @@
+{
+    "name": "level-50-id",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1532849970,
+            "author": 9454668,
+            "stamp": 1759915512,
+            "flags": "A",
+            "commentary": "已新增标签：雷火, 雾霾。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532440482,
+            "author": 9454668,
+            "stamp": 1758629559,
+            "flags": "A",
+            "commentary": "已新增标签：翻译精品。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531732848,
+            "author": 9454668,
+            "stamp": 1756010088,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531717053,
+            "author": 9454668,
+            "stamp": 1755929753,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531716996,
+            "author": 9454668,
+            "stamp": 1755929454,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531716989,
+            "author": 9454668,
+            "stamp": 1755929385,
+            "flags": "A",
+            "commentary": "已新增标签：id, 二次翻译, 层级, 开阔性, 格式错乱, 生存难度死区, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531716974,
+            "author": 9454668,
+            "stamp": 1755929308,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460096392,
+    "rating": 8,
+    "forum_thread": 17253604,
+    "tags": [
+        "id",
+        "二次翻译",
+        "层级",
+        "开阔性",
+        "格式错乱",
+        "生存难度死区",
+        "翻译",
+        "翻译精品",
+        "雷火",
+        "雾霾"
+    ],
+    "title": "Level 50-ID - “赎罪之渊”",
+    "sitemap_update": 1759915512000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9535635,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": true
+}

@@ -1,0 +1,160 @@
+{
+    "name": "overview:canons",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1533541885,
+            "author": 9782629,
+            "stamp": 1761446618,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1533322942,
+            "author": 9454668,
+            "stamp": 1761403722,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1533322888,
+            "author": 9454668,
+            "stamp": 1761403712,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1533322644,
+            "author": 9454668,
+            "stamp": 1761403671,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1533320668,
+            "author": 9454668,
+            "stamp": 1761403289,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1533320406,
+            "author": 9454668,
+            "stamp": 1761403239,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1533319968,
+            "author": 9454668,
+            "stamp": 1761403154,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1533158658,
+            "author": 9454668,
+            "stamp": 1761135557,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1533156705,
+            "author": 9782629,
+            "stamp": 1761127683,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532155471,
+            "author": 9454668,
+            "stamp": 1757155086,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532155460,
+            "author": 9454668,
+            "stamp": 1757155032,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532155450,
+            "author": 9454668,
+            "stamp": 1757154996,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"canons\" 至 \"overview:canons\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532155389,
+            "author": 9454668,
+            "stamp": 1757154654,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532155373,
+            "author": 9454668,
+            "stamp": 1757154568,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532155357,
+            "author": 9454668,
+            "stamp": 1757154474,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532155346,
+            "author": 9454668,
+            "stamp": 1757154379,
+            "flags": "A",
+            "commentary": "已新增标签：总览。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532155335,
+            "author": 9454668,
+            "stamp": 1757154300,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460352862,
+    "tags": [
+        "总览"
+    ],
+    "title": "原创设定列表",
+    "sitemap_update": 1761446618000,
+    "votings": [
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ]
+    ],
+    "is_locked": false
+}

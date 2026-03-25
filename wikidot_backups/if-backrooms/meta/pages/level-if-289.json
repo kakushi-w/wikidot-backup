@@ -1,0 +1,57 @@
+{
+    "name": "level-if-289",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541813790,
+            "author": 8620589,
+            "stamp": 1770392176,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541813779,
+            "author": 8620589,
+            "stamp": 1770392137,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468101166,
+    "rating": 5,
+    "forum_thread": 17581429,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度0"
+    ],
+    "title": "Level IF-289",
+    "sitemap_update": 1770392176000,
+    "votings": [
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

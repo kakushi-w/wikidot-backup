@@ -1,0 +1,48 @@
+{
+    "name": "level-if-257",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541790106,
+            "author": 8620589,
+            "stamp": 1770274219,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541790105,
+            "author": 8620589,
+            "stamp": 1770274194,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468095079,
+    "rating": 3,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度0"
+    ],
+    "title": "Level IF-257",
+    "sitemap_update": 1770274219000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ]
+    ],
+    "is_locked": false
+}

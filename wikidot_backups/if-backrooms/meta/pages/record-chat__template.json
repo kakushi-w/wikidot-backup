@@ -1,0 +1,90 @@
+{
+    "name": "record-chat:_template",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1539902080,
+            "author": 7344601,
+            "stamp": 1764077101,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1539901965,
+            "author": 7344601,
+            "stamp": 1764076417,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539901959,
+            "author": 7344601,
+            "stamp": 1764076390,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1539901955,
+            "author": 7344601,
+            "stamp": 1764076353,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539901908,
+            "author": 7344601,
+            "stamp": 1764076041,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539901897,
+            "author": 7344601,
+            "stamp": 1764076001,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 1"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539901888,
+            "author": 7344601,
+            "stamp": 1764075955,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539900113,
+            "author": 9375128,
+            "stamp": 1764068302,
+            "flags": "A",
+            "commentary": "已新增标签：功能, 管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539900105,
+            "author": 9375128,
+            "stamp": 1764068277,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467084776,
+    "parent": "records",
+    "forum_thread": 17458728,
+    "tags": [
+        "功能",
+        "管理"
+    ],
+    "title": "_template",
+    "sitemap_update": 1764077101000,
+    "votings": [],
+    "is_locked": false
+}

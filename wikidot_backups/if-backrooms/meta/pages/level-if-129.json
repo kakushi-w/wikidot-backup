@@ -1,0 +1,112 @@
+{
+    "name": "level-if-129",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531562536,
+            "author": 9302580,
+            "stamp": 1755174627,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 劣化, 原创, 合著, 层级, 恐怖, 悲剧, 惊悚, 无定性, 时间异常, 生存难度死区。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531562530,
+            "author": 9302580,
+            "stamp": 1755174605,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531562522,
+            "author": 9302580,
+            "stamp": 1755174579,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460060858,
+    "rating": 15,
+    "forum_thread": 17587834,
+    "tags": [
+        "切行困难",
+        "劣化",
+        "原创",
+        "合著",
+        "层级",
+        "恐怖",
+        "悲剧",
+        "惊悚",
+        "无定性",
+        "时间异常",
+        "生存难度死区"
+    ],
+    "title": "Level IF-129 - 「项目：衰退瘾」",
+    "sitemap_update": 1755174627000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            9437079,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

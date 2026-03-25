@@ -1,0 +1,70 @@
+{
+    "name": "level-if-361",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1540600802,
+            "author": 8620589,
+            "stamp": 1765624090,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540588093,
+            "author": 8620589,
+            "stamp": 1765597367,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 格式错乱, 生存难度其他。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540588017,
+            "author": 8620589,
+            "stamp": 1765597079,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467551682,
+    "rating": 6,
+    "forum_thread": 17489861,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "格式错乱",
+        "生存难度其他"
+    ],
+    "title": "Level IF-361",
+    "sitemap_update": 1765624090000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ]
+    ],
+    "is_locked": false
+}

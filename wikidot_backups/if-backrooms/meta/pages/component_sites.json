@@ -1,0 +1,55 @@
+{
+    "name": "component:sites",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1529304223,
+            "author": 9483189,
+            "stamp": 1744655471,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 管理, 组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529304222,
+            "author": 9483189,
+            "stamp": 1744655459,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459224761,
+    "rating": 5,
+    "tags": [
+        "搬运",
+        "管理",
+        "组件"
+    ],
+    "title": "组件：他站同投",
+    "sitemap_update": 1744655471000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9375128,
+            true
+        ],
+        [
+            9483189,
+            true
+        ],
+        [
+            9541601,
+            true
+        ],
+        [
+            9551083,
+            true
+        ]
+    ],
+    "is_locked": false
+}

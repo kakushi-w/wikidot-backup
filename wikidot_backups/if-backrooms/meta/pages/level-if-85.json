@@ -1,0 +1,122 @@
+{
+    "name": "level-if-85",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1540029331,
+            "author": 8759709,
+            "stamp": 1764400596,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1533659502,
+            "author": 8759709,
+            "stamp": 1761481208,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533659426,
+            "author": 8759709,
+            "stamp": 1761481183,
+            "flags": "F",
+            "commentary": "已上传文件 “result_image.png”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532259110,
+            "author": 9437079,
+            "stamp": 1757725231,
+            "flags": "T",
+            "commentary": "标题带一个-"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532251327,
+            "author": 8759709,
+            "stamp": 1757688351,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 层级, 开阔性, 生存难度死区, 生存难度终结。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532251298,
+            "author": 8759709,
+            "stamp": 1757688231,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11502711,
+            "name": "result_image.png",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-85/result_image.png",
+            "size": "27.8 kB (28467 Bytes)",
+            "size_bytes": 28467,
+            "mime": "image/png",
+            "content": "PNG image data, 236 x 198, 8-bit/color RGBA, non-interlaced",
+            "author": 8759709,
+            "stamp": 1761481183,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460385263,
+    "tags": [
+        "切行困难",
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度死区",
+        "生存难度终结"
+    ],
+    "title": "Level IF-85 既​͔̈ͪ定​̥ͫ̅存​̖͐̔在​̈̇ͦ",
+    "sitemap_update": 1764400596000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

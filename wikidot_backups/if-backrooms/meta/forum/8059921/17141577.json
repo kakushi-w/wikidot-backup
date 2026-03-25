@@ -1,0 +1,40 @@
+{
+    "title": "Level IF-22-“彼岸花开”",
+    "id": 17141577,
+    "description": "",
+    "last": 1749130213,
+    "lastUser": 9168168,
+    "started": 1748676469,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7022538,
+            "title": "nv",
+            "poster": 9168168,
+            "stamp": 1749130213,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7018772,
+            "title": "这篇文章写的不错",
+            "poster": 9620145,
+            "stamp": 1748676513,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7018819,
+                    "title": "Re: 这篇文章写的不错",
+                    "poster": 9099707,
+                    "stamp": 1748681655,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

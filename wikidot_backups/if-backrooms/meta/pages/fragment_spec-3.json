@@ -1,0 +1,55 @@
+{
+    "name": "fragment:spec-3",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532498072,
+            "author": 9454668,
+            "stamp": 1758933686,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532490765,
+            "author": 9454668,
+            "stamp": 1758894810,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"spec\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532490432,
+            "author": 9454668,
+            "stamp": 1758893640,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532490406,
+            "author": 9454668,
+            "stamp": 1758893537,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532490401,
+            "author": 9454668,
+            "stamp": 1758893516,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460450992,
+    "tags": [
+        "段落"
+    ],
+    "title": "fragment:spec-3",
+    "sitemap_update": 1758933686000,
+    "votings": [],
+    "is_locked": false
+}

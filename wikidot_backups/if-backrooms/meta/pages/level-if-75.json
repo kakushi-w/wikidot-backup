@@ -1,0 +1,61 @@
+{
+    "name": "level-if-75",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1531776691,
+            "author": 9485306,
+            "stamp": 1756203502,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 建筑, 怀旧, 生存难度1。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531776688,
+            "author": 9485306,
+            "stamp": 1756203481,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460109674,
+    "rating": 6,
+    "tags": [
+        "原创",
+        "层级",
+        "建筑",
+        "怀旧",
+        "生存难度1"
+    ],
+    "title": "Level IF-75",
+    "sitemap_update": 1756203502000,
+    "votings": [
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

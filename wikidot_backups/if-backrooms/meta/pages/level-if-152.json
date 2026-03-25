@@ -1,0 +1,117 @@
+{
+    "name": "level-if-152",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1530623642,
+            "author": 8774679,
+            "stamp": 1750664864,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530623234,
+            "author": 8774679,
+            "stamp": 1750660727,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530623229,
+            "author": 8774679,
+            "stamp": 1750660619,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度其他。 移除标签：生存难度其它。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530623211,
+            "author": 8774679,
+            "stamp": 1750660445,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 格式错乱, 生存难度其它。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530623190,
+            "author": 8774679,
+            "stamp": 1750660039,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530623182,
+            "author": 8774679,
+            "stamp": 1750659945,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530623176,
+            "author": 8774679,
+            "stamp": 1750659829,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459831737,
+    "rating": 4,
+    "forum_thread": 17158152,
+    "tags": [
+        "原创",
+        "层级",
+        "格式错乱",
+        "生存难度其他"
+    ],
+    "title": "Level IF-152",
+    "sitemap_update": 1750664864000,
+    "votings": [
+        [
+            8828300,
+            true
+        ],
+        [
+            9551174,
+            true
+        ],
+        [
+            8774679,
+            true
+        ],
+        [
+            9609194,
+            false
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9631596,
+            true
+        ],
+        [
+            9485306,
+            false
+        ],
+        [
+            9419995,
+            false
+        ]
+    ],
+    "is_locked": false
+}

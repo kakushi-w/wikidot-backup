@@ -1,0 +1,148 @@
+{
+    "name": "object-5",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1542276109,
+            "author": 8012806,
+            "stamp": 1771935942,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1542096320,
+            "author": 8012806,
+            "stamp": 1771218612,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1542080134,
+            "author": 8012806,
+            "stamp": 1771142612,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542080122,
+            "author": 8012806,
+            "stamp": 1771142578,
+            "flags": "S",
+            "commentary": "根据owl4513的建议，将“没鸡小队”改成了“妈易寄小队”"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542063433,
+            "author": 8012806,
+            "stamp": 1771039618,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542051081,
+            "author": 8012806,
+            "stamp": 1770981067,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542050865,
+            "author": 8012806,
+            "stamp": 1770980037,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542017373,
+            "author": 8012806,
+            "stamp": 1770871030,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542002748,
+            "author": 8012806,
+            "stamp": 1770860950,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542002445,
+            "author": 8012806,
+            "stamp": 1770860790,
+            "flags": "A",
+            "commentary": "已新增标签：2021惊吓竞赛, 不结盟贸易集团, 人类关联, 商人之家, 娱乐性, 形态变换, 感官影响, 有害品, 消耗品, 物品, 现实扭曲, 矿物关联, 精神影响, 翻译, 阿尔戈斯之眼。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542002244,
+            "author": 8012806,
+            "stamp": 1770860697,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468120536,
+    "rating": 7,
+    "forum_thread": 17587776,
+    "tags": [
+        "2021惊吓竞赛",
+        "不结盟贸易集团",
+        "人类关联",
+        "商人之家",
+        "娱乐性",
+        "形态变换",
+        "感官影响",
+        "有害品",
+        "消耗品",
+        "物品",
+        "现实扭曲",
+        "矿物关联",
+        "精神影响",
+        "翻译",
+        "阿尔戈斯之眼"
+    ],
+    "title": "Object 5 - “糖果”",
+    "sitemap_update": 1771935942000,
+    "votings": [
+        [
+            8012806,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

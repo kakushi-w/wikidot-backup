@@ -1,0 +1,85 @@
+{
+    "name": "level-if-380",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1537868731,
+            "author": 9454668,
+            "stamp": 1762084467,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1537862194,
+            "author": 8759709,
+            "stamp": 1762083512,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度死区。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1537861893,
+            "author": 8759709,
+            "stamp": 1762083467,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1465297600,
+    "rating": 8,
+    "forum_thread": 17439605,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度死区"
+    ],
+    "title": "Level IF-380",
+    "sitemap_update": 1762084467000,
+    "votings": [
+        [
+            9782125,
+            true
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9575701,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

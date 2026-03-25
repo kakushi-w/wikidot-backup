@@ -1,0 +1,39 @@
+{
+    "name": "art:silvers-bannercon-entry",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1530327205,
+            "author": 9454668,
+            "stamp": 1748781247,
+            "flags": "A",
+            "commentary": "已新增标签：2025横幅竞赛, 翻译, 艺术作品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530327200,
+            "author": 9454668,
+            "stamp": 1748781227,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459744509,
+    "rating": 1,
+    "tags": [
+        "2025横幅竞赛",
+        "翻译",
+        "艺术作品"
+    ],
+    "title": "银色横幅参赛",
+    "sitemap_update": 1748781247000,
+    "votings": [
+        [
+            8620589,
+            true
+        ]
+    ],
+    "is_locked": false
+}

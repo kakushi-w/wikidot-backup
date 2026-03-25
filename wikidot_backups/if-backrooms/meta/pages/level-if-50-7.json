@@ -1,0 +1,312 @@
+{
+    "name": "level-if-50-7",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 26,
+            "global_revision": 1531555605,
+            "author": 9168168,
+            "stamp": 1755143506,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1531555303,
+            "author": 9168168,
+            "stamp": 1755142302,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1531555012,
+            "author": 9168168,
+            "stamp": 1755141177,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1531555006,
+            "author": 9168168,
+            "stamp": 1755141155,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-1-zcbm\" 至 \"level-if-50-7\"."
+        },
+        {
+            "revision": 22,
+            "global_revision": 1530769234,
+            "author": 9168168,
+            "stamp": 1751359318,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1530769219,
+            "author": 9168168,
+            "stamp": 1751359258,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1530769147,
+            "author": 9168168,
+            "stamp": 1751358974,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1530769141,
+            "author": 9168168,
+            "stamp": 1751358913,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1530769124,
+            "author": 9168168,
+            "stamp": 1751358847,
+            "flags": "F",
+            "commentary": "已上传文件 “L31-3”。"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1530769024,
+            "author": 9168168,
+            "stamp": 1751358311,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1530768938,
+            "author": 9168168,
+            "stamp": 1751358251,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1530768880,
+            "author": 9168168,
+            "stamp": 1751358167,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1530768791,
+            "author": 9168168,
+            "stamp": 1751358136,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1530768735,
+            "author": 9168168,
+            "stamp": 1751358045,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1530768639,
+            "author": 9168168,
+            "stamp": 1751357968,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1530768574,
+            "author": 9168168,
+            "stamp": 1751357922,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1530765780,
+            "author": 9168168,
+            "stamp": 1751349327,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530765734,
+            "author": 9168168,
+            "stamp": 1751349061,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530765346,
+            "author": 9168168,
+            "stamp": 1751346279,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530765336,
+            "author": 9168168,
+            "stamp": 1751346223,
+            "flags": "A",
+            "commentary": "已新增标签：if-1竞赛, 原创, 层级, 格式错乱, 生存难度3, 精神影响。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530765318,
+            "author": 9168168,
+            "stamp": 1751346143,
+            "flags": "F",
+            "commentary": "已上传文件 “L31-1”。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530765306,
+            "author": 9168168,
+            "stamp": 1751346060,
+            "flags": "F",
+            "commentary": "已删除文件 “L31-1”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530765266,
+            "author": 9168168,
+            "stamp": 1751346024,
+            "flags": "F",
+            "commentary": "已上传文件 “L31-2”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530765261,
+            "author": 9168168,
+            "stamp": 1751345979,
+            "flags": "F",
+            "commentary": "已上传文件 “L31-1”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530765252,
+            "author": 9168168,
+            "stamp": 1751345924,
+            "flags": "F",
+            "commentary": "已删除文件 “L31-1”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530765248,
+            "author": 9168168,
+            "stamp": 1751345908,
+            "flags": "F",
+            "commentary": "已上传文件 “L31-1”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530765225,
+            "author": 9168168,
+            "stamp": 1751345752,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11411985,
+            "name": "L31-1",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-50-7/L31-1",
+            "size": "3.27 MB (3426743 Bytes)",
+            "size_bytes": 3426743,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 4160x6240, components 3",
+            "author": 9168168,
+            "stamp": 1751346143,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11411983,
+            "name": "L31-2",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-50-7/L31-2",
+            "size": "5.94 kB (6087 Bytes)",
+            "size_bytes": 6087,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, baseline, precision 8, 192x128, components 3",
+            "author": 9168168,
+            "stamp": 1751346024,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11412084,
+            "name": "L31-3",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-50-7/L31-3",
+            "size": "20.53 kB (21023 Bytes)",
+            "size_bytes": 21023,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 96x96, segment length 16, baseline, precision 8, 512x341, components 3",
+            "author": 9168168,
+            "stamp": 1751358847,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459862374,
+    "rating": 5,
+    "forum_thread": 17160612,
+    "tags": [
+        "if-1竞赛",
+        "原创",
+        "层级",
+        "格式错乱",
+        "生存难度3",
+        "精神影响"
+    ],
+    "title": "Level IF-50.7-失色虹光",
+    "sitemap_update": 1755143506000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9309055,
+            false
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9302580,
+            false
+        ],
+        [
+            9551083,
+            true
+        ]
+    ],
+    "is_locked": true
+}

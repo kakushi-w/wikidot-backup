@@ -1,0 +1,68 @@
+{
+    "name": "ranking",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542703401,
+            "author": 9375128,
+            "stamp": 1773657762,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542703391,
+            "author": 9375128,
+            "stamp": 1773657667,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541167537,
+            "author": 9375128,
+            "stamp": 1767003604,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541167535,
+            "author": 9375128,
+            "stamp": 1767003590,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467939881,
+    "tags": [
+        "管理"
+    ],
+    "title": "IF作者们的Rank排行榜",
+    "sitemap_update": 1773657762000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9375128,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9561914,
+            true
+        ]
+    ],
+    "is_locked": true
+}

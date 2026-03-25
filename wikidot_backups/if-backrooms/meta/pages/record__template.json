@@ -1,0 +1,65 @@
+{
+    "name": "record:_template",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1539884605,
+            "author": 9375128,
+            "stamp": 1763979518,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539884519,
+            "author": 9375128,
+            "stamp": 1763979340,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539884452,
+            "author": 9375128,
+            "stamp": 1763979190,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530585088,
+            "author": 9375128,
+            "stamp": 1750415796,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530553698,
+            "author": 9375128,
+            "stamp": 1750220676,
+            "flags": "A",
+            "commentary": "已新增标签：功能, 管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530553695,
+            "author": 9375128,
+            "stamp": 1750220657,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459811813,
+    "parent": "records",
+    "tags": [
+        "功能",
+        "管理"
+    ],
+    "title": "_template（record）",
+    "sitemap_update": 1763979518000,
+    "votings": [],
+    "is_locked": false
+}

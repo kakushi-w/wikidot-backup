@@ -1,0 +1,128 @@
+{
+    "title": "Level IF-116-“若我们重聚这夕阳下”",
+    "id": 17165081,
+    "description": "",
+    "last": 1752642223,
+    "lastUser": 9099707,
+    "started": 1752315011,
+    "startedUser": null,
+    "postsNum": 8,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7067308,
+            "title": "暂且NV",
+            "poster": 9485306,
+            "stamp": 1752386919,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7067310,
+                    "title": "Re: 暂且NV",
+                    "poster": 9485306,
+                    "stamp": 1752386996,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 7067830,
+                    "title": "Re: 暂且NV",
+                    "poster": 9099707,
+                    "stamp": 1752415048,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7070299,
+            "title": "赛后uv&捉虫",
+            "poster": 9168168,
+            "stamp": 1752580978,
+            "lastEdit": 1752580994,
+            "lastEditBy": 9168168,
+            "revisions": [
+                {
+                    "title": "赛后uv&捉虫",
+                    "author": 9168168,
+                    "id": 8552003,
+                    "stamp": 1752580994
+                },
+                {
+                    "title": "赛后uv",
+                    "author": 9168168,
+                    "id": 8552002,
+                    "stamp": 1752580978
+                }
+            ],
+            "children": [
+                {
+                    "id": 7071218,
+                    "title": "Re: 赛后uv&捉虫",
+                    "poster": 9099707,
+                    "stamp": 1752642223,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7066241,
+            "title": "作者帖",
+            "poster": 9099707,
+            "stamp": 1752315089,
+            "lastEdit": 1752325233,
+            "lastEditBy": 9099707,
+            "revisions": [
+                {
+                    "title": "作者帖",
+                    "author": 9099707,
+                    "id": 8546989,
+                    "stamp": 1752325233
+                },
+                {
+                    "title": "作者帖",
+                    "author": 9099707,
+                    "id": 8546746,
+                    "stamp": 1752315089
+                }
+            ],
+            "children": [
+                {
+                    "id": 7066382,
+                    "title": "Re: 作者帖",
+                    "poster": 9304232,
+                    "stamp": 1752322380,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7066423,
+                            "title": "Re: 作者帖",
+                            "poster": 9099707,
+                            "stamp": 1752324582,
+                            "lastEdit": 1752325170,
+                            "lastEditBy": 9099707,
+                            "revisions": [
+                                {
+                                    "title": "Re: 作者帖",
+                                    "author": 9099707,
+                                    "id": 8546984,
+                                    "stamp": 1752325170
+                                },
+                                {
+                                    "title": "Re: 作者帖",
+                                    "author": 9099707,
+                                    "id": 8546974,
+                                    "stamp": 1752324582
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

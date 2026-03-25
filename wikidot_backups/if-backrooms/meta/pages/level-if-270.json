@@ -1,0 +1,96 @@
+{
+    "name": "level-if-270",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531641904,
+            "author": 8620589,
+            "stamp": 1755580665,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531386901,
+            "author": 8620589,
+            "stamp": 1754368362,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531264327,
+            "author": 8620589,
+            "stamp": 1753794614,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度死区。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531264318,
+            "author": 8620589,
+            "stamp": 1753794581,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459978878,
+    "rating": 9,
+    "forum_thread": 17173811,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度死区"
+    ],
+    "title": "Level IF-270",
+    "sitemap_update": 1755580665000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9531925,
+            false
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

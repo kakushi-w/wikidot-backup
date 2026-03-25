@@ -1,0 +1,87 @@
+{
+    "name": "level-if-124",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532365873,
+            "author": 9422717,
+            "stamp": 1758284945,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531349289,
+            "author": 9422717,
+            "stamp": 1754184433,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531349209,
+            "author": 9422717,
+            "stamp": 1754183828,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 奇异, 层级, 环境危害, 生存难度死区, 神秘, 精神影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531349196,
+            "author": 9422717,
+            "stamp": 1754183769,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459996266,
+    "rating": 8,
+    "tags": [
+        "原创",
+        "奇异",
+        "层级",
+        "环境危害",
+        "生存难度死区",
+        "神秘",
+        "精神影响"
+    ],
+    "title": "Level IF-124",
+    "sitemap_update": 1758284945000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": false
+}

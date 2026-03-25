@@ -1,0 +1,85 @@
+{
+    "name": "old:level-99",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531575262,
+            "author": 9454668,
+            "stamp": 1755243002,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度？, 翻译。 移除标签：生存难度？翻译。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531575194,
+            "author": 9454668,
+            "stamp": 1755242711,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531575148,
+            "author": 9454668,
+            "stamp": 1755242440,
+            "flags": "A",
+            "commentary": "已新增标签：层级, 旧页面, 生存难度？翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531575144,
+            "author": 9454668,
+            "stamp": 1755242433,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460063406,
+    "rating": 8,
+    "forum_thread": 17192262,
+    "tags": [
+        "层级",
+        "旧页面",
+        "生存难度？",
+        "翻译"
+    ],
+    "title": "Level 99 - “远处的灯光”（旧）",
+    "sitemap_update": 1755243002000,
+    "votings": [
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9608029,
+            true
+        ]
+    ],
+    "is_locked": false
+}

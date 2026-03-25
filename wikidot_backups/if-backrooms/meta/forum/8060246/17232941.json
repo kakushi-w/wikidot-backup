@@ -1,0 +1,21 @@
+{
+    "title": "新文预告",
+    "id": 17232941,
+    "description": "如题",
+    "started": 1756199552,
+    "startedUser": 9782629,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7168519,
+            "title": "新文预告",
+            "poster": 9782629,
+            "stamp": 1756199552,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

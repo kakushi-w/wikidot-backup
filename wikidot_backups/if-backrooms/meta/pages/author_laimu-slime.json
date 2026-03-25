@@ -1,0 +1,85 @@
+{
+    "name": "author:laimu-slime",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1541857059,
+            "author": 9375128,
+            "stamp": 1770613255,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 4"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541857054,
+            "author": 9375128,
+            "stamp": 1770613233,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541857043,
+            "author": 9375128,
+            "stamp": 1770613188,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541857013,
+            "author": 9375128,
+            "stamp": 1770612975,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541856990,
+            "author": 9375128,
+            "stamp": 1770612821,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541856987,
+            "author": 9375128,
+            "stamp": 1770612800,
+            "flags": "A",
+            "commentary": "已新增标签：作者。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541856983,
+            "author": 9375128,
+            "stamp": 1770612789,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468109557,
+    "forum_thread": 17584805,
+    "tags": [
+        "作者"
+    ],
+    "title": "莱姆的作者页",
+    "sitemap_update": 1770613255000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,70 @@
+{
+    "name": "level-if-340",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1542334130,
+            "author": 8620589,
+            "stamp": 1772202485,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度宜居, 积极, 补给可能。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542324000,
+            "author": 8585657,
+            "stamp": 1772156542,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468179987,
+    "rating": 8,
+    "forum_thread": 17597000,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度宜居",
+        "积极",
+        "补给可能"
+    ],
+    "title": "Level IF-340 “蔚蓝孤屿”",
+    "sitemap_update": 1772202485000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            8585657,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            10157685,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": true
+}

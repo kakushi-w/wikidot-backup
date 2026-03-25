@@ -1,0 +1,133 @@
+{
+    "name": "level-if-207",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1531641876,
+            "author": 8620589,
+            "stamp": 1755580505,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531641827,
+            "author": 8620589,
+            "stamp": 1755580216,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531639658,
+            "author": 8620589,
+            "stamp": 1755569420,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531626619,
+            "author": 8620589,
+            "stamp": 1755505291,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531625706,
+            "author": 8620589,
+            "stamp": 1755501014,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531625659,
+            "author": 8620589,
+            "stamp": 1755500874,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531625418,
+            "author": 8620589,
+            "stamp": 1755499629,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531625354,
+            "author": 8620589,
+            "stamp": 1755499243,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460074110,
+    "rating": 12,
+    "forum_thread": 17203252,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "生存难度0"
+    ],
+    "title": "Level IF-207",
+    "sitemap_update": 1755580505000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9831743,
+            true
+        ],
+        [
+            9385645,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

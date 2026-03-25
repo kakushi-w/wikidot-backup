@@ -1,0 +1,82 @@
+{
+    "name": "level-if-163",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532377401,
+            "author": 9454668,
+            "stamp": 1758335240,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532375777,
+            "author": 8620589,
+            "stamp": 1758328425,
+            "flags": "A",
+            "commentary": "已新增标签：虚妄归档设定。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531194622,
+            "author": 8620589,
+            "stamp": 1753521331,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531194560,
+            "author": 8620589,
+            "stamp": 1753521087,
+            "flags": "A",
+            "commentary": "已新增标签：crossover, 原创, 层级, 生存难度1。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531194545,
+            "author": 8620589,
+            "stamp": 1753521008,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459965763,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 3,
+    "tags": [
+        "crossover",
+        "原创",
+        "层级",
+        "生存难度1",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-163",
+    "sitemap_update": 1758335240000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

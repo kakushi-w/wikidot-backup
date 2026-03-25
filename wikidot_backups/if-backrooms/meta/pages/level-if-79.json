@@ -1,0 +1,224 @@
+{
+    "name": "level-if-79",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1540292936,
+            "author": 9850702,
+            "stamp": 1764987943,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539780905,
+            "author": 9850702,
+            "stamp": 1763723797,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539780795,
+            "author": 9850702,
+            "stamp": 1763723257,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532579372,
+            "author": 9850702,
+            "stamp": 1759315589,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532579359,
+            "author": 9850702,
+            "stamp": 1759315544,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532579320,
+            "author": 9850702,
+            "stamp": 1759315395,
+            "flags": "F",
+            "commentary": "已上传文件 “S-225-4”。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532579318,
+            "author": 9850702,
+            "stamp": 1759315363,
+            "flags": "F",
+            "commentary": "已上传文件 “S-225-3”。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532579309,
+            "author": 9850702,
+            "stamp": 1759315327,
+            "flags": "F",
+            "commentary": "已上传文件 “E”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532579301,
+            "author": 9850702,
+            "stamp": 1759315286,
+            "flags": "F",
+            "commentary": "已上传文件 “S-225-2”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532579283,
+            "author": 9850702,
+            "stamp": 1759315202,
+            "flags": "F",
+            "commentary": "已上传文件 “Level-s-225-1”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532386541,
+            "author": 9850702,
+            "stamp": 1758369775,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532386492,
+            "author": 9850702,
+            "stamp": 1758369554,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 感官影响, 环境危害, 生存难度5。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532386389,
+            "author": 9850702,
+            "stamp": 1758369393,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11477184,
+            "name": "E",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-79/E",
+            "size": "5.58 kB (5718 Bytes)",
+            "size_bytes": 5718,
+            "mime": "image/png",
+            "content": "PNG image data, 234 x 197, 8-bit/color RGBA, non-interlaced",
+            "author": 9850702,
+            "stamp": 1759315328,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11477182,
+            "name": "Level-s-225-1",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-79/Level-s-225-1",
+            "size": "2.01 MB (2108801 Bytes)",
+            "size_bytes": 2108801,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 3952x5920, components 3",
+            "author": 9850702,
+            "stamp": 1759315203,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11477183,
+            "name": "S-225-2",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-79/S-225-2",
+            "size": "2.9 MB (3036256 Bytes)",
+            "size_bytes": 3036256,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 5560x3708, components 3",
+            "author": 9850702,
+            "stamp": 1759315287,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11477185,
+            "name": "S-225-3",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-79/S-225-3",
+            "size": "2.16 MB (2269790 Bytes)",
+            "size_bytes": 2269790,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 3932x5914, components 3",
+            "author": 9850702,
+            "stamp": 1759315364,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11477186,
+            "name": "S-225-4",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-79/S-225-4",
+            "size": "140.3 kB (143665 Bytes)",
+            "size_bytes": 143665,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1000x1001, components 3",
+            "author": 9850702,
+            "stamp": 1759315395,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460422929,
+    "rating": 9,
+    "forum_thread": 17255368,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "感官影响",
+        "环境危害",
+        "生存难度5"
+    ],
+    "title": "Level IF-79 - “通向深渊之门”",
+    "sitemap_update": 1764987943000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9552098,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

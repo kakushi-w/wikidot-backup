@@ -1,0 +1,74 @@
+{
+    "name": "level-if-405",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541498472,
+            "author": 9555733,
+            "stamp": 1768910080,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541498459,
+            "author": 9555733,
+            "stamp": 1768910024,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 反转, 层级, 开阔性, 探险者总署, 生存难度宜居。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541481997,
+            "author": 9555733,
+            "stamp": 1768828066,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468023951,
+    "forum_thread": 17566695,
+    "tags": [
+        "原创",
+        "反转",
+        "层级",
+        "开阔性",
+        "探险者总署",
+        "生存难度宜居"
+    ],
+    "title": "Level IF-405",
+    "sitemap_update": 1768910080000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

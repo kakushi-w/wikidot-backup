@@ -1,0 +1,72 @@
+{
+    "name": "level-if-140",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542191651,
+            "author": 9419995,
+            "stamp": 1771660519,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541698002,
+            "author": 8620589,
+            "stamp": 1769868965,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541687516,
+            "author": 8620589,
+            "stamp": 1769829391,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 室外, 层级, 开阔性, 时间异常, 生存难度3, 风暴。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541687497,
+            "author": 8620589,
+            "stamp": 1769829304,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468070841,
+    "rating": 4,
+    "forum_thread": 17575997,
+    "tags": [
+        "原创",
+        "室外",
+        "层级",
+        "开阔性",
+        "时间异常",
+        "生存难度3",
+        "风暴"
+    ],
+    "title": "Level IF-140",
+    "sitemap_update": 1771660519000,
+    "votings": [
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

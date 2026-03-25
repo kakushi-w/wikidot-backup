@@ -1,0 +1,236 @@
+{
+    "name": "level-323",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 21,
+            "global_revision": 1531579536,
+            "author": 9454668,
+            "stamp": 1755259394,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1531402693,
+            "author": 9454668,
+            "stamp": 1754445179,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1531402663,
+            "author": 9454668,
+            "stamp": 1754445047,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1531077064,
+            "author": 9454668,
+            "stamp": 1752911222,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 16"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1531077057,
+            "author": 9454668,
+            "stamp": 1752911198,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1530720482,
+            "author": 9454668,
+            "stamp": 1751162944,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1530504854,
+            "author": 9454668,
+            "stamp": 1749910236,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1530471084,
+            "author": 9454668,
+            "stamp": 1749682606,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1530409568,
+            "author": 9454668,
+            "stamp": 1749297153,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1530367620,
+            "author": 9454668,
+            "stamp": 1749041956,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1530323215,
+            "author": 9454668,
+            "stamp": 1748756001,
+            "flags": "A",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1530323214,
+            "author": 9454668,
+            "stamp": 1748756000,
+            "flags": "A",
+            "commentary": "已新增标签：开阔性。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530309429,
+            "author": 9454668,
+            "stamp": 1748673311,
+            "flags": "S",
+            "commentary": "多了个词儿"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530309211,
+            "author": 9454668,
+            "stamp": 1748671755,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530309027,
+            "author": 9454668,
+            "stamp": 1748670985,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530309017,
+            "author": 9454668,
+            "stamp": 1748670883,
+            "flags": "A",
+            "commentary": "已新增标签：喜剧, 层级, 探险者总署, 水域, 生存难度宜居, 翻译。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530309011,
+            "author": 9454668,
+            "stamp": 1748670857,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530309004,
+            "author": 9454668,
+            "stamp": 1748670767,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530308996,
+            "author": 9454668,
+            "stamp": 1748670699,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530308971,
+            "author": 9454668,
+            "stamp": 1748670552,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530308943,
+            "author": 9454668,
+            "stamp": 1748670428,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530308919,
+            "author": 9454668,
+            "stamp": 1748670200,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459741936,
+    "rating": 9,
+    "forum_thread": 17141796,
+    "tags": [
+        "喜剧",
+        "层级",
+        "开阔性",
+        "探险者总署",
+        "水域",
+        "生存难度宜居",
+        "翻译"
+    ],
+    "title": "Level 323 - “岛屿使用政策”",
+    "sitemap_update": 1755259394000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9375128,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            9895946,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9631596,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,71 @@
+{
+    "name": "an-old-people-with-his-death",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541883661,
+            "author": 9555733,
+            "stamp": 1770710668,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541882201,
+            "author": 9555733,
+            "stamp": 1770706021,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541882182,
+            "author": 9555733,
+            "stamp": 1770705934,
+            "flags": "A",
+            "commentary": "已新增标签：我们正热烈地活着, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541882173,
+            "author": 9555733,
+            "stamp": 1770705886,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468113616,
+    "forum_thread": 17586261,
+    "tags": [
+        "原创",
+        "我们正热烈地活着",
+        "故事"
+    ],
+    "title": "身处故乡的断肠人",
+    "sitemap_update": 1770710668000,
+    "votings": [
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,120 @@
+{
+    "name": "level-if-484",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1542120835,
+            "author": 9555733,
+            "stamp": 1771326400,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542063626,
+            "author": 9555733,
+            "stamp": 1771040527,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541821108,
+            "author": 9555733,
+            "stamp": 1770433223,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541815296,
+            "author": 9555733,
+            "stamp": 1770397971,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541813774,
+            "author": 9555733,
+            "stamp": 1770392115,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541813709,
+            "author": 9555733,
+            "stamp": 1770392019,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541812204,
+            "author": 9555733,
+            "stamp": 1770386553,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 环境危害, 生存难度不适用。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541812182,
+            "author": 9555733,
+            "stamp": 1770386469,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541812087,
+            "author": 9555733,
+            "stamp": 1770385942,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468100872,
+    "forum_thread": 17588336,
+    "tags": [
+        "原创",
+        "层级",
+        "环境危害",
+        "生存难度不适用"
+    ],
+    "title": "Level IF-484",
+    "sitemap_update": 1771326400000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,94 @@
+{
+    "name": "level-if-131",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532365963,
+            "author": 9422717,
+            "stamp": 1758285036,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531461522,
+            "author": 9422717,
+            "stamp": 1754742463,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531457538,
+            "author": 9422717,
+            "stamp": 1754724333,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 奇异, 封闭性, 层级, 生存难度2, 精神影响。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531457525,
+            "author": 9422717,
+            "stamp": 1754724288,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531457521,
+            "author": 9422717,
+            "stamp": 1754724264,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460023356,
+    "rating": 8,
+    "tags": [
+        "原创",
+        "奇异",
+        "封闭性",
+        "层级",
+        "生存难度2",
+        "精神影响"
+    ],
+    "title": "Level IF-131",
+    "sitemap_update": 1758285036000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9051567,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9192541,
+            true
+        ]
+    ],
+    "is_locked": false
+}

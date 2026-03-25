@@ -1,0 +1,85 @@
+{
+    "name": "level-if-202",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1540081513,
+            "author": 8620589,
+            "stamp": 1764508874,
+            "flags": "A",
+            "commentary": "已新增标签：层级, 建筑, 生存难度3。 移除标签：待删除。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540073013,
+            "author": 7344601,
+            "stamp": 1764491638,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。 移除标签：层级, 生存难度3。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531716253,
+            "author": 9454668,
+            "stamp": 1755926663,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531706738,
+            "author": 8620589,
+            "stamp": 1755871802,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度3。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531706660,
+            "author": 8620589,
+            "stamp": 1755871574,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460094166,
+    "rating": 4,
+    "forum_thread": 17226368,
+    "tags": [
+        "原创",
+        "层级",
+        "建筑",
+        "生存难度3"
+    ],
+    "title": "Level IF-202",
+    "sitemap_update": 1764508874000,
+    "votings": [
+        [
+            9782125,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            7344601,
+            false
+        ]
+    ],
+    "is_locked": false
+}

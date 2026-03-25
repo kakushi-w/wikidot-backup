@@ -1,0 +1,77 @@
+{
+    "name": "tanming",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532614937,
+            "author": 8317495,
+            "stamp": 1759460189,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532614921,
+            "author": 8317495,
+            "stamp": 1759460131,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532614866,
+            "author": 8317495,
+            "stamp": 1759459896,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532614842,
+            "author": 8317495,
+            "stamp": 1759459812,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460481601,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "仇恨还是死亡",
+    "sitemap_update": 1759460189000,
+    "votings": [
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

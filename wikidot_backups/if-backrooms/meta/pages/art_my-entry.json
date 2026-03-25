@@ -1,0 +1,75 @@
+{
+    "name": "art:my-entry",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1530829461,
+            "author": 9454668,
+            "stamp": 1751695568,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530327116,
+            "author": 9454668,
+            "stamp": 1748780555,
+            "flags": "S",
+            "commentary": "译者信息"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530325341,
+            "author": 9454668,
+            "stamp": 1748770464,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530325331,
+            "author": 9454668,
+            "stamp": 1748770390,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530325318,
+            "author": 9454668,
+            "stamp": 1748770303,
+            "flags": "A",
+            "commentary": "已新增标签：2025横幅竞赛, 翻译, 艺术作品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530325315,
+            "author": 9454668,
+            "stamp": 1748770284,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459744221,
+    "rating": 2,
+    "tags": [
+        "2025横幅竞赛",
+        "翻译",
+        "艺术作品"
+    ],
+    "title": "Blu的横幅条目",
+    "sitemap_update": 1751695568000,
+    "votings": [
+        [
+            9375128,
+            true
+        ],
+        [
+            8620589,
+            true
+        ]
+    ],
+    "is_locked": false
+}

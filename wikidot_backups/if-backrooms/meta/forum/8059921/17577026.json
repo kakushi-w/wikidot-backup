@@ -1,0 +1,39 @@
+{
+    "title": "Level IF-501 ：遗蓝之骸",
+    "id": 17577026,
+    "description": "",
+    "last": 1769991913,
+    "lastUser": 8620589,
+    "started": 1769962250,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7530192,
+            "title": "",
+            "poster": 9609194,
+            "stamp": 1769963853,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7530183,
+            "title": "作者贴",
+            "poster": 10206888,
+            "stamp": 1769962352,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7530497,
+            "title": "",
+            "poster": 8620589,
+            "stamp": 1769991913,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

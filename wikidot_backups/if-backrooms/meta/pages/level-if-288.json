@@ -1,0 +1,111 @@
+{
+    "name": "level-if-288",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1540602049,
+            "author": 9950499,
+            "stamp": 1765630474,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539142224,
+            "author": 9950499,
+            "stamp": 1762587088,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1539142150,
+            "author": 9950499,
+            "stamp": 1762586932,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539141935,
+            "author": 9454668,
+            "stamp": 1762586088,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度其他。 移除标签：数学, 生存难度其它。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539141927,
+            "author": 9454668,
+            "stamp": 1762586063,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539141248,
+            "author": 9099707,
+            "stamp": 1762583526,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 数学, 生存难度其它。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539141179,
+            "author": 9950499,
+            "stamp": 1762583226,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539141029,
+            "author": 9950499,
+            "stamp": 1762582783,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466494171,
+    "forum_thread": 17439446,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度其他"
+    ],
+    "title": "Level IF-288 - “数学”",
+    "sitemap_update": 1765630474000,
+    "votings": [
+        [
+            9115362,
+            false
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9950499,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

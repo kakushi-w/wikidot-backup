@@ -1,0 +1,76 @@
+{
+    "name": "level-if-160",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541655579,
+            "author": 9168168,
+            "stamp": 1769676104,
+            "flags": "S",
+            "commentary": "修改错别字"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531641754,
+            "author": 8620589,
+            "stamp": 1755579800,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531506818,
+            "author": 8620589,
+            "stamp": 1754983097,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 层级, 生存难度死区。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531506756,
+            "author": 8620589,
+            "stamp": 1754982895,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460034774,
+    "rating": 6,
+    "tags": [
+        "切行困难",
+        "原创",
+        "层级",
+        "生存难度死区"
+    ],
+    "title": "Level IF-160",
+    "sitemap_update": 1769676104000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9620145,
+            true
+        ]
+    ],
+    "is_locked": false
+}

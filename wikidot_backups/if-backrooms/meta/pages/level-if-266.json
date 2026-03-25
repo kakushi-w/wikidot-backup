@@ -1,0 +1,87 @@
+{
+    "name": "level-if-266",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1541944472,
+            "author": 9422717,
+            "stamp": 1770805663,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541826199,
+            "author": 9422717,
+            "stamp": 1770457205,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541826178,
+            "author": 9422717,
+            "stamp": 1770457156,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541826160,
+            "author": 9422717,
+            "stamp": 1770457052,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541810396,
+            "author": 9422717,
+            "stamp": 1770380589,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度未分级。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541810366,
+            "author": 9422717,
+            "stamp": 1770380512,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468100548,
+    "rating": 5,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度未分级"
+    ],
+    "title": "Level IF-266",
+    "sitemap_update": 1770805663000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

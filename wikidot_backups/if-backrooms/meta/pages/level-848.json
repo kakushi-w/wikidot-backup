@@ -1,0 +1,183 @@
+{
+    "name": "level-848",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 15,
+            "global_revision": 1532999544,
+            "author": 9454668,
+            "stamp": 1760310567,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1532149848,
+            "author": 9454668,
+            "stamp": 1757128030,
+            "flags": "A",
+            "commentary": "已新增标签：封闭性, 建筑。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1532116901,
+            "author": 9454668,
+            "stamp": 1757066254,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1532108359,
+            "author": 9454668,
+            "stamp": 1757048432,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531790693,
+            "author": 9454668,
+            "stamp": 1756268047,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531789733,
+            "author": 9454668,
+            "stamp": 1756264255,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531789700,
+            "author": 9454668,
+            "stamp": 1756264085,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531781590,
+            "author": 9454668,
+            "stamp": 1756220440,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531778691,
+            "author": 9454668,
+            "stamp": 1756211615,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531778674,
+            "author": 9454668,
+            "stamp": 1756211535,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 4"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531778663,
+            "author": 9454668,
+            "stamp": 1756211504,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531778649,
+            "author": 9454668,
+            "stamp": 1756211467,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531777394,
+            "author": 9454668,
+            "stamp": 1756206548,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531776796,
+            "author": 9454668,
+            "stamp": 1756204113,
+            "flags": "A",
+            "commentary": "已新增标签：2025决斗竞赛, 2025希望队, 层级, 永恒资料库, 派对客, 生存难度其他, 翻译, 阿丽亚娜集团。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531776793,
+            "author": 9454668,
+            "stamp": 1756204095,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531776789,
+            "author": 9454668,
+            "stamp": 1756204071,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460109692,
+    "rating": 7,
+    "forum_thread": 17233152,
+    "tags": [
+        "2025决斗竞赛",
+        "2025希望队",
+        "封闭性",
+        "层级",
+        "建筑",
+        "永恒资料库",
+        "派对客",
+        "生存难度其他",
+        "翻译",
+        "阿丽亚娜集团"
+    ],
+    "title": "Level 848 - “阔室”",
+    "sitemap_update": 1760310567000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9701536,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": false
+}

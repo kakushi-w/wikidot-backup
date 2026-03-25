@@ -1,0 +1,41 @@
+{
+    "name": "template:hierarchical-writing-template",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1528526412,
+            "author": 9375128,
+            "stamp": 1742384732,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528522836,
+            "author": 9375128,
+            "stamp": 1742358817,
+            "flags": "A",
+            "commentary": "已新增标签：指导, 管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528511980,
+            "author": 9375128,
+            "stamp": 1742289616,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458734066,
+    "rating": 0,
+    "tags": [
+        "指导",
+        "管理"
+    ],
+    "title": "写作模板：层级",
+    "sitemap_update": 1742384732000,
+    "votings": [],
+    "is_locked": false
+}

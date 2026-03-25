@@ -1,0 +1,50 @@
+{
+    "name": "guide-hub",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1530015657,
+            "author": 9375128,
+            "stamp": 1746762919,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 1"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530006357,
+            "author": 9675563,
+            "stamp": 1746711292,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529171312,
+            "author": 9375128,
+            "stamp": 1744280228,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 总览, 管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529171306,
+            "author": 9375128,
+            "stamp": 1744280208,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459143539,
+    "forum_thread": 17594096,
+    "tags": [
+        "原创",
+        "总览",
+        "管理"
+    ],
+    "title": "指导中心",
+    "sitemap_update": 1746762919000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,130 @@
+{
+    "name": "level-if-500",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1542382841,
+            "author": 9454668,
+            "stamp": 1772451700,
+            "flags": "A",
+            "commentary": "已新增标签：奖励精品。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542376499,
+            "author": 8196010,
+            "stamp": 1772418769,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"if500mcmk-1234umouxuziqihaodemingzi\" 至 \"level-if-500\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541739543,
+            "author": 9419995,
+            "stamp": 1770013423,
+            "flags": "A",
+            "commentary": "已新增标签：合著。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541737004,
+            "author": 8620589,
+            "stamp": 1770000888,
+            "flags": "S",
+            "commentary": "修改错字"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541728079,
+            "author": 7344601,
+            "stamp": 1769962158,
+            "flags": "A",
+            "commentary": "已新增标签：if500, 原创, 层级。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541728060,
+            "author": 7344601,
+            "stamp": 1769962078,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468077593,
+    "rating": 15,
+    "forum_thread": 17577025,
+    "tags": [
+        "if500",
+        "原创",
+        "合著",
+        "奖励精品",
+        "层级"
+    ],
+    "title": "Level IF-500：渊逝遗城",
+    "sitemap_update": 1772451700000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9690576,
+            true
+        ],
+        [
+            9375128,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            10206888,
+            true
+        ],
+        [
+            10209740,
+            true
+        ],
+        [
+            9669086,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9555733,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": true
+}

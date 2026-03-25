@@ -1,0 +1,117 @@
+{
+    "name": "prince-des-vaches",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1542383049,
+            "author": 9100566,
+            "stamp": 1772452508,
+            "flags": "S",
+            "commentary": "更新"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542382968,
+            "author": 9100566,
+            "stamp": 1772452085,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542382783,
+            "author": 9454668,
+            "stamp": 1772451314,
+            "flags": "A",
+            "commentary": "已新增标签：翻译精品。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542345687,
+            "author": 9100566,
+            "stamp": 1772263853,
+            "flags": "A",
+            "commentary": "已新增标签：翻译。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542345683,
+            "author": 9100566,
+            "stamp": 1772263838,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542345548,
+            "author": 9100566,
+            "stamp": 1772263166,
+            "flags": "A",
+            "commentary": "已新增标签：故事, 阿丽亚娜集团。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542345544,
+            "author": 9100566,
+            "stamp": 1772263149,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468184479,
+    "rating": 10,
+    "forum_thread": 17598406,
+    "tags": [
+        "故事",
+        "翻译",
+        "翻译精品",
+        "阿丽亚娜集团"
+    ],
+    "title": "牛之王子",
+    "sitemap_update": 1772452508000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9100566,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

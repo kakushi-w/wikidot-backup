@@ -1,0 +1,32 @@
+{
+    "title": "版式：雨",
+    "id": 17589865,
+    "description": "",
+    "last": 1771229790,
+    "lastUser": 9657913,
+    "started": 1771217795,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7554693,
+            "title": "uv",
+            "poster": 9861467,
+            "stamp": 1771217817,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7554863,
+                    "title": "Re: uv",
+                    "poster": 9657913,
+                    "stamp": 1771229790,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

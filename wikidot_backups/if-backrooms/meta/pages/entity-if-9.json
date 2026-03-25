@@ -1,0 +1,83 @@
+{
+    "name": "entity-if-9",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1541847638,
+            "author": 8620589,
+            "stamp": 1770559156,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531216634,
+            "author": 8620589,
+            "stamp": 1753619545,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531216004,
+            "author": 8620589,
+            "stamp": 1753617160,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531215816,
+            "author": 8620589,
+            "stamp": 1753616318,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 实体。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531215809,
+            "author": 8620589,
+            "stamp": 1753616288,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459970399,
+    "rating": 6,
+    "forum_thread": 17172579,
+    "tags": [
+        "原创",
+        "实体"
+    ],
+    "title": "Entity IF-9",
+    "sitemap_update": 1770559156000,
+    "votings": [
+        [
+            9782125,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

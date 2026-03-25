@@ -1,0 +1,38 @@
+{
+    "title": "版式：天空",
+    "id": 17173768,
+    "description": "",
+    "last": 1753919467,
+    "lastUser": 9657913,
+    "started": 1753919381,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7091202,
+            "title": "",
+            "poster": 9657913,
+            "stamp": 1753919467,
+            "lastEdit": 1771668043,
+            "lastEditBy": 9657913,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9657913,
+                    "id": 9111142,
+                    "stamp": 1771668043
+                },
+                {
+                    "title": "",
+                    "author": 9657913,
+                    "id": 8578677,
+                    "stamp": 1753919467
+                }
+            ],
+            "children": []
+        }
+    ]
+}

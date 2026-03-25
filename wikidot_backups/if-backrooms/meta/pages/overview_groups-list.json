@@ -1,0 +1,112 @@
+{
+    "name": "overview:groups-list",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1540729533,
+            "author": 9306319,
+            "stamp": 1766139066,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1540305606,
+            "author": 9306319,
+            "stamp": 1765036742,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1540305557,
+            "author": 9306319,
+            "stamp": 1765036543,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532671061,
+            "author": 9306319,
+            "stamp": 1759595676,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532507358,
+            "author": 9306319,
+            "stamp": 1758972206,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532504696,
+            "author": 9306319,
+            "stamp": 1758961083,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532504554,
+            "author": 9306319,
+            "stamp": 1758960618,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532504543,
+            "author": 9306319,
+            "stamp": 1758960584,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532504502,
+            "author": 9306319,
+            "stamp": 1758960376,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532504482,
+            "author": 9306319,
+            "stamp": 1758960279,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530542167,
+            "author": 9100566,
+            "stamp": 1750141493,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528492689,
+            "author": 9375128,
+            "stamp": 1742185938,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727569,
+    "tags": [
+        "原创",
+        "总览"
+    ],
+    "title": "团体列表",
+    "sitemap_update": 1766139066000,
+    "votings": [],
+    "is_locked": false
+}

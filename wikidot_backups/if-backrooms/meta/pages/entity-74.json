@@ -1,0 +1,155 @@
+{
+    "name": "entity-74",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1539360309,
+            "author": 9454668,
+            "stamp": 1763010268,
+            "flags": "A",
+            "commentary": "移除标签：不结盟贸易集团, 后室机器人科技, 失落一族, 铁拳。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1533183803,
+            "author": 9454668,
+            "stamp": 1761261295,
+            "flags": "A",
+            "commentary": "已新增标签：翻译精品。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532553277,
+            "author": 9454668,
+            "stamp": 1759204537,
+            "flags": "A",
+            "commentary": "已新增标签：狩猎之主赫恩。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532482704,
+            "author": 9454668,
+            "stamp": 1758858969,
+            "flags": "A",
+            "commentary": "已新增标签：层级11。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532389174,
+            "author": 9454668,
+            "stamp": 1758378084,
+            "flags": "A",
+            "commentary": "已新增标签：中立。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532386094,
+            "author": 9454668,
+            "stamp": 1758368553,
+            "flags": "A",
+            "commentary": "已新增标签：现实扭曲。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532383798,
+            "author": 9454668,
+            "stamp": 1758358936,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532382616,
+            "author": 9454668,
+            "stamp": 1758354539,
+            "flags": "A",
+            "commentary": "移除标签：万神殿。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532368002,
+            "author": 9454668,
+            "stamp": 1758291564,
+            "flags": "A",
+            "commentary": "已新增标签：万神殿, 不结盟贸易集团, 人类关联, 后室机器人科技, 失落一族, 奇异, 孤例, 实体, 恐怖, 智能, 神秘, 翻译, 铁拳, 阿尔戈斯之眼。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532367998,
+            "author": 9454668,
+            "stamp": 1758291552,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460418479,
+    "rating": 11,
+    "forum_thread": 17251101,
+    "tags": [
+        "中立",
+        "人类关联",
+        "奇异",
+        "孤例",
+        "实体",
+        "层级11",
+        "恐怖",
+        "智能",
+        "狩猎之主赫恩",
+        "现实扭曲",
+        "神秘",
+        "翻译",
+        "翻译精品",
+        "阿尔戈斯之眼"
+    ],
+    "title": "Entity 74 - “阿尔戈斯”",
+    "sitemap_update": 1763010268000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9385645,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

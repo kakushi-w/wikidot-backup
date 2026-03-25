@@ -1,0 +1,210 @@
+{
+    "name": "nivel-es-5-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 15,
+            "global_revision": 1531178890,
+            "author": 9454668,
+            "stamp": 1753443143,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1531159691,
+            "author": 9454668,
+            "stamp": 1753345086,
+            "flags": "A",
+            "commentary": "已新增标签：轨道交通。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531159329,
+            "author": 9454668,
+            "stamp": 1753343535,
+            "flags": "A",
+            "commentary": "已新增标签：翻译精品。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531029061,
+            "author": 9454668,
+            "stamp": 1752670994,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531029035,
+            "author": 9454668,
+            "stamp": 1752670903,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531028062,
+            "author": 9454668,
+            "stamp": 1752667425,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531027670,
+            "author": 9454668,
+            "stamp": 1752665681,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530826970,
+            "author": 9454668,
+            "stamp": 1751682013,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530814672,
+            "author": 9454668,
+            "stamp": 1751612309,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 5"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530814669,
+            "author": 9454668,
+            "stamp": 1751612268,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530814608,
+            "author": 9454668,
+            "stamp": 1751611974,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530814556,
+            "author": 9454668,
+            "stamp": 1751611903,
+            "flags": "A",
+            "commentary": "已新增标签：生存难度其他。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530814540,
+            "author": 9454668,
+            "stamp": 1751611828,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530814526,
+            "author": 9454668,
+            "stamp": 1751611673,
+            "flags": "S",
+            "commentary": "把第一个自然段的最后一个句子改通顺点"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530813705,
+            "author": 9454668,
+            "stamp": 1751607541,
+            "flags": "A",
+            "commentary": "已新增标签：es, 二次翻译, 子层级, 层级, 恐怖, 悲剧, 惊悚, 格式错乱, 神秘, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530813694,
+            "author": 9454668,
+            "stamp": 1751607478,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459875276,
+    "rating": 13,
+    "forum_thread": 17166745,
+    "tags": [
+        "es",
+        "二次翻译",
+        "子层级",
+        "层级",
+        "恐怖",
+        "悲剧",
+        "惊悚",
+        "格式错乱",
+        "生存难度其他",
+        "神秘",
+        "翻译",
+        "翻译精品",
+        "轨道交通"
+    ],
+    "title": "Level ES-5.1 - “轨道”",
+    "sitemap_update": 1753443143000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9701536,
+            true
+        ],
+        [
+            9535635,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            8159070,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9575701,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": true
+}

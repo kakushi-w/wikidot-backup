@@ -1,0 +1,101 @@
+{
+    "title": "Level IF-101",
+    "id": 17147987,
+    "description": "",
+    "last": 1749768011,
+    "lastUser": 9099707,
+    "started": 1749616672,
+    "startedUser": null,
+    "postsNum": 7,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7027164,
+            "title": "秽土转生",
+            "poster": 9639856,
+            "stamp": 1749637766,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7027331,
+            "title": "DV",
+            "poster": 8759709,
+            "stamp": 1749645081,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7027368,
+                    "title": "",
+                    "poster": 8759709,
+                    "stamp": 1749646585,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7027224,
+            "title": "dv致歉",
+            "poster": 9099707,
+            "stamp": 1749640444,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7027239,
+                    "title": "Re: dv致歉",
+                    "poster": 9375128,
+                    "stamp": 1749641092,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7028765,
+                            "title": "Re: dv致歉",
+                            "poster": 9099707,
+                            "stamp": 1749768011,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7026762,
+            "title": "作者帖",
+            "poster": 9168168,
+            "stamp": 1749616925,
+            "lastEdit": 1749645527,
+            "lastEditBy": 9168168,
+            "revisions": [
+                {
+                    "title": "作者帖",
+                    "author": 9168168,
+                    "id": 8500482,
+                    "stamp": 1749645527
+                },
+                {
+                    "title": "作者帖",
+                    "author": 9168168,
+                    "id": 8500474,
+                    "stamp": 1749645384
+                },
+                {
+                    "title": "作者帖",
+                    "author": 9168168,
+                    "id": 8499841,
+                    "stamp": 1749616925
+                },
+                {
+                    "title": "作者帖",
+                    "author": 9168168,
+                    "id": 8500436,
+                    "stamp": 1749643944
+                }
+            ],
+            "children": []
+        }
+    ]
+}

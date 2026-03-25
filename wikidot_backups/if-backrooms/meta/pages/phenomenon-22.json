@@ -1,0 +1,81 @@
+{
+    "name": "phenomenon-22",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1541773548,
+            "author": 9100566,
+            "stamp": 1770190135,
+            "flags": "A",
+            "commentary": "已新增标签：翻译精品。 移除标签：精品。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541773272,
+            "author": 8620589,
+            "stamp": 1770188660,
+            "flags": "A",
+            "commentary": "已新增标签：精品。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541735854,
+            "author": 9100566,
+            "stamp": 1769994721,
+            "flags": "S",
+            "commentary": "小更改"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530542212,
+            "author": 9100566,
+            "stamp": 1750141698,
+            "flags": "A",
+            "commentary": "已新增标签：格式错乱, 现象, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530542204,
+            "author": 9100566,
+            "stamp": 1750141635,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459808395,
+    "rating": 5,
+    "forum_thread": 17157040,
+    "tags": [
+        "格式错乱",
+        "现象",
+        "翻译",
+        "翻译精品"
+    ],
+    "title": "Phenomenon 22 - “🪑”",
+    "sitemap_update": 1770190135000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": false
+}

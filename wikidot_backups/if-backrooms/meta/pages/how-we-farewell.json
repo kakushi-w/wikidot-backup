@@ -1,0 +1,79 @@
+{
+    "name": "how-we-farewell",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1540119239,
+            "author": 9575701,
+            "stamp": 1764654296,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540119223,
+            "author": 9575701,
+            "stamp": 1764654263,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467223308,
+    "rating": 11,
+    "forum_thread": 17469430,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "后室民风考：与死亡同居",
+    "sitemap_update": 1764654296000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            8113340,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9287769,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9375128,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ]
+    ],
+    "is_locked": true
+}

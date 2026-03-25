@@ -1,0 +1,98 @@
+{
+    "name": "phenomenon-if-10",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531463264,
+            "author": 8150801,
+            "stamp": 1754749050,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531436363,
+            "author": 8759709,
+            "stamp": 1754617625,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 现象。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531436343,
+            "author": 8759709,
+            "stamp": 1754617522,
+            "flags": "F",
+            "commentary": "已上传文件 “1”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531436326,
+            "author": 8759709,
+            "stamp": 1754617461,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11434686,
+            "name": "1",
+            "url": "http://if-backrooms.wikidot.com/local--files/phenomenon-if-10/1",
+            "size": "211.25 kB (216322 Bytes)",
+            "size_bytes": 216322,
+            "mime": "image/png",
+            "content": "PNG image data, 333 x 541, 8-bit/color RGBA, non-interlaced",
+            "author": 8759709,
+            "stamp": 1754617522,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460018261,
+    "tags": [
+        "原创",
+        "现象"
+    ],
+    "title": "Phenomenon IF-10",
+    "sitemap_update": 1754749050000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

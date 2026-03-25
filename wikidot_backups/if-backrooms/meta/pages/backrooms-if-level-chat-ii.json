@@ -1,0 +1,63 @@
+{
+    "name": "backrooms-if-level-chat-ii",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541616608,
+            "author": 7344601,
+            "stamp": 1769494296,
+            "flags": "A",
+            "commentary": "已新增标签：_作者自评。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541157451,
+            "author": 8620589,
+            "stamp": 1766936345,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 搞笑, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541157443,
+            "author": 8620589,
+            "stamp": 1766936306,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467937503,
+    "tags": [
+        "_作者自评",
+        "原创",
+        "搞笑",
+        "故事"
+    ],
+    "title": "IF层群的日常02",
+    "sitemap_update": 1769494296000,
+    "votings": [
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            7344601,
+            false
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

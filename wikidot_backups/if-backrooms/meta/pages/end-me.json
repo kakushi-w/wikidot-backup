@@ -1,0 +1,66 @@
+{
+    "name": "end-me",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531173845,
+            "author": 8620589,
+            "stamp": 1753419783,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531173758,
+            "author": 8620589,
+            "stamp": 1753419329,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531173755,
+            "author": 8620589,
+            "stamp": 1753419318,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459960767,
+    "rating": 6,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "自我终结",
+    "sitemap_update": 1753419783000,
+    "votings": [
+        [
+            9454668,
+            true
+        ],
+        [
+            9535635,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

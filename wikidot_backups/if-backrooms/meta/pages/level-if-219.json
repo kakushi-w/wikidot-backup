@@ -1,0 +1,134 @@
+{
+    "name": "level-if-219",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1531573311,
+            "author": 8728373,
+            "stamp": 1755235402,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531573295,
+            "author": 8728373,
+            "stamp": 1755235320,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531573283,
+            "author": 8728373,
+            "stamp": 1755235255,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531573268,
+            "author": 8728373,
+            "stamp": 1755235196,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 城镇, 层级, 建筑, 开放性, 昼夜变化, 生存难度死区, 降水。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531573251,
+            "author": 8728373,
+            "stamp": 1755235050,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531573236,
+            "author": 8728373,
+            "stamp": 1755234986,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460062905,
+    "rating": 15,
+    "forum_thread": 17191616,
+    "tags": [
+        "切行困难",
+        "原创",
+        "城镇",
+        "层级",
+        "建筑",
+        "开放性",
+        "昼夜变化",
+        "生存难度死区",
+        "降水"
+    ],
+    "title": "Level IF-219 - “路灯在弥留时熄灭”",
+    "sitemap_update": 1755235402000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9531925,
+            true
+        ],
+        [
+            9777570,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            9670203,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9895946,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

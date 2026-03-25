@@ -1,0 +1,128 @@
+{
+    "name": "level-if-389",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1541719118,
+            "author": 9792759,
+            "stamp": 1769944790,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539560127,
+            "author": 9792759,
+            "stamp": 1763306018,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 实体侵害, 层级, 开阔性, 浪漫, 生存难度死区。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539557032,
+            "author": 9792759,
+            "stamp": 1763304265,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539556720,
+            "author": 9792759,
+            "stamp": 1763304128,
+            "flags": "F",
+            "commentary": "已上传文件 “Screenshot_20251116_203943_com.baidu.searchbox_edit_22462197349138.jpg”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539556171,
+            "author": 9792759,
+            "stamp": 1763303838,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11681218,
+            "name": "Screenshot_20251116_203943_com.baidu.searchbox_edit_22462197349138.jpg",
+            "url": "http://if-backrooms.wikidot.com/local--files/level-if-389/Screenshot_20251116_203943_com.baidu.searchbox_edit_22462197349138.jpg",
+            "size": "193.21 kB (197848 Bytes)",
+            "size_bytes": 197848,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 909x644, components 3",
+            "author": 9792759,
+            "stamp": 1763304128,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1466803365,
+    "rating": 11,
+    "forum_thread": 17451077,
+    "tags": [
+        "原创",
+        "实体侵害",
+        "层级",
+        "开阔性",
+        "浪漫",
+        "生存难度死区"
+    ],
+    "title": "Level IF-389",
+    "sitemap_update": 1769944790000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8414006,
+            false
+        ],
+        [
+            9419995,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

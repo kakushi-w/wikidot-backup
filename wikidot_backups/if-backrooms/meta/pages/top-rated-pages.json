@@ -1,0 +1,33 @@
+{
+    "name": "top-rated-pages",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 1528492716,
+            "author": 9375128,
+            "stamp": 1742185938,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727596,
+    "tags": [
+        "功能",
+        "管理"
+    ],
+    "title": "最高评分的页面",
+    "sitemap_update": 1742185938000,
+    "votings": [
+        [
+            8620589,
+            true
+        ],
+        [
+            9540010,
+            true
+        ]
+    ],
+    "is_locked": true
+}

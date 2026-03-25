@@ -1,0 +1,55 @@
+{
+    "title": "Level IF-50",
+    "id": 17159571,
+    "description": "",
+    "last": 1751091895,
+    "lastUser": 9099707,
+    "started": 1751076539,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7051803,
+            "title": "uv",
+            "poster": 9168168,
+            "stamp": 1751089361,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7051834,
+                    "title": "Re: uv",
+                    "poster": 9099707,
+                    "stamp": 1751091895,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7051678,
+            "title": "作者帖",
+            "poster": 9099707,
+            "stamp": 1751076569,
+            "lastEdit": 1751248266,
+            "lastEditBy": 9099707,
+            "revisions": [
+                {
+                    "title": "作者帖",
+                    "author": 9099707,
+                    "id": 8528048,
+                    "stamp": 1751076569
+                },
+                {
+                    "title": "作者帖",
+                    "author": 9099707,
+                    "id": 8530131,
+                    "stamp": 1751248266
+                }
+            ],
+            "children": []
+        }
+    ]
+}

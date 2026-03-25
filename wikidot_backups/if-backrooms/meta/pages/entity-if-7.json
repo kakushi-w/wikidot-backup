@@ -1,0 +1,117 @@
+{
+    "name": "entity-if-7",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532440498,
+            "author": 9454668,
+            "stamp": 1758629620,
+            "flags": "A",
+            "commentary": "已新增标签：精品。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531562416,
+            "author": 9302580,
+            "stamp": 1755174259,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 实体, 格式错乱。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531562410,
+            "author": 9302580,
+            "stamp": 1755174239,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460060822,
+    "rating": 18,
+    "forum_thread": 17188541,
+    "tags": [
+        "原创",
+        "实体",
+        "格式错乱",
+        "精品"
+    ],
+    "title": "Entity IF-7 - “A替代了B，B杀死了A”",
+    "sitemap_update": 1758629620000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9701536,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            8728373,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            9669086,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9555733,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": true
+}

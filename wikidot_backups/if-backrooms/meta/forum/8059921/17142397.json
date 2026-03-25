@@ -1,0 +1,44 @@
+{
+    "title": "Level 992 - “体验”",
+    "id": 17142397,
+    "description": "",
+    "last": 1748759347,
+    "lastUser": 9454668,
+    "started": 1748759284,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7019505,
+            "title": "",
+            "poster": 9454668,
+            "stamp": 1748759347,
+            "lastEdit": 1748759622,
+            "lastEditBy": 9454668,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9454668,
+                    "id": 8490229,
+                    "stamp": 1748759622
+                },
+                {
+                    "title": "",
+                    "author": 9454668,
+                    "id": 8490222,
+                    "stamp": 1748759347
+                },
+                {
+                    "title": "",
+                    "author": 9454668,
+                    "id": 8490227,
+                    "stamp": 1748759523
+                }
+            ],
+            "children": []
+        }
+    ]
+}

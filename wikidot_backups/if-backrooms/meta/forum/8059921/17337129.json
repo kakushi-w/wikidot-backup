@@ -1,0 +1,99 @@
+{
+    "title": "Level IF-300",
+    "id": 17337129,
+    "description": "",
+    "last": 1772193737,
+    "lastUser": 9551174,
+    "started": 1760237902,
+    "startedUser": null,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7573248,
+            "title": "-0.5",
+            "poster": 9551174,
+            "stamp": 1772193737,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7299513,
+            "title": "+0.5",
+            "poster": 9485306,
+            "stamp": 1760238756,
+            "lastEdit": 1760238866,
+            "lastEditBy": 9485306,
+            "revisions": [
+                {
+                    "title": "+0.5",
+                    "author": 9485306,
+                    "id": 8810499,
+                    "stamp": 1760238866
+                },
+                {
+                    "title": "+0.5",
+                    "author": 9485306,
+                    "id": 8810496,
+                    "stamp": 1760238850
+                },
+                {
+                    "title": "+0.5",
+                    "author": 9485306,
+                    "id": 8810494,
+                    "stamp": 1760238822
+                },
+                {
+                    "title": "+0.5",
+                    "author": 9485306,
+                    "id": 8810489,
+                    "stamp": 1760238756
+                }
+            ],
+            "children": [
+                {
+                    "id": 7299532,
+                    "title": "Re: +0.5",
+                    "poster": 9485306,
+                    "stamp": 1760239042,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7482300,
+            "title": "",
+            "poster": 9832778,
+            "stamp": 1766905686,
+            "lastEdit": 1767104559,
+            "lastEditBy": 9832778,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9832778,
+                    "id": 9017338,
+                    "stamp": 1767104559
+                },
+                {
+                    "title": "",
+                    "author": 9832778,
+                    "id": 9014372,
+                    "stamp": 1766905686
+                }
+            ],
+            "children": [
+                {
+                    "id": 7484212,
+                    "title": "",
+                    "poster": 9375128,
+                    "stamp": 1767068168,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

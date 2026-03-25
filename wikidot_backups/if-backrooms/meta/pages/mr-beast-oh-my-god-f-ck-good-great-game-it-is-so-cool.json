@@ -1,0 +1,168 @@
+{
+    "name": "mr-beast-oh-my-god-f-ck-good-great-game-it-is-so-cool",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1532845332,
+            "author": 9551174,
+            "stamp": 1759902651,
+            "flags": "S",
+            "commentary": "加些奇怪的游戏"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532842996,
+            "author": 8317495,
+            "stamp": 1759891426,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532842928,
+            "author": 8317495,
+            "stamp": 1759891297,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532774201,
+            "author": 9333820,
+            "stamp": 1759807413,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532686374,
+            "author": 9630520,
+            "stamp": 1759663875,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532683770,
+            "author": 9609194,
+            "stamp": 1759653055,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532683614,
+            "author": 9609194,
+            "stamp": 1759652497,
+            "flags": "A",
+            "commentary": "已新增标签：合作。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532683594,
+            "author": 9609194,
+            "stamp": 1759652328,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532683540,
+            "author": 8620589,
+            "stamp": 1759652049,
+            "flags": "A",
+            "commentary": "已新增标签：crossover, 原创, 封闭性, 层级, 搞笑, 生存难度死区。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532683488,
+            "author": 8620589,
+            "stamp": 1759651938,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460493070,
+    "rating": 16,
+    "forum_thread": 17301831,
+    "tags": [
+        "crossover",
+        "原创",
+        "合作",
+        "封闭性",
+        "层级",
+        "搞笑",
+        "生存难度死区"
+    ],
+    "title": "野兽先生的疯狂游戏",
+    "sitemap_update": 1759902651000,
+    "votings": [
+        [
+            8828300,
+            true
+        ],
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            8457298,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9100566,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            9333820,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

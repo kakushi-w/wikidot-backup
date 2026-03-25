@@ -1,0 +1,91 @@
+{
+    "name": "level-if-58",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1540200918,
+            "author": 9009838,
+            "stamp": 1764798908,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540200889,
+            "author": 9009838,
+            "stamp": 1764798834,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540200862,
+            "author": 9009838,
+            "stamp": 1764798791,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540200839,
+            "author": 9009838,
+            "stamp": 1764798754,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540200828,
+            "author": 9009838,
+            "stamp": 1764798736,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467277969,
+    "rating": 6,
+    "forum_thread": 17478349,
+    "tags": [
+        "原创",
+        "层级"
+    ],
+    "title": "Level IF-58",
+    "sitemap_update": 1764798908000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9882061,
+            true
+        ],
+        [
+            10209740,
+            true
+        ],
+        [
+            7344601,
+            false
+        ]
+    ],
+    "is_locked": false
+}

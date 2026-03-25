@@ -1,0 +1,68 @@
+{
+    "name": "theme:music",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531171985,
+            "author": 9454668,
+            "stamp": 1753411416,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531158058,
+            "author": 9454668,
+            "stamp": 1753338350,
+            "flags": "A",
+            "commentary": "已新增标签：版式, 美学版式, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531158055,
+            "author": 9454668,
+            "stamp": 1753338333,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459956629,
+    "rating": 6,
+    "forum_thread": 17171099,
+    "tags": [
+        "版式",
+        "美学版式",
+        "翻译"
+    ],
+    "title": "版式：音乐",
+    "sitemap_update": 1753411416000,
+    "votings": [
+        [
+            9701536,
+            true
+        ],
+        [
+            8457298,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

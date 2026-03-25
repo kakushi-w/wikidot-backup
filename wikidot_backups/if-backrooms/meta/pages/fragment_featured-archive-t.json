@@ -1,0 +1,114 @@
+{
+    "name": "fragment:featured-archive-t",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1539895746,
+            "author": 9454668,
+            "stamp": 1764043624,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539895741,
+            "author": 9454668,
+            "stamp": 1764043600,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1533231248,
+            "author": 9454668,
+            "stamp": 1761363803,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1533231199,
+            "author": 9454668,
+            "stamp": 1761363777,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1533231088,
+            "author": 9454668,
+            "stamp": 1761363718,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532464424,
+            "author": 9454668,
+            "stamp": 1758756708,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532464415,
+            "author": 9454668,
+            "stamp": 1758756655,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531754337,
+            "author": 9375128,
+            "stamp": 1756099659,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"featured-archive\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531753436,
+            "author": 9454668,
+            "stamp": 1756096779,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530311842,
+            "author": 9375128,
+            "stamp": 1748685632,
+            "flags": "A",
+            "commentary": "已新增标签：段落, 管理。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530311836,
+            "author": 9375128,
+            "stamp": 1748685617,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"fragment:featured-archive-p\" 至 \"fragment:featured-archive-t\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530311833,
+            "author": 9375128,
+            "stamp": 1748685605,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459742304,
+    "parent": "featured-archive",
+    "forum_thread": 17229246,
+    "tags": [
+        "段落",
+        "管理"
+    ],
+    "title": "翻译精品 归档页面",
+    "sitemap_update": 1764043624000,
+    "votings": [],
+    "is_locked": true
+}

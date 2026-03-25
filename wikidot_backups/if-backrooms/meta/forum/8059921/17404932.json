@@ -1,0 +1,47 @@
+{
+    "title": "Level IF-76",
+    "id": 17404932,
+    "description": "",
+    "last": 1767446747,
+    "lastUser": 8620589,
+    "started": 1761737573,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7374197,
+            "title": "u转d 抱歉",
+            "poster": 9099707,
+            "stamp": 1761738628,
+            "lastEdit": 1768298726,
+            "lastEditBy": 9099707,
+            "revisions": [
+                {
+                    "title": "u转d 抱歉",
+                    "author": 9099707,
+                    "id": 9037178,
+                    "stamp": 1768298726
+                },
+                {
+                    "title": "u转d 抱歉",
+                    "author": 9099707,
+                    "id": 8890650,
+                    "stamp": 1761738628
+                }
+            ],
+            "children": [
+                {
+                    "id": 7488406,
+                    "title": "Re: u转d 抱歉",
+                    "poster": 8620589,
+                    "stamp": 1767446747,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

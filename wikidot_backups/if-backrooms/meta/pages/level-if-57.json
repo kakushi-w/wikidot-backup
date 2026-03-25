@@ -1,0 +1,140 @@
+{
+    "name": "level-if-57",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1531641497,
+            "author": 9485306,
+            "stamp": 1755578510,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530587343,
+            "author": 9485306,
+            "stamp": 1750425912,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530406510,
+            "author": 9485306,
+            "stamp": 1749277580,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530149405,
+            "author": 9485306,
+            "stamp": 1747487908,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530149370,
+            "author": 9485306,
+            "stamp": 1747487707,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530147362,
+            "author": 9485306,
+            "stamp": 1747478497,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530146845,
+            "author": 9485306,
+            "stamp": 1747474442,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530146828,
+            "author": 9485306,
+            "stamp": 1747474342,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度5。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530146826,
+            "author": 9485306,
+            "stamp": 1747474320,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459716412,
+    "rating": 12,
+    "forum_thread": 17143017,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度5"
+    ],
+    "title": "Level IF-57",
+    "sitemap_update": 1755578510000,
+    "votings": [
+        [
+            9690576,
+            true
+        ],
+        [
+            9899195,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9850702,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            9631596,
+            true
+        ],
+        [
+            8984306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

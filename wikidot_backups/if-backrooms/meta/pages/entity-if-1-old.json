@@ -1,0 +1,127 @@
+{
+    "name": "entity-if-1-old",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1531352868,
+            "author": 8728373,
+            "stamp": 1754201930,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531352863,
+            "author": 8728373,
+            "stamp": 1754201915,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531352705,
+            "author": 8728373,
+            "stamp": 1754201327,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"entity-if-1\" 至 \"entity-if-1-old\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530018599,
+            "author": 9626134,
+            "stamp": 1746786425,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530018586,
+            "author": 9375128,
+            "stamp": 1746786351,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530018576,
+            "author": 9375128,
+            "stamp": 1746786305,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 实体。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530018573,
+            "author": 9375128,
+            "stamp": 1746786289,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530018568,
+            "author": 9375128,
+            "stamp": 1746786258,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530018564,
+            "author": 9375128,
+            "stamp": 1746786227,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459671356,
+    "rating": 3,
+    "forum_thread": 17135742,
+    "tags": [
+        "原创",
+        "实体"
+    ],
+    "title": "Entity IF-1（old）",
+    "sitemap_update": 1754201930000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            8728373,
+            true
+        ],
+        [
+            9670203,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9541601,
+            true
+        ],
+        [
+            9485306,
+            false
+        ]
+    ],
+    "is_locked": false
+}

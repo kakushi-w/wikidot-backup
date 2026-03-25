@@ -1,0 +1,176 @@
+{
+    "name": "the-office-market",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1541205679,
+            "author": 9454668,
+            "stamp": 1767235152,
+            "flags": "A",
+            "commentary": "已新增标签：翻译精品。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531274613,
+            "author": 9701536,
+            "stamp": 1753855329,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531161526,
+            "author": 9701536,
+            "stamp": 1753353730,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531143328,
+            "author": 9454668,
+            "stamp": 1753262610,
+            "flags": "S",
+            "commentary": "未翻译底部导航栏"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531143203,
+            "author": 9531925,
+            "stamp": 1753262054,
+            "flags": "S",
+            "commentary": "更改丑的要死的图片框"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531127806,
+            "author": 9701536,
+            "stamp": 1753179253,
+            "flags": "A",
+            "commentary": "已新增标签：善意。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531124201,
+            "author": 9454668,
+            "stamp": 1753164009,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531124199,
+            "author": 9454668,
+            "stamp": 1753163990,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531124189,
+            "author": 9454668,
+            "stamp": 1753163956,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531124121,
+            "author": 9454668,
+            "stamp": 1753163759,
+            "flags": "S",
+            "commentary": "修改几处翻译错误的术语"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531119792,
+            "author": 9701536,
+            "stamp": 1753140863,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531113061,
+            "author": 9701536,
+            "stamp": 1753101496,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531112932,
+            "author": 9701536,
+            "stamp": 1753101158,
+            "flags": "A",
+            "commentary": "已新增标签：和平, 房间, 生存难度其他, 积极, 翻译。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531112775,
+            "author": 9701536,
+            "stamp": 1753100431,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531112756,
+            "author": 9701536,
+            "stamp": 1753100356,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459944977,
+    "rating": 8,
+    "forum_thread": 17168545,
+    "tags": [
+        "和平",
+        "善意",
+        "房间",
+        "生存难度其他",
+        "积极",
+        "翻译",
+        "翻译精品"
+    ],
+    "title": "办公室市场",
+    "sitemap_update": 1767235152000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": false
+}

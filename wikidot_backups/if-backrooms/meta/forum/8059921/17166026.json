@@ -1,0 +1,48 @@
+{
+    "title": "Level IF-148",
+    "id": 17166026,
+    "description": "",
+    "last": 1752596438,
+    "lastUser": 9620145,
+    "started": 1752498480,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7070683,
+            "title": "改成文章好一点",
+            "poster": 9620145,
+            "stamp": 1752596438,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7069992,
+            "title": "",
+            "poster": 9485306,
+            "stamp": 1752562503,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7069134,
+            "title": "",
+            "poster": 9657913,
+            "stamp": 1752498545,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7069912,
+                    "title": "",
+                    "poster": 9475961,
+                    "stamp": 1752556826,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

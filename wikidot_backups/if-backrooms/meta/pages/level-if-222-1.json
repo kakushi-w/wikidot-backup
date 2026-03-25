@@ -1,0 +1,98 @@
+{
+    "name": "level-if-222-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1531274313,
+            "author": 9419995,
+            "stamp": 1753853651,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531260270,
+            "author": 9419995,
+            "stamp": 1753777899,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531232505,
+            "author": 9419995,
+            "stamp": 1753697401,
+            "flags": "A",
+            "commentary": "已新增标签：怀旧。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531232446,
+            "author": 9419995,
+            "stamp": 1753697069,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531232415,
+            "author": 9419995,
+            "stamp": 1753696884,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 子层级, 封闭性, 层级, 生存难度2。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531232300,
+            "author": 9419995,
+            "stamp": 1753696577,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459973986,
+    "rating": 5,
+    "tags": [
+        "原创",
+        "子层级",
+        "封闭性",
+        "层级",
+        "怀旧",
+        "生存难度2"
+    ],
+    "title": "幽闭深处",
+    "sitemap_update": 1753853651000,
+    "votings": [
+        [
+            9639856,
+            true
+        ],
+        [
+            9609194,
+            false
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

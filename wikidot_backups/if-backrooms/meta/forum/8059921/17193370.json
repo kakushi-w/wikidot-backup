@@ -1,0 +1,73 @@
+{
+    "title": "Level 3 - “发电站”（旧）",
+    "id": 17193370,
+    "description": "",
+    "last": 1755271205,
+    "lastUser": 9454668,
+    "started": 1755268326,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7120580,
+            "title": "",
+            "poster": 9804860,
+            "stamp": 1755268364,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7120766,
+                    "title": "职员帖：提醒",
+                    "poster": 9454668,
+                    "stamp": 1755271205,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 7120650,
+                    "title": "",
+                    "poster": 9454668,
+                    "stamp": 1755269348,
+                    "lastEdit": 1755269626,
+                    "lastEditBy": 9454668,
+                    "revisions": [
+                        {
+                            "title": "",
+                            "author": 9454668,
+                            "id": 8614175,
+                            "stamp": 1755269626
+                        },
+                        {
+                            "title": "",
+                            "author": 9454668,
+                            "id": 8614168,
+                            "stamp": 1755269559
+                        },
+                        {
+                            "title": "",
+                            "author": 9454668,
+                            "id": 8614165,
+                            "stamp": 1755269532
+                        },
+                        {
+                            "title": "",
+                            "author": 9454668,
+                            "id": 8614156,
+                            "stamp": 1755269419
+                        },
+                        {
+                            "title": "",
+                            "author": 9454668,
+                            "id": 8614148,
+                            "stamp": 1755269348
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

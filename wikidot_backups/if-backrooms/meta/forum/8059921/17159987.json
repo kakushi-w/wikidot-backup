@@ -1,0 +1,32 @@
+{
+    "title": "Level IF-36",
+    "id": 17159987,
+    "description": "",
+    "last": 1751195760,
+    "lastUser": 9657913,
+    "started": 1751189155,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7052754,
+            "title": "合著者帖",
+            "poster": 9541601,
+            "stamp": 1751189207,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7052908,
+                    "title": "Re: 合著者帖",
+                    "poster": 9657913,
+                    "stamp": 1751195760,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

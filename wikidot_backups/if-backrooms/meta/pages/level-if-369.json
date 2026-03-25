@@ -1,0 +1,106 @@
+{
+    "name": "level-if-369",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1533141553,
+            "author": 9782125,
+            "stamp": 1761044384,
+            "flags": "S",
+            "commentary": "出口那个Level11我改个URL"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532646737,
+            "author": 8620589,
+            "stamp": 1759563124,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532646493,
+            "author": 8620589,
+            "stamp": 1759562470,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532646387,
+            "author": 8620589,
+            "stamp": 1759562177,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度？, 虚妄归档设定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532646319,
+            "author": 8620589,
+            "stamp": 1759561856,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460486750,
+    "parent": "the-rewrite-initiativ-canon",
+    "rating": 11,
+    "forum_thread": 17372875,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度？",
+        "虚妄归档设定"
+    ],
+    "title": "Level IF-369",
+    "sitemap_update": 1761044384000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            10193630,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

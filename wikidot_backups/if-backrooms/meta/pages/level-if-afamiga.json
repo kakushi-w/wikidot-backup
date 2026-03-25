@@ -1,0 +1,132 @@
+{
+    "name": "level-if-afamiga",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1530062542,
+            "author": 9678843,
+            "stamp": 1746969952,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530062508,
+            "author": 9678843,
+            "stamp": 1746969851,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530057805,
+            "author": 9678843,
+            "stamp": 1746948840,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530057734,
+            "author": 9678843,
+            "stamp": 1746948306,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530055415,
+            "author": 9678843,
+            "stamp": 1746937762,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530046972,
+            "author": 9678843,
+            "stamp": 1746889849,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530046947,
+            "author": 9454668,
+            "stamp": 1746889686,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度其他, 隐秘系列。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530046855,
+            "author": 9678843,
+            "stamp": 1746889295,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459685334,
+    "forum_thread": 17124014,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度其他",
+        "隐秘系列"
+    ],
+    "title": "Level IF-阿法米伽—“若梦不再”",
+    "sitemap_update": 1746969952000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            9601426,
+            true
+        ],
+        [
+            9555402,
+            true
+        ],
+        [
+            9375128,
+            false
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9561914,
+            true
+        ],
+        [
+            9541601,
+            true
+        ],
+        [
+            8984306,
+            true
+        ],
+        [
+            9485306,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,128 @@
+{
+    "name": "level-if-372",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1539144478,
+            "author": 9575701,
+            "stamp": 1762596679,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539143728,
+            "author": 9575701,
+            "stamp": 1762593334,
+            "flags": "A",
+            "commentary": "已新增标签：合著。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539143719,
+            "author": 9575701,
+            "stamp": 1762593304,
+            "flags": "A",
+            "commentary": "已新增标签：悲剧, 探险者总署, 生存难度终结, 监督者stretch。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539143704,
+            "author": 9575701,
+            "stamp": 1762593221,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539143616,
+            "author": 9575701,
+            "stamp": 1762592889,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466494793,
+    "rating": 16,
+    "forum_thread": 17439631,
+    "tags": [
+        "原创",
+        "合著",
+        "层级",
+        "悲剧",
+        "探险者总署",
+        "生存难度终结",
+        "监督者stretch"
+    ],
+    "title": "Level IF-372-“山丘的顶端有一间小屋”",
+    "sitemap_update": 1762596679000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            8113340,
+            true
+        ],
+        [
+            9782224,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9115362,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            10263717,
+            true
+        ],
+        [
+            9882061,
+            true
+        ],
+        [
+            9895946,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

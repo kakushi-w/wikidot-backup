@@ -1,0 +1,117 @@
+{
+    "name": "level-if-204",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532366238,
+            "author": 9422717,
+            "stamp": 1758286058,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531263886,
+            "author": 9422717,
+            "stamp": 1753792795,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531232453,
+            "author": 9422717,
+            "stamp": 1753697096,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531229801,
+            "author": 9422717,
+            "stamp": 1753687440,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531229485,
+            "author": 9422717,
+            "stamp": 1753686043,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 封闭性, 层级, 悲剧, 环境危害, 生存难度4, 神秘, 精神危害。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531229468,
+            "author": 9422717,
+            "stamp": 1753685962,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459973457,
+    "rating": 11,
+    "forum_thread": 17575209,
+    "tags": [
+        "原创",
+        "封闭性",
+        "层级",
+        "悲剧",
+        "环境危害",
+        "生存难度4",
+        "神秘",
+        "精神危害"
+    ],
+    "title": "Level IF-204",
+    "sitemap_update": 1758286058000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9831743,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": true
+}

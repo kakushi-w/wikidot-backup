@@ -1,0 +1,188 @@
+{
+    "name": "level-if-3",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1532399281,
+            "author": 9422717,
+            "stamp": 1758421742,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531541408,
+            "author": 9454668,
+            "stamp": 1755086692,
+            "flags": "S",
+            "commentary": "修改一些错误的语法"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531275498,
+            "author": 8457298,
+            "stamp": 1753859506,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1528943844,
+            "author": 9009838,
+            "stamp": 1743328578,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-l-3\" 至 \"level-if-3\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1528943842,
+            "author": 9009838,
+            "stamp": 1743328566,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1528496505,
+            "author": 9375128,
+            "stamp": 1742204946,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-i-3\" 至 \"level-if-l-3\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528496496,
+            "author": 9375128,
+            "stamp": 1742204839,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-l-3\" 至 \"level-if-i-3\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528496298,
+            "author": 8206574,
+            "stamp": 1742203893,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-i-3\" 至 \"level-if-l-3\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528496114,
+            "author": 9375128,
+            "stamp": 1742203163,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528496113,
+            "author": 9375128,
+            "stamp": 1742203140,
+            "flags": "A",
+            "commentary": "已新增标签：不结盟贸易集团, 原创, 合著, 城镇, 层级, 探险者总署, 生存难度2。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528496110,
+            "author": 9375128,
+            "stamp": 1742203116,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528496093,
+            "author": 9375128,
+            "stamp": 1742203004,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458728984,
+    "rating": 17,
+    "forum_thread": 17376925,
+    "tags": [
+        "不结盟贸易集团",
+        "原创",
+        "合著",
+        "城镇",
+        "层级",
+        "探险者总署",
+        "生存难度2"
+    ],
+    "title": "Level IF-3",
+    "sitemap_update": 1758421742000,
+    "votings": [
+        [
+            8828300,
+            true
+        ],
+        [
+            9551174,
+            true
+        ],
+        [
+            9477209,
+            true
+        ],
+        [
+            9861467,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9650605,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9540010,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9782629,
+            true
+        ],
+        [
+            9191146,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9304232,
+            true
+        ]
+    ],
+    "is_locked": false
+}

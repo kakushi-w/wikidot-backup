@@ -1,0 +1,95 @@
+{
+    "name": "level-if-274-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1539704497,
+            "author": 9609194,
+            "stamp": 1763460745,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"the-rewrite-initiativ-canon\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533071167,
+            "author": 9609194,
+            "stamp": 1760715583,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533071159,
+            "author": 9609194,
+            "stamp": 1760715534,
+            "flags": "A",
+            "commentary": "已新增标签：crossover, 原创, 原野, 层级, 开阔性, 探险者总署, 生存难度宜居, 神秘, 虚妄归档设定, 补给可能, 降雪。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533071137,
+            "author": 9609194,
+            "stamp": 1760715471,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460708151,
+    "parent": "the-rewrite-initiativ-canon",
+    "tags": [
+        "crossover",
+        "原创",
+        "原野",
+        "层级",
+        "开阔性",
+        "探险者总署",
+        "生存难度宜居",
+        "神秘",
+        "虚妄归档设定",
+        "补给可能",
+        "降雪"
+    ],
+    "title": "Level IF-274.1",
+    "sitemap_update": 1763460745000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": false
+}

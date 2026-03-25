@@ -1,0 +1,39 @@
+{
+    "name": "forum:start",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1528512248,
+            "author": 9375128,
+            "stamp": 1742291163,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528496191,
+            "author": 9375128,
+            "stamp": 1742203561,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528492698,
+            "author": 9375128,
+            "stamp": 1742185938,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727578,
+    "tags": [
+        "管理"
+    ],
+    "title": "讨论区",
+    "sitemap_update": 1742291163000,
+    "votings": [],
+    "is_locked": false
+}

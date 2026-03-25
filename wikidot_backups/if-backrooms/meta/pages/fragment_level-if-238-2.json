@@ -1,0 +1,174 @@
+{
+    "name": "fragment:level-if-238-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 15,
+            "global_revision": 1531663666,
+            "author": 8759709,
+            "stamp": 1755686007,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1531663660,
+            "author": 8759709,
+            "stamp": 1755685966,
+            "flags": "F",
+            "commentary": "已上传文件 “2”。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531487768,
+            "author": 9454668,
+            "stamp": 1754887683,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531487760,
+            "author": 9454668,
+            "stamp": 1754887601,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"level-if-238\"."
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531487756,
+            "author": 9454668,
+            "stamp": 1754887580,
+            "flags": "A",
+            "commentary": "已新增标签：段落。 移除标签：原创, 层级, 开阔性, 悲剧, 环境危害, 生存难度死区。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531487743,
+            "author": 9454668,
+            "stamp": 1754887496,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"level-if-23\"."
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531487615,
+            "author": 9454668,
+            "stamp": 1754887020,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531487609,
+            "author": 9454668,
+            "stamp": 1754886965,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"level-if-238\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531487604,
+            "author": 9454668,
+            "stamp": 1754886942,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531487600,
+            "author": 9454668,
+            "stamp": 1754886926,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-238-2\" 至 \"fragment:level-if-238-2\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531487597,
+            "author": 9454668,
+            "stamp": 1754886908,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531487391,
+            "author": 8759709,
+            "stamp": 1754885628,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531487373,
+            "author": 8759709,
+            "stamp": 1754885483,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531487364,
+            "author": 8759709,
+            "stamp": 1754885450,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 悲剧, 环境危害, 生存难度死区。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531487356,
+            "author": 8759709,
+            "stamp": 1754885422,
+            "flags": "F",
+            "commentary": "已上传文件 “1”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531487343,
+            "author": 8759709,
+            "stamp": 1754885395,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11436681,
+            "name": "1",
+            "url": "http://if-backrooms.wikidot.com/local--files/fragment:level-if-238-2/1",
+            "size": "444.08 kB (454740 Bytes)",
+            "size_bytes": 454740,
+            "mime": "image/png",
+            "content": "PNG image data, 790 x 794, 8-bit/color RGBA, non-interlaced",
+            "author": 8759709,
+            "stamp": 1754885422,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11442529,
+            "name": "2",
+            "url": "http://if-backrooms.wikidot.com/local--files/fragment:level-if-238-2/2",
+            "size": "456.43 kB (467383 Bytes)",
+            "size_bytes": 467383,
+            "mime": "image/png",
+            "content": "PNG image data, 675 x 508, 8-bit/color RGBA, non-interlaced",
+            "author": 8759709,
+            "stamp": 1755685966,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460029038,
+    "parent": "level-if-238",
+    "tags": [
+        "段落"
+    ],
+    "title": "fragment:level-if-238-2",
+    "sitemap_update": 1755686007000,
+    "votings": [
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": true
+}

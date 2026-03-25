@@ -1,0 +1,81 @@
+{
+    "name": "level-if-52",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1540737241,
+            "author": 8620589,
+            "stamp": 1766152250,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530600057,
+            "author": 8620589,
+            "stamp": 1750490432,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530599954,
+            "author": 8620589,
+            "stamp": 1750490150,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 环境危害, 生存难度0, 神秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530599944,
+            "author": 8620589,
+            "stamp": 1750490078,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459826096,
+    "rating": 5,
+    "tags": [
+        "原创",
+        "层级",
+        "环境危害",
+        "生存难度0",
+        "神秘"
+    ],
+    "title": "Level IF-52",
+    "sitemap_update": 1766152250000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9639856,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Level IF-102",
+    "id": 17158745,
+    "description": "",
+    "last": 1751863124,
+    "lastUser": 9551174,
+    "started": 1750855585,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7049806,
+            "title": "",
+            "poster": 9609194,
+            "stamp": 1750856025,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7060058,
+            "title": "",
+            "poster": 9551174,
+            "stamp": 1751863124,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7049809,
+            "title": "作者贴",
+            "poster": 9168168,
+            "stamp": 1750856170,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7049813,
+                    "title": "Re: 作者贴",
+                    "poster": 8774679,
+                    "stamp": 1750856238,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

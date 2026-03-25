@@ -1,0 +1,154 @@
+{
+    "name": "level-if-107",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1542633238,
+            "author": 9551174,
+            "stamp": 1773420172,
+            "flags": "S",
+            "commentary": "超阈限版式在本站会崩，故移除"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1542382780,
+            "author": 9454668,
+            "stamp": 1772451289,
+            "flags": "A",
+            "commentary": "已新增标签：精品。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1542328647,
+            "author": 9551174,
+            "stamp": 1772179087,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1542295199,
+            "author": 9551174,
+            "stamp": 1772006019,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542294957,
+            "author": 9551174,
+            "stamp": 1772005157,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542294742,
+            "author": 9551174,
+            "stamp": 1772004269,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542294730,
+            "author": 9551174,
+            "stamp": 1772004230,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541231724,
+            "author": 9551174,
+            "stamp": 1767368193,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541231555,
+            "author": 9551174,
+            "stamp": 1767367574,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541231490,
+            "author": 9551174,
+            "stamp": 1767367342,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 生存难度死区。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541231481,
+            "author": 9551174,
+            "stamp": 1767367308,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541231470,
+            "author": 9551174,
+            "stamp": 1767367258,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467956080,
+    "rating": 9,
+    "forum_thread": 17506258,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度死区",
+        "精品"
+    ],
+    "title": "Level IF-107",
+    "sitemap_update": 1773420172000,
+    "votings": [
+        [
+            9832778,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9650605,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9792759,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

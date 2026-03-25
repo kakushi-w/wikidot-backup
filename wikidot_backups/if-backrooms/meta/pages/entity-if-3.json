@@ -1,0 +1,94 @@
+{
+    "name": "entity-if-3",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541301658,
+            "author": 9551174,
+            "stamp": 1767796351,
+            "flags": "S",
+            "commentary": "C-330——IF-3"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541299980,
+            "author": 9099707,
+            "stamp": 1767787417,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541299833,
+            "author": 9099707,
+            "stamp": 1767786634,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 实体。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541299791,
+            "author": 9099707,
+            "stamp": 1767786592,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467974214,
+    "rating": 11,
+    "tags": [
+        "原创",
+        "实体"
+    ],
+    "title": "Entity IF-3 - “碎玻璃”",
+    "sitemap_update": 1767796351000,
+    "votings": [
+        [
+            9832778,
+            true
+        ],
+        [
+            8012806,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            10265816,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            10206888,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            9485306,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": true
+}

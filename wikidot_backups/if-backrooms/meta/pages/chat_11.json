@@ -1,0 +1,20 @@
+{
+    "name": "chat:11",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 1539545545,
+            "author": 8620589,
+            "stamp": 1763290859,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466796476,
+    "title": "聊天室内容输入",
+    "sitemap_update": 1763290859000,
+    "votings": [],
+    "is_locked": true
+}

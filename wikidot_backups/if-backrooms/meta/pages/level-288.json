@@ -1,0 +1,157 @@
+{
+    "name": "level-288",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1531753366,
+            "author": 9454668,
+            "stamp": 1756096513,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531753360,
+            "author": 9454668,
+            "stamp": 1756096472,
+            "flags": "A",
+            "commentary": "已新增标签：翻译精品。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531261453,
+            "author": 8150801,
+            "stamp": 1753783012,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531158677,
+            "author": 8150801,
+            "stamp": 1753341059,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531024655,
+            "author": 8150801,
+            "stamp": 1752652494,
+            "flags": "A",
+            "commentary": "已新增标签：2025希望队。 移除标签：希望队。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531024627,
+            "author": 9454668,
+            "stamp": 1752652350,
+            "flags": "A",
+            "commentary": "已新增标签：希望队。 移除标签：hope2025。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531024528,
+            "author": 8150801,
+            "stamp": 1752651918,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531024076,
+            "author": 8150801,
+            "stamp": 1752650782,
+            "flags": "A",
+            "commentary": "已新增标签：2025决斗竞赛, hope2025, 层级, 悲剧, 格式错乱, 生存难度0, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531024069,
+            "author": 8150801,
+            "stamp": 1752650755,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459923205,
+    "rating": 15,
+    "forum_thread": 17166770,
+    "tags": [
+        "2025决斗竞赛",
+        "2025希望队",
+        "层级",
+        "悲剧",
+        "格式错乱",
+        "生存难度0",
+        "翻译",
+        "翻译精品"
+    ],
+    "title": "Level 288 - “死星之芒”",
+    "sitemap_update": 1756096513000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9810819,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9531925,
+            true
+        ],
+        [
+            8728373,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            8759709,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9192541,
+            true
+        ],
+        [
+            9551083,
+            true
+        ],
+        [
+            9575701,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": true
+}

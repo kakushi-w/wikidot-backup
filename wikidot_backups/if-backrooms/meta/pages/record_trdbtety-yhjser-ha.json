@@ -1,0 +1,40 @@
+{
+    "name": "record:trdbtety-yhjser-ha",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1539884763,
+            "author": 9375128,
+            "stamp": 1763979843,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531441319,
+            "author": 9375128,
+            "stamp": 1754641182,
+            "flags": "A",
+            "commentary": "已新增标签：处分记录。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531441306,
+            "author": 9375128,
+            "stamp": 1754641093,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460019542,
+    "parent": "records",
+    "tags": [
+        "处分记录"
+    ],
+    "title": "Trdbtety Yhjser Ha",
+    "sitemap_update": 1763979843000,
+    "votings": [],
+    "is_locked": true
+}

@@ -1,0 +1,142 @@
+{
+    "name": "level-510",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1531028936,
+            "author": 8217963,
+            "stamp": 1752670589,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531028138,
+            "author": 8217963,
+            "stamp": 1752667807,
+            "flags": "S",
+            "commentary": "感谢，清楚了\n但我没加入中站啊（）"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531026697,
+            "author": 9454668,
+            "stamp": 1752661626,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531026588,
+            "author": 8150801,
+            "stamp": 1752660852,
+            "flags": "S",
+            "commentary": "修改授权信息\n\n翻译时请将license box组件修改为\n[[include :backrooms-wiki-cn:component:license-box\n|author=作者名\n]]\n的形式"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531026211,
+            "author": 8217963,
+            "stamp": 1752659788,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531025897,
+            "author": 9454668,
+            "stamp": 1752658854,
+            "flags": "S",
+            "commentary": "汉化授权信息底部"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531025890,
+            "author": 9454668,
+            "stamp": 1752658820,
+            "flags": "A",
+            "commentary": "已新增标签：封闭性, 悲剧。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531025866,
+            "author": 9454668,
+            "stamp": 1752658734,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531025823,
+            "author": 9454668,
+            "stamp": 1752658436,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531025811,
+            "author": 9454668,
+            "stamp": 1752658349,
+            "flags": "S",
+            "commentary": "汉化版式"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531025739,
+            "author": 8217963,
+            "stamp": 1752657791,
+            "flags": "A",
+            "commentary": "已新增标签：层级, 生存难度？, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531025426,
+            "author": 8217963,
+            "stamp": 1752656179,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459923685,
+    "rating": 6,
+    "forum_thread": 17166721,
+    "tags": [
+        "封闭性",
+        "层级",
+        "悲剧",
+        "生存难度？",
+        "翻译"
+    ],
+    "title": "Level 510 - “...---...“",
+    "sitemap_update": 1752670589000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9100794,
+            true
+        ]
+    ],
+    "is_locked": false
+}

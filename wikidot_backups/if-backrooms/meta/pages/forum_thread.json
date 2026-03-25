@@ -1,0 +1,31 @@
+{
+    "name": "forum:thread",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1529042251,
+            "author": 9375128,
+            "stamp": 1743728131,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528492697,
+            "author": 9375128,
+            "stamp": 1742185938,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458727577,
+    "tags": [
+        "管理"
+    ],
+    "title": "Forum Thread",
+    "sitemap_update": 1743728131000,
+    "votings": [],
+    "is_locked": false
+}

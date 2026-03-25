@@ -1,0 +1,89 @@
+{
+    "name": "level-if-370",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542534646,
+            "author": 10146283,
+            "stamp": 1772993285,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542478675,
+            "author": 9551174,
+            "stamp": 1772874459,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 开阔性, 生存难度宜居。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542468133,
+            "author": 10146283,
+            "stamp": 1772834649,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542468115,
+            "author": 10146283,
+            "stamp": 1772834369,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468218374,
+    "rating": 7,
+    "forum_thread": 17607102,
+    "tags": [
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度宜居"
+    ],
+    "title": "Level IF-370",
+    "sitemap_update": 1772993285000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            10193630,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9565995,
+            false
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            10146283,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

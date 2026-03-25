@@ -1,0 +1,109 @@
+{
+    "name": "old:pof-if-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1541727363,
+            "author": 7344601,
+            "stamp": 1769958395,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"pof-if-2\" 至 \"old:pof-if-2\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530355893,
+            "author": 9375128,
+            "stamp": 1748957524,
+            "flags": "A",
+            "commentary": "已新增标签：已归档。 移除标签：待删除。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530355887,
+            "author": 9375128,
+            "stamp": 1748957456,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-90\" 至 \"pof-if-2\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530243201,
+            "author": 9375128,
+            "stamp": 1748160463,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530226102,
+            "author": 9639856,
+            "stamp": 1748058592,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 悲剧, 生存难度不适用。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530226090,
+            "author": 9639856,
+            "stamp": 1748058478,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459727530,
+    "rating": 2,
+    "forum_thread": 17138577,
+    "tags": [
+        "原创",
+        "已归档",
+        "悲剧",
+        "生存难度不适用"
+    ],
+    "title": "Level IF-90",
+    "sitemap_update": 1769958395000,
+    "votings": [
+        [
+            9696467,
+            false
+        ],
+        [
+            9551174,
+            true
+        ],
+        [
+            9375128,
+            false
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9540010,
+            false
+        ],
+        [
+            9485306,
+            false
+        ],
+        [
+            9419995,
+            true
+        ],
+        [
+            9168168,
+            true
+        ]
+    ],
+    "is_locked": true
+}

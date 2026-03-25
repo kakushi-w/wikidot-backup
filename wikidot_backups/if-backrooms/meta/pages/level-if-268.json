@@ -1,0 +1,81 @@
+{
+    "name": "level-if-268",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541354069,
+            "author": 8620589,
+            "stamp": 1768120613,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539137844,
+            "author": 8620589,
+            "stamp": 1762573281,
+            "flags": "A",
+            "commentary": "已新增标签：层级。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539135889,
+            "author": 8620589,
+            "stamp": 1762566441,
+            "flags": "A",
+            "commentary": "已新增标签：切行困难, 原创, 格式错乱, 生存难度其他。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539135872,
+            "author": 8620589,
+            "stamp": 1762566389,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466492911,
+    "rating": 7,
+    "tags": [
+        "切行困难",
+        "原创",
+        "层级",
+        "格式错乱",
+        "生存难度其他"
+    ],
+    "title": "Level IF-268",
+    "sitemap_update": 1768120613000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

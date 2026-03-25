@@ -1,0 +1,104 @@
+{
+    "name": "if-very-nb-i",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541462604,
+            "author": 8620589,
+            "stamp": 1768738835,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 搞笑, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541462601,
+            "author": 8620589,
+            "stamp": 1768738795,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468017116,
+    "rating": 15,
+    "forum_thread": 17566042,
+    "tags": [
+        "原创",
+        "搞笑",
+        "故事"
+    ],
+    "title": "一觉醒来，IF层群热度上升10000倍（第一集）",
+    "sitemap_update": 1768738835000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            8585657,
+            true
+        ],
+        [
+            9782125,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9565995,
+            false
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8999121,
+            true
+        ],
+        [
+            10209740,
+            true
+        ],
+        [
+            10205157,
+            true
+        ],
+        [
+            8317495,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9485306,
+            true
+        ]
+    ],
+    "is_locked": true
+}

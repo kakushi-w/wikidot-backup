@@ -1,0 +1,71 @@
+{
+    "name": "wisjsjskdkwkx",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1531822710,
+            "author": 9609194,
+            "stamp": 1756394051,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 搞笑, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531822705,
+            "author": 9609194,
+            "stamp": 1756394029,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460121767,
+    "forum_thread": 17235238,
+    "tags": [
+        "原创",
+        "搞笑",
+        "故事"
+    ],
+    "title": "误入厚实，成为排队客 第一章“掉入后室”",
+    "sitemap_update": 1756394051000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9454668,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            9620145,
+            true
+        ],
+        [
+            9419995,
+            true
+        ]
+    ],
+    "is_locked": false
+}

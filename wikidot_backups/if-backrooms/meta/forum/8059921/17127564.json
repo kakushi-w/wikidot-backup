@@ -1,0 +1,23 @@
+{
+    "title": "子区集列表",
+    "id": 17127564,
+    "description": "",
+    "last": 1747142582,
+    "lastUser": 9681023,
+    "started": 1747142559,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6993467,
+            "title": "",
+            "poster": 9681023,
+            "stamp": 1747142582,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

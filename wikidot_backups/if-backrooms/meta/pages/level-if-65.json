@@ -1,0 +1,84 @@
+{
+    "name": "level-if-65",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541691553,
+            "author": 8620589,
+            "stamp": 1769847579,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530748096,
+            "author": 9099707,
+            "stamp": 1751247388,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度0。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530729478,
+            "author": 8620589,
+            "stamp": 1751205754,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459855818,
+    "rating": 4,
+    "forum_thread": 17566360,
+    "tags": [
+        "原创",
+        "层级",
+        "生存难度0"
+    ],
+    "title": "Level IF-65",
+    "sitemap_update": 1769847579000,
+    "votings": [
+        [
+            9551174,
+            false
+        ],
+        [
+            9454668,
+            false
+        ],
+        [
+            8774679,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9496473,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            9620145,
+            true
+        ],
+        [
+            9485306,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,66 @@
+{
+    "name": "level-c-1290-1-if",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541706819,
+            "author": 10206888,
+            "stamp": 1769917192,
+            "flags": "A",
+            "commentary": "已新增标签：介系, 子层级。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541706814,
+            "author": 10206888,
+            "stamp": 1769917176,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541706775,
+            "author": 10206888,
+            "stamp": 1769917017,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 层级, 生存难度？。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541706765,
+            "author": 10206888,
+            "stamp": 1769916983,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468075763,
+    "rating": 3,
+    "forum_thread": 17576664,
+    "tags": [
+        "介系",
+        "原创",
+        "子层级",
+        "层级",
+        "生存难度？"
+    ],
+    "title": "Planum C-1290.1-IF",
+    "sitemap_update": 1769917192000,
+    "votings": [
+        [
+            10193630,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

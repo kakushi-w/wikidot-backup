@@ -1,0 +1,97 @@
+{
+    "name": "level-if-502",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1542377404,
+            "author": 8620589,
+            "stamp": 1772424243,
+            "flags": "S T",
+            "commentary": "竞赛后修改页面标题"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542376512,
+            "author": 8196010,
+            "stamp": 1772418853,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"if500-xiuri14\" 至 \"level-if-502\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541856445,
+            "author": 9555733,
+            "stamp": 1770610707,
+            "flags": "A",
+            "commentary": "已新增标签：if500。 移除标签：if-500。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541856430,
+            "author": 9555733,
+            "stamp": 1770610629,
+            "flags": "A",
+            "commentary": "已新增标签：if-500, 原创, 层级, 梦, 生存难度不适用。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541856412,
+            "author": 9555733,
+            "stamp": 1770610578,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468109358,
+    "forum_thread": 17584792,
+    "tags": [
+        "if500",
+        "原创",
+        "层级",
+        "梦",
+        "生存难度不适用"
+    ],
+    "title": "Level IF-502：无止煞梦",
+    "sitemap_update": 1772424243000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9832778,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8150801,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

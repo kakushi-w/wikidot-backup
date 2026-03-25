@@ -1,0 +1,40 @@
+{
+    "name": "fragment:rede-53-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531090213,
+            "author": 8261399,
+            "stamp": 1752987445,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"entity-if-7\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531090177,
+            "author": 8261399,
+            "stamp": 1752987194,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531090172,
+            "author": 8261399,
+            "stamp": 1752987172,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459939750,
+    "parent": "rede-53-password-human",
+    "tags": [
+        "段落"
+    ],
+    "title": "REDE-53 \"HURUS\"",
+    "sitemap_update": 1752987445000,
+    "votings": [],
+    "is_locked": false
+}

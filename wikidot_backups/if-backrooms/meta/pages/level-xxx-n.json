@@ -1,0 +1,63 @@
+{
+    "name": "level-xxx-n",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541755025,
+            "author": 9375128,
+            "stamp": 1770088235,
+            "flags": "A",
+            "commentary": "已新增标签：翻译。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541740963,
+            "author": 7344601,
+            "stamp": 1770020550,
+            "flags": "A",
+            "commentary": "已新增标签：jp, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541740958,
+            "author": 7344601,
+            "stamp": 1770020538,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468081084,
+    "rating": 5,
+    "tags": [
+        "jp",
+        "故事",
+        "翻译"
+    ],
+    "title": "Level XXX N",
+    "sitemap_update": 1770088235000,
+    "votings": [
+        [
+            9782125,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            9555733,
+            true
+        ]
+    ],
+    "is_locked": false
+}

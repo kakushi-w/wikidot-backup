@@ -1,0 +1,83 @@
+{
+    "name": "level-if-371",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542706078,
+            "author": 10138849,
+            "stamp": 1773670960,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542673742,
+            "author": 10138849,
+            "stamp": 1773552425,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 多元难度, 层级, 开阔性, 悲喜交加, 生存难度宜居, 补给可能。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542673737,
+            "author": 10138849,
+            "stamp": 1773552403,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468264041,
+    "rating": 9,
+    "tags": [
+        "原创",
+        "多元难度",
+        "层级",
+        "开阔性",
+        "悲喜交加",
+        "生存难度宜居",
+        "补给可能"
+    ],
+    "title": "Level IF-371",
+    "sitemap_update": 1773670960000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            10193630,
+            true
+        ],
+        [
+            9609194,
+            true
+        ],
+        [
+            10138849,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            10265816,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            10146283,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,130 @@
+{
+    "name": "level-if-99",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1529569730,
+            "author": 8643702,
+            "stamp": 1745643693,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1528943664,
+            "author": 9009838,
+            "stamp": 1743327535,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528611588,
+            "author": 9375128,
+            "stamp": 1742721295,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528611579,
+            "author": 9375128,
+            "stamp": 1742721247,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"level-if-l-99\" 至 \"level-if-99\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528509438,
+            "author": 9375128,
+            "stamp": 1742271473,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528509422,
+            "author": 9375128,
+            "stamp": 1742271349,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528509367,
+            "author": 9375128,
+            "stamp": 1742270964,
+            "flags": "A",
+            "commentary": "已新增标签：不结盟贸易集团, 原创, 层级, 开阔性, 生存难度宜居。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528509365,
+            "author": 9375128,
+            "stamp": 1742270935,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458733006,
+    "rating": 11,
+    "forum_thread": 17110866,
+    "tags": [
+        "不结盟贸易集团",
+        "原创",
+        "层级",
+        "开阔性",
+        "生存难度宜居"
+    ],
+    "title": "Level IF-99",
+    "sitemap_update": 1745643693000,
+    "votings": [
+        [
+            9551174,
+            true
+        ],
+        [
+            9555402,
+            true
+        ],
+        [
+            9241330,
+            true
+        ],
+        [
+            8217963,
+            true
+        ],
+        [
+            9422717,
+            true
+        ],
+        [
+            8620589,
+            true
+        ],
+        [
+            9099707,
+            true
+        ],
+        [
+            9009838,
+            true
+        ],
+        [
+            9657913,
+            true
+        ],
+        [
+            8643702,
+            true
+        ],
+        [
+            9540010,
+            true
+        ]
+    ],
+    "is_locked": false
+}
