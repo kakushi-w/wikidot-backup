@@ -2,8 +2,8 @@
 	"base_directory": "../wikidot_backups",
 	"wikis": [
 		{
-			"name": "if-backrooms",
-			"url": "https://if-backrooms.wikidot.com"
+			"name": "scr-wiki",
+			"url": "https://scr-wiki.wikidot.com"
 		}
 	],
 	"ratelimit": {
