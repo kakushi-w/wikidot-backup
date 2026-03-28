@@ -1,0 +1,107 @@
+{
+    "name": "fragment:iteration:the-past-today-tomorrow",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1505638263,
+            "author": 8318867,
+            "stamp": 1672575406,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1505638244,
+            "author": 8318867,
+            "stamp": 1672575315,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"fragment:iteration-failures:the-past-today-tomorrow\" 至 \"fragment:iteration:the-past-today-tomorrow\"."
+        },
+        {
+            "revision": 6,
+            "global_revision": 1505638165,
+            "author": 8318867,
+            "stamp": 1672574958,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1505638148,
+            "author": 8318867,
+            "stamp": 1672574841,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1505638143,
+            "author": 8318867,
+            "stamp": 1672574806,
+            "flags": "M",
+            "commentary": "父页面设置为: \"iteration-failures:the-past-today-tomorrow\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1505638092,
+            "author": 8318867,
+            "stamp": 1672574562,
+            "flags": "A",
+            "commentary": "移除标签：2022征文比赛, 原创, 血月。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1505638087,
+            "author": 8318867,
+            "stamp": 1672574550,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"iteration-failures:the-past-today-tomorrow\" 至 \"fragment:iteration-failures:the-past-today-tomorrow\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1505450750,
+            "author": 8318867,
+            "stamp": 1672109260,
+            "flags": "A",
+            "commentary": "已新增标签：2022征文比赛, 原创, 血月。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1505450642,
+            "author": 8318867,
+            "stamp": 1672108873,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1444665732,
+    "parent": "iteration:the-past-today-tomorrow",
+    "forum_thread": 15486250,
+    "title": "迭代故障：过去？今天？明天？",
+    "sitemap_update": 1672575406000,
+    "votings": [
+        [
+            8039119,
+            true
+        ],
+        [
+            8411782,
+            true
+        ],
+        [
+            8128287,
+            true
+        ],
+        [
+            7978037,
+            true
+        ],
+        [
+            6272073,
+            true
+        ]
+    ],
+    "is_locked": false
+}

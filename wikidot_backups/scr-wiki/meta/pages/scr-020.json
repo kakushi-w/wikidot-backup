@@ -1,0 +1,82 @@
+{
+    "name": "scr-020",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1364846976,
+            "author": 5686104,
+            "stamp": 1620013086,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1364846466,
+            "author": 5686104,
+            "stamp": 1620010489,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1364834094,
+            "author": 5686104,
+            "stamp": 1619942656,
+            "flags": "A",
+            "commentary": "已新增标签：攻击性。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1364834004,
+            "author": 5686104,
+            "stamp": 1619942033,
+            "flags": "A",
+            "commentary": "已新增标签：light。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1364834001,
+            "author": 5686104,
+            "stamp": 1619942013,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1364833997,
+            "author": 5686104,
+            "stamp": 1619941992,
+            "flags": "A",
+            "commentary": "已新增标签：site-09。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1364833976,
+            "author": 5686104,
+            "stamp": 1619941861,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1310944786,
+    "rating": 1,
+    "forum_thread": 14081699,
+    "tags": [
+        "light",
+        "scr",
+        "site-09",
+        "原创",
+        "攻击性"
+    ],
+    "title": "SCR-020",
+    "sitemap_update": 1620013086000,
+    "votings": [
+        [
+            7198635,
+            true
+        ]
+    ],
+    "is_locked": false
+}

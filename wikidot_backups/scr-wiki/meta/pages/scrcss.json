@@ -1,0 +1,71 @@
+{
+    "name": "scrcss",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1033617052,
+            "author": 5713128,
+            "stamp": 1577885537,
+            "flags": "A",
+            "commentary": "已新增标签：样版。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1033617045,
+            "author": 5713128,
+            "stamp": 1577885507,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1033617034,
+            "author": 5713128,
+            "stamp": 1577885415,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1033543210,
+            "author": 5713128,
+            "stamp": 1577626224,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1033543208,
+            "author": 5713128,
+            "stamp": 1577626208,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1033543204,
+            "author": 5713128,
+            "stamp": 1577626180,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033543194,
+            "author": 5713128,
+            "stamp": 1577626044,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 985966002,
+    "tags": [
+        "样版"
+    ],
+    "title": "样版",
+    "sitemap_update": 1577885537000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,131 @@
+{
+    "name": "scr-665",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1388079204,
+            "author": 7198635,
+            "stamp": 1641455224,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 7"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1388079114,
+            "author": 7198635,
+            "stamp": 1641454860,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1388078362,
+            "author": 7198635,
+            "stamp": 1641450394,
+            "flags": "A",
+            "commentary": "移除标签：爬行类动物。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1388078360,
+            "author": 7198635,
+            "stamp": 1641450370,
+            "flags": "A",
+            "commentary": "已新增标签：建筑。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1388078304,
+            "author": 7198635,
+            "stamp": 1641450168,
+            "flags": "A",
+            "commentary": "已新增标签：听觉影响, 工具, 幻觉, 机械, 爬行类动物, 触觉影响。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1388078297,
+            "author": 7198635,
+            "stamp": 1641450079,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1388078296,
+            "author": 7198635,
+            "stamp": 1641450065,
+            "flags": "A",
+            "commentary": "已新增标签：模因。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1388078293,
+            "author": 7198635,
+            "stamp": 1641450050,
+            "flags": "A",
+            "commentary": "已新增标签：light, scr, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1388078288,
+            "author": 7198635,
+            "stamp": 1641450029,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1331309030,
+    "rating": 8,
+    "forum_thread": 15588555,
+    "tags": [
+        "light",
+        "scr",
+        "原创",
+        "听觉影响",
+        "工具",
+        "幻觉",
+        "建筑",
+        "机械",
+        "模因",
+        "触觉影响"
+    ],
+    "title": "SCR-665",
+    "sitemap_update": 1641455224000,
+    "votings": [
+        [
+            7642233,
+            true
+        ],
+        [
+            7045981,
+            true
+        ],
+        [
+            5713128,
+            true
+        ],
+        [
+            7332710,
+            true
+        ],
+        [
+            6336969,
+            true
+        ],
+        [
+            5686104,
+            true
+        ],
+        [
+            6272073,
+            true
+        ],
+        [
+            8388370,
+            true
+        ]
+    ],
+    "is_locked": false
+}

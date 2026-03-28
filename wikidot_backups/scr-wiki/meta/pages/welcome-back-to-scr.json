@@ -1,0 +1,102 @@
+{
+    "name": "welcome-back-to-scr",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1532940050,
+            "author": 8318867,
+            "stamp": 1760174962,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532940045,
+            "author": 8318867,
+            "stamp": 1760174915,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532940036,
+            "author": 8318867,
+            "stamp": 1760174827,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532939997,
+            "author": 8318867,
+            "stamp": 1760174582,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"zheli\" 至 \"welcome-back-to-scr\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532939990,
+            "author": 8318867,
+            "stamp": 1760174526,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1511854756,
+            "author": 8234565,
+            "stamp": 1688536157,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1509324285,
+            "author": 7354732,
+            "stamp": 1680930557,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1508579585,
+            "author": 8234565,
+            "stamp": 1678975897,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1508579097,
+            "author": 8234565,
+            "stamp": 1678974318,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1446724372,
+    "forum_thread": 15745659,
+    "title": "留言板：从回到SCR启程！",
+    "sitemap_update": 1760174962000,
+    "votings": [
+        [
+            6444453,
+            true
+        ],
+        [
+            8318867,
+            true
+        ],
+        [
+            6221901,
+            true
+        ],
+        [
+            6379850,
+            true
+        ]
+    ],
+    "is_locked": true
+}

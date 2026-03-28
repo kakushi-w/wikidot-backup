@@ -1,0 +1,333 @@
+{
+    "name": "personnel-dossier",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 37,
+            "global_revision": 1531722469,
+            "author": 7354732,
+            "stamp": 1755952197,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1506322391,
+            "author": 8318867,
+            "stamp": 1672963704,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1364882289,
+            "author": 5713128,
+            "stamp": 1620133831,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1359631308,
+            "author": 6083676,
+            "stamp": 1612621920,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 33,
+            "global_revision": 1358796795,
+            "author": 5713128,
+            "stamp": 1609482994,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1357170454,
+            "author": 5713128,
+            "stamp": 1603624034,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1357170431,
+            "author": 5713128,
+            "stamp": 1603623888,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1357025611,
+            "author": 5713128,
+            "stamp": 1603293584,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1356052200,
+            "author": 5713128,
+            "stamp": 1600963304,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1356052125,
+            "author": 5713128,
+            "stamp": 1600963116,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1356051833,
+            "author": 5713128,
+            "stamp": 1600962440,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1356051790,
+            "author": 5713128,
+            "stamp": 1600962248,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1356051778,
+            "author": 5713128,
+            "stamp": 1600962164,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1311251163,
+            "author": 5713128,
+            "stamp": 1596949944,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1096503829,
+            "author": 5713128,
+            "stamp": 1590068989,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1073576063,
+            "author": 5713128,
+            "stamp": 1586952806,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1047322796,
+            "author": 5713128,
+            "stamp": 1582983663,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1047319041,
+            "author": 5713128,
+            "stamp": 1582983310,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1034423600,
+            "author": 5910365,
+            "stamp": 1580453074,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1033701031,
+            "author": 5713128,
+            "stamp": 1578229679,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1033604097,
+            "author": 5713128,
+            "stamp": 1577856487,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1033538288,
+            "author": 5910365,
+            "stamp": 1577602262,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1033526252,
+            "author": 5713128,
+            "stamp": 1577536488,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1033526242,
+            "author": 5713128,
+            "stamp": 1577536423,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1033526186,
+            "author": 5713128,
+            "stamp": 1577535967,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"employee-file\" 至 \"personnel-dossier\"."
+        },
+        {
+            "revision": 12,
+            "global_revision": 1033526160,
+            "author": 5713128,
+            "stamp": 1577535698,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1033526143,
+            "author": 5713128,
+            "stamp": 1577535508,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1033526110,
+            "author": 5713128,
+            "stamp": 1577535231,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1033526101,
+            "author": 5713128,
+            "stamp": 1577535164,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1033526097,
+            "author": 5713128,
+            "stamp": 1577535128,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1033526083,
+            "author": 5713128,
+            "stamp": 1577535105,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1033526080,
+            "author": 5713128,
+            "stamp": 1577535081,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1033526010,
+            "author": 5713128,
+            "stamp": 1577534727,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1033525997,
+            "author": 5713128,
+            "stamp": 1577534590,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1033525991,
+            "author": 5713128,
+            "stamp": 1577534555,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1033525947,
+            "author": 5713128,
+            "stamp": 1577534089,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1033525940,
+            "author": 5713128,
+            "stamp": 1577534040,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033525935,
+            "author": 5713128,
+            "stamp": 1577533936,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 985958731,
+    "forum_thread": 13360471,
+    "tags": [
+        "原创"
+    ],
+    "title": "职员档案",
+    "sitemap_update": 1755952197000,
+    "votings": [
+        [
+            6336969,
+            true
+        ],
+        [
+            6445729,
+            true
+        ],
+        [
+            7198635,
+            true
+        ]
+    ],
+    "is_locked": false
+}

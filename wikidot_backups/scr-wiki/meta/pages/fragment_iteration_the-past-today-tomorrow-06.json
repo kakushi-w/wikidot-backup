@@ -1,0 +1,55 @@
+{
+    "name": "fragment:iteration:the-past-today-tomorrow-06",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1505638544,
+            "author": 8318867,
+            "stamp": 1672576623,
+            "flags": "M",
+            "commentary": "父页面设置为: \"iteration:the-past-today-tomorrow\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1505638540,
+            "author": 8318867,
+            "stamp": 1672576606,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"iteration-failures:the-past-today-tomorrow-3\" 至 \"fragment:iteration:the-past-today-tomorrow-06\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1505450718,
+            "author": 8318867,
+            "stamp": 1672109122,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1444665758,
+    "parent": "iteration:the-past-today-tomorrow",
+    "forum_thread": 15486246,
+    "title": "文件SCRP-明月?黑月?",
+    "sitemap_update": 1672576623000,
+    "votings": [
+        [
+            8039119,
+            true
+        ],
+        [
+            8411782,
+            true
+        ],
+        [
+            7978037,
+            true
+        ],
+        [
+            5933895,
+            true
+        ]
+    ],
+    "is_locked": true
+}

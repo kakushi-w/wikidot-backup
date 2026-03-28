@@ -1,0 +1,32 @@
+{
+    "title": "幽灵列车·行纪",
+    "id": 15461839,
+    "description": "",
+    "last": 1671798886,
+    "lastUser": 5686104,
+    "started": 1670982512,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 5762143,
+            "title": "BTWGZ",
+            "poster": 5933895,
+            "stamp": 1671000622,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 5780375,
+                    "title": "Re: BTWGZ",
+                    "poster": 5686104,
+                    "stamp": 1671798886,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

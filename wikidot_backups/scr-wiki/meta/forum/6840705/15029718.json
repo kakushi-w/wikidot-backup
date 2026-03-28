@@ -1,0 +1,56 @@
+{
+    "title": "戈壁滩",
+    "id": 15029718,
+    "description": "",
+    "last": 1659360412,
+    "lastUser": 5933895,
+    "started": 1658326394,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 5472934,
+            "title": "",
+            "poster": 5933895,
+            "stamp": 1658326418,
+            "lastEdit": 1658326435,
+            "lastEditBy": 5933895,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 5933895,
+                    "id": 6667550,
+                    "stamp": 1658326435
+                },
+                {
+                    "title": "",
+                    "author": 5933895,
+                    "id": 6667549,
+                    "stamp": 1658326418
+                }
+            ],
+            "children": [
+                {
+                    "id": 5473358,
+                    "title": "",
+                    "poster": 6818166,
+                    "stamp": 1658374431,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 5517518,
+                            "title": "",
+                            "poster": 5933895,
+                            "stamp": 1659360412,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

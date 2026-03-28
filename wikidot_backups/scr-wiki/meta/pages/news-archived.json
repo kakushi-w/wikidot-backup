@@ -1,0 +1,116 @@
+{
+    "name": "news-archived",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1539963918,
+            "author": 1899481,
+            "stamp": 1764255612,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539963901,
+            "author": 1899481,
+            "stamp": 1764255556,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532224388,
+            "author": 7354732,
+            "stamp": 1757526369,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1367248863,
+            "author": 5713128,
+            "stamp": 1627390881,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1360076781,
+            "author": 5713128,
+            "stamp": 1614189145,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1360076155,
+            "author": 5713128,
+            "stamp": 1614185097,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1359631294,
+            "author": 6083676,
+            "stamp": 1612621845,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1339296204,
+            "author": 5713128,
+            "stamp": 1599911094,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1311251289,
+            "author": 5713128,
+            "stamp": 1596950452,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1215023364,
+            "author": 5713128,
+            "stamp": 1592667770,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1084974585,
+            "author": 5713128,
+            "stamp": 1589207412,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033859394,
+            "author": 4764494,
+            "stamp": 1578842122,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 986149252,
+    "tags": [
+        "管理"
+    ],
+    "title": "旧新闻归档",
+    "sitemap_update": 1764255612000,
+    "votings": [
+        [
+            7198635,
+            true
+        ]
+    ],
+    "is_locked": true
+}

@@ -1,0 +1,129 @@
+{
+    "name": "en:scr-093",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1495962412,
+            "author": 5713128,
+            "stamp": 1664675425,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1495962408,
+            "author": 5713128,
+            "stamp": 1664675405,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1388818793,
+            "author": 5713128,
+            "stamp": 1644741243,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1370612586,
+            "author": 5713128,
+            "stamp": 1629021127,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1075245948,
+            "author": 5713128,
+            "stamp": 1587715179,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1075245925,
+            "author": 5713128,
+            "stamp": 1587715086,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1075245823,
+            "author": 5713128,
+            "stamp": 1587714914,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1075245804,
+            "author": 5713128,
+            "stamp": 1587714844,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1075245722,
+            "author": 5713128,
+            "stamp": 1587714348,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1075245698,
+            "author": 5713128,
+            "stamp": 1587714231,
+            "flags": "A",
+            "commentary": "已新增标签：scr, tuker, 原创, 翻译。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1075245686,
+            "author": 5713128,
+            "stamp": 1587714174,
+            "flags": "A",
+            "commentary": "已新增标签：en。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1075245682,
+            "author": 5713128,
+            "stamp": 1587714150,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1075245660,
+            "author": 5713128,
+            "stamp": 1587714050,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1026148206,
+    "rating": 1,
+    "tags": [
+        "en",
+        "scr",
+        "tuker",
+        "原创",
+        "翻译"
+    ],
+    "title": "SCR-093",
+    "sitemap_update": 1664675425000,
+    "votings": [
+        [
+            7198635,
+            true
+        ]
+    ],
+    "is_locked": false
+}

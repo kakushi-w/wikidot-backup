@@ -1,0 +1,60 @@
+{
+    "name": "supsilon:deletion-worker",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1379838148,
+            "author": 5713128,
+            "stamp": 1633317396,
+            "flags": "A",
+            "commentary": "移除标签：待删除。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1379838142,
+            "author": 5713128,
+            "stamp": 1633317354,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1379822790,
+            "author": 5713128,
+            "stamp": 1633260710,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1379822760,
+            "author": 5713128,
+            "stamp": 1633260567,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1379822757,
+            "author": 5713128,
+            "stamp": 1633260550,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1379822713,
+            "author": 5713128,
+            "stamp": 1633260401,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1324304930,
+    "title": "Deletion Worker",
+    "sitemap_update": 1633317396000,
+    "votings": [],
+    "is_locked": false
+}

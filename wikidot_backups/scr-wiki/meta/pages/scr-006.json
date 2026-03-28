@@ -1,0 +1,84 @@
+{
+    "name": "scr-006",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1360046980,
+            "author": 5713128,
+            "stamp": 1614056000,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1312511760,
+            "author": 6329390,
+            "stamp": 1598089024,
+            "flags": "S",
+            "commentary": "改正了部分维基语法错误"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1084200611,
+            "author": 5713128,
+            "stamp": 1588318064,
+            "flags": "A",
+            "commentary": "已新增标签：light, scr, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1084200606,
+            "author": 5713128,
+            "stamp": 1588318048,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1077811073,
+            "author": 5571214,
+            "stamp": 1588215946,
+            "flags": "N",
+            "commentary": "神的雕像，具体想的是这是个神的内部之类的。但想了想还是更深点吧，等全部世界观写完了就知道了"
+        }
+    ],
+    "files": [],
+    "page_id": 1028623260,
+    "rating": 4,
+    "forum_thread": 13948637,
+    "tags": [
+        "light",
+        "scr",
+        "原创"
+    ],
+    "title": "SCR-006",
+    "sitemap_update": 1614056000000,
+    "votings": [
+        [
+            6336969,
+            true
+        ],
+        [
+            6173149,
+            false
+        ],
+        [
+            5571214,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            5686104,
+            true
+        ],
+        [
+            5933895,
+            true
+        ]
+    ],
+    "is_locked": false
+}

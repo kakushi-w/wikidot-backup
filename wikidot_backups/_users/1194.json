@@ -51,5 +51,16 @@
         "activity": 0,
         "fetched_at": 1774403111254,
         "user_id": 9788544
+    },
+    "9788641": {
+        "full_name": "WaspSquidW",
+        "username": "waspsquidw",
+        "gender": "male",
+        "website": "https://talkandstudy.github.io",
+        "wikidot_user_since": 1753179000,
+        "account_type": "free",
+        "activity": 3,
+        "fetched_at": 1774708645874,
+        "user_id": 9788641
     }
 }

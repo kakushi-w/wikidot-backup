@@ -1,0 +1,83 @@
+{
+    "name": "hhh",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1497127288,
+            "author": 5933895,
+            "stamp": 1667435527,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1479159226,
+            "author": 5933895,
+            "stamp": 1658326367,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1479159223,
+            "author": 5933895,
+            "stamp": 1658326356,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1479159188,
+            "author": 5933895,
+            "stamp": 1658326343,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1420275975,
+    "rating": 8,
+    "forum_thread": 15029718,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "戈壁滩",
+    "sitemap_update": 1667435527000,
+    "votings": [
+        [
+            5713128,
+            true
+        ],
+        [
+            7332710,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            6818166,
+            true
+        ],
+        [
+            5686104,
+            true
+        ],
+        [
+            5933895,
+            true
+        ],
+        [
+            8196010,
+            true
+        ],
+        [
+            6272073,
+            true
+        ]
+    ],
+    "is_locked": true
+}

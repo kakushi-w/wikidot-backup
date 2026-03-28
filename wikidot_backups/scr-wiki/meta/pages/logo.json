@@ -1,0 +1,53 @@
+{
+    "name": "logo",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1365746187,
+            "author": 6083676,
+            "stamp": 1621594797,
+            "flags": "A",
+            "commentary": "已新增标签：指导, 管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1360084147,
+            "author": 5713128,
+            "stamp": 1614227024,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1306994337,
+    "tags": [
+        "指导",
+        "管理"
+    ],
+    "title": "新标志与旧标志",
+    "sitemap_update": 1621594797000,
+    "votings": [
+        [
+            7146864,
+            true
+        ],
+        [
+            6173149,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            5933895,
+            true
+        ],
+        [
+            6272073,
+            true
+        ]
+    ],
+    "is_locked": true
+}

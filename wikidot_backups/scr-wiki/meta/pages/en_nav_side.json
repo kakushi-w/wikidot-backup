@@ -1,0 +1,44 @@
+{
+    "name": "en:nav:side",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1539132131,
+            "author": 7354732,
+            "stamp": 1762546597,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539132113,
+            "author": 7354732,
+            "stamp": 1762546506,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539132071,
+            "author": 7354732,
+            "stamp": 1762546231,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539132070,
+            "author": 7354732,
+            "stamp": 1762546209,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466491535,
+    "title": "Sidebar",
+    "sitemap_update": 1762546597000,
+    "votings": [],
+    "is_locked": true
+}

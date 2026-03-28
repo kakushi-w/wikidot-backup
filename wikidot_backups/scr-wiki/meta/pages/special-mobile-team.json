@@ -1,0 +1,554 @@
+{
+    "name": "special-mobile-team",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 64,
+            "global_revision": 1506322379,
+            "author": 8318867,
+            "stamp": 1672963631,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 63,
+            "global_revision": 1367550268,
+            "author": 5713128,
+            "stamp": 1628688857,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 62,
+            "global_revision": 1367550247,
+            "author": 5713128,
+            "stamp": 1628688766,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 61,
+            "global_revision": 1367550230,
+            "author": 5713128,
+            "stamp": 1628688738,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 60,
+            "global_revision": 1366928572,
+            "author": 5713128,
+            "stamp": 1625757328,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 56"
+        },
+        {
+            "revision": 59,
+            "global_revision": 1366910637,
+            "author": 6445729,
+            "stamp": 1625655817,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 58,
+            "global_revision": 1366910567,
+            "author": 6445729,
+            "stamp": 1625655598,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 57,
+            "global_revision": 1366910233,
+            "author": 6445729,
+            "stamp": 1625654204,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 56,
+            "global_revision": 1364835857,
+            "author": 5713128,
+            "stamp": 1619954356,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 55,
+            "global_revision": 1363067955,
+            "author": 5713128,
+            "stamp": 1618845619,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 54,
+            "global_revision": 1363066866,
+            "author": 5713128,
+            "stamp": 1618845485,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 53,
+            "global_revision": 1359631315,
+            "author": 6083676,
+            "stamp": 1612621960,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 52,
+            "global_revision": 1318537948,
+            "author": 5713128,
+            "stamp": 1598539094,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 51,
+            "global_revision": 1318534039,
+            "author": 6336969,
+            "stamp": 1598525571,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 50,
+            "global_revision": 1318534022,
+            "author": 6336969,
+            "stamp": 1598525487,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 49,
+            "global_revision": 1318534011,
+            "author": 6336969,
+            "stamp": 1598525444,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 48,
+            "global_revision": 1311238052,
+            "author": 5713128,
+            "stamp": 1596906037,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 47,
+            "global_revision": 1311179112,
+            "author": 5713128,
+            "stamp": 1596890557,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 46,
+            "global_revision": 1311179071,
+            "author": 5713128,
+            "stamp": 1596890463,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 45,
+            "global_revision": 1311177272,
+            "author": 5713128,
+            "stamp": 1596882811,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1311177262,
+            "author": 5713128,
+            "stamp": 1596882753,
+            "flags": "F",
+            "commentary": "已上传文件 “smt.png”。"
+        },
+        {
+            "revision": 43,
+            "global_revision": 1311177256,
+            "author": 5713128,
+            "stamp": 1596882720,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 42,
+            "global_revision": 1274574075,
+            "author": 6173149,
+            "stamp": 1595572044,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 41,
+            "global_revision": 1096504222,
+            "author": 6173149,
+            "stamp": 1590070194,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1096492152,
+            "author": 6173149,
+            "stamp": 1590039067,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1096492143,
+            "author": 6173149,
+            "stamp": 1590039038,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1073671173,
+            "author": 5713128,
+            "stamp": 1587012002,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1073585624,
+            "author": 5713128,
+            "stamp": 1586964634,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1073585445,
+            "author": 5713128,
+            "stamp": 1586964483,
+            "flags": "F",
+            "commentary": "已删除附件 “FTF-Alpha-03.png”"
+        },
+        {
+            "revision": 35,
+            "global_revision": 1073585440,
+            "author": 5713128,
+            "stamp": 1586964466,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1073076815,
+            "author": 5713128,
+            "stamp": 1586242980,
+            "flags": "F",
+            "commentary": "已删除附件 “玄武”"
+        },
+        {
+            "revision": 33,
+            "global_revision": 1073076813,
+            "author": 5713128,
+            "stamp": 1586242974,
+            "flags": "F",
+            "commentary": "已删除附件 “青龙.jpg”"
+        },
+        {
+            "revision": 32,
+            "global_revision": 1073076807,
+            "author": 5713128,
+            "stamp": 1586242968,
+            "flags": "F",
+            "commentary": "已删除附件 “白虎.jpg”"
+        },
+        {
+            "revision": 31,
+            "global_revision": 1072986300,
+            "author": 5910365,
+            "stamp": 1585973593,
+            "flags": "F",
+            "commentary": "已上传文件 “青龙.jpg”。"
+        },
+        {
+            "revision": 30,
+            "global_revision": 1072986269,
+            "author": 5910365,
+            "stamp": 1585973494,
+            "flags": "F",
+            "commentary": "已上传文件 “白虎.jpg”。"
+        },
+        {
+            "revision": 29,
+            "global_revision": 1072986261,
+            "author": 5910365,
+            "stamp": 1585973471,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1072986227,
+            "author": 5910365,
+            "stamp": 1585973322,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1072986193,
+            "author": 5910365,
+            "stamp": 1585973193,
+            "flags": "F",
+            "commentary": "已上传文件 “玄武”。"
+        },
+        {
+            "revision": 26,
+            "global_revision": 1072986156,
+            "author": 5910365,
+            "stamp": 1585973073,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1050939547,
+            "author": 5713128,
+            "stamp": 1585049779,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1050678115,
+            "author": 5475203,
+            "stamp": 1584449343,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1050678094,
+            "author": 5475203,
+            "stamp": 1584449299,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1035428766,
+            "author": 5713128,
+            "stamp": 1581832864,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"field-task-force\" 至 \"special-mobile-team\"."
+        },
+        {
+            "revision": 21,
+            "global_revision": 1035428737,
+            "author": 5713128,
+            "stamp": 1581832760,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1033699400,
+            "author": 5713128,
+            "stamp": 1578221378,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1033699393,
+            "author": 5713128,
+            "stamp": 1578221327,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1033696764,
+            "author": 4764494,
+            "stamp": 1578208393,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1033679993,
+            "author": 5910365,
+            "stamp": 1578138063,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1033679978,
+            "author": 5910365,
+            "stamp": 1578137985,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1033525406,
+            "author": 5713128,
+            "stamp": 1577530471,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1033493627,
+            "author": 5713128,
+            "stamp": 1577369740,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1033493624,
+            "author": 5713128,
+            "stamp": 1577369723,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1033493593,
+            "author": 5713128,
+            "stamp": 1577369692,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1033493590,
+            "author": 5713128,
+            "stamp": 1577369670,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1033493586,
+            "author": 5713128,
+            "stamp": 1577369647,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1033493583,
+            "author": 5713128,
+            "stamp": 1577369624,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1033463791,
+            "author": 5713128,
+            "stamp": 1577282445,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1033463781,
+            "author": 5713128,
+            "stamp": 1577282377,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1033463779,
+            "author": 5713128,
+            "stamp": 1577282357,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1033463774,
+            "author": 5713128,
+            "stamp": 1577282323,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1033463769,
+            "author": 5713128,
+            "stamp": 1577282303,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1033463714,
+            "author": 5713128,
+            "stamp": 1577281980,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1033463711,
+            "author": 5713128,
+            "stamp": 1577281956,
+            "flags": "F",
+            "commentary": "已上传文件 “FTF-Alpha-03.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1033463708,
+            "author": 5713128,
+            "stamp": 1577281934,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033463689,
+            "author": 5713128,
+            "stamp": 1577281764,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9292475,
+            "name": "smt.png",
+            "url": "http://scr-wiki.wikidot.com/local--files/special-mobile-team/smt.png",
+            "size": "1.58 MB (1655179 Bytes)",
+            "size_bytes": 1655179,
+            "mime": "image/png",
+            "content": "PNG image data, 2480 x 3508, 8-bit/color RGB, non-interlaced",
+            "author": 5713128,
+            "stamp": 1596882753,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 985922102,
+    "forum_thread": 14147354,
+    "tags": [
+        "原创"
+    ],
+    "title": "特勤机动组",
+    "sitemap_update": 1672963631000,
+    "votings": [
+        [
+            5475203,
+            true
+        ]
+    ],
+    "is_locked": true
+}

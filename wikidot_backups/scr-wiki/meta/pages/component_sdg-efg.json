@@ -1,0 +1,47 @@
+{
+    "name": "component:sdg-efg",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1050939757,
+            "author": 5713128,
+            "stamp": 1585050596,
+            "flags": "A",
+            "commentary": "已新增标签：样版。 移除标签： 样板。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1033772447,
+            "author": 5713128,
+            "stamp": 1578572865,
+            "flags": "A",
+            "commentary": "已新增标签：样板。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1033770451,
+            "author": 5334883,
+            "stamp": 1578563994,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"system:sdg-efg\" 至 \"component:sdg-efg\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033770446,
+            "author": 5334883,
+            "stamp": 1578563947,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 986093859,
+    "tags": [
+        "样版"
+    ],
+    "title": "Sdg Efg",
+    "sitemap_update": 1585050596000,
+    "votings": [],
+    "is_locked": false
+}

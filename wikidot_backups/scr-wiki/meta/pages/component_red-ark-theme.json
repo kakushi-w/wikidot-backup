@@ -1,0 +1,193 @@
+{
+    "name": "component:red-ark-theme",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 18,
+            "global_revision": 1191804708,
+            "author": 5713128,
+            "stamp": 1591425938,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1191804647,
+            "author": 5713128,
+            "stamp": 1591425811,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1191804547,
+            "author": 5713128,
+            "stamp": 1591425394,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1191804370,
+            "author": 5713128,
+            "stamp": 1591424859,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1191804203,
+            "author": 5713128,
+            "stamp": 1591424396,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1191804152,
+            "author": 5713128,
+            "stamp": 1591424160,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 11"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1191804149,
+            "author": 5713128,
+            "stamp": 1591424145,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1191804064,
+            "author": 5713128,
+            "stamp": 1591423868,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1191804020,
+            "author": 5713128,
+            "stamp": 1591423729,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1191803974,
+            "author": 5713128,
+            "stamp": 1591423635,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"red-ark-theme\" 至 \"component:red-ark-theme\"."
+        },
+        {
+            "revision": 8,
+            "global_revision": 1191571206,
+            "author": 5713128,
+            "stamp": 1591403821,
+            "flags": "A",
+            "commentary": "已新增标签：样版。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1075351585,
+            "author": 5713128,
+            "stamp": 1587993892,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1075351530,
+            "author": 5713128,
+            "stamp": 1587993715,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1075351494,
+            "author": 5713128,
+            "stamp": 1587993611,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1075351423,
+            "author": 5713128,
+            "stamp": 1587993344,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1075351416,
+            "author": 5713128,
+            "stamp": 1587993319,
+            "flags": "F",
+            "commentary": "已上传文件 “RED-ARK.png”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1075351408,
+            "author": 5713128,
+            "stamp": 1587993278,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1075351391,
+            "author": 5713128,
+            "stamp": 1587993220,
+            "flags": "F",
+            "commentary": "已上传文件 “red-ark-css.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1075351373,
+            "author": 5713128,
+            "stamp": 1587993147,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9040419,
+            "name": "red-ark-css.png",
+            "url": "http://scr-wiki.wikidot.com/local--files/component:red-ark-theme/red-ark-css.png",
+            "size": "2.33 kB (2387 Bytes)",
+            "size_bytes": 2387,
+            "mime": "image/png",
+            "content": "PNG image data, 141 x 187, 8-bit colormap, non-interlaced",
+            "author": 5713128,
+            "stamp": 1587993220,
+            "internal_version": 1
+        },
+        {
+            "file_id": 9040420,
+            "name": "RED-ARK.png",
+            "url": "http://scr-wiki.wikidot.com/local--files/component:red-ark-theme/RED-ARK.png",
+            "size": "98.14 kB (100500 Bytes)",
+            "size_bytes": 100500,
+            "mime": "image/png",
+            "content": "PNG image data, 400 x 408, 8-bit/color RGBA, non-interlaced",
+            "author": 5713128,
+            "stamp": 1587993319,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1026208096,
+    "rating": 0,
+    "tags": [
+        "样版"
+    ],
+    "title": "red ark theme",
+    "sitemap_update": 1591425938000,
+    "votings": [],
+    "is_locked": false
+}

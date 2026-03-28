@@ -1,0 +1,104 @@
+{
+    "name": "scr-157",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1497810022,
+            "author": 5933895,
+            "stamp": 1669373703,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1497630849,
+            "author": 5933895,
+            "stamp": 1668918092,
+            "flags": "A",
+            "commentary": "已新增标签：未完成。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1497630845,
+            "author": 5933895,
+            "stamp": 1668918073,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1497185826,
+            "author": 5933895,
+            "stamp": 1667638747,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1311251330,
+            "author": 5713128,
+            "stamp": 1596950661,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1311251310,
+            "author": 5713128,
+            "stamp": 1596950530,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1311251244,
+            "author": 5713128,
+            "stamp": 1596950218,
+            "flags": "A",
+            "commentary": "已新增标签：scr, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1311250311,
+            "author": 5933895,
+            "stamp": 1596945123,
+            "flags": "N",
+            "commentary": "。。。有真实游戏 别瞎想 不会真实死亡 除非你有被害妄想症"
+        }
+    ],
+    "files": [],
+    "page_id": 1260737103,
+    "rating": 5,
+    "forum_thread": 13630585,
+    "tags": [
+        "scr",
+        "原创",
+        "未完成"
+    ],
+    "title": "SCR-157",
+    "sitemap_update": 1669373703000,
+    "votings": [
+        [
+            5713128,
+            true
+        ],
+        [
+            6336969,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            5686104,
+            true
+        ],
+        [
+            6272073,
+            true
+        ]
+    ],
+    "is_locked": false
+}

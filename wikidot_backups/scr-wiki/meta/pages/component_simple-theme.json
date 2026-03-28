@@ -1,0 +1,157 @@
+{
+    "name": "component:simple-theme",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 15,
+            "global_revision": 1371570725,
+            "author": 5713128,
+            "stamp": 1629283947,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1371570660,
+            "author": 5713128,
+            "stamp": 1629283879,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1371067973,
+            "author": 5713128,
+            "stamp": 1629041288,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1371067507,
+            "author": 5713128,
+            "stamp": 1629039669,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1371067431,
+            "author": 5713128,
+            "stamp": 1629039325,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1371067424,
+            "author": 5713128,
+            "stamp": 1629039298,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1371067413,
+            "author": 5713128,
+            "stamp": 1629039268,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1368639983,
+            "author": 5713128,
+            "stamp": 1628953720,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1368639920,
+            "author": 5713128,
+            "stamp": 1628953490,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1368639744,
+            "author": 5713128,
+            "stamp": 1628953063,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1368639669,
+            "author": 5713128,
+            "stamp": 1628952718,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1368639617,
+            "author": 5713128,
+            "stamp": 1628952515,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 样版。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1368639597,
+            "author": 5713128,
+            "stamp": 1628952415,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1368639576,
+            "author": 5713128,
+            "stamp": 1628952340,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1368639572,
+            "author": 5713128,
+            "stamp": 1628952330,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1368639543,
+            "author": 5713128,
+            "stamp": 1628952254,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1313624658,
+    "tags": [
+        "原创",
+        "样版"
+    ],
+    "title": "简易版式",
+    "sitemap_update": 1629283947000,
+    "votings": [
+        [
+            6449508,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            6272073,
+            true
+        ]
+    ],
+    "is_locked": true
+}

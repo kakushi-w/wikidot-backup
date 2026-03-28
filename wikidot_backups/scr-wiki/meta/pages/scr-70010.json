@@ -1,0 +1,60 @@
+{
+    "name": "scr-70010",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1360478376,
+            "author": 6272073,
+            "stamp": 1615593967,
+            "flags": "A",
+            "commentary": "已新增标签：补充资料。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1360245406,
+            "author": 6272073,
+            "stamp": 1615027793,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1360245398,
+            "author": 6272073,
+            "stamp": 1615027734,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1360242078,
+            "author": 6272073,
+            "stamp": 1615010576,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1307044675,
+    "rating": 2,
+    "forum_thread": 14019842,
+    "tags": [
+        "原创",
+        "故事",
+        "补充资料"
+    ],
+    "title": "关于SCR-700的采访",
+    "sitemap_update": 1615593967000,
+    "votings": [
+        [
+            7198635,
+            true
+        ],
+        [
+            5686104,
+            true
+        ]
+    ],
+    "is_locked": false
+}

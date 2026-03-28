@@ -1,0 +1,146 @@
+{
+    "name": "w2025",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1540597341,
+            "author": 7354732,
+            "stamp": 1765612693,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1538360534,
+            "author": 7354732,
+            "stamp": 1762270834,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1532856385,
+            "author": 8318867,
+            "stamp": 1759940026,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1532856324,
+            "author": 8318867,
+            "stamp": 1759939642,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532609227,
+            "author": 7354732,
+            "stamp": 1759431561,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532599081,
+            "author": 7354732,
+            "stamp": 1759396766,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532599074,
+            "author": 7354732,
+            "stamp": 1759396731,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532598992,
+            "author": 7354732,
+            "stamp": 1759396346,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532597973,
+            "author": 7354732,
+            "stamp": 1759393063,
+            "flags": "F",
+            "commentary": "已上传文件 “act.jpg”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532597922,
+            "author": 7354732,
+            "stamp": 1759392860,
+            "flags": "F",
+            "commentary": "已删除文件 “w2025.jpg”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532597400,
+            "author": 7354732,
+            "stamp": 1759391072,
+            "flags": "F",
+            "commentary": "已上传文件 “w2025.jpg”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532574009,
+            "author": 7354732,
+            "stamp": 1759296394,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532574006,
+            "author": 7354732,
+            "stamp": 1759296368,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531726059,
+            "author": 7354732,
+            "stamp": 1755965392,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11477837,
+            "name": "act.jpg",
+            "url": "http://scr-wiki.wikidot.com/local--files/w2025/act.jpg",
+            "size": "877.25 kB (898309 Bytes)",
+            "size_bytes": 898309,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 2861x1916, components 3",
+            "author": 7354732,
+            "stamp": 1759393063,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460098461,
+    "title": "2025年SCR征文比赛",
+    "sitemap_update": 1765612693000,
+    "votings": [
+        [
+            5933895,
+            true
+        ],
+        [
+            9788641,
+            true
+        ]
+    ],
+    "is_locked": true
+}

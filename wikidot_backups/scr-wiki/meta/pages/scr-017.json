@@ -1,0 +1,245 @@
+{
+    "name": "scr-017",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 24,
+            "global_revision": 1494327270,
+            "author": 5933895,
+            "stamp": 1661874874,
+            "flags": "A",
+            "commentary": "已新增标签：danger。 移除标签：tuker。"
+        },
+        {
+            "revision": 23,
+            "global_revision": 1387947957,
+            "author": 5933895,
+            "stamp": 1640969547,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1357159383,
+            "author": 5933895,
+            "stamp": 1603593208,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1357159362,
+            "author": 5933895,
+            "stamp": 1603593141,
+            "flags": "S A",
+            "commentary": "您已成功地回复本页至修订版本编号 18"
+        },
+        {
+            "revision": 20,
+            "global_revision": 1357159341,
+            "author": 5933895,
+            "stamp": 1603593101,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1356094240,
+            "author": 5933895,
+            "stamp": 1601090486,
+            "flags": "A",
+            "commentary": "已新增标签：danger。 移除标签：tuker。"
+        },
+        {
+            "revision": 18,
+            "global_revision": 1355856403,
+            "author": 5933895,
+            "stamp": 1600260443,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1355856392,
+            "author": 5933895,
+            "stamp": 1600260391,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1355856370,
+            "author": 5933895,
+            "stamp": 1600260283,
+            "flags": "S",
+            "commentary": "加长加only的改编以及a little的设定修改"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1136555400,
+            "author": 6173149,
+            "stamp": 1590407613,
+            "flags": "A",
+            "commentary": "已新增标签：tuker。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1084275529,
+            "author": 5713128,
+            "stamp": 1588498226,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1034560521,
+            "author": 5933895,
+            "stamp": 1580886302,
+            "flags": "A",
+            "commentary": "已新增标签：气球。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1034525739,
+            "author": 5933895,
+            "stamp": 1580754199,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1034137581,
+            "author": 5713128,
+            "stamp": 1579836084,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1033978078,
+            "author": 5933895,
+            "stamp": 1579317747,
+            "flags": "S",
+            "commentary": "修改部分错误标点符号以及将我想的的“人头气球”更好体现出来"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1033971326,
+            "author": 5933895,
+            "stamp": 1579317380,
+            "flags": "S",
+            "commentary": "只对人类会不会有点儿针对，修改SCR-017-1的目标"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1033971206,
+            "author": 5933895,
+            "stamp": 1579316751,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1033928000,
+            "author": 4764494,
+            "stamp": 1579147401,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1033927980,
+            "author": 4764494,
+            "stamp": 1579147240,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1033927974,
+            "author": 4764494,
+            "stamp": 1579147193,
+            "flags": "A",
+            "commentary": "已新增标签：scr, 原创。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1033918377,
+            "author": 5933895,
+            "stamp": 1579098085,
+            "flags": "S",
+            "commentary": "更改了一些自认为是错误的地方，屏蔽一些数据"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1033918280,
+            "author": 5933895,
+            "stamp": 1579097678,
+            "flags": "S",
+            "commentary": "本次编辑将SCR—017—1毁灭程序重新更改以及更换SCR—017的收容载具"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1033909723,
+            "author": 5933895,
+            "stamp": 1579059536,
+            "flags": "S",
+            "commentary": "修改了个别错别字"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1033909690,
+            "author": 5933895,
+            "stamp": 1579059305,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033909652,
+            "author": 5933895,
+            "stamp": 1579059217,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 986173554,
+    "rating": 4,
+    "forum_thread": 12935341,
+    "tags": [
+        "danger",
+        "scr",
+        "原创",
+        "气球"
+    ],
+    "title": "SCR-017",
+    "sitemap_update": 1661874874000,
+    "votings": [
+        [
+            5910365,
+            true
+        ],
+        [
+            6268737,
+            true
+        ],
+        [
+            6336969,
+            false
+        ],
+        [
+            5686104,
+            true
+        ],
+        [
+            5933895,
+            true
+        ],
+        [
+            6272073,
+            true
+        ]
+    ],
+    "is_locked": false
+}

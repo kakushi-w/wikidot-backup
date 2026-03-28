@@ -1,0 +1,89 @@
+{
+    "name": "module:copyright",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1532307503,
+            "author": 7354732,
+            "stamp": 1757957577,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532307499,
+            "author": 7354732,
+            "stamp": 1757957550,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532307389,
+            "author": 7354732,
+            "stamp": 1757957131,
+            "flags": "F",
+            "commentary": "已上传文件 “copyright-trouble.png”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532307380,
+            "author": 7354732,
+            "stamp": 1757957100,
+            "flags": "F",
+            "commentary": "已删除文件 “copyright-trouble.png”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532307378,
+            "author": 7354732,
+            "stamp": 1757957083,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532307346,
+            "author": 7354732,
+            "stamp": 1757956938,
+            "flags": "F",
+            "commentary": "文件 “copyright-problem.png” 已重新命名为 “copyright-trouble.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532307334,
+            "author": 7354732,
+            "stamp": 1757956906,
+            "flags": "F",
+            "commentary": "已上传文件 “copyright-problem.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532307215,
+            "author": 7354732,
+            "stamp": 1757956255,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11465748,
+            "name": "copyright-trouble.png",
+            "url": "http://scr-wiki.wikidot.com/local--files/module:copyright/copyright-trouble.png",
+            "size": "393.67 kB (403121 Bytes)",
+            "size_bytes": 403121,
+            "mime": "image/png",
+            "content": "PNG image data, 1651 x 1585, 8-bit/color RGBA, non-interlaced",
+            "author": 7354732,
+            "stamp": 1757957131,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460399291,
+    "title": "模板: 版权声明",
+    "sitemap_update": 1757957577000,
+    "votings": [],
+    "is_locked": true
+}

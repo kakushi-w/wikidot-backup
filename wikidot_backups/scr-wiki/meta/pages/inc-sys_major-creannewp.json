@@ -1,0 +1,29 @@
+{
+    "name": "inc-sys:major-creannewp",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1532222269,
+            "author": 7354732,
+            "stamp": 1757517691,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"major\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532222265,
+            "author": 7354732,
+            "stamp": 1757517667,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460373982,
+    "parent": "major",
+    "title": "主页/创建新页面与新增页面模块",
+    "sitemap_update": 1757517691000,
+    "votings": [],
+    "is_locked": false
+}

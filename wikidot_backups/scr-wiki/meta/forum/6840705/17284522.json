@@ -1,0 +1,32 @@
+{
+    "title": "SCR公司写作计划社群投票页面",
+    "id": 17284522,
+    "description": "",
+    "last": 1759434885,
+    "lastUser": 7354732,
+    "started": 1759434272,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7244099,
+            "title": "发起新投票请求",
+            "poster": 7354732,
+            "stamp": 1759434624,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7244130,
+                    "title": "",
+                    "poster": 7354732,
+                    "stamp": 1759434885,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

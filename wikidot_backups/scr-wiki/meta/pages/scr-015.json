@@ -1,0 +1,114 @@
+{
+    "name": "scr-015",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1261578627,
+            "author": 6173149,
+            "stamp": 1595330443,
+            "flags": "A",
+            "commentary": "已新增标签：light。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1084278917,
+            "author": 5933895,
+            "stamp": 1588511121,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1084201391,
+            "author": 5713128,
+            "stamp": 1588319945,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1073130170,
+            "author": 5933895,
+            "stamp": 1586396816,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1034561138,
+            "author": 5713128,
+            "stamp": 1580888818,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1034561109,
+            "author": 5713128,
+            "stamp": 1580888622,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1034560544,
+            "author": 5933895,
+            "stamp": 1580886424,
+            "flags": "A",
+            "commentary": "已新增标签：空间。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1034560507,
+            "author": 5933895,
+            "stamp": 1580886210,
+            "flags": "A",
+            "commentary": "已新增标签：scr, 传送, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1034560492,
+            "author": 5933895,
+            "stamp": 1580886078,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1034560445,
+            "author": 5933895,
+            "stamp": 1580885955,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 986583261,
+    "rating": 3,
+    "forum_thread": 13011877,
+    "tags": [
+        "light",
+        "scr",
+        "传送",
+        "原创",
+        "空间"
+    ],
+    "title": "SCR-015",
+    "sitemap_update": 1595330443000,
+    "votings": [
+        [
+            6336969,
+            true
+        ],
+        [
+            5686104,
+            true
+        ],
+        [
+            5933895,
+            true
+        ]
+    ],
+    "is_locked": true
+}

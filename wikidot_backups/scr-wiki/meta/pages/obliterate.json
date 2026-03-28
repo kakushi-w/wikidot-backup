@@ -1,0 +1,40 @@
+{
+    "name": "obliterate",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1359631342,
+            "author": 6083676,
+            "stamp": 1612622116,
+            "flags": "A",
+            "commentary": "已新增标签：已锁定。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1033425955,
+            "author": 5713128,
+            "stamp": 1577108543,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033374626,
+            "author": 5713128,
+            "stamp": 1576941463,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 985869610,
+    "forum_thread": 13084594,
+    "tags": [
+        "已锁定"
+    ],
+    "title": "抹杀",
+    "sitemap_update": 1612622116000,
+    "votings": [],
+    "is_locked": true
+}

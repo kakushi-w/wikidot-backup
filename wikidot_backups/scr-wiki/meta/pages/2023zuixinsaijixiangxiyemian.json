@@ -1,0 +1,174 @@
+{
+    "name": "2023zuixinsaijixiangxiyemian",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 18,
+            "global_revision": 1513037099,
+            "author": 8318867,
+            "stamp": 1692192129,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1512038401,
+            "author": 7354732,
+            "stamp": 1688786798,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1511996831,
+            "author": 8096210,
+            "stamp": 1688649784,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1511996819,
+            "author": 8096210,
+            "stamp": 1688649757,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1511941480,
+            "author": 8096210,
+            "stamp": 1688566256,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1511941261,
+            "author": 8096210,
+            "stamp": 1688565798,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1511941159,
+            "author": 8096210,
+            "stamp": 1688565570,
+            "flags": "A",
+            "commentary": "已新增标签：竞赛。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1511941153,
+            "author": 8096210,
+            "stamp": 1688565558,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1511941147,
+            "author": 8096210,
+            "stamp": 1688565542,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1511941138,
+            "author": 8096210,
+            "stamp": 1688565516,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1511941102,
+            "author": 8096210,
+            "stamp": 1688565402,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1511941084,
+            "author": 8096210,
+            "stamp": 1688565358,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1511836590,
+            "author": 7354732,
+            "stamp": 1688476964,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1511836583,
+            "author": 7354732,
+            "stamp": 1688476937,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1511642420,
+            "author": 8234565,
+            "stamp": 1687932314,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1511642386,
+            "author": 8234565,
+            "stamp": 1687932187,
+            "flags": "A",
+            "commentary": "已新增标签：2023年写作比赛。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1511642381,
+            "author": 8234565,
+            "stamp": 1687932168,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1511642356,
+            "author": 8234565,
+            "stamp": 1687932117,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1511641860,
+            "author": 8234565,
+            "stamp": 1687930794,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1448659140,
+    "forum_thread": 16118681,
+    "tags": [
+        "2023年写作比赛",
+        "竞赛"
+    ],
+    "title": "新赛季写作详细介绍页面",
+    "sitemap_update": 1692192129000,
+    "votings": [
+        [
+            8318867,
+            true
+        ]
+    ],
+    "is_locked": false
+}

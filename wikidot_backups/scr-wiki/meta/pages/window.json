@@ -1,0 +1,66 @@
+{
+    "name": "window",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1479498520,
+            "author": 7865818,
+            "stamp": 1659407465,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1478828416,
+            "author": 7865818,
+            "stamp": 1657464435,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1478828405,
+            "author": 7865818,
+            "stamp": 1657464385,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1478828280,
+            "author": 7865818,
+            "stamp": 1657464147,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1478827900,
+            "author": 7865818,
+            "stamp": 1657463337,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1420063179,
+    "rating": 3,
+    "title": "Window",
+    "sitemap_update": 1659407465000,
+    "votings": [
+        [
+            5713128,
+            true
+        ],
+        [
+            8318867,
+            true
+        ],
+        [
+            5686104,
+            true
+        ]
+    ],
+    "is_locked": true
+}

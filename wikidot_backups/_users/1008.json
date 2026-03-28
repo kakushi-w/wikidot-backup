@@ -20,5 +20,27 @@
         "activity": 2,
         "fetched_at": 1774413519621,
         "user_id": 8261399
+    },
+    "8261419": {
+        "full_name": "GCTBH",
+        "username": "gctbh",
+        "real_name": "Time Edward（Mr Nigma）、Benjamin",
+        "birthday": 404179200000,
+        "from": "未曾设想的道路+不到啊",
+        "website": "deep-forest-club.wikidot.com/",
+        "wikidot_user_since": 1663480380,
+        "account_type": "free",
+        "activity": 3,
+        "fetched_at": 1774709902781,
+        "user_id": 8261419
+    },
+    "8263381": {
+        "full_name": "MRFLD",
+        "username": "mrfld",
+        "wikidot_user_since": 1663576080,
+        "account_type": "free",
+        "activity": 2,
+        "fetched_at": 1774703939524,
+        "user_id": 8263381
     }
 }

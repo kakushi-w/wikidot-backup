@@ -1,0 +1,41 @@
+{
+    "name": "forum:new-thread",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1359840142,
+            "author": 7222500,
+            "stamp": 1613223307,
+            "flags": "F",
+            "commentary": "已上传文件 “目录.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 986622212,
+            "author": 5713128,
+            "stamp": 1574854826,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9509225,
+            "name": "目录.png",
+            "url": "http://scr-wiki.wikidot.com/local--files/forum:new-thread/%E7%9B%AE%E5%BD%95.png",
+            "size": "224.61 kB (229997 Bytes)",
+            "size_bytes": 229997,
+            "mime": "image/png",
+            "content": "PNG image data, 434 x 1460, 8-bit/color RGBA, non-interlaced",
+            "author": 7222500,
+            "stamp": 1613223307,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 939304819,
+    "title": "New Forum Thread",
+    "sitemap_update": 1613223307000,
+    "votings": [],
+    "is_locked": false
+}

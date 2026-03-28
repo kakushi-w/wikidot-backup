@@ -1,0 +1,47 @@
+{
+    "title": "草稿",
+    "id": 15276987,
+    "description": "希望各位给给意见",
+    "last": 1665123215,
+    "lastUser": 5686104,
+    "started": 1665116132,
+    "startedUser": 5686104,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 5622773,
+            "title": "草稿",
+            "poster": 5686104,
+            "stamp": 1665116132,
+            "lastEdit": 1665116155,
+            "lastEditBy": 5686104,
+            "revisions": [
+                {
+                    "title": "草稿",
+                    "author": 5686104,
+                    "id": 6845733,
+                    "stamp": 1665116155
+                },
+                {
+                    "title": "草稿",
+                    "author": 5686104,
+                    "id": 6845731,
+                    "stamp": 1665116132
+                }
+            ],
+            "children": [
+                {
+                    "id": 5622884,
+                    "title": "Re: 草稿",
+                    "poster": 5686104,
+                    "stamp": 1665123215,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

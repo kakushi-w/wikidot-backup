@@ -1,0 +1,98 @@
+{
+    "name": "licensing-guide",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1372941834,
+            "author": 5713128,
+            "stamp": 1629958580,
+            "flags": "M",
+            "commentary": "父页面设置为: \"guide-hub\"."
+        },
+        {
+            "revision": 8,
+            "global_revision": 1359647337,
+            "author": 6083676,
+            "stamp": 1612702818,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 必要, 指导。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1224139939,
+            "author": 5713128,
+            "stamp": 1594132647,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1224139711,
+            "author": 5713128,
+            "stamp": 1594132165,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"ccbysa3\" 至 \"licensing-guide\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1033701189,
+            "author": 5713128,
+            "stamp": 1578230446,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1033701146,
+            "author": 5713128,
+            "stamp": 1578230365,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 987071324,
+            "author": 5713128,
+            "stamp": 1574947425,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 986427374,
+            "author": 5713128,
+            "stamp": 1574686837,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 986411688,
+            "author": 5713128,
+            "stamp": 1574604510,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 986411675,
+            "author": 5713128,
+            "stamp": 1574604380,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 939116731,
+    "parent": "guide-hub",
+    "tags": [
+        "原创",
+        "必要",
+        "指导"
+    ],
+    "title": "授权指南",
+    "sitemap_update": 1629958580000,
+    "votings": [],
+    "is_locked": true
+}

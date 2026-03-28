@@ -1,0 +1,76 @@
+{
+    "name": "scr-215",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1258383924,
+            "author": 5933895,
+            "stamp": 1595274373,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1258377024,
+            "author": 5933895,
+            "stamp": 1595274237,
+            "flags": "S",
+            "commentary": "有人建议加上如何成为SCR-215主人的方式awa\n方式有点渣"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1256138512,
+            "author": 5933895,
+            "stamp": 1595208089,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1256138497,
+            "author": 5933895,
+            "stamp": 1595207980,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1256138081,
+            "author": 5933895,
+            "stamp": 1595205955,
+            "flags": "A",
+            "commentary": "已新增标签：scr, tuker, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1256138069,
+            "author": 5933895,
+            "stamp": 1595205880,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1205867050,
+    "rating": 2,
+    "forum_thread": 13568454,
+    "tags": [
+        "scr",
+        "tuker",
+        "原创"
+    ],
+    "title": "SCR-215",
+    "sitemap_update": 1595274373000,
+    "votings": [
+        [
+            5686104,
+            true
+        ],
+        [
+            6272073,
+            true
+        ]
+    ],
+    "is_locked": true
+}

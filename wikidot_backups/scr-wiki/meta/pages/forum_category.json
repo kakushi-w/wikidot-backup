@@ -1,0 +1,36 @@
+{
+    "name": "forum:category",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1033374396,
+            "author": 5713128,
+            "stamp": 1576939881,
+            "flags": "T",
+            "commentary": "您已成功地回复本页至修订版本编号 0"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1033374393,
+            "author": 5713128,
+            "stamp": 1576939867,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 986622209,
+            "author": 5713128,
+            "stamp": 1574854826,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 939304816,
+    "title": "Forum Category",
+    "sitemap_update": 1576939881000,
+    "votings": [],
+    "is_locked": false
+}

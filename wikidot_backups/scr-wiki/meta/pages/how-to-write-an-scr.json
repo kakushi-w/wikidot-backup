@@ -1,0 +1,484 @@
+{
+    "name": "how-to-write-an-scr",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 54,
+            "global_revision": 1511941714,
+            "author": 8096210,
+            "stamp": 1688566943,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 53,
+            "global_revision": 1372941746,
+            "author": 5713128,
+            "stamp": 1629958502,
+            "flags": "M",
+            "commentary": "父页面设置为: \"guide-hub\"."
+        },
+        {
+            "revision": 52,
+            "global_revision": 1371067752,
+            "author": 5713128,
+            "stamp": 1629040680,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 51,
+            "global_revision": 1367422073,
+            "author": 5713128,
+            "stamp": 1628150252,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 50,
+            "global_revision": 1367422057,
+            "author": 5713128,
+            "stamp": 1628150126,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 49,
+            "global_revision": 1366736796,
+            "author": 5713128,
+            "stamp": 1624767814,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 48,
+            "global_revision": 1359642620,
+            "author": 6083676,
+            "stamp": 1612679397,
+            "flags": "A",
+            "commentary": "已新增标签：必要, 指导。"
+        },
+        {
+            "revision": 47,
+            "global_revision": 1355995321,
+            "author": 5933895,
+            "stamp": 1600783254,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 46,
+            "global_revision": 1355995298,
+            "author": 5933895,
+            "stamp": 1600783172,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 45,
+            "global_revision": 1318548300,
+            "author": 5713128,
+            "stamp": 1598584625,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1311251392,
+            "author": 5713128,
+            "stamp": 1596951040,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 43,
+            "global_revision": 1190324997,
+            "author": 5713128,
+            "stamp": 1591372917,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 42,
+            "global_revision": 1190322046,
+            "author": 5713128,
+            "stamp": 1591372893,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 41,
+            "global_revision": 1096467668,
+            "author": 5713128,
+            "stamp": 1589976030,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1094214110,
+            "author": 5713128,
+            "stamp": 1589891205,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1094199911,
+            "author": 5713128,
+            "stamp": 1589890995,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1094197686,
+            "author": 5713128,
+            "stamp": 1589890964,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1084275566,
+            "author": 5713128,
+            "stamp": 1588498395,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1033735004,
+            "author": 5713128,
+            "stamp": 1578404512,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1033543140,
+            "author": 5713128,
+            "stamp": 1577625454,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1033543135,
+            "author": 5713128,
+            "stamp": 1577625392,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 33,
+            "global_revision": 1033543130,
+            "author": 5713128,
+            "stamp": 1577625336,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1033526191,
+            "author": 5713128,
+            "stamp": 1577536073,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1033521757,
+            "author": 5713128,
+            "stamp": 1577514926,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1033510124,
+            "author": 5713128,
+            "stamp": 1577455566,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1033510100,
+            "author": 5713128,
+            "stamp": 1577455371,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1033510097,
+            "author": 5713128,
+            "stamp": 1577455343,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1033510086,
+            "author": 5713128,
+            "stamp": 1577455212,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1033510080,
+            "author": 5713128,
+            "stamp": 1577455187,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1033510034,
+            "author": 5713128,
+            "stamp": 1577454802,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1033462946,
+            "author": 5713128,
+            "stamp": 1577276590,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1033459197,
+            "author": 5713128,
+            "stamp": 1577256491,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1011644059,
+            "author": 5713128,
+            "stamp": 1576247163,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1009613531,
+            "author": 5713128,
+            "stamp": 1575898537,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 994454389,
+            "author": 5713128,
+            "stamp": 1575463584,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 994454382,
+            "author": 5713128,
+            "stamp": 1575463539,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 994454375,
+            "author": 5713128,
+            "stamp": 1575463497,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 994454370,
+            "author": 5713128,
+            "stamp": 1575463443,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 994454362,
+            "author": 5713128,
+            "stamp": 1575463416,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 992566982,
+            "author": 5713128,
+            "stamp": 1575378198,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 992566954,
+            "author": 5713128,
+            "stamp": 1575378124,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 987071919,
+            "author": 5713128,
+            "stamp": 1574950788,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 987071605,
+            "author": 5713128,
+            "stamp": 1574949171,
+            "flags": "F",
+            "commentary": "已上传文件 “SCR - 副本.png”。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 987071602,
+            "author": 5713128,
+            "stamp": 1574949142,
+            "flags": "F",
+            "commentary": "已删除附件 “SCR_WPS图片 - 副本.jpg”"
+        },
+        {
+            "revision": 10,
+            "global_revision": 987071595,
+            "author": 5713128,
+            "stamp": 1574949066,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 987071587,
+            "author": 5713128,
+            "stamp": 1574949017,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 987071561,
+            "author": 5713128,
+            "stamp": 1574948843,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 987071556,
+            "author": 5713128,
+            "stamp": 1574948806,
+            "flags": "F",
+            "commentary": "已上传文件 “SCR_WPS图片 - 副本.jpg”。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 987071553,
+            "author": 5713128,
+            "stamp": 1574948776,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 986622406,
+            "author": 5713128,
+            "stamp": 1574855681,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 986622395,
+            "author": 5713128,
+            "stamp": 1574855579,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 986428555,
+            "author": 5713128,
+            "stamp": 1574690020,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 986428392,
+            "author": 5713128,
+            "stamp": 1574689609,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 986428058,
+            "author": 5713128,
+            "stamp": 1574688707,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 986427945,
+            "author": 5713128,
+            "stamp": 1574688401,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 8871162,
+            "name": "SCR - 副本.png",
+            "url": "http://scr-wiki.wikidot.com/local--files/how-to-write-an-scr/SCR%20-%20%E5%89%AF%E6%9C%AC.png",
+            "size": "69.82 kB (71491 Bytes)",
+            "size_bytes": 71491,
+            "mime": "image/png",
+            "content": "PNG image data, 651 x 586, 8-bit/color RGBA, non-interlaced",
+            "author": 5713128,
+            "stamp": 1574949171,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 939125645,
+    "parent": "guide-hub",
+    "forum_thread": 14164130,
+    "tags": [
+        "必要",
+        "指导"
+    ],
+    "title": "SCR撰写指南",
+    "sitemap_update": 1688566943000,
+    "votings": [
+        [
+            7198635,
+            true
+        ],
+        [
+            6818166,
+            true
+        ],
+        [
+            5933895,
+            true
+        ]
+    ],
+    "is_locked": true
+}

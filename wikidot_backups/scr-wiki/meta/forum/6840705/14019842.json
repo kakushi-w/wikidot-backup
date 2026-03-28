@@ -1,0 +1,41 @@
+{
+    "title": "关于SCR-700的采访",
+    "id": 14019842,
+    "description": "",
+    "last": 1615027831,
+    "lastUser": 6272073,
+    "started": 1615010804,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4918111,
+            "title": "捉虫",
+            "poster": 5686104,
+            "stamp": 1615010882,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 4918114,
+                    "title": "建议",
+                    "poster": 5686104,
+                    "stamp": 1615010973,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 4918329,
+                            "title": "Re: 建议",
+                            "poster": 6272073,
+                            "stamp": 1615027831,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

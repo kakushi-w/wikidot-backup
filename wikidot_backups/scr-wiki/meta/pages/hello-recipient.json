@@ -1,0 +1,66 @@
+{
+    "name": "hello-recipient",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1512246210,
+            "author": 8318867,
+            "stamp": 1689324844,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1512246028,
+            "author": 8318867,
+            "stamp": 1689324317,
+            "flags": "A",
+            "commentary": "已新增标签：2023年写作比赛。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1512245599,
+            "author": 8318867,
+            "stamp": 1689322722,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1512245507,
+            "author": 8318867,
+            "stamp": 1689322440,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449035014,
+    "forum_thread": 16169745,
+    "tags": [
+        "2023年写作比赛",
+        "原创"
+    ],
+    "title": "你好，收件人！",
+    "sitemap_update": 1689324844000,
+    "votings": [
+        [
+            8039119,
+            true
+        ],
+        [
+            8411782,
+            true
+        ],
+        [
+            8263381,
+            true
+        ],
+        [
+            8096210,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,93 @@
+{
+    "name": "vote:202501",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1532843958,
+            "author": 7354732,
+            "stamp": 1759895800,
+            "flags": "A",
+            "commentary": "已新增标签：已完成投票。 移除标签：进行中投票。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532843917,
+            "author": 7354732,
+            "stamp": 1759895756,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532664617,
+            "author": 7354732,
+            "stamp": 1759580339,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532664422,
+            "author": 7354732,
+            "stamp": 1759580139,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532623418,
+            "author": 7354732,
+            "stamp": 1759492881,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532619101,
+            "author": 7354732,
+            "stamp": 1759476931,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532618958,
+            "author": 7354732,
+            "stamp": 1759476346,
+            "flags": "A",
+            "commentary": "已新增标签：进行中投票。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532618459,
+            "author": 7354732,
+            "stamp": 1759474530,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460482358,
+    "rating": 3,
+    "tags": [
+        "已完成投票"
+    ],
+    "title": "关于管理间之邮箱投票（202501）",
+    "sitemap_update": 1759895800000,
+    "votings": [
+        [
+            8318867,
+            true
+        ],
+        [
+            8152715,
+            true
+        ],
+        [
+            9788641,
+            true
+        ]
+    ],
+    "is_locked": false
+}

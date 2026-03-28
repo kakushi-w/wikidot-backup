@@ -1,0 +1,266 @@
+{
+    "name": "how-to-build-an-scr-branch",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 30,
+            "global_revision": 1535207810,
+            "author": 7354732,
+            "stamp": 1761753350,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1388643246,
+            "author": 5713128,
+            "stamp": 1644038583,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1372941789,
+            "author": 5713128,
+            "stamp": 1629958537,
+            "flags": "M",
+            "commentary": "父页面设置为: \"guide-hub\"."
+        },
+        {
+            "revision": 27,
+            "global_revision": 1372941677,
+            "author": 5713128,
+            "stamp": 1629957940,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1369636415,
+            "author": 5713128,
+            "stamp": 1629004829,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1369636339,
+            "author": 5713128,
+            "stamp": 1629004810,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1367442654,
+            "author": 5713128,
+            "stamp": 1628227986,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1359631356,
+            "author": 6083676,
+            "stamp": 1612622184,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1359631351,
+            "author": 6083676,
+            "stamp": 1612622172,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 管理。"
+        },
+        {
+            "revision": 21,
+            "global_revision": 1359556965,
+            "author": 5713128,
+            "stamp": 1612277882,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1359556881,
+            "author": 5713128,
+            "stamp": 1612277545,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1359556873,
+            "author": 5713128,
+            "stamp": 1612277518,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1359556829,
+            "author": 5713128,
+            "stamp": 1612277369,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1359556717,
+            "author": 5713128,
+            "stamp": 1612277103,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"howto-write-an-website\" 至 \"how-to-build-an-scr-branch\"."
+        },
+        {
+            "revision": 16,
+            "global_revision": 1358215037,
+            "author": 6445729,
+            "stamp": 1607257516,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1215037596,
+            "author": 5713128,
+            "stamp": 1592732615,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1215037533,
+            "author": 5713128,
+            "stamp": 1592732258,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1215037527,
+            "author": 5713128,
+            "stamp": 1592732212,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1215037513,
+            "author": 5713128,
+            "stamp": 1592732132,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1047593150,
+            "author": 5713128,
+            "stamp": 1583138809,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1035145757,
+            "author": 5713128,
+            "stamp": 1581578812,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1035145754,
+            "author": 5713128,
+            "stamp": 1581578781,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1033896020,
+            "author": 4764494,
+            "stamp": 1579002537,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1033859514,
+            "author": 4764494,
+            "stamp": 1578842673,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1033604522,
+            "author": 5713128,
+            "stamp": 1577857588,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1033604517,
+            "author": 5713128,
+            "stamp": 1577857576,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1033604455,
+            "author": 5713128,
+            "stamp": 1577857484,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1010699789,
+            "author": 5713128,
+            "stamp": 1576069621,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1010633202,
+            "author": 5713128,
+            "stamp": 1575978945,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1010633196,
+            "author": 5713128,
+            "stamp": 1575978930,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1010633183,
+            "author": 5713128,
+            "stamp": 1575978899,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 963213503,
+    "parent": "guide-hub",
+    "tags": [
+        "中心",
+        "原创",
+        "管理"
+    ],
+    "title": "怎样建立一个SCR公司分部",
+    "sitemap_update": 1761753350000,
+    "votings": [],
+    "is_locked": true
+}

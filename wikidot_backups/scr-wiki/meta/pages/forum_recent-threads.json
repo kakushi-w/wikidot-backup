@@ -1,0 +1,20 @@
+{
+    "name": "forum:recent-threads",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 986622211,
+            "author": 5713128,
+            "stamp": 1574854826,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 939304818,
+    "title": "Recent Threads",
+    "sitemap_update": 1574854826000,
+    "votings": [],
+    "is_locked": false
+}

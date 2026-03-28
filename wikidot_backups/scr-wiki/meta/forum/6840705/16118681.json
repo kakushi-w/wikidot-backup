@@ -1,0 +1,31 @@
+{
+    "title": "新赛季写作详细介绍页面",
+    "id": 16118681,
+    "description": "",
+    "last": 1688970337,
+    "lastUser": 8113630,
+    "started": 1688514913,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6145455,
+            "title": "说实话不好写",
+            "poster": 8113630,
+            "stamp": 1688970337,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6140622,
+            "title": "《你好，李焕英》",
+            "poster": 8318867,
+            "stamp": 1688514944,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

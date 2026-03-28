@@ -1,0 +1,39 @@
+{
+    "name": "dad",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 1360016669,
+            "author": 6272073,
+            "stamp": 1613908329,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1306972712,
+    "rating": 3,
+    "forum_thread": 14009183,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "怪诞湖",
+    "sitemap_update": 1613908329000,
+    "votings": [
+        [
+            5713128,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            5686104,
+            true
+        ]
+    ],
+    "is_locked": false
+}

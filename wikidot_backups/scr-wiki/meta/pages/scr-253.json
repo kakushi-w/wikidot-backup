@@ -1,0 +1,117 @@
+{
+    "name": "scr-253",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1256452557,
+            "author": 6173149,
+            "stamp": 1595239983,
+            "flags": "A",
+            "commentary": "已新增标签：tuker。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1234950784,
+            "author": 5933895,
+            "stamp": 1594657763,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1233918466,
+            "author": 5713128,
+            "stamp": 1594618821,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1232843436,
+            "author": 5933895,
+            "stamp": 1594602262,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1232843332,
+            "author": 5933895,
+            "stamp": 1594602186,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1232842671,
+            "author": 5933895,
+            "stamp": 1594601514,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1232842583,
+            "author": 5933895,
+            "stamp": 1594601458,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1232842201,
+            "author": 5933895,
+            "stamp": 1594601396,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1232838173,
+            "author": 5933895,
+            "stamp": 1594601325,
+            "flags": "T",
+            "commentary": "没思路......看着家里的一盏球形的灯突然的灵感awa"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1232832044,
+            "author": 5933895,
+            "stamp": 1594601252,
+            "flags": "A",
+            "commentary": "已新增标签：scr, 原创, 球形。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1232812359,
+            "author": 5933895,
+            "stamp": 1594601027,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1182618941,
+    "rating": 2,
+    "forum_thread": 13516773,
+    "tags": [
+        "scr",
+        "tuker",
+        "原创",
+        "球形"
+    ],
+    "title": "SCR-253",
+    "sitemap_update": 1595239983000,
+    "votings": [
+        [
+            5713128,
+            true
+        ],
+        [
+            5686104,
+            true
+        ]
+    ],
+    "is_locked": true
+}

@@ -1,0 +1,32 @@
+{
+    "name": "recent-changes",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1359631299,
+            "author": 6083676,
+            "stamp": 1612621863,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033858755,
+            "author": 4764494,
+            "stamp": 1578839117,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 986148995,
+    "tags": [
+        "中心",
+        "管理"
+    ],
+    "title": "最近更新",
+    "sitemap_update": 1612621863000,
+    "votings": [],
+    "is_locked": false
+}

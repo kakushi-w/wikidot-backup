@@ -1,0 +1,80 @@
+{
+    "title": "一个相关组织的点子",
+    "id": 14079614,
+    "description": "",
+    "last": 1620035003,
+    "lastUser": 7198635,
+    "started": 1619702651,
+    "startedUser": 7198635,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4966348,
+            "title": "一个相关组织的点子",
+            "poster": 7198635,
+            "stamp": 1619702651,
+            "lastEdit": 1619705193,
+            "lastEditBy": 7198635,
+            "revisions": [
+                {
+                    "title": "一个相关组织的点子",
+                    "author": 7198635,
+                    "id": 6024591,
+                    "stamp": 1619702683
+                },
+                {
+                    "title": "一个相关组织的点子",
+                    "author": 7198635,
+                    "id": 6024590,
+                    "stamp": 1619702651
+                },
+                {
+                    "title": "一个相关组织的点子",
+                    "author": 7198635,
+                    "id": 6024641,
+                    "stamp": 1619705193
+                }
+            ],
+            "children": [
+                {
+                    "id": 4968949,
+                    "title": "Re: 一个相关组织的点子",
+                    "poster": 5686104,
+                    "stamp": 1619942855,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 4969046,
+                            "title": "Re: 一个相关组织的点子",
+                            "poster": 7198635,
+                            "stamp": 1619950043,
+                            "revisions": [],
+                            "children": [
+                                {
+                                    "id": 4969778,
+                                    "title": "Re: 一个相关组织的点子",
+                                    "poster": 5686104,
+                                    "stamp": 1620025062,
+                                    "revisions": [],
+                                    "children": [
+                                        {
+                                            "id": 4969912,
+                                            "title": "Re: 一个相关组织的点子",
+                                            "poster": 7198635,
+                                            "stamp": 1620035003,
+                                            "revisions": [],
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

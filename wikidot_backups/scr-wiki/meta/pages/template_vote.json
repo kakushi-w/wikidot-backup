@@ -1,0 +1,37 @@
+{
+    "name": "template:vote",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1215023299,
+            "author": 5713128,
+            "stamp": 1592667497,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1215023293,
+            "author": 5713128,
+            "stamp": 1592667482,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033608986,
+            "author": 5713128,
+            "stamp": 1577867044,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 986006710,
+    "rating": 0,
+    "title": "评分模块",
+    "sitemap_update": 1592667497000,
+    "votings": [],
+    "is_locked": true
+}

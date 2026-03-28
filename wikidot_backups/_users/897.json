@@ -1,4 +1,18 @@
 {
+    "7353779": {
+        "full_name": "Jiu_Huan",
+        "username": "jiu-huan",
+        "real_name": "苏玖欢",
+        "gender": "female",
+        "birthday": 1017705600000,
+        "from": "Site-CN-11",
+        "website": "scp-wiki-cn.wikidot.com/jiu_huan",
+        "wikidot_user_since": 1617356520,
+        "account_type": "free",
+        "activity": 3,
+        "fetched_at": 1774704874249,
+        "user_id": 7353779
+    },
     "7353878": {
         "full_name": "January Green",
         "username": "january-green",
@@ -8,5 +22,19 @@
         "activity": 2,
         "fetched_at": 1774407526770,
         "user_id": 7353878
+    },
+    "7354732": {
+        "full_name": "by H",
+        "username": "by-h",
+        "real_name": "海若; Hlo; Henry Wales",
+        "gender": "male",
+        "birthday": 796089600000,
+        "from": "Yudu Subdistrict, Xinyi, Maoming, Guangdong Province, P. R.China",
+        "website": "https://xyz-studios.wikidot.com/",
+        "wikidot_user_since": 1617408540,
+        "account_type": "free",
+        "activity": 3,
+        "fetched_at": 1774704347028,
+        "user_id": 7354732
     }
 }

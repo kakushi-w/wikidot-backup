@@ -1,0 +1,198 @@
+{
+    "name": "scr-300",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 17,
+            "global_revision": 1389177304,
+            "author": 6336969,
+            "stamp": 1646337148,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1367196310,
+            "author": 5713128,
+            "stamp": 1627126004,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1358796029,
+            "author": 6336969,
+            "stamp": 1609478352,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1356375390,
+            "author": 6336969,
+            "stamp": 1601986540,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1356375368,
+            "author": 6336969,
+            "stamp": 1601986456,
+            "flags": "A",
+            "commentary": "已新增标签：历史篡改, 格雷森协会, 电子设备。 移除标签：待完成。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1355861883,
+            "author": 6336969,
+            "stamp": 1600279400,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1355861876,
+            "author": 6336969,
+            "stamp": 1600279384,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1355861870,
+            "author": 6336969,
+            "stamp": 1600279356,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1355861862,
+            "author": 6336969,
+            "stamp": 1600279322,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1355757619,
+            "author": 6336969,
+            "stamp": 1600176875,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1349344671,
+            "author": 6336969,
+            "stamp": 1600090663,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1349342265,
+            "author": 6336969,
+            "stamp": 1600090637,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1349339613,
+            "author": 6336969,
+            "stamp": 1600090604,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1349338285,
+            "author": 6336969,
+            "stamp": 1600090591,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1349333568,
+            "author": 6336969,
+            "stamp": 1600090543,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1349220881,
+            "author": 6336969,
+            "stamp": 1600089397,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1318534534,
+            "author": 6336969,
+            "stamp": 1598527670,
+            "flags": "A",
+            "commentary": "已新增标签：待完成。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1318534508,
+            "author": 6336969,
+            "stamp": 1598527558,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1267784186,
+    "rating": 2,
+    "forum_thread": 13735656,
+    "tags": [
+        "scr",
+        "历史篡改",
+        "原创",
+        "格雷森协会",
+        "电子设备"
+    ],
+    "title": "SCR-300",
+    "sitemap_update": 1646337148000,
+    "votings": [
+        [
+            5713128,
+            true
+        ],
+        [
+            4787097,
+            false
+        ],
+        [
+            6329390,
+            false
+        ],
+        [
+            6336969,
+            true
+        ],
+        [
+            5686104,
+            true
+        ],
+        [
+            5933895,
+            true
+        ],
+        [
+            6083676,
+            false
+        ],
+        [
+            6272073,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,40 @@
+{
+    "title": "SCR-006",
+    "id": 13948637,
+    "description": "",
+    "last": 1615023458,
+    "lastUser": 5686104,
+    "started": 1608600252,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4905438,
+            "title": "关于文章用语",
+            "poster": 5686104,
+            "stamp": 1613881603,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 4918281,
+            "title": "关于附录",
+            "poster": 5686104,
+            "stamp": 1615023389,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 4918282,
+                    "title": "Re: 关于附录",
+                    "poster": 5686104,
+                    "stamp": 1615023458,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

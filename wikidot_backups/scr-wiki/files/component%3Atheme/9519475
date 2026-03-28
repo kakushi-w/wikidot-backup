@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+body {
+    background: linear-gradient(to bottom, #222, #000000);
+}
+ 
+#page-content:not(.image-caption) {
+    color: #d9d9d9;
+}
+ 
+#page-title {
+    color: #eee;
+}
+ 
+div#container-wrap {
+    background: url(http://scr-wiki.wikidot.com/local--files/component:theme/scr-black-body.png) top left repeat-x;
+    background: var(.container-wrap);
+}
+ 
+#search-top-box-input {
+    background-color: #111;
+}
+ 
+#search-top-box-input:hover {
+    background-color: #222;
+}
+ 
+#search-top-box-form input[type=submit] {
+    background-color: #222;
+    background: linear-gradient(to bottom, #333, #222, #111);
+}
+ 
+#search-top-box-form input[type=submit]:hover {
+    background-color: #333;
+    background: linear-gradient(to bottom, #444, #333, #222);
+}
+ 
+#header h1 a {
+    color: transparent;
+    text-shadow: none;
+}
+ 
+#header h1 a::before {
+    color: rgb(255, 255, 255);
+    font-family: 'Nidus Sans', 'Exo 2', sans-serif;
+    text-decoration: none;
+    text-shadow: 3px 3px 5px #000;
+    letter-spacing: 0.9px;
+}
+ 
+#header h2 span {
+    color: transparent;
+    text-shadow: none;
+}
+ 
+#header h2 span::before {
+    color: #d9d9d9;
+    font-family: 'Exo 2', sans-serif;
+    text-shadow: 3px 3px 5px #000;
+    font-size: 100%;
+}
+ 
+.image-block {
+    border: 1px solid #111;
+}
+ 
+.image-caption,
+.image-caption-top{
+    background: #161616 !important;
+}
+ 
+.image-caption-top img{
+    filter: invert(100%);
+}
+ 
+.contentBox {
+    background-color: rgba(255, 255, 255, 0.04);
+    border: 1px solid #111;
+    border-radius: 3px;
+    padding: 2% 4% 2% 4%;
+    color: #c9c9c9;
+    font-size: 16px;
+}
+ 
+.contentBox strong {
+    color: #e2e2e2;
+}
+ 
+.contentBox hr {
+    background-color: #111;
+    border: none;
+}
+ 
+#page-info {
+    color: #eee
+}
+ 
+blockquote, .code {
+    background-color: #181818;
+    border: 1px solid #0e0e0e;
+    border-left: 16px solid #0e0e0e;
+    border-radius: 5px;
+    padding: 1% 1% 1% 3%;
+}
+ 
+.hl-code, .hl-identifier {
+    color: #ddd;
+}
+ 
+.hl-string {
+    color: #965494;
+}
+ 
+.hl-brackets {
+    color: #b4c0ff;
+}
+ 
+.page-source {
+    color: #ddd;
+}
+ 
+.rate-module-container {
+    border: 1px solid #111 !important;
+}
+ 
+.rate-module-stars {
+    background-color: #111 !important;
+}
+ 
+.rate-module-counter {
+    background-color: #333 !important;
+}
+ 
+.rate-module {
+    box-shadow: 1px 1px 2px #000 !important;
+}
+ 
+#top-bar a {
+    color: #ccc;
+    background: transparent;
+}
+ 
+#top-bar ul li ul {
+    border: solid 1px #000001;
+    box-shadow: 0 2px 6px #000001;
+    border-top: 0;
+}
+ 
+#top-bar ul li a {
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1px;
+    max-height: 1px;
+    overflow: hidden;
+}
+ 
+ #top-bar ul li.sfhover a,
+#top-bar ul li:hover a {
+    background: black;
+    color: black;
+}
+ 
+ #top-bar ul li.sfhover ul li a,
+#top-bar ul li:hover ul li a {
+    border-width: 0;
+    width: 150px;
+    height: auto;
+    max-height: none;
+    padding-top: 0;
+    padding-bottom: 0;
+} 
+ 
+#top-bar ul li:hover a:hover {
+    background: black;
+    color: white;
+}
+ 
+#side-bar .side-block {
+    color: #eee !important;
+}
+ 
+#side-bar .menu-item>a {
+  color: #eee;
+}
+ 
+#side-bar .menu-item>a:hover {
+  background-color: #000001;
+  color: #eee;
+  text-decoration: none;
+}
+ 
+#side-bar .heading {
+    color: #e3e3e3;
+    border-color: #d9d9d9;
+}
+ 
+#page-info {
+    color: #eee;
+}
+ 
+.yui-navset .yui-content {
+    background-color: #161616;
+    border: 1px solid #eee;
+}
+ 
+.yui-navset .yui-nav, .yui-navset .yui-navset-top .yui-nav {
+    border-color: #060606;
+}
+ 
+th {
+    color: #0e0e0e;
+}
+ 
+#edit-page-form,
+.page-watch-options,
+#action-area,
+.page-history,
+.form,
+.pager {
+    color: #d9d9d9 !important;
+}
+ 
+.alert-info {
+    color: #0e0e0e;
+}
+ 
+#account-options {
+    border-color: #0e0e0e;
+    background-color: #222;
+}
+ 
+.owindow{
+    background: linear-gradient(to bottom, #222, #000000);
+    color: #d9d9d9;
+    border-color: #0e0e0e;
+}
+ 
+.modal-body > img {
+    background: none !important;
+}
+ 
+.modal-header{
+    background-color: #222 !important;
+    color: #d9d9d9;
+}
+ 
+.modal-footer .btn-danger {
+    color: #222;
+}
+
+#lock-info {
+    color: #d9d9d9;
+}
+
+.open-themes {
+    display: none!important;
+}

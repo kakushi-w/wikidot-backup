@@ -1,0 +1,52 @@
+{
+    "name": "bug-moon",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1505465131,
+            "author": 5933895,
+            "stamp": 1672154450,
+            "flags": "A",
+            "commentary": "已新增标签：2022征文比赛, 血月。 移除标签：yueyue。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1505465088,
+            "author": 5933895,
+            "stamp": 1672154419,
+            "flags": "A",
+            "commentary": "已新增标签：yueyue, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1505465083,
+            "author": 5933895,
+            "stamp": 1672154402,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1444672216,
+    "rating": 2,
+    "forum_thread": 15489097,
+    "tags": [
+        "2022征文比赛",
+        "原创",
+        "血月"
+    ],
+    "title": "Bug-Moon",
+    "sitemap_update": 1672154450000,
+    "votings": [
+        [
+            8234565,
+            true
+        ],
+        [
+            8039119,
+            true
+        ]
+    ],
+    "is_locked": false
+}

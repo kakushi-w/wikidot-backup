@@ -1,0 +1,69 @@
+{
+    "name": "inc-sys:major-intlsite",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1539131307,
+            "author": 7354732,
+            "stamp": 1762541251,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1539131247,
+            "author": 7354732,
+            "stamp": 1762540730,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532443680,
+            "author": 7354732,
+            "stamp": 1758642376,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532428325,
+            "author": 7354732,
+            "stamp": 1758559998,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532224084,
+            "author": 7354732,
+            "stamp": 1757525021,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532224066,
+            "author": 7354732,
+            "stamp": 1757524907,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"major\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532224015,
+            "author": 7354732,
+            "stamp": 1757524863,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460374748,
+    "parent": "major",
+    "title": "主页/国际站点一览",
+    "sitemap_update": 1762541251000,
+    "votings": [],
+    "is_locked": true
+}

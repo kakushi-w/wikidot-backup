@@ -1,0 +1,56 @@
+{
+    "name": "template:personnel",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1215023338,
+            "author": 5713128,
+            "stamp": 1592667654,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1033617044,
+            "author": 5713128,
+            "stamp": 1577885484,
+            "flags": "A",
+            "commentary": "已新增标签：样版。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1033588695,
+            "author": 5713128,
+            "stamp": 1577799285,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1033588667,
+            "author": 5713128,
+            "stamp": 1577799137,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033525976,
+            "author": 5713128,
+            "stamp": 1577534375,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 985958741,
+    "rating": 0,
+    "tags": [
+        "样版"
+    ],
+    "title": "人事模板",
+    "sitemap_update": 1592667654000,
+    "votings": [],
+    "is_locked": false
+}

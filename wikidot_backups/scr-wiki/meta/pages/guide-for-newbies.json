@@ -1,0 +1,170 @@
+{
+    "name": "guide-for-newbies",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 18,
+            "global_revision": 1372941794,
+            "author": 5713128,
+            "stamp": 1629958556,
+            "flags": "M",
+            "commentary": "父页面设置为: \"guide-hub\"."
+        },
+        {
+            "revision": 17,
+            "global_revision": 1372006386,
+            "author": 5713128,
+            "stamp": 1629694597,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“website-scr” 改为 “website-rules” 的自动更新。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1371075169,
+            "author": 5713128,
+            "stamp": 1629083651,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1359631345,
+            "author": 6083676,
+            "stamp": 1612622130,
+            "flags": "A",
+            "commentary": "已新增标签：必要, 指导。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1311251490,
+            "author": 5713128,
+            "stamp": 1596951545,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1215020674,
+            "author": 5713128,
+            "stamp": 1592657047,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1214980047,
+            "author": 5713128,
+            "stamp": 1592485562,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 10"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1214980018,
+            "author": 5713128,
+            "stamp": 1592485380,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1191551467,
+            "author": 5713128,
+            "stamp": 1591403505,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1050940403,
+            "author": 5713128,
+            "stamp": 1585053195,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1047008387,
+            "author": 5334883,
+            "stamp": 1582792525,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 6"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1034486522,
+            "author": 5334883,
+            "stamp": 1580627935,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1033603843,
+            "author": 5713128,
+            "stamp": 1577855821,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1033603802,
+            "author": 5713128,
+            "stamp": 1577855711,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1033459208,
+            "author": 5713128,
+            "stamp": 1577256597,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1011623978,
+            "author": 5713128,
+            "stamp": 1576247006,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1011611276,
+            "author": 5713128,
+            "stamp": 1576246905,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1011597474,
+            "author": 5713128,
+            "stamp": 1576246781,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1011593172,
+            "author": 5713128,
+            "stamp": 1576246743,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 964149604,
+    "parent": "guide-hub",
+    "forum_thread": 14063042,
+    "tags": [
+        "必要",
+        "指导"
+    ],
+    "title": "新手指南",
+    "sitemap_update": 1629958556000,
+    "votings": [],
+    "is_locked": false
+}

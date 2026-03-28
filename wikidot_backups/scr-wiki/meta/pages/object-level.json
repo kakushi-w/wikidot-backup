@@ -1,0 +1,156 @@
+{
+    "name": "object-level",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1511941768,
+            "author": 8096210,
+            "stamp": 1688567104,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1359642578,
+            "author": 6083676,
+            "stamp": 1612679166,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1096504169,
+            "author": 6173149,
+            "stamp": 1590070093,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1096503416,
+            "author": 5713128,
+            "stamp": 1590067891,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"security-measures-object-level\" 至 \"object-level\"."
+        },
+        {
+            "revision": 12,
+            "global_revision": 1096503403,
+            "author": 5713128,
+            "stamp": 1590067814,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1096503388,
+            "author": 5713128,
+            "stamp": 1590067774,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1084200843,
+            "author": 5713128,
+            "stamp": 1588318667,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1084200809,
+            "author": 5713128,
+            "stamp": 1588318565,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1033525731,
+            "author": 5713128,
+            "stamp": 1577532525,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"security-measures\" 至 \"security-measures-object-level\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1033525728,
+            "author": 5713128,
+            "stamp": 1577532502,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1033525697,
+            "author": 5713128,
+            "stamp": 1577532238,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1033525687,
+            "author": 5713128,
+            "stamp": 1577532163,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1020907280,
+            "author": 5713128,
+            "stamp": 1576504540,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1020907218,
+            "author": 5713128,
+            "stamp": 1576504397,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 997282743,
+            "author": 5713128,
+            "stamp": 1575552654,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 997278787,
+            "author": 5713128,
+            "stamp": 1575552622,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 997277251,
+            "author": 5713128,
+            "stamp": 1575552610,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 949895936,
+    "tags": [
+        "原创"
+    ],
+    "title": "危险对象等级",
+    "sitemap_update": 1688567104000,
+    "votings": [
+        [
+            6336969,
+            true
+        ]
+    ],
+    "is_locked": false
+}

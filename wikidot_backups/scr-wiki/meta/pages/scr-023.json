@@ -1,0 +1,92 @@
+{
+    "name": "scr-023",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1075423138,
+            "author": 5713128,
+            "stamp": 1588164480,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1075423121,
+            "author": 5713128,
+            "stamp": 1588164396,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1075422935,
+            "author": 5713128,
+            "stamp": 1588163960,
+            "flags": "A",
+            "commentary": "已新增标签：light, scr, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1075422885,
+            "author": 5713128,
+            "stamp": 1588163803,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1075422878,
+            "author": 5713128,
+            "stamp": 1588163770,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1075418409,
+            "author": 5571214,
+            "stamp": 1588152345,
+            "flags": "N",
+            "commentary": "世界观第一发"
+        }
+    ],
+    "files": [],
+    "page_id": 1026243602,
+    "rating": 2,
+    "forum_thread": 13277728,
+    "tags": [
+        "light",
+        "scr",
+        "原创"
+    ],
+    "title": "SCR-023",
+    "sitemap_update": 1588164480000,
+    "votings": [
+        [
+            5713128,
+            true
+        ],
+        [
+            6449508,
+            true
+        ],
+        [
+            6336969,
+            true
+        ],
+        [
+            6173149,
+            false
+        ],
+        [
+            5571214,
+            true
+        ],
+        [
+            5686104,
+            false
+        ]
+    ],
+    "is_locked": false
+}

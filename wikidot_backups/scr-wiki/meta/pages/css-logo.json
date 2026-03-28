@@ -1,0 +1,32 @@
+{
+    "name": "css-logo",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1190284477,
+            "author": 5713128,
+            "stamp": 1591371861,
+            "flags": "A",
+            "commentary": "已新增标签：版式。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1190284471,
+            "author": 5713128,
+            "stamp": 1591371844,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1140556524,
+    "rating": 0,
+    "tags": [
+        "版式"
+    ],
+    "title": "极简版式-标识",
+    "sitemap_update": 1591371861000,
+    "votings": [],
+    "is_locked": false
+}

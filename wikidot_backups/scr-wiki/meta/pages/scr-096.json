@@ -1,0 +1,272 @@
+{
+    "name": "scr-096",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 27,
+            "global_revision": 1504941953,
+            "author": 6336969,
+            "stamp": 1671098453,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1389177143,
+            "author": 6336969,
+            "stamp": 1646336298,
+            "flags": "A",
+            "commentary": "已新增标签：不可摧毁, 历史篡改。"
+        },
+        {
+            "revision": 25,
+            "global_revision": 1389177120,
+            "author": 6336969,
+            "stamp": 1646336095,
+            "flags": "A",
+            "commentary": "已新增标签：现实扭曲。"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1389177118,
+            "author": 6336969,
+            "stamp": 1646336078,
+            "flags": "A",
+            "commentary": "已新增标签：武器。"
+        },
+        {
+            "revision": 23,
+            "global_revision": 1389141539,
+            "author": 6336969,
+            "stamp": 1646157309,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1389141450,
+            "author": 6336969,
+            "stamp": 1646156936,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1389141366,
+            "author": 6336969,
+            "stamp": 1646156737,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1358796166,
+            "author": 6336969,
+            "stamp": 1609479103,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1297615559,
+            "author": 6336969,
+            "stamp": 1595931733,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1297615548,
+            "author": 6336969,
+            "stamp": 1595931684,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1239679980,
+            "author": 6336969,
+            "stamp": 1594829967,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1239679840,
+            "author": 6336969,
+            "stamp": 1594829495,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1239679807,
+            "author": 6336969,
+            "stamp": 1594829303,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1239679791,
+            "author": 6336969,
+            "stamp": 1594829227,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1084275555,
+            "author": 5713128,
+            "stamp": 1588498339,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1084275549,
+            "author": 5713128,
+            "stamp": 1588498303,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1075296240,
+            "author": 5713128,
+            "stamp": 1587905732,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1075296219,
+            "author": 5713128,
+            "stamp": 1587905659,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1075296115,
+            "author": 5713128,
+            "stamp": 1587905509,
+            "flags": "A",
+            "commentary": "已新增标签：scr, tuker, 原创。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1075227410,
+            "author": 5713128,
+            "stamp": 1587642515,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1075161260,
+            "author": 6336969,
+            "stamp": 1587439383,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1075077266,
+            "author": 6336969,
+            "stamp": 1587389091,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1075077214,
+            "author": 6336969,
+            "stamp": 1587388892,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1075077159,
+            "author": 6336969,
+            "stamp": 1587388657,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1075059094,
+            "author": 6336969,
+            "stamp": 1587341554,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1073847257,
+            "author": 6336969,
+            "stamp": 1587217240,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1073844820,
+            "author": 6336969,
+            "stamp": 1587207522,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073843964,
+            "author": 6336969,
+            "stamp": 1587204007,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1024834329,
+    "rating": 6,
+    "forum_thread": 13427625,
+    "tags": [
+        "scr",
+        "tuker",
+        "不可摧毁",
+        "历史篡改",
+        "原创",
+        "武器",
+        "现实扭曲"
+    ],
+    "title": "SCR-096",
+    "sitemap_update": 1671098453000,
+    "votings": [
+        [
+            5713128,
+            true
+        ],
+        [
+            6336969,
+            true
+        ],
+        [
+            6818166,
+            true
+        ],
+        [
+            5686104,
+            true
+        ],
+        [
+            5933895,
+            true
+        ],
+        [
+            6272073,
+            true
+        ]
+    ],
+    "is_locked": false
+}

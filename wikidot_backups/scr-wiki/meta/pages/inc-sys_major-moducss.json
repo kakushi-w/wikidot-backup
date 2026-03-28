@@ -1,0 +1,30 @@
+{
+    "name": "inc-sys:major-moducss",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1532222451,
+            "author": 7354732,
+            "stamp": 1757518357,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"major\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532222449,
+            "author": 7354732,
+            "stamp": 1757518325,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460374058,
+    "parent": "major",
+    "forum_thread": 17430698,
+    "title": "主页/CSS",
+    "sitemap_update": 1757518357000,
+    "votings": [],
+    "is_locked": false
+}

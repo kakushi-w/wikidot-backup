@@ -1,0 +1,70 @@
+{
+    "title": "一个问题",
+    "id": 14012092,
+    "description": "",
+    "last": 1615011130,
+    "lastUser": 5686104,
+    "started": 1614328251,
+    "startedUser": 5686104,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4910858,
+            "title": "一个问题",
+            "poster": 5686104,
+            "stamp": 1614328251,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 4911591,
+                    "title": "Re: 一个问题",
+                    "poster": 5686104,
+                    "stamp": 1614397496,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 4918108,
+            "title": "Re: 一个问题",
+            "poster": 6272073,
+            "stamp": 1615010693,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 4918117,
+                    "title": "Re: 一个问题",
+                    "poster": 5686104,
+                    "stamp": 1615011130,
+                    "lastEdit": 1615011178,
+                    "lastEditBy": 5686104,
+                    "revisions": [
+                        {
+                            "title": "Re: 一个问题",
+                            "author": 5686104,
+                            "id": 5957382,
+                            "stamp": 1615011178
+                        },
+                        {
+                            "title": "Re: 一个问题",
+                            "author": 5686104,
+                            "id": 5957379,
+                            "stamp": 1615011158
+                        },
+                        {
+                            "title": "Re: 一个问题",
+                            "author": 5686104,
+                            "id": 5957377,
+                            "stamp": 1615011130
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

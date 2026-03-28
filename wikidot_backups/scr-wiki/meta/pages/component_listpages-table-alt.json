@@ -1,0 +1,20 @@
+{
+    "name": "component:listpages-table-alt",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 1089663698,
+            "author": 5713128,
+            "stamp": 1589798220,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1040199269,
+    "title": "Listpages Table Alt",
+    "sitemap_update": 1589798220000,
+    "votings": [],
+    "is_locked": false
+}

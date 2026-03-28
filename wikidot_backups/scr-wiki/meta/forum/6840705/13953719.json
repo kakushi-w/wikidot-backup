@@ -1,0 +1,40 @@
+{
+    "title": "维基语法",
+    "id": 13953719,
+    "description": "",
+    "last": 1655511400,
+    "lastUser": 6818166,
+    "started": 1608821638,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4852750,
+            "title": "",
+            "poster": 5933895,
+            "stamp": 1608821671,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 5098637,
+            "title": "",
+            "poster": 7045981,
+            "stamp": 1633239292,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 5395366,
+                    "title": "",
+                    "poster": 6818166,
+                    "stamp": 1655511400,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

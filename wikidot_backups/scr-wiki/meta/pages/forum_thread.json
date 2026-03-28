@@ -1,0 +1,130 @@
+{
+    "name": "forum:thread",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532609938,
+            "author": 7354732,
+            "stamp": 1759434497,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 0"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532609924,
+            "author": 7354732,
+            "stamp": 1759434438,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1362035630,
+            "author": 5686104,
+            "stamp": 1617533202,
+            "flags": "F",
+            "commentary": "已上传文件 “Site09标志二稿”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1362035346,
+            "author": 5686104,
+            "stamp": 1617531523,
+            "flags": "F",
+            "commentary": "已上传文件 “Site-09标志初稿.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1360018455,
+            "author": 6272073,
+            "stamp": 1613916496,
+            "flags": "F",
+            "commentary": "已上传文件 “20-07-27-027.jpg”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033701111,
+            "author": 5713128,
+            "stamp": 1578230075,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9516335,
+            "name": "20-07-27-027.jpg",
+            "url": "http://scr-wiki.wikidot.com/local--files/forum:thread/20-07-27-027.jpg",
+            "size": "144.62 kB (148094 Bytes)",
+            "size_bytes": 148094,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01",
+            "author": 6272073,
+            "stamp": 1613916496,
+            "internal_version": 1
+        },
+        {
+            "file_id": 9547268,
+            "name": "Site09标志二稿",
+            "url": "http://scr-wiki.wikidot.com/local--files/forum:thread/Site09%E6%A0%87%E5%BF%97%E4%BA%8C%E7%A8%BF",
+            "size": "27.32 kB (27979 Bytes)",
+            "size_bytes": 27979,
+            "mime": "image/png",
+            "content": "PNG image data, 1215 x 658, 8-bit/color RGBA, non-interlaced",
+            "author": 5686104,
+            "stamp": 1617533202,
+            "internal_version": 1
+        },
+        {
+            "file_id": 9547259,
+            "name": "Site-09标志初稿.png",
+            "url": "http://scr-wiki.wikidot.com/local--files/forum:thread/Site-09%E6%A0%87%E5%BF%97%E5%88%9D%E7%A8%BF.png",
+            "size": "18.8 kB (19253 Bytes)",
+            "size_bytes": 19253,
+            "mime": "image/png",
+            "content": "PNG image data, 1215 x 658, 8-bit/color RGB, non-interlaced",
+            "author": 5686104,
+            "stamp": 1617531523,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 986059551,
+    "title": "Thread",
+    "sitemap_update": 1759434497000,
+    "votings": [
+        [
+            6449508,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            6818166,
+            true
+        ],
+        [
+            7865818,
+            true
+        ],
+        [
+            5686104,
+            true
+        ],
+        [
+            5933895,
+            true
+        ],
+        [
+            6083676,
+            true
+        ],
+        [
+            6204559,
+            true
+        ]
+    ],
+    "is_locked": false
+}

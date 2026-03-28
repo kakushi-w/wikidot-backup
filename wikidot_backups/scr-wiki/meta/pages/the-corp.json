@@ -1,0 +1,41 @@
+{
+    "name": "the-corp",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532594736,
+            "author": 7354732,
+            "stamp": 1759380112,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532574147,
+            "author": 7354732,
+            "stamp": 1759296936,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532442921,
+            "author": 7354732,
+            "stamp": 1758639517,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460435632,
+    "title": "公司之起源 — 千年潮汐",
+    "sitemap_update": 1759380112000,
+    "votings": [
+        [
+            8318867,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,20 @@
+{
+    "name": "system:page-tags",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 987105044,
+            "author": 5713128,
+            "stamp": 1575099862,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 939765460,
+    "title": "Page Tags",
+    "sitemap_update": 1575099862000,
+    "votings": [],
+    "is_locked": false
+}

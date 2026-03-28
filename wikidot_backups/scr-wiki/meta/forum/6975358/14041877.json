@@ -1,0 +1,48 @@
+{
+    "title": "新人报道专用帖（bushi）",
+    "id": 14041877,
+    "description": "",
+    "last": 1625656990,
+    "lastUser": 6449508,
+    "started": 1617635406,
+    "startedUser": 6212330,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 5019769,
+            "title": "Re: 新人报道专用帖（bushi）",
+            "poster": 5933895,
+            "stamp": 1625412242,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 5021921,
+            "title": "Re: 新人报道专用帖（bushi）",
+            "poster": 6449508,
+            "stamp": 1625656990,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 4947088,
+            "title": "新人报道专用帖（bushi）",
+            "poster": 6212330,
+            "stamp": 1617635406,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 4951089,
+                    "title": "Re: 新人报道专用帖（bushi）",
+                    "poster": 5686104,
+                    "stamp": 1618031986,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

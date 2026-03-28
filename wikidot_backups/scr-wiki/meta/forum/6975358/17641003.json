@@ -1,0 +1,21 @@
+{
+    "title": "新人报道",
+    "id": 17641003,
+    "description": "Good day to everyone!",
+    "started": 1774309555,
+    "startedUser": 8579940,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7656350,
+            "title": "新人报道",
+            "poster": 8579940,
+            "stamp": 1774309555,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

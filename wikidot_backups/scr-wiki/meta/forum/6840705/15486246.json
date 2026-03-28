@@ -1,0 +1,41 @@
+{
+    "title": "文件SCRP-明月?黑月?",
+    "id": 15486246,
+    "description": "",
+    "last": 1672537269,
+    "lastUser": 8318867,
+    "started": 1672115648,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 5787685,
+            "title": "大家觉得我写的咋样？",
+            "poster": 8318867,
+            "stamp": 1672124835,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 5797680,
+                    "title": "Re: 大家觉得我写的咋样？",
+                    "poster": 8411782,
+                    "stamp": 1672491526,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 5798845,
+                            "title": "Re: 大家觉得我写的咋样？",
+                            "poster": 8318867,
+                            "stamp": 1672537269,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "akalanden",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1533075294,
+            "author": 5933895,
+            "stamp": 1760737765,
+            "flags": "A",
+            "commentary": "已新增标签：个人档案, 原创, 职员档案。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533075293,
+            "author": 5933895,
+            "stamp": 1760737743,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533075291,
+            "author": 5933895,
+            "stamp": 1760737723,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460708994,
+    "rating": 1,
+    "tags": [
+        "个人档案",
+        "原创",
+        "职员档案"
+    ],
+    "title": "Tokyovania的个人档案",
+    "sitemap_update": 1760737765000,
+    "votings": [
+        [
+            5933895,
+            true
+        ]
+    ],
+    "is_locked": false
+}

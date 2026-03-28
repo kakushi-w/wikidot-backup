@@ -1,0 +1,76 @@
+{
+    "name": "corp-section",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1367566239,
+            "author": 5713128,
+            "stamp": 1628762728,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1367557831,
+            "author": 5713128,
+            "stamp": 1628725980,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1367550273,
+            "author": 5713128,
+            "stamp": 1628688911,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1367550219,
+            "author": 5713128,
+            "stamp": 1628688671,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1367550204,
+            "author": 5713128,
+            "stamp": 1628688587,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 背景, 设定, 部门。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1367550194,
+            "author": 5713128,
+            "stamp": 1628688563,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1312574244,
+    "rating": 2,
+    "tags": [
+        "原创",
+        "背景",
+        "设定",
+        "部门"
+    ],
+    "title": "公司部门",
+    "sitemap_update": 1628762728000,
+    "votings": [
+        [
+            6449508,
+            true
+        ],
+        [
+            7198635,
+            true
+        ]
+    ],
+    "is_locked": false
+}

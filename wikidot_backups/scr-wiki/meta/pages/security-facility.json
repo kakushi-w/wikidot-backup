@@ -1,0 +1,366 @@
+{
+    "name": "security-facility",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 42,
+            "global_revision": 1535205721,
+            "author": 7354732,
+            "stamp": 1761753147,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 41,
+            "global_revision": 1533691841,
+            "author": 7354732,
+            "stamp": 1761489780,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1533543862,
+            "author": 7354732,
+            "stamp": 1761447047,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1368023956,
+            "author": 5713128,
+            "stamp": 1628834795,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1366832964,
+            "author": 6445729,
+            "stamp": 1625315960,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1359642618,
+            "author": 6083676,
+            "stamp": 1612679385,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 原创, 管理。"
+        },
+        {
+            "revision": 36,
+            "global_revision": 1358550669,
+            "author": 5713128,
+            "stamp": 1608344051,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1358336770,
+            "author": 6445729,
+            "stamp": 1607589648,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1358336765,
+            "author": 6445729,
+            "stamp": 1607589613,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 33,
+            "global_revision": 1358336755,
+            "author": 6445729,
+            "stamp": 1607589582,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1358336749,
+            "author": 6445729,
+            "stamp": 1607589541,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1358336732,
+            "author": 6445729,
+            "stamp": 1607589471,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1356051401,
+            "author": 5713128,
+            "stamp": 1600960772,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1356016546,
+            "author": 6272073,
+            "stamp": 1600855513,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1318537956,
+            "author": 5713128,
+            "stamp": 1598539136,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1318534053,
+            "author": 6336969,
+            "stamp": 1598525628,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1318517202,
+            "author": 6336969,
+            "stamp": 1598456822,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1318517191,
+            "author": 6336969,
+            "stamp": 1598456801,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1191804092,
+            "author": 5713128,
+            "stamp": 1591424026,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1096503997,
+            "author": 5713128,
+            "stamp": 1590069407,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1047285812,
+            "author": 5713128,
+            "stamp": 1582982777,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1033463496,
+            "author": 5713128,
+            "stamp": 1577280410,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1033463093,
+            "author": 5713128,
+            "stamp": 1577277514,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1033463034,
+            "author": 5713128,
+            "stamp": 1577277169,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1033459130,
+            "author": 5910365,
+            "stamp": 1577255948,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1033459126,
+            "author": 5910365,
+            "stamp": 1577255902,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1033444891,
+            "author": 5910365,
+            "stamp": 1577195017,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1033444859,
+            "author": 5910365,
+            "stamp": 1577194943,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1033444654,
+            "author": 5910365,
+            "stamp": 1577194404,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1033440618,
+            "author": 5910365,
+            "stamp": 1577182387,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1033373821,
+            "author": 5713128,
+            "stamp": 1576936600,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1033311431,
+            "author": 5713128,
+            "stamp": 1576764365,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1033311413,
+            "author": 5713128,
+            "stamp": 1576764271,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1033309062,
+            "author": 5713128,
+            "stamp": 1576750385,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1033309059,
+            "author": 5713128,
+            "stamp": 1576750364,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1033259955,
+            "author": 5713128,
+            "stamp": 1576676404,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1033259929,
+            "author": 5713128,
+            "stamp": 1576676072,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1009613455,
+            "author": 5713128,
+            "stamp": 1575898054,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1005628463,
+            "author": 5713128,
+            "stamp": 1575808166,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 987071935,
+            "author": 5713128,
+            "stamp": 1574950882,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 986623759,
+            "author": 5713128,
+            "stamp": 1574862421,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 986623291,
+            "author": 5713128,
+            "stamp": 1574860470,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 986622928,
+            "author": 5713128,
+            "stamp": 1574858281,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 939305216,
+    "tags": [
+        "中心",
+        "原创",
+        "管理"
+    ],
+    "title": "安保设施",
+    "sitemap_update": 1761753147000,
+    "votings": [
+        [
+            7198635,
+            true
+        ]
+    ],
+    "is_locked": false
+}

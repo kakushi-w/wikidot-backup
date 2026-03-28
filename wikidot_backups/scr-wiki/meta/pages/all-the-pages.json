@@ -1,0 +1,48 @@
+{
+    "name": "all-the-pages",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1379746036,
+            "author": 5713128,
+            "stamp": 1632995924,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1379746030,
+            "author": 5713128,
+            "stamp": 1632995906,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1215023283,
+            "author": 5713128,
+            "stamp": 1592667430,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 管理。 移除标签：scr, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1215023280,
+            "author": 5713128,
+            "stamp": 1592667415,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1165101455,
+    "tags": [
+        "中心",
+        "管理"
+    ],
+    "title": "所有页面",
+    "sitemap_update": 1632995924000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,70 @@
+{
+    "name": "iteration:the-past-today-tomorrow",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1505638713,
+            "author": 8318867,
+            "stamp": 1672577098,
+            "flags": "A",
+            "commentary": "已新增标签：2022征文竞赛, 原创, 血月。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1505638222,
+            "author": 8318867,
+            "stamp": 1672575186,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"iteration-failures:the-past-today-tomorrow\" 至 \"iteration:the-past-today-tomorrow\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1505638131,
+            "author": 8318867,
+            "stamp": 1672574749,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1505638129,
+            "author": 8318867,
+            "stamp": 1672574738,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1444781905,
+    "forum_thread": 15757265,
+    "tags": [
+        "2022征文竞赛",
+        "原创",
+        "血月"
+    ],
+    "sitemap_update": 1672577098000,
+    "votings": [
+        [
+            5713128,
+            true
+        ],
+        [
+            8039119,
+            true
+        ],
+        [
+            8411782,
+            true
+        ],
+        [
+            8413423,
+            true
+        ],
+        [
+            5686104,
+            true
+        ]
+    ],
+    "is_locked": false
+}

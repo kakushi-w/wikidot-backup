@@ -1,0 +1,148 @@
+{
+    "name": "scr-077",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1367401810,
+            "author": 6272073,
+            "stamp": 1628043086,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1367401807,
+            "author": 6272073,
+            "stamp": 1628043071,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1367305832,
+            "author": 5713128,
+            "stamp": 1627613145,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1367264835,
+            "author": 6272073,
+            "stamp": 1627449725,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1356045107,
+            "author": 6445729,
+            "stamp": 1600936975,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1349314630,
+            "author": 5933895,
+            "stamp": 1600090344,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1311490499,
+            "author": 6272073,
+            "stamp": 1597807619,
+            "flags": "A",
+            "commentary": "已新增标签：气候。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1311490420,
+            "author": 6272073,
+            "stamp": 1597807063,
+            "flags": "A",
+            "commentary": "已新增标签：攻击性, 智能。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1311490385,
+            "author": 6272073,
+            "stamp": 1597806900,
+            "flags": "A",
+            "commentary": "已新增标签：人形生物, 温度。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1311274325,
+            "author": 5933895,
+            "stamp": 1597055789,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1311273224,
+            "author": 6272073,
+            "stamp": 1597050956,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1311273205,
+            "author": 6272073,
+            "stamp": 1597050817,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1311266238,
+            "author": 6272073,
+            "stamp": 1597018595,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1260742243,
+    "rating": 5,
+    "forum_thread": 13637055,
+    "tags": [
+        "scr",
+        "人形生物",
+        "原创",
+        "攻击性",
+        "智能",
+        "气候",
+        "温度"
+    ],
+    "title": "SCR-077",
+    "sitemap_update": 1628043086000,
+    "votings": [
+        [
+            7332710,
+            true
+        ],
+        [
+            6336969,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            6818166,
+            true
+        ],
+        [
+            5933895,
+            true
+        ]
+    ],
+    "is_locked": false
+}

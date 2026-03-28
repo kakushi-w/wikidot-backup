@@ -1,0 +1,87 @@
+{
+    "title": "又一个文档",
+    "id": 14012564,
+    "description": "这里面[[[http://scp-wiki-cn.wikidot.com/scp-3072|有点联动]]]，请问这允许吗?",
+    "last": 1615615994,
+    "lastUser": 5686104,
+    "started": 1614402309,
+    "startedUser": 5686104,
+    "postsNum": 6,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4919100,
+            "title": "Re: 又一个文档",
+            "poster": 6272073,
+            "stamp": 1615099867,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 4924529,
+                    "title": "Re: 又一个文档",
+                    "poster": 5686104,
+                    "stamp": 1615615994,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 4918112,
+            "title": "Re: 又一个文档",
+            "poster": 6272073,
+            "stamp": 1615010918,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 4919062,
+                    "title": "Re: 又一个文档",
+                    "poster": 5686104,
+                    "stamp": 1615095513,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 4919064,
+                            "title": "Re: 又一个文档",
+                            "poster": 5686104,
+                            "stamp": 1615095566,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4911654,
+            "title": "又一个文档",
+            "poster": 5686104,
+            "stamp": 1614402309,
+            "lastEdit": 1614477911,
+            "lastEditBy": 5686104,
+            "revisions": [
+                {
+                    "title": "又一个文档",
+                    "author": 5686104,
+                    "id": 5949441,
+                    "stamp": 1614477911
+                },
+                {
+                    "title": "又一个文档",
+                    "author": 5686104,
+                    "id": 5948850,
+                    "stamp": 1614441590
+                },
+                {
+                    "title": "又一个文档",
+                    "author": 5686104,
+                    "id": 5948269,
+                    "stamp": 1614402309
+                }
+            ],
+            "children": []
+        }
+    ]
+}

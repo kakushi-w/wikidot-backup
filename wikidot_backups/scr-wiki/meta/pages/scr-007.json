@@ -1,0 +1,65 @@
+{
+    "name": "scr-007",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1496132031,
+            "author": 5686104,
+            "stamp": 1665142605,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1496126813,
+            "author": 5686104,
+            "stamp": 1665123378,
+            "flags": "A",
+            "commentary": "已新增标签：scr, site-09, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1496126798,
+            "author": 5686104,
+            "stamp": 1665123340,
+            "flags": "A",
+            "commentary": "已新增标签：light。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1496126786,
+            "author": 5686104,
+            "stamp": 1665123266,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1436321428,
+    "rating": 3,
+    "forum_thread": 15277156,
+    "tags": [
+        "light",
+        "scr",
+        "site-09",
+        "原创"
+    ],
+    "title": "SCR-007",
+    "sitemap_update": 1665142605000,
+    "votings": [
+        [
+            5713128,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            6272073,
+            true
+        ]
+    ],
+    "is_locked": false
+}

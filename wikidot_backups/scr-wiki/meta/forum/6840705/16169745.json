@@ -1,0 +1,23 @@
+{
+    "title": "你好，收件人！",
+    "id": 16169745,
+    "description": "",
+    "last": 1689487970,
+    "lastUser": 8234565,
+    "started": 1689487914,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6151227,
+            "title": "我代表SCR审核",
+            "poster": 8234565,
+            "stamp": 1689487970,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

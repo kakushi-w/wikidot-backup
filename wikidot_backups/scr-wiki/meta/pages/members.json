@@ -1,0 +1,69 @@
+{
+    "name": "members",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1359631348,
+            "author": 6083676,
+            "stamp": 1612622154,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1357170419,
+            "author": 5713128,
+            "stamp": 1603623827,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1357132133,
+            "author": 6445729,
+            "stamp": 1603509092,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1178273844,
+            "author": 5713128,
+            "stamp": 1590758336,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"corporation-clerk\" 至 \"members\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1011240496,
+            "author": 5713128,
+            "stamp": 1576243087,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1011230398,
+            "author": 5713128,
+            "stamp": 1576243005,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 963787179,
+    "forum_thread": 13994105,
+    "tags": [
+        "管理"
+    ],
+    "title": "成员名单",
+    "sitemap_update": 1612622154000,
+    "votings": [
+        [
+            7642233,
+            true
+        ]
+    ],
+    "is_locked": true
+}

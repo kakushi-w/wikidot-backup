@@ -1,0 +1,20 @@
+{
+    "name": "component:dark-theme",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 1311511433,
+            "author": 6173149,
+            "stamp": 1597888173,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1260867853,
+    "title": "暗色主题调色板",
+    "sitemap_update": 1597888173000,
+    "votings": [],
+    "is_locked": true
+}

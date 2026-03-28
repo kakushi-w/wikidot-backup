@@ -1,0 +1,28 @@
+{
+    "name": "search:wikit",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1538386896,
+            "author": 7354732,
+            "stamp": 1762275100,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1538359265,
+            "author": 7354732,
+            "stamp": 1762270635,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1465768534,
+    "title": "搜索",
+    "sitemap_update": 1762275100000,
+    "votings": [],
+    "is_locked": true
+}

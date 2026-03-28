@@ -1,0 +1,79 @@
+{
+    "name": "deletions-guide",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1359631225,
+            "author": 6083676,
+            "stamp": 1612621593,
+            "flags": "A",
+            "commentary": "已新增标签：指导。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1224212632,
+            "author": 5713128,
+            "stamp": 1594470678,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1224212434,
+            "author": 5713128,
+            "stamp": 1594470073,
+            "flags": "S T",
+            "commentary": "您已成功地回复本页至修订版本编号 3"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1224212427,
+            "author": 5713128,
+            "stamp": 1594470046,
+            "flags": "S T",
+            "commentary": "您已成功地回复本页至修订版本编号 0"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1190461654,
+            "author": 5713128,
+            "stamp": 1591376261,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1178202190,
+            "author": 5713128,
+            "stamp": 1590757734,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1089673442,
+            "author": 5713128,
+            "stamp": 1589809717,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1089669902,
+            "author": 5713128,
+            "stamp": 1589809642,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1040203608,
+    "tags": [
+        "指导"
+    ],
+    "title": "删除指导",
+    "sitemap_update": 1612621593000,
+    "votings": [],
+    "is_locked": false
+}

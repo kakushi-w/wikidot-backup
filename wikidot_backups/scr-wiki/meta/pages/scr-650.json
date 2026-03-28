@@ -1,0 +1,141 @@
+{
+    "name": "scr-650",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1379471450,
+            "author": 7198635,
+            "stamp": 1632044305,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1379471442,
+            "author": 7198635,
+            "stamp": 1632044218,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1379471438,
+            "author": 7198635,
+            "stamp": 1632044174,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1379471433,
+            "author": 7198635,
+            "stamp": 1632044141,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1366420940,
+            "author": 7198635,
+            "stamp": 1623540768,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1366398110,
+            "author": 7198635,
+            "stamp": 1623419270,
+            "flags": "A",
+            "commentary": "已新增标签：ippro, scr, tuker, 不可摧毁, 原创, 攻击性, 自我修复, 雕塑。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1366081356,
+            "author": 7198635,
+            "stamp": 1622296094,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1366081288,
+            "author": 7198635,
+            "stamp": 1622295619,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1366081172,
+            "author": 7198635,
+            "stamp": 1622294766,
+            "flags": "A",
+            "commentary": "已新增标签：自我修复。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1366081166,
+            "author": 7198635,
+            "stamp": 1622294742,
+            "flags": "A",
+            "commentary": "已新增标签：不可摧毁。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1366081164,
+            "author": 7198635,
+            "stamp": 1622294730,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1366081130,
+            "author": 7198635,
+            "stamp": 1622294493,
+            "flags": "A",
+            "commentary": "已新增标签：ippro, scr, tuker, 原创, 攻击性, 雕塑。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1366081122,
+            "author": 7198635,
+            "stamp": 1622294440,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1311873613,
+    "rating": 3,
+    "forum_thread": 14109548,
+    "tags": [
+        "ippro",
+        "scr",
+        "tuker",
+        "不可摧毁",
+        "原创",
+        "攻击性",
+        "自我修复",
+        "雕塑"
+    ],
+    "title": "SCR-650",
+    "sitemap_update": 1632044305000,
+    "votings": [
+        [
+            7332710,
+            true
+        ],
+        [
+            6449508,
+            true
+        ],
+        [
+            5686104,
+            true
+        ]
+    ],
+    "is_locked": true
+}

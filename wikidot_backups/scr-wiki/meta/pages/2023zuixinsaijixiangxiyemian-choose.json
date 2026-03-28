@@ -1,0 +1,32 @@
+{
+    "name": "2023zuixinsaijixiangxiyemian-choose",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1511941217,
+            "author": 8096210,
+            "stamp": 1688565692,
+            "flags": "A",
+            "commentary": "已新增标签：2023年写作比赛。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1511941202,
+            "author": 8096210,
+            "stamp": 1688565660,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1448851021,
+    "forum_thread": 16123538,
+    "tags": [
+        "2023年写作比赛"
+    ],
+    "title": "2023年写作比赛预览页面",
+    "sitemap_update": 1688565692000,
+    "votings": [],
+    "is_locked": true
+}

@@ -1,0 +1,49 @@
+{
+    "name": "component:site",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1033259896,
+            "author": 5713128,
+            "stamp": 1576675810,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1033259890,
+            "author": 5713128,
+            "stamp": 1576675771,
+            "flags": "F",
+            "commentary": "已上传文件 “facility-texture.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033259884,
+            "author": 5713128,
+            "stamp": 1576675750,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 8903844,
+            "name": "facility-texture.png",
+            "url": "http://scr-wiki.wikidot.com/local--files/component:site/facility-texture.png",
+            "size": "1.63 kB (1670 Bytes)",
+            "size_bytes": 1670,
+            "mime": "image/png",
+            "content": "PNG image data, 30 x 18, 8-bit/color RGBA, non-interlaced",
+            "author": 5713128,
+            "stamp": 1576675771,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 985777107,
+    "title": "component:site",
+    "sitemap_update": 1576675810000,
+    "votings": [],
+    "is_locked": true
+}

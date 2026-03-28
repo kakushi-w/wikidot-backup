@@ -1,0 +1,20 @@
+{
+    "name": "admin:themes",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 986411501,
+            "author": 5713128,
+            "stamp": 1574602421,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 939116693,
+    "title": "Customize your theme",
+    "sitemap_update": 1574602421000,
+    "votings": [],
+    "is_locked": false
+}

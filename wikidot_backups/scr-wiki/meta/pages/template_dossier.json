@@ -1,0 +1,72 @@
+{
+    "name": "template:dossier",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1084275559,
+            "author": 5713128,
+            "stamp": 1588498363,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1033735015,
+            "author": 5713128,
+            "stamp": 1578404556,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1033617050,
+            "author": 5713128,
+            "stamp": 1577885523,
+            "flags": "A",
+            "commentary": "已新增标签：样版。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1033543070,
+            "author": 5713128,
+            "stamp": 1577625112,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1033542920,
+            "author": 5713128,
+            "stamp": 1577624528,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1033542911,
+            "author": 5713128,
+            "stamp": 1577624506,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"component:dossier\" 至 \"template:dossier\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033542889,
+            "author": 5713128,
+            "stamp": 1577624269,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 985965897,
+    "rating": 0,
+    "tags": [
+        "样版"
+    ],
+    "title": "原创文档模板",
+    "sitemap_update": 1588498363000,
+    "votings": [],
+    "is_locked": true
+}

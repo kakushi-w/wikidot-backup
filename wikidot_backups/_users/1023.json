@@ -10,5 +10,17 @@
         "activity": 5,
         "fetched_at": 1774404554605,
         "user_id": 8386863
+    },
+    "8388370": {
+        "full_name": "YBX-writer",
+        "username": "ybx-writer",
+        "real_name": "Y.B.X.",
+        "from": "前厅，宇宙，本星系群，银河系，太阳系，地球，中国，中国大陆，天津",
+        "website": "underrooms-wiki-cn.wikidot.com/",
+        "wikidot_user_since": 1670857080,
+        "account_type": "free",
+        "activity": 3,
+        "fetched_at": 1774705648902,
+        "user_id": 8388370
     }
 }

@@ -1,0 +1,60 @@
+{
+    "name": "component:login-module-base",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1256457195,
+            "author": 6173149,
+            "stamp": 1595240285,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1256455094,
+            "author": 6173149,
+            "stamp": 1595240210,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1256455024,
+            "author": 6173149,
+            "stamp": 1595240155,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1256454918,
+            "author": 6173149,
+            "stamp": 1595240120,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1096468756,
+            "author": 6173149,
+            "stamp": 1589978444,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1096468744,
+            "author": 6173149,
+            "stamp": 1589978411,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1046972886,
+    "title": "登入模板",
+    "sitemap_update": 1595240285000,
+    "votings": [],
+    "is_locked": true
+}

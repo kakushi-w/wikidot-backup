@@ -1,0 +1,120 @@
+{
+    "name": "card",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1532493584,
+            "author": 7354732,
+            "stamp": 1758904941,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1532493522,
+            "author": 7354732,
+            "stamp": 1758904587,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532429028,
+            "author": 7354732,
+            "stamp": 1758562922,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532340684,
+            "author": 7354732,
+            "stamp": 1758135681,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532340628,
+            "author": 7354732,
+            "stamp": 1758135570,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532340484,
+            "author": 7354732,
+            "stamp": 1758134595,
+            "flags": "F",
+            "commentary": "已上传文件 “cad-fag-down.png”。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532340448,
+            "author": 7354732,
+            "stamp": 1758134274,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532340367,
+            "author": 7354732,
+            "stamp": 1758133827,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532340296,
+            "author": 7354732,
+            "stamp": 1758133287,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532340128,
+            "author": 7354732,
+            "stamp": 1758132692,
+            "flags": "F",
+            "commentary": "已删除文件 “copyright.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532340127,
+            "author": 7354732,
+            "stamp": 1758132670,
+            "flags": "F",
+            "commentary": "已上传文件 “copyright.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532340088,
+            "author": 7354732,
+            "stamp": 1758132632,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11467100,
+            "name": "cad-fag-down.png",
+            "url": "http://scr-wiki.wikidot.com/local--files/card/cad-fag-down.png",
+            "size": "219.88 kB (225162 Bytes)",
+            "size_bytes": 225162,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1923x1279, components 3",
+            "author": 7354732,
+            "stamp": 1758134595,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460410006,
+    "sitemap_update": 1758904941000,
+    "votings": [],
+    "is_locked": true
+}

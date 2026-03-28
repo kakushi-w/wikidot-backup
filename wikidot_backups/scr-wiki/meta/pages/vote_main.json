@@ -1,0 +1,68 @@
+{
+    "name": "vote:main",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1532619204,
+            "author": 7354732,
+            "stamp": 1759477333,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532616936,
+            "author": 7354732,
+            "stamp": 1759468626,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532610077,
+            "author": 7354732,
+            "stamp": 1759435246,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532610073,
+            "author": 7354732,
+            "stamp": 1759435217,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532609869,
+            "author": 7354732,
+            "stamp": 1759434096,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"system:vote\" 至 \"vote:main\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532609818,
+            "author": 7354732,
+            "stamp": 1759434012,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532609378,
+            "author": 7354732,
+            "stamp": 1759432218,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460480172,
+    "title": "SCR公司写作计划社群投票页面",
+    "sitemap_update": 1759477333000,
+    "votings": [],
+    "is_locked": false
+}

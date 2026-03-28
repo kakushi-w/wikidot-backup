@@ -1,0 +1,77 @@
+{
+    "name": "fragment:hello-recipient-04",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1513379374,
+            "author": 8318867,
+            "stamp": 1693225639,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1513379323,
+            "author": 8318867,
+            "stamp": 1693225528,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1513379145,
+            "author": 8318867,
+            "stamp": 1693224842,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1513379099,
+            "author": 8318867,
+            "stamp": 1693224759,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1512246009,
+            "author": 8318867,
+            "stamp": 1689324217,
+            "flags": "M",
+            "commentary": "父页面设置为: \"hello-recipient\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1512246006,
+            "author": 8318867,
+            "stamp": 1689324206,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1512245948,
+            "author": 8318867,
+            "stamp": 1689324055,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1512245727,
+            "author": 8318867,
+            "stamp": 1689323192,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449035104,
+    "parent": "hello-recipient",
+    "title": "Hello Recipient 04",
+    "sitemap_update": 1693225639000,
+    "votings": [],
+    "is_locked": false
+}

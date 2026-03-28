@@ -1,0 +1,160 @@
+{
+    "name": "guide-hub",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 17,
+            "global_revision": 1388264592,
+            "author": 5713128,
+            "stamp": 1642388102,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1372941695,
+            "author": 5713128,
+            "stamp": 1629958196,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1372006385,
+            "author": 5713128,
+            "stamp": 1629694597,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“website-scr” 改为 “website-rules” 的自动更新。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1370043154,
+            "author": 5713128,
+            "stamp": 1629010374,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1370038242,
+            "author": 5713128,
+            "stamp": 1629010331,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1367997255,
+            "author": 5713128,
+            "stamp": 1628813550,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 10"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1367997254,
+            "author": 5713128,
+            "stamp": 1628813542,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1367996887,
+            "author": 5713128,
+            "stamp": 1628813246,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 8"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1367996833,
+            "author": 5713128,
+            "stamp": 1628813196,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1365903093,
+            "author": 5713128,
+            "stamp": 1621959205,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1364853333,
+            "author": 5713128,
+            "stamp": 1620040001,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1359631232,
+            "author": 6083676,
+            "stamp": 1612621613,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 指导。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1359556783,
+            "author": 5713128,
+            "stamp": 1612277223,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1224139727,
+            "author": 5713128,
+            "stamp": 1594132194,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1192353514,
+            "author": 5713128,
+            "stamp": 1591438687,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1178056503,
+            "author": 5713128,
+            "stamp": 1590756378,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1089824275,
+            "author": 5713128,
+            "stamp": 1589812149,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1089667262,
+            "author": 5713128,
+            "stamp": 1589809410,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1040200998,
+    "tags": [
+        "中心",
+        "指导"
+    ],
+    "title": "指导中心",
+    "sitemap_update": 1642388102000,
+    "votings": [],
+    "is_locked": false
+}

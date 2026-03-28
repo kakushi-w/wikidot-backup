@@ -1,0 +1,46 @@
+{
+    "title": "关于删文统计",
+    "id": 13923915,
+    "description": "",
+    "last": 1624163150,
+    "lastUser": 5713128,
+    "started": 1607786067,
+    "startedUser": 5713128,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4843100,
+            "title": "关于删文统计",
+            "poster": 5713128,
+            "stamp": 1607786067,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 5008859,
+            "title": "Re: 关于删文统计",
+            "poster": 5713128,
+            "stamp": 1624163150,
+            "lastEdit": 1643779472,
+            "lastEditBy": 5713128,
+            "revisions": [
+                {
+                    "title": "Re: 关于删文统计",
+                    "author": 5713128,
+                    "id": 6083580,
+                    "stamp": 1624163150
+                },
+                {
+                    "title": "Re: 关于删文统计",
+                    "author": 5713128,
+                    "id": 6332129,
+                    "stamp": 1643779472
+                }
+            ],
+            "children": []
+        }
+    ]
+}

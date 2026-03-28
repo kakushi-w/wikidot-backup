@@ -1,0 +1,52 @@
+{
+    "name": "module:admin-ann-frame",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532565537,
+            "author": 7354732,
+            "stamp": 1759257073,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532565505,
+            "author": 7354732,
+            "stamp": 1759256933,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532565498,
+            "author": 7354732,
+            "stamp": 1759256901,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532565488,
+            "author": 7354732,
+            "stamp": 1759256854,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532565451,
+            "author": 7354732,
+            "stamp": 1759256545,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460469969,
+    "title": "模板: 管理告示板",
+    "sitemap_update": 1759257073000,
+    "votings": [],
+    "is_locked": true
+}

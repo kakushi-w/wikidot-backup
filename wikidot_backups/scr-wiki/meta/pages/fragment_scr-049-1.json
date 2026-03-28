@@ -1,0 +1,66 @@
+{
+    "name": "fragment:scr-049-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1093899574,
+            "author": 6173149,
+            "stamp": 1589885498,
+            "flags": "M",
+            "commentary": "父页面设置为: \"scr-049\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1093899565,
+            "author": 6173149,
+            "stamp": 1589885473,
+            "flags": "F",
+            "commentary": "已上传文件 “a”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1093899477,
+            "author": 6173149,
+            "stamp": 1589885411,
+            "flags": "A",
+            "commentary": "移除标签： scr, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1093899473,
+            "author": 6173149,
+            "stamp": 1589885404,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1093899422,
+            "author": 6173149,
+            "stamp": 1589885384,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9080120,
+            "name": "a",
+            "url": "http://scr-wiki.wikidot.com/local--files/fragment:scr-049-1/a",
+            "size": "31.8 kB (32562 Bytes)",
+            "size_bytes": 32562,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01",
+            "author": 6173149,
+            "stamp": 1589885473,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1044420056,
+    "parent": "scr-049",
+    "title": "fragment:scr-049-1",
+    "sitemap_update": 1589885498000,
+    "votings": [],
+    "is_locked": false
+}

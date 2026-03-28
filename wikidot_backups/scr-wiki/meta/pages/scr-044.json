@@ -1,0 +1,32 @@
+{
+    "name": "scr-044",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1359631301,
+            "author": 6083676,
+            "stamp": 1612621883,
+            "flags": "A",
+            "commentary": "已新增标签：scr, 已锁定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033856553,
+            "author": 5334883,
+            "stamp": 1578829097,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 986148088,
+    "tags": [
+        "scr",
+        "已锁定"
+    ],
+    "title": "SCR-044",
+    "sitemap_update": 1612621883000,
+    "votings": [],
+    "is_locked": true
+}

@@ -1,0 +1,36 @@
+{
+    "name": "iteration-failures:the-past-today-tomorrow-offset-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1505545430,
+            "author": 8318867,
+            "stamp": 1672369722,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"iteration-failures:the-past-today-tomorrow-1\" 至 \"iteration-failures:the-past-today-tomorrow-offset-1\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1505450779,
+            "author": 8318867,
+            "stamp": 1672109349,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1505450653,
+            "author": 8318867,
+            "stamp": 1672108915,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1444665736,
+    "title": "文件CI-血月",
+    "sitemap_update": 1672369722000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,32 @@
+{
+    "title": "一个想法",
+    "id": 14091565,
+    "description": "关于公司内部部门",
+    "last": 1620831404,
+    "lastUser": 5713128,
+    "started": 1620451397,
+    "startedUser": 5686104,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4973993,
+            "title": "一个想法",
+            "poster": 5686104,
+            "stamp": 1620451397,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 4977541,
+                    "title": "Re: 一个想法",
+                    "poster": 5713128,
+                    "stamp": 1620831404,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

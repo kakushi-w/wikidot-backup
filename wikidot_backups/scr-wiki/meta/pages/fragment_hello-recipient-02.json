@@ -1,0 +1,29 @@
+{
+    "name": "fragment:hello-recipient-02",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1512245591,
+            "author": 8318867,
+            "stamp": 1689322675,
+            "flags": "M",
+            "commentary": "父页面设置为: \"hello-recipient\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1512245582,
+            "author": 8318867,
+            "stamp": 1689322641,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449035054,
+    "parent": "hello-recipient",
+    "title": "Hello Recipient 02",
+    "sitemap_update": 1689322675000,
+    "votings": [],
+    "is_locked": false
+}

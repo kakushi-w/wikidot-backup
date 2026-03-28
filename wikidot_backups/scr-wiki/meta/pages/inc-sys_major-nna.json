@@ -1,0 +1,77 @@
+{
+    "name": "inc-sys:major-nna",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1539964080,
+            "author": 1899481,
+            "stamp": 1764255992,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539963981,
+            "author": 1899481,
+            "stamp": 1764255737,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532940175,
+            "author": 8318867,
+            "stamp": 1760175603,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532940087,
+            "author": 8318867,
+            "stamp": 1760175248,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532940082,
+            "author": 8318867,
+            "stamp": 1760175206,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532224413,
+            "author": 7354732,
+            "stamp": 1757526551,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532222155,
+            "author": 7354732,
+            "stamp": 1757517172,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"major\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532222150,
+            "author": 7354732,
+            "stamp": 1757517142,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460373948,
+    "parent": "major",
+    "title": "主页/新闻 & 公告",
+    "sitemap_update": 1764255992000,
+    "votings": [],
+    "is_locked": false
+}

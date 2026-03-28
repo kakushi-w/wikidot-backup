@@ -1,0 +1,36 @@
+{
+    "name": "random:random-scr",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1033510154,
+            "author": 5713128,
+            "stamp": 1577455824,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1033510020,
+            "author": 5713128,
+            "stamp": 1577454688,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033509995,
+            "author": 5713128,
+            "stamp": 1577454505,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 985951196,
+    "title": "随机SCR",
+    "sitemap_update": 1577455824000,
+    "votings": [],
+    "is_locked": true
+}

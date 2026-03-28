@@ -1,0 +1,73 @@
+{
+    "name": "story",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1089593743,
+            "author": 6173149,
+            "stamp": 1589616887,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1073706970,
+            "author": 5713128,
+            "stamp": 1587099550,
+            "flags": "A",
+            "commentary": "已新增标签：故事页面。 移除标签： 故事。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1073706910,
+            "author": 5713128,
+            "stamp": 1587099500,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1073706410,
+            "author": 5713128,
+            "stamp": 1587099108,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1073706357,
+            "author": 5713128,
+            "stamp": 1587099083,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073706352,
+            "author": 5713128,
+            "stamp": 1587099067,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1024712030,
+    "tags": [
+        "中心",
+        "故事页面"
+    ],
+    "title": "故事",
+    "sitemap_update": 1589616887000,
+    "votings": [
+        [
+            7332710,
+            true
+        ],
+        [
+            7198635,
+            true
+        ]
+    ],
+    "is_locked": false
+}
