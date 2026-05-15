@@ -3,6 +3,30 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 25,
+            "global_revision": 1543192513,
+            "author": 7354732,
+            "stamp": 1775670236,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1543192488,
+            "author": 7354732,
+            "stamp": 1775670095,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1543192483,
+            "author": 7354732,
+            "stamp": 1775670067,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
             "revision": 22,
             "global_revision": 1539932823,
             "author": 7354732,
@@ -226,7 +250,7 @@
         }
     ],
     "page_id": 1460386229,
-    "sitemap_update": 1764181798000,
     "votings": [],
+    "sitemap_update": 1775670236000,
     "is_locked": true
 }

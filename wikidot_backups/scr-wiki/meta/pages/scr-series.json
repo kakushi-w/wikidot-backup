@@ -3,6 +3,22 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 141,
+            "global_revision": 1543782935,
+            "author": 7865818,
+            "stamp": 1778166060,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 140,
+            "global_revision": 1543607676,
+            "author": 7865818,
+            "stamp": 1777426710,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
             "revision": 139,
             "global_revision": 1532673161,
             "author": 5933895,
@@ -1125,13 +1141,6 @@
     ],
     "files": [],
     "page_id": 939305660,
-    "forum_thread": 14143133,
-    "tags": [
-        "中心",
-        "原创"
-    ],
-    "title": "SCR系列",
-    "sitemap_update": 1759605651000,
     "votings": [
         [
             6336969,
@@ -1142,5 +1151,12 @@
             true
         ]
     ],
+    "forum_thread": 14143133,
+    "tags": [
+        "中心",
+        "原创"
+    ],
+    "title": "SCR系列",
+    "sitemap_update": 1778166060000,
     "is_locked": false
 }

@@ -3,6 +3,14 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 384,
+            "global_revision": 1543193114,
+            "author": 7354732,
+            "stamp": 1775672088,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
             "revision": 383,
             "global_revision": 1540597467,
             "author": 7354732,
@@ -3150,14 +3158,6 @@
         }
     ],
     "page_id": 939116708,
-    "forum_thread": 12855104,
-    "tags": [
-        "中心",
-        "主页",
-        "管理"
-    ],
-    "title": "主页",
-    "sitemap_update": 1765612927000,
     "votings": [
         [
             6467809,
@@ -3224,5 +3224,13 @@
             true
         ]
     ],
+    "forum_thread": 12855104,
+    "tags": [
+        "中心",
+        "主页",
+        "管理"
+    ],
+    "title": "主页",
+    "sitemap_update": 1775672088000,
     "is_locked": true
 }
